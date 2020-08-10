@@ -12,4 +12,10 @@ main.get('/seed', (req, res) => {
   })
 })
 
+main.get('/api/test', (req, res) => {
+  Episode.find({}, (error, data) => {
+    return error ? res.send(error) : res.json(data)
+  })
+})
+
 module.exports = main
