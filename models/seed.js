@@ -6,7 +6,8 @@ module.exports = [
     },
     youtube: {
       title: 'Joe Rogan Experience #1522 - Rob Lowe', 
-      duration: '02:52:11'
+      duration: '02:52:11',
+      link: 'https://www.youtube.com/watch?v=pw8dkF-jotk&t=1243s'
     },
     guests: ['Rob Lowe'],
     description: "Rob Lowe is an actor, producer, and director. His new podcast \"Literally! with Rob Lowe\" is now available on Apple Podcasts. ",
@@ -20,7 +21,8 @@ module.exports = [
     },
     youtube: {
       title: 'Joe Rogan Experience #1518 - David Choe', 
-      duration: '03:51:39'
+      duration: '03:51:39',
+      link: 'https://www.youtube.com/watch?v=j7T6__UbhBI'
     },
     guests: ['David Choe'],
     description: "David Choe is an American painter, muralist, explorer, adventurer, podcaster, graffiti artist and graphic novelist from Los Angeles, CA.",

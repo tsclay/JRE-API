@@ -4,12 +4,13 @@ const {Schema} = mongoose
 
 const episodeSchema = new Schema({
   podcast: {
-    title: {type: String}, 
-    duration: {type: String}
+    title: String, 
+    duration: String
   },
   youtube: {
-    title: {type: String}, 
-    duration: {type: String}
+    title: String, 
+    duration: String,
+    link: String
   },
   guests: [String],
   episode_id: Number,
