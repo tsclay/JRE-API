@@ -8,6 +8,10 @@ const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/jre-ap
 
 const app = express()
 
+const mainController = require('./controllers/main')
+
+app.use(mainController)
+
 mongoose.connect(
   MONGODB_URI,
   {
