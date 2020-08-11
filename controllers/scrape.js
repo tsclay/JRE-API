@@ -3,12 +3,13 @@ const moment = require('moment')
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const express = require('express')
+const { filter } = require('../models/seed')
 
 const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
 // const matchID = /#\d*(?=\s)/g
-const matchID = /#[a-z].*|#\d*(?=\s)/i
+const matchID = /#[a-z].*|#\d*[a-z]?(?=\s)/ig
 const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
 const descMatch = /[A-Z].*(?=)/ig
 
@@ -28,11 +29,12 @@ const getGuests = (data) => {
 
 const getEpisodeID = (data) => {
   // console.log('getEpisodeID input', data)
-  const secondFilter = /\d.*/g
+  // const secondFilter = /\d.*/g
   let filtered = data.match(matchID)
   // filtered = filtered[0].match(secondFilter)
   // console.log('getEpisodeID output', filtered)
-  return filtered
+  // return filtered.length > 1 ? filtered[1] : filtered[0]
+  return filtered[0]
 }
 
 scraper.get('/scrape', async (req, res) => {
