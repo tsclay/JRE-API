@@ -8,7 +8,6 @@ const { filter } = require('../models/seed')
 const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
-// const matchID = /#\d*(?=\s)/g
 const matchID = /#[a-z].*|#\d*[a-z]?(?=\s)/ig
 const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
 const descMatch = /[A-Z].*(?=)/ig
@@ -24,7 +23,7 @@ const getCorrectDates = (dateString) => {
 const getGuests = (data) => {
   // console.log('getGuests input', data)
   // console.log('getGuests output', data.match(guestMatch))
-  return data.match(guestMatch)
+  return data.match(guestMatch)[0]
 }
 
 const getEpisodeID = (data) => {
@@ -65,13 +64,6 @@ scraper.get('/scrape', async (req, res) => {
   
       const $ = cheerio.load(body)
 
-      $('div.episode').each(function(j, elem) {
-        // if (j === 3) console.log($(elem).text())
-        
-        // console.log(j)
-        // console.log('THIS IS GET EPISODE', getEpisodeID($(elem).text()))
-      })
-
       // console.log($('div.main').html())
 
       $('div.episode').each(function(j, elem) {
@@ -83,7 +75,7 @@ scraper.get('/scrape', async (req, res) => {
 
         goods[j + pageFactor] = {
           // podcast: {title: `#${getEpisodeID(raw)} - ${getGuests(raw)}`},
-          // guests: getGuests(raw),
+          guests: getGuests(raw),
           episode_id: getEpisodeID(raw),
           // date: getCorrectDates(raw.match(matchDate).join('')),
           // raw: raw
