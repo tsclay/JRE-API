@@ -11,6 +11,7 @@
   "main": "server.js",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "eslint": "^7.6.0",
     "moment": "^2.27.0",
     "node-fetch": "^2.6.0"
   }

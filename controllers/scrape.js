@@ -7,63 +7,99 @@ const express = require('express')
 const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
-const matchID = /#\d*(?=\s)/
-const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/i
-const descMatch = /[A-Z].*(?=)/i
+const matchID = /#\d*(?=\s)/g
+const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
+const descMatch = /[A-Z].*(?=)/ig
 
 const getCorrectDates = (dateString) => {
+  // console.log('getCorrectDates input', dateString)
   let episodeDate = new Date(dateString)
   episodeDate = moment(episodeDate).format('MMMM D, YYYY')
+  // console.log('getCorrectDates output', episodeDate)
   return episodeDate
 }
 
 const getGuests = (data) => {
+  // console.log('getGuests input', data)
+  // console.log('getGuests output', data.match(guestMatch))
   return data.match(guestMatch)
 }
 
 const getEpisodeID = (data) => {
+  // console.log('getEpisodeID input', data)
   const secondFilter = /\d.*/g
   let filtered = data.match(matchID)
   filtered = filtered[0].match(secondFilter)
+  // console.log('getEpisodeID output', filtered)
   return parseInt(filtered)
 }
 
 scraper.get('/scrape', async (req, res) => {
   try {
-    const podcasts = await fetch('http://podcasts.joerogan.net/')
-    const body = await podcasts.text()
+    let podcasts = await fetch('http://podcasts.joerogan.net/')
+    let body = await podcasts.text()
+
+    const $first = cheerio.load(body)
+
+    const pagination = $first('a.page-numbers', 'ul.page-numbers')
+    const pageTotal = parseInt(pagination.eq(pagination.length - 2).text())
 
     const goods = []
-    const $ = cheerio.load(body)
+    let pageFactor = 0;
 
-
-    // $('a.page-numbers').each(function(i, elem) {
-    //   console.log(`page number ${i}`, $(this).text())
-    // })
-    const first = $('a.page-numbers', 'ul.page-numbers')
-    console.log(first.children())
-
-    $('.episode', '.main').each(function(i, elem) {
-      const raw = $(this).text()
-
-      // console.log('THIS IS GET EPISODE', getEpisodeID(raw))
-
-      goods[i] = {
-        guests: getGuests(raw),
-        episode_id: getEpisodeID(raw),
-        date: getCorrectDates(raw.match(matchDate).join(''))
+    for (let i = 25; i <= 25; i++) {
+      if (i === 1) {
+        podcasts = await fetch('http://podcasts.joerogan.net/')
+      } else {
+        podcasts = await fetch(`http://podcasts.joerogan.net/podcasts/page/${i}?load`)
       }
-    })
+    
+      console.log('this is the podcast url', podcasts.url)
+      
+      body = await podcasts.text()
 
-    $('.podcast-content').each(function(i, elem) {
-      const raw = $(this).text()
+      // console.log('this is the body', body)
+  
+      const $ = cheerio.load(body)
 
-      goods[i].description = raw.match(descMatch)
-    })
+      $('div.episode').each(function(j, elem) {
+        // if (j === 3) console.log($(elem).text())
+        
+        // console.log(j)
+        // console.log('THIS IS GET EPISODE', getEpisodeID($(elem).text()))
+      })
+
+      // console.log($('div.main').html())
+
+      $('div.episode').each(function(j, elem) {
+        const raw = $(elem).text()
+        // console.log('THIS IS GET EPISODE', getEpisodeID(raw))
+        console.log('raw output', raw)
+        // console.log('elem output', $(elem).text())
+        // console.log('this is j with pageFactor', j + pageFactor)
+
+        // goods[j + pageFactor] = {
+          // podcast: {title: `#${getEpisodeID(raw)} - ${getGuests(raw)}`},
+          // guests: getGuests(raw),
+          // episode_id: getEpisodeID(raw),
+          // date: getCorrectDates(raw.match(matchDate).join('')),
+          // raw: raw
+        // }
+      })
+
+      // console.log('podcast-content', $('.podcast-content'))
+
+      // $('.podcast-details').each(function(j, elem) {
+      //   const raw = $(this).text()
+        // console.log(raw);
+        // goods[j + pageFactor].description = raw.match(descMatch).join('')
+      // })
+      pageFactor += 10
+    }
 
     res.send(goods)
   } catch (error) {
-    res.json(error)
+    res.send(error)
   }
 })
 
