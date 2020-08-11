@@ -8,5 +8,10 @@
     "mongoose": "^5.9.28",
     "nodemon": "^2.0.4"
   },
-  "main": "server.js"
+  "main": "server.js",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0"
+  }
 }

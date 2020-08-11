@@ -10,8 +10,10 @@ const app = express()
 app.use(express.json())
 
 const mainController = require('./controllers/main')
+const scraper = require('./controllers/scrape')
 
 app.use(mainController)
+app.use(scraper)
 
 mongoose.connect(
   MONGODB_URI,
