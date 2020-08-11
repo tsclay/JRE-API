@@ -7,7 +7,8 @@ const express = require('express')
 const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
-const matchID = /#\d*(?=\s)/g
+// const matchID = /#\d*(?=\s)/g
+const matchID = /#[a-z].*|#\d*(?=\s)/i
 const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
 const descMatch = /[A-Z].*(?=)/ig
 
@@ -29,9 +30,9 @@ const getEpisodeID = (data) => {
   // console.log('getEpisodeID input', data)
   const secondFilter = /\d.*/g
   let filtered = data.match(matchID)
-  filtered = filtered[0].match(secondFilter)
+  // filtered = filtered[0].match(secondFilter)
   // console.log('getEpisodeID output', filtered)
-  return parseInt(filtered)
+  return filtered
 }
 
 scraper.get('/scrape', async (req, res) => {
@@ -47,7 +48,7 @@ scraper.get('/scrape', async (req, res) => {
     const goods = []
     let pageFactor = 0;
 
-    for (let i = 25; i <= 25; i++) {
+    for (let i = 1; i <= pageTotal; i++) {
       if (i === 1) {
         podcasts = await fetch('http://podcasts.joerogan.net/')
       } else {
@@ -74,17 +75,17 @@ scraper.get('/scrape', async (req, res) => {
       $('div.episode').each(function(j, elem) {
         const raw = $(elem).text()
         // console.log('THIS IS GET EPISODE', getEpisodeID(raw))
-        console.log('raw output', raw)
+        // console.log('raw output', raw)
         // console.log('elem output', $(elem).text())
         // console.log('this is j with pageFactor', j + pageFactor)
 
-        // goods[j + pageFactor] = {
+        goods[j + pageFactor] = {
           // podcast: {title: `#${getEpisodeID(raw)} - ${getGuests(raw)}`},
           // guests: getGuests(raw),
-          // episode_id: getEpisodeID(raw),
+          episode_id: getEpisodeID(raw),
           // date: getCorrectDates(raw.match(matchDate).join('')),
           // raw: raw
-        // }
+        }
       })
 
       // console.log('podcast-content', $('.podcast-content'))
