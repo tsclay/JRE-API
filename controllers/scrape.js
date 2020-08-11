@@ -9,7 +9,8 @@ const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
 const matchID = /#[a-z].*|#\d*[a-z]?(?=\s)/ig
-const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
+// const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
+const guestMatch = /[A-Z].*(?=[A-Z]).*/ig
 const descMatch = /[A-Z].*(?=)/ig
 
 const getCorrectDates = (dateString) => {
@@ -23,7 +24,9 @@ const getCorrectDates = (dateString) => {
 const getGuests = (data) => {
   // console.log('getGuests input', data)
   // console.log('getGuests output', data.match(guestMatch))
-  return data.match(guestMatch)[0]
+  // console.log(data.match(guestMatch))
+  const filtered = data.match(guestMatch)
+  return filtered
 }
 
 const getEpisodeID = (data) => {
@@ -75,8 +78,9 @@ scraper.get('/scrape', async (req, res) => {
 
         goods[j + pageFactor] = {
           // podcast: {title: `#${getEpisodeID(raw)} - ${getGuests(raw)}`},
-          guests: getGuests(raw),
+          guests: getGuests(raw)[0],
           episode_id: getEpisodeID(raw),
+          description: getGuests(raw)[2]
           // date: getCorrectDates(raw.match(matchDate).join('')),
           // raw: raw
         }
