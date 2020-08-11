@@ -3,7 +3,6 @@ const moment = require('moment')
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const express = require('express')
-const { filter } = require('../models/seed')
 
 const scraper = express.Router()
 
@@ -30,12 +29,7 @@ const getGuests = (data) => {
 }
 
 const getEpisodeID = (data) => {
-  // console.log('getEpisodeID input', data)
-  // const secondFilter = /\d.*/g
   let filtered = data.match(matchID)
-  // filtered = filtered[0].match(secondFilter)
-  // console.log('getEpisodeID output', filtered)
-  // return filtered.length > 1 ? filtered[1] : filtered[0]
   return filtered[0]
 }
 
@@ -67,14 +61,8 @@ scraper.get('/scrape', async (req, res) => {
   
       const $ = cheerio.load(body)
 
-      // console.log($('div.main').html())
-
       $('div.episode').each(function(j, elem) {
         const raw = $(elem).text()
-        // console.log('THIS IS GET EPISODE', getEpisodeID(raw))
-        // console.log('raw output', raw)
-        // console.log('elem output', $(elem).text())
-        // console.log('this is j with pageFactor', j + pageFactor)
 
         goods[j + pageFactor] = {
           podcast: {title: `${getEpisodeID(raw)} - ${getGuests(raw)[0]}`},
@@ -82,7 +70,6 @@ scraper.get('/scrape', async (req, res) => {
           episode_id: getEpisodeID(raw),
           description: getGuests(raw)[2],
           date: getCorrectDates(raw.match(matchDate).join('')),
-          // raw: raw
         }
       })
       pageFactor += 10
@@ -96,37 +83,5 @@ scraper.get('/scrape', async (req, res) => {
 
 module.exports = scraper
 
-
-// const scrapeMeta = document.getElementsByClassName('episode');
-// const scrapeDesc = document.getElementsByClassName('podcast-content');
-// const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/
-// const matchID = /#\d*(?=\s)/
-// const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/
-// const descMatch = /[A-Z].*(?=)/i
-
-// for (let i = 0; i < episodes.length; i++) {
-//   let episodeDate = new Date('07.24.20')
-//   episodeDate = moment(d).format('MMMM D, YYYY')
-
-//   const data = {
-//     podcast: {
-//       title: '', 
-//       duration: ''
-//     },
-//     youtube: {
-//       title: '', 
-//       duration: '',
-//       link: ''
-//     },
-//     guests: [],
-//     description: "",
-//     episode_id: 1522,
-//     date: episodeDate
-//   }
-//   fs.writeFile('jre.txt', data, (error) => {
-//     if (error) throw error;
-//   })
-//   console.log(`episode ${i} is ${episodes[i].innerText}`);
-// }
 
 
