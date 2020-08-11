@@ -77,22 +77,14 @@ scraper.get('/scrape', async (req, res) => {
         // console.log('this is j with pageFactor', j + pageFactor)
 
         goods[j + pageFactor] = {
-          // podcast: {title: `#${getEpisodeID(raw)} - ${getGuests(raw)}`},
+          podcast: {title: `${getEpisodeID(raw)} - ${getGuests(raw)[0]}`},
           guests: getGuests(raw)[0],
           episode_id: getEpisodeID(raw),
-          description: getGuests(raw)[2]
-          // date: getCorrectDates(raw.match(matchDate).join('')),
+          description: getGuests(raw)[2],
+          date: getCorrectDates(raw.match(matchDate).join('')),
           // raw: raw
         }
       })
-
-      // console.log('podcast-content', $('.podcast-content'))
-
-      // $('.podcast-details').each(function(j, elem) {
-      //   const raw = $(this).text()
-        // console.log(raw);
-        // goods[j + pageFactor].description = raw.match(descMatch).join('')
-      // })
       pageFactor += 10
     }
 
