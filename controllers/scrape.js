@@ -1,4 +1,3 @@
-const fs = require('fs')
 const moment = require('moment')
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
@@ -8,9 +7,52 @@ const scraper = express.Router()
 
 const matchDate = /([0-9]){2}\.([0-9]){2}\.([0-9]){2}/g
 const matchID = /#[a-z].*|#\d*[a-z]?(?=\s)/ig
-// const guestMatch = /[A-Z].*(?=[A-Z]).(?=\s)/ig
 const guestMatch = /[A-Z].*(?=[A-Z]).*/ig
-const descMatch = /[A-Z].*(?=)/ig
+
+const parseGuests = (data) => {
+  let guests = []
+  if (data.includes('JRE MMA Show') && !data.includes('#29') && !data.includes('#1')) {
+    const layer = data.match(/(?<=with ).*/gi)[0]
+    console.log('found an MMA ', layer)
+
+    data = layer
+    console.log('MMA as data ', data)
+
+    if ((data.includes(',') && data.includes(' & ')) && (!data.includes('Gino & AJ')) && (!data.includes('Vince & Emily Horn'))) {
+      const first = /[a-z].*(?=,)/ig
+      const second = /(?<=, )([a-z]).*(?= \&)/ig
+      const last = /(?<=\& )[a-z].*/ig
+  
+      guests = [data.match(first)[0], data.match(second)[0], data.match(last)[0]]
+      console.log('3 guests ', guests)
+    } else if (data.includes(' & ') && (!data.includes('Gino & AJ')) && (!data.includes('Vince & Emily Horn'))) {
+      const first = /[a-z].*(?= \&)/ig
+      const last = /(?<=\& )[a-z].*/ig
+  
+      guests = [data.match(first)[0], data.match(last)[0]]
+      console.log('2 guests ', guests)
+    } else {
+      guests = [data]
+      console.log('1 guest', guests)
+    }
+
+  } else if ((data.includes(',') && data.includes(' & ')) && (!data.includes('Gino & AJ')) && (!data.includes('Vince & Emily Horn'))) {
+    const first = /[a-z].*(?=,)/ig
+    const second = /(?<=, )([a-z]).*(?= \&)/ig
+    const last = /(?<=\& )[a-z].*/ig
+
+    guests = [data.match(first)[0], data.match(second)[0], data.match(last)[0]]
+  } else if (data.includes(' & ') && (!data.includes('Gino & AJ')) && (!data.includes('Vince & Emily Horn'))) {
+    const first = /[a-z].*(?= \&)/ig
+    const last = /(?<=\& )[a-z].*/ig
+
+    guests = [data.match(first)[0], data.match(last)[0]]
+  } else {
+    guests = [data]
+  }
+
+  return guests
+}
 
 const getCorrectDates = (dateString) => {
   // console.log('getCorrectDates input', dateString)
@@ -21,15 +63,17 @@ const getCorrectDates = (dateString) => {
 }
 
 const getGuests = (data) => {
-  // console.log('getGuests input', data)
-  // console.log('getGuests output', data.match(guestMatch))
-  // console.log(data.match(guestMatch))
   const filtered = data.match(guestMatch)
+  // console.log('this is the filtered ', filtered)
+  if (filtered[2] === 'Related Links') {
+    filtered[2] = 'No description available.'
+  }
   return filtered
 }
 
 const getEpisodeID = (data) => {
   let filtered = data.match(matchID)
+  // console.log('this is the episode id ', filtered[0][1])
   return filtered[0]
 }
 
@@ -64,13 +108,31 @@ scraper.get('/scrape', async (req, res) => {
       $('div.episode').each(function(j, elem) {
         const raw = $(elem).text()
 
+        // console.log('this is elem', raw)
+
+        const ID = getEpisodeID(raw)
+        // console.log('the IDs ', ID)
+        const guestString = getGuests(raw)[0] 
+        // console.log('the raw guest string ', guestString);
+        const guestList = parseGuests(guestString)
+        const descString = getGuests(raw)[2]
+        const dateString = getCorrectDates(raw.match(matchDate).join(''))
+
         goods[j + pageFactor] = {
-          podcast: {title: `${getEpisodeID(raw)} - ${getGuests(raw)[0]}`},
-          guests: getGuests(raw)[0],
-          episode_id: getEpisodeID(raw),
-          description: getGuests(raw)[2],
-          date: getCorrectDates(raw.match(matchDate).join('')),
+          title: `${ID} - ${guestString}`,
+          guests: guestList,
+          // rawGuests: guestString,
+          episode_id: (Number(ID[1]) !== NaN) ? Number(ID.slice(1)) : (ID.includes('FC') ? ID : null),
+          isMMA: guestString.includes('JRE MMA Show') ? true : false,
+          isFC: ID.includes('FC') ? true : false,
+          description: descString,
+          date: dateString,
         }
+        // if (Number(ID[1]) === NaN) {
+        //   console.log('the bad ID ', ID)
+        //   console.log('the goods at ', i, goods[j + pageFactor])
+        // }
+        console.log('the goods at ', i, goods[j + pageFactor])
       })
       pageFactor += 10
     }
@@ -82,6 +144,5 @@ scraper.get('/scrape', async (req, res) => {
 })
 
 module.exports = scraper
-
 
 
