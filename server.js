@@ -29,5 +29,5 @@ mongoose.connect(
 )
 
 app.listen(PORT, () => {
-  console.log(`🚀 Listening on PORT:${PORT} 🚀`)
+  console.log(`🚀 Listening @ http://localhost:${PORT} 🚀`)
 })
