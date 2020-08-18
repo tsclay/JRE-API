@@ -3,17 +3,13 @@ const mongoose = require('mongoose')
 const {Schema} = mongoose
 
 const episodeSchema = new Schema({
-  podcast: {
-    title: String, 
-    duration: String
-  },
-  youtube: {
-    title: String, 
-    duration: String,
-    link: String
-  },
+  title: String,
   guests: [String],
   episode_id: Number,
+  isMMA: Boolean,
+  isFC: Boolean,
+  youtube_url: String || null,
+  description: String,
   date: String
 })
 
