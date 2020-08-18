@@ -1,5 +1,32 @@
 [
   {
+    "title": "#1526 - Ali Macofsky",
+    "guests": ["Ali Macofsky"],
+    "episode_id": 1526,
+    "isMMA": false,
+    "isFC": false,
+    "description": "Ali Macofsky is an actress, writer, and standup comedian. Checkout her podcast \"Resting Bitch\" available on Apple Podcasts.",
+    "date": "August 15, 2020"
+  },
+  {
+    "title": "#1525 - Tim Dillon",
+    "guests": ["Tim Dillon"],
+    "episode_id": 1525,
+    "isMMA": false,
+    "isFC": false,
+    "description": "Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on YouTube & Apple Podcasts.",
+    "date": "August 14, 2020"
+  },
+  {
+    "title": "#1524 - Ron Funches",
+    "guests": ["Ron Funches"],
+    "episode_id": 1524,
+    "isMMA": false,
+    "isFC": false,
+    "description": "Ron Funches is a comedian, actor and writer. His podcast \"Gettin' Better\" is available on Apple Podcasts & Spotify. On September 5 , his live stand up event \"Awakening\" will be streaming on YouTube and tickets are now available here: eventbrite.com/e/ron-funches-awakening-tickets-113410704470",
+    "date": "August 13, 2020"
+  },
+  {
     "title": "#1523 - Joey Diaz & Brian Redban",
     "guests": ["Joey Diaz", "Brian Redban"],
     "episode_id": 1523,
