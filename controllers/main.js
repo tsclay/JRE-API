@@ -16,7 +16,7 @@ main.get('/seed', async (req, res) => {
 // Get all the episodes
 main.get('/api/all', (req, res) => {
   Episode.aggregate([{$project: {_id: 0, __v: 0}}], (error, data) => {
-    return error ? res.send(error) : res.json(data)
+    return error ? res.json(error) : res.json(data)
   })
 })
 
