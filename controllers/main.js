@@ -23,15 +23,13 @@ main.get('/api/all', (req, res) => {
 // Fix the 'null' values on older Fight Companion episodes
 main.get('/api/fixFC', async (req, res) => {
   try {
-    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({date: 1})
+    const data = await Episode.find({isFC: true, episode_id: {$lt: 500}}).sort({date: 1})
     for (let i = data.length - 1; i >= 0; i--) {
-      const readableDate = moment(new Date(data[i].date)).format('MMMM D, YYYY')
-      // console.log(`Fight Companion - ${readableDate}`)
-      await Episode.updateOne({_id: data[i]._id}, {title: `Fight Companion - ${readableDate}`}, (err, changed) => {
+      await Episode.updateOne({_id: data[i]._id}, {episode_id: i + 1}, (err, changed) => {
         console.log(changed)
       })
     }
-    const afterCheck = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({episode_id: 1})
+    const afterCheck = await Episode.find({isFC: true}).sort({episode_id: 1})
     res.send(afterCheck);
   } catch (error) {
     console.log(error)
@@ -41,19 +39,12 @@ main.get('/api/fixFC', async (req, res) => {
 // All Fight Companion episodes 
 main.get('/api/fc', async (req, res) => {
   try {
-    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({date: 1})
+    const data = await Episode.find({isFC: true}).sort({date: 1})
 
-    let test = 1
-    for (let i = 0; i < data.length; i++) {
-      const thisEpisode = data[i].episode_id
-      if (test === thisEpisode) {
-        console.log(data[i].episode_id)
-        test++
-      } else {
-        console.log("BROKEN SEQ: ", thisEpisode);
-        test = thisEpisode + 1
-      }
-    }
+    // let test = 1
+    // for (let i = 0; i < data.length; i++) {
+    //   console.log(moment(new Date(data[i].date)).format('MMMM D, YYYY'))
+    // }
     console.log(data.length, "is the lenght")
     res.json(data)
   } catch (error) {
