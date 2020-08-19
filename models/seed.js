@@ -1,7 +1,7 @@
 module.exports = [
   {
-    "title": "#1526 - Ali Macofsky",
     "guests": ["Ali Macofsky"],
+    "title": "#1526 - Ali Macofsky",
     "episode_id": 1526,
     "isMMA": false,
     "isFC": false,
@@ -9,8 +9,8 @@ module.exports = [
     "date": "August 15, 2020"
   },
   {
-    "title": "#1525 - Tim Dillon",
     "guests": ["Tim Dillon"],
+    "title": "#1525 - Tim Dillon",
     "episode_id": 1525,
     "isMMA": false,
     "isFC": false,
@@ -18,8 +18,8 @@ module.exports = [
     "date": "August 14, 2020"
   },
   {
-    "title": "#1524 - Ron Funches",
     "guests": ["Ron Funches"],
+    "title": "#1524 - Ron Funches",
     "episode_id": 1524,
     "isMMA": false,
     "isFC": false,
@@ -27,8 +27,8 @@ module.exports = [
     "date": "August 13, 2020"
   },
   {
-    "title": "#1523 - Joey Diaz & Brian Redban",
     "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#1523 - Joey Diaz & Brian Redban",
     "episode_id": 1523,
     "isMMA": false,
     "isFC": false,
@@ -36,8 +36,8 @@ module.exports = [
     "date": "August 12, 2020"
   },
   {
-    "title": "#1522 - Rob Lowe",
     "guests": ["Rob Lowe"],
+    "title": "#1522 - Rob Lowe",
     "episode_id": 1522,
     "isMMA": false,
     "isFC": false,
@@ -45,8 +45,8 @@ module.exports = [
     "date": "August 7, 2020"
   },
   {
-    "title": "#1521 - Josh Dubin & Jason Flom",
     "guests": ["Josh Dubin", "Jason Flom"],
+    "title": "#1521 - Josh Dubin & Jason Flom",
     "episode_id": 1521,
     "isMMA": false,
     "isFC": false,
@@ -54,8 +54,8 @@ module.exports = [
     "date": "August 6, 2020"
   },
   {
-    "title": "#1520 - Dr. Debra Soh",
     "guests": ["Dr. Debra Soh"],
+    "title": "#1520 - Dr. Debra Soh",
     "episode_id": 1520,
     "isMMA": false,
     "isFC": false,
@@ -63,8 +63,8 @@ module.exports = [
     "date": "August 5, 2020"
   },
   {
-    "title": "#1519 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1519 - Mike Baker",
     "episode_id": 1519,
     "isMMA": false,
     "isFC": false,
@@ -72,8 +72,8 @@ module.exports = [
     "date": "August 4, 2020"
   },
   {
-    "title": "#1518 - David Choe",
     "guests": ["David Choe"],
+    "title": "#1518 - David Choe",
     "episode_id": 1518,
     "isMMA": false,
     "isFC": false,
@@ -81,8 +81,8 @@ module.exports = [
     "date": "July 31, 2020"
   },
   {
-    "title": "#1517 - Nancy Panza",
     "guests": ["Nancy Panza"],
+    "title": "#1517 - Nancy Panza",
     "episode_id": 1517,
     "isMMA": false,
     "isFC": false,
@@ -90,8 +90,8 @@ module.exports = [
     "date": "July 30, 2020"
   },
   {
-    "title": "#1516 - Post Malone",
     "guests": ["Post Malone"],
+    "title": "#1516 - Post Malone",
     "episode_id": 1516,
     "isMMA": false,
     "isFC": false,
@@ -99,8 +99,8 @@ module.exports = [
     "date": "July 29, 2020"
   },
   {
-    "title": "#1515 - Dr. Bradley Garrett",
     "guests": ["Dr. Bradley Garrett"],
+    "title": "#1515 - Dr. Bradley Garrett",
     "episode_id": 1515,
     "isMMA": false,
     "isFC": false,
@@ -108,8 +108,8 @@ module.exports = [
     "date": "July 28, 2020"
   },
   {
-    "title": "#1514 - Joe De Sena",
     "guests": ["Joe De Sena"],
+    "title": "#1514 - Joe De Sena",
     "episode_id": 1514,
     "isMMA": false,
     "isFC": false,
@@ -117,8 +117,8 @@ module.exports = [
     "date": "July 24, 2020"
   },
   {
-    "title": "#1513 - Andrew Huberman",
     "guests": ["Andrew Huberman"],
+    "title": "#1513 - Andrew Huberman",
     "episode_id": 1513,
     "isMMA": false,
     "isFC": false,
@@ -126,8 +126,8 @@ module.exports = [
     "date": "July 23, 2020"
   },
   {
-    "title": "#1512 - Ben Shapiro",
     "guests": ["Ben Shapiro"],
+    "title": "#1512 - Ben Shapiro",
     "episode_id": 1512,
     "isMMA": false,
     "isFC": false,
@@ -135,8 +135,8 @@ module.exports = [
     "date": "July 22, 2020"
   },
   {
-    "title": "#1511 - Oliver Stone",
     "guests": ["Oliver Stone"],
+    "title": "#1511 - Oliver Stone",
     "episode_id": 1511,
     "isMMA": false,
     "isFC": false,
@@ -144,8 +144,8 @@ module.exports = [
     "date": "July 21, 2020"
   },
   {
-    "title": "#1510 - George Knapp & Jeremy Corbell",
     "guests": ["George Knapp", "Jeremy Corbell"],
+    "title": "#1510 - George Knapp & Jeremy Corbell",
     "episode_id": 1510,
     "isMMA": false,
     "isFC": false,
@@ -153,8 +153,8 @@ module.exports = [
     "date": "July 17, 2020"
   },
   {
-    "title": "#1509 - Abigail Shrier",
     "guests": ["Abigail Shrier"],
+    "title": "#1509 - Abigail Shrier",
     "episode_id": 1509,
     "isMMA": false,
     "isFC": false,
@@ -162,8 +162,8 @@ module.exports = [
     "date": "July 16, 2020"
   },
   {
-    "title": "#1508 - Peter Schiff",
     "guests": ["Peter Schiff"],
+    "title": "#1508 - Peter Schiff",
     "episode_id": 1508,
     "isMMA": false,
     "isFC": false,
@@ -171,8 +171,8 @@ module.exports = [
     "date": "July 15, 2020"
   },
   {
-    "title": "#1507 - Bob Saget",
     "guests": ["Bob Saget"],
+    "title": "#1507 - Bob Saget",
     "episode_id": 1507,
     "isMMA": false,
     "isFC": false,
@@ -180,8 +180,8 @@ module.exports = [
     "date": "July 14, 2020"
   },
   {
-    "title": "#050 - Fight Companion – July 11, 2020",
     "guests": ["Fight Companion – July 11, 2020"],
+    "title": "#050 - Fight Companion – July 11, 2020",
     "episode_id": 50,
     "isMMA": false,
     "isFC": false,
@@ -189,8 +189,8 @@ module.exports = [
     "date": "July 13, 2020"
   },
   {
-    "title": "#1506 - James Nestor",
     "guests": ["James Nestor"],
+    "title": "#1506 - James Nestor",
     "episode_id": 1506,
     "isMMA": false,
     "isFC": false,
@@ -198,8 +198,8 @@ module.exports = [
     "date": "July 10, 2020"
   },
   {
-    "title": "#1505 - Hannibal Buress",
     "guests": ["Hannibal Buress"],
+    "title": "#1505 - Hannibal Buress",
     "episode_id": 1505,
     "isMMA": false,
     "isFC": false,
@@ -207,8 +207,8 @@ module.exports = [
     "date": "July 9, 2020"
   },
   {
-    "title": "#1504 - Alan Levinovitz",
     "guests": ["Alan Levinovitz"],
+    "title": "#1504 - Alan Levinovitz",
     "episode_id": 1504,
     "isMMA": false,
     "isFC": false,
@@ -216,8 +216,8 @@ module.exports = [
     "date": "July 8, 2020"
   },
   {
-    "title": "#1503 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#1503 - Josh Barnett",
     "episode_id": 1503,
     "isMMA": false,
     "isFC": false,
@@ -225,8 +225,8 @@ module.exports = [
     "date": "July 7, 2020"
   },
   {
-    "title": "#1502 - Russell Peters",
     "guests": ["Russell Peters"],
+    "title": "#1502 - Russell Peters",
     "episode_id": 1502,
     "isMMA": false,
     "isFC": false,
@@ -234,8 +234,8 @@ module.exports = [
     "date": "July 3, 2020"
   },
   {
-    "title": "#1501 - James Lindsay",
     "guests": ["James Lindsay"],
+    "title": "#1501 - James Lindsay",
     "episode_id": 1501,
     "isMMA": false,
     "isFC": false,
@@ -243,8 +243,8 @@ module.exports = [
     "date": "July 2, 2020"
   },
   {
-    "title": "#1500 - Barbara Freese",
     "guests": ["Barbara Freese"],
+    "title": "#1500 - Barbara Freese",
     "episode_id": 1500,
     "isMMA": false,
     "isFC": false,
@@ -252,8 +252,8 @@ module.exports = [
     "date": "July 1, 2020"
   },
   {
-    "title": "#1499 - Aron Snyder",
     "guests": ["Aron Snyder"],
+    "title": "#1499 - Aron Snyder",
     "episode_id": 1499,
     "isMMA": false,
     "isFC": false,
@@ -261,8 +261,8 @@ module.exports = [
     "date": "June 30, 2020"
   },
   {
-    "title": "#1498 - Jon Stewart",
     "guests": ["Jon Stewart"],
+    "title": "#1498 - Jon Stewart",
     "episode_id": 1498,
     "isMMA": false,
     "isFC": false,
@@ -270,8 +270,8 @@ module.exports = [
     "date": "June 26, 2020"
   },
   {
-    "title": "#1497 - Joe Schilling",
     "guests": ["Joe Schilling"],
+    "title": "#1497 - Joe Schilling",
     "episode_id": 1497,
     "isMMA": false,
     "isFC": false,
@@ -279,8 +279,8 @@ module.exports = [
     "date": "June 25, 2020"
   },
   {
-    "title": "#1496 - Colion Noir",
     "guests": ["Colion Noir"],
+    "title": "#1496 - Colion Noir",
     "episode_id": 1496,
     "isMMA": false,
     "isFC": false,
@@ -288,8 +288,8 @@ module.exports = [
     "date": "June 23, 2020"
   },
   {
-    "title": "#1495 - Kyle Dunnigan",
     "guests": ["Kyle Dunnigan"],
+    "title": "#1495 - Kyle Dunnigan",
     "episode_id": 1495,
     "isMMA": false,
     "isFC": false,
@@ -297,8 +297,8 @@ module.exports = [
     "date": "June 19, 2020"
   },
   {
-    "title": "#1494 - Bret Weinstein",
     "guests": ["Bret Weinstein"],
+    "title": "#1494 - Bret Weinstein",
     "episode_id": 1494,
     "isMMA": false,
     "isFC": false,
@@ -306,8 +306,8 @@ module.exports = [
     "date": "June 18, 2020"
   },
   {
-    "title": "#1493 - Steve Schirripa & Michael Imperioli",
     "guests": ["Steve Schirripa", "Michael Imperioli"],
+    "title": "#1493 - Steve Schirripa & Michael Imperioli",
     "episode_id": 1493,
     "isMMA": false,
     "isFC": false,
@@ -315,8 +315,8 @@ module.exports = [
     "date": "June 17, 2020"
   },
   {
-    "title": "#1492 - Jocko Willink",
     "guests": ["Jocko Willink"],
+    "title": "#1492 - Jocko Willink",
     "episode_id": 1492,
     "isMMA": false,
     "isFC": false,
@@ -324,8 +324,8 @@ module.exports = [
     "date": "June 16, 2020"
   },
   {
-    "title": "#1491 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#1491 - Bill Burr",
     "episode_id": 1491,
     "isMMA": false,
     "isFC": false,
@@ -333,8 +333,8 @@ module.exports = [
     "date": "June 12, 2020"
   },
   {
-    "title": "#1490 - Jimmy O. Yang",
     "guests": ["Jimmy O. Yang"],
+    "title": "#1490 - Jimmy O. Yang",
     "episode_id": 1490,
     "isMMA": false,
     "isFC": false,
@@ -342,8 +342,8 @@ module.exports = [
     "date": "June 11, 2020"
   },
   {
-    "title": "#1489 - Ronnie Coleman",
     "guests": ["Ronnie Coleman"],
+    "title": "#1489 - Ronnie Coleman",
     "episode_id": 1489,
     "isMMA": false,
     "isFC": false,
@@ -351,8 +351,8 @@ module.exports = [
     "date": "June 10, 2020"
   },
   {
-    "title": "#1488 - Andrew Schulz",
     "guests": ["Andrew Schulz"],
+    "title": "#1488 - Andrew Schulz",
     "episode_id": 1488,
     "isMMA": false,
     "isFC": false,
@@ -360,8 +360,8 @@ module.exports = [
     "date": "June 9, 2020"
   },
   {
-    "title": "#097 - JRE MMA Show #97 with Henry Cejudo",
     "guests": ["Henry Cejudo"],
+    "title": "#097 - JRE MMA Show #97 with Henry Cejudo",
     "episode_id": 97,
     "isMMA": true,
     "isFC": false,
@@ -369,8 +369,8 @@ module.exports = [
     "date": "June 8, 2020"
   },
   {
-    "title": "#1487 - Janet Zuccarini & Evan Funke",
     "guests": ["Janet Zuccarini", "Evan Funke"],
+    "title": "#1487 - Janet Zuccarini & Evan Funke",
     "episode_id": 1487,
     "isMMA": false,
     "isFC": false,
@@ -378,8 +378,8 @@ module.exports = [
     "date": "June 8, 2020"
   },
   {
-    "title": "#1486 - Honey Honey",
     "guests": ["Honey Honey"],
+    "title": "#1486 - Honey Honey",
     "episode_id": 1486,
     "isMMA": false,
     "isFC": false,
@@ -387,8 +387,8 @@ module.exports = [
     "date": "June 5, 2020"
   },
   {
-    "title": "#1485 - Krystal & Saagar",
     "guests": ["Krystal", "Saagar"],
+    "title": "#1485 - Krystal & Saagar",
     "episode_id": 1485,
     "isMMA": false,
     "isFC": false,
@@ -396,8 +396,8 @@ module.exports = [
     "date": "June 3, 2020"
   },
   {
-    "title": "#1484 - Reggie Watts",
     "guests": ["Reggie Watts"],
+    "title": "#1484 - Reggie Watts",
     "episode_id": 1484,
     "isMMA": false,
     "isFC": false,
@@ -405,8 +405,8 @@ module.exports = [
     "date": "June 2, 2020"
   },
   {
-    "title": "#1483 - Jesus Trejo",
     "guests": ["Jesus Trejo"],
+    "title": "#1483 - Jesus Trejo",
     "episode_id": 1483,
     "isMMA": false,
     "isFC": false,
@@ -414,8 +414,8 @@ module.exports = [
     "date": "May 29, 2020"
   },
   {
-    "title": "#1482 - Jordan Jonas",
     "guests": ["Jordan Jonas"],
+    "title": "#1482 - Jordan Jonas",
     "episode_id": 1482,
     "isMMA": false,
     "isFC": false,
@@ -423,8 +423,8 @@ module.exports = [
     "date": "May 28, 2020"
   },
   {
-    "title": "#096 - JRE MMA Show #96 with Justin Gaethje & Trevor Wittman",
     "guests": ["Justin Gaethje", "Trevor Wittman"],
+    "title": "#096 - JRE MMA Show #96 with Justin Gaethje & Trevor Wittman",
     "episode_id": 96,
     "isMMA": true,
     "isFC": false,
@@ -432,8 +432,8 @@ module.exports = [
     "date": "May 27, 2020"
   },
   {
-    "title": "#1481 - Adam Eget",
     "guests": ["Adam Eget"],
+    "title": "#1481 - Adam Eget",
     "episode_id": 1481,
     "isMMA": false,
     "isFC": false,
@@ -441,8 +441,8 @@ module.exports = [
     "date": "May 26, 2020"
   },
   {
-    "title": "#1480 - Kevin Hart",
     "guests": ["Kevin Hart"],
+    "title": "#1480 - Kevin Hart",
     "episode_id": 1480,
     "isMMA": false,
     "isFC": false,
@@ -450,8 +450,8 @@ module.exports = [
     "date": "May 25, 2020"
   },
   {
-    "title": "#1479 - David Pakman",
     "guests": ["David Pakman"],
+    "title": "#1479 - David Pakman",
     "episode_id": 1479,
     "isMMA": false,
     "isFC": false,
@@ -459,8 +459,8 @@ module.exports = [
     "date": "May 22, 2020"
   },
   {
-    "title": "# - Tony Hawk",
     "guests": ["Tony Hawk"],
+    "title": "# - Tony Hawk",
     "episode_id": 0,
     "isMMA": false,
     "isFC": false,
@@ -468,8 +468,8 @@ module.exports = [
     "date": "May 20, 2020"
   },
   {
-    "title": "#1478 - Joel Salatin",
     "guests": ["Joel Salatin"],
+    "title": "#1478 - Joel Salatin",
     "episode_id": 1478,
     "isMMA": false,
     "isFC": false,
@@ -477,8 +477,8 @@ module.exports = [
     "date": "May 20, 2020"
   },
   {
-    "title": "#1476 - Patton Oswalt",
     "guests": ["Patton Oswalt"],
+    "title": "#1476 - Patton Oswalt",
     "episode_id": 1476,
     "isMMA": false,
     "isFC": false,
@@ -486,8 +486,8 @@ module.exports = [
     "date": "May 19, 2020"
   },
   {
-    "title": "#049 - Fight Companion – May 16, 2020",
     "guests": ["Fight Companion – May 16, 2020"],
+    "title": "#049 - Fight Companion – May 16, 2020",
     "episode_id": 49,
     "isMMA": false,
     "isFC": false,
@@ -495,8 +495,8 @@ module.exports = [
     "date": "May 16, 2020"
   },
   {
-    "title": "#1475 - Bridget Phetasy",
     "guests": ["Bridget Phetasy"],
+    "title": "#1475 - Bridget Phetasy",
     "episode_id": 1475,
     "isMMA": false,
     "isFC": false,
@@ -504,8 +504,8 @@ module.exports = [
     "date": "May 16, 2020"
   },
   {
-    "title": "#1474 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#1474 - Dr. Rhonda Patrick",
     "episode_id": 1474,
     "isMMA": false,
     "isFC": false,
@@ -513,8 +513,8 @@ module.exports = [
     "date": "May 14, 2020"
   },
   {
-    "title": "#1473 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1473 - Tom Papa",
     "episode_id": 1473,
     "isMMA": false,
     "isFC": false,
@@ -522,8 +522,8 @@ module.exports = [
     "date": "May 13, 2020"
   },
   {
-    "title": "#1472 - Michael Yo",
     "guests": ["Michael Yo"],
+    "title": "#1472 - Michael Yo",
     "episode_id": 1472,
     "isMMA": false,
     "isFC": false,
@@ -531,8 +531,8 @@ module.exports = [
     "date": "May 12, 2020"
   },
   {
-    "title": "#095 - JRE MMA Show #95 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#095 - JRE MMA Show #95 with Brendan Schaub",
     "episode_id": 95,
     "isMMA": true,
     "isFC": false,
@@ -540,8 +540,8 @@ module.exports = [
     "date": "May 8, 2020"
   },
   {
-    "title": "#1471 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#1471 - Tony Hinchcliffe",
     "episode_id": 1471,
     "isMMA": false,
     "isFC": false,
@@ -549,8 +549,8 @@ module.exports = [
     "date": "May 7, 2020"
   },
   {
-    "title": "#1470 - Elon Musk",
     "guests": ["Elon Musk"],
+    "title": "#1470 - Elon Musk",
     "episode_id": 1470,
     "isMMA": false,
     "isFC": false,
@@ -558,8 +558,8 @@ module.exports = [
     "date": "May 7, 2020"
   },
   {
-    "title": "#1469 - Adam Perry Lang",
     "guests": ["Adam Perry Lang"],
+    "title": "#1469 - Adam Perry Lang",
     "episode_id": 1469,
     "isMMA": false,
     "isFC": false,
@@ -567,8 +567,8 @@ module.exports = [
     "date": "May 5, 2020"
   },
   {
-    "title": "#1468 - Alonzo Bodden",
     "guests": ["Alonzo Bodden"],
+    "title": "#1468 - Alonzo Bodden",
     "episode_id": 1468,
     "isMMA": false,
     "isFC": false,
@@ -576,8 +576,8 @@ module.exports = [
     "date": "May 1, 2020"
   },
   {
-    "title": "#1467 - Jack Carr",
     "guests": ["Jack Carr"],
+    "title": "#1467 - Jack Carr",
     "episode_id": 1467,
     "isMMA": false,
     "isFC": false,
@@ -585,8 +585,8 @@ module.exports = [
     "date": "April 30, 2020"
   },
   {
-    "title": "#1466 - Jessimae Peluso",
     "guests": ["Jessimae Peluso"],
+    "title": "#1466 - Jessimae Peluso",
     "episode_id": 1466,
     "isMMA": false,
     "isFC": false,
@@ -594,8 +594,8 @@ module.exports = [
     "date": "April 29, 2020"
   },
   {
-    "title": "#1465 - Tim Pool",
     "guests": ["Tim Pool"],
+    "title": "#1465 - Tim Pool",
     "episode_id": 1465,
     "isMMA": false,
     "isFC": false,
@@ -603,8 +603,8 @@ module.exports = [
     "date": "April 27, 2020"
   },
   {
-    "title": "#1464 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#1464 - Duncan Trussell",
     "episode_id": 1464,
     "isMMA": false,
     "isFC": false,
@@ -612,8 +612,8 @@ module.exports = [
     "date": "April 25, 2020"
   },
   {
-    "title": "#1463 - Tom Green",
     "guests": ["Tom Green"],
+    "title": "#1463 - Tom Green",
     "episode_id": 1463,
     "isMMA": false,
     "isFC": false,
@@ -621,8 +621,8 @@ module.exports = [
     "date": "April 24, 2020"
   },
   {
-    "title": "#1462 - Kurt Metzger",
     "guests": ["Kurt Metzger"],
+    "title": "#1462 - Kurt Metzger",
     "episode_id": 1462,
     "isMMA": false,
     "isFC": false,
@@ -630,8 +630,8 @@ module.exports = [
     "date": "April 23, 2020"
   },
   {
-    "title": "#1461 - Owen Smith",
     "guests": ["Owen Smith"],
+    "title": "#1461 - Owen Smith",
     "episode_id": 1461,
     "isMMA": false,
     "isFC": false,
@@ -639,8 +639,8 @@ module.exports = [
     "date": "April 22, 2020"
   },
   {
-    "title": "#1460 - Donnell Rawlings",
     "guests": ["Donnell Rawlings"],
+    "title": "#1460 - Donnell Rawlings",
     "episode_id": 1460,
     "isMMA": false,
     "isFC": false,
@@ -648,8 +648,8 @@ module.exports = [
     "date": "April 17, 2020"
   },
   {
-    "title": "#1459 - Tom O’Neill",
     "guests": ["Tom O’Neill"],
+    "title": "#1459 - Tom O’Neill",
     "episode_id": 1459,
     "isMMA": false,
     "isFC": false,
@@ -657,8 +657,8 @@ module.exports = [
     "date": "April 16, 2020"
   },
   {
-    "title": "#1458 - Chris D’Elia",
     "guests": ["Chris D’Elia"],
+    "title": "#1458 - Chris D’Elia",
     "episode_id": 1458,
     "isMMA": false,
     "isFC": false,
@@ -666,8 +666,8 @@ module.exports = [
     "date": "April 15, 2020"
   },
   {
-    "title": "#1457 - Tim Dillon",
     "guests": ["Tim Dillon"],
+    "title": "#1457 - Tim Dillon",
     "episode_id": 1457,
     "isMMA": false,
     "isFC": false,
@@ -675,8 +675,8 @@ module.exports = [
     "date": "April 14, 2020"
   },
   {
-    "title": "#094 - JRE MMA Show #94 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#094 - JRE MMA Show #94 with Brendan Schaub",
     "episode_id": 94,
     "isMMA": true,
     "isFC": false,
@@ -684,8 +684,8 @@ module.exports = [
     "date": "April 10, 2020"
   },
   {
-    "title": "#1456 - Michael Shermer",
     "guests": ["Michael Shermer"],
+    "title": "#1456 - Michael Shermer",
     "episode_id": 1456,
     "isMMA": false,
     "isFC": false,
@@ -693,8 +693,8 @@ module.exports = [
     "date": "April 9, 2020"
   },
   {
-    "title": "#1455 - Lex Fridman",
     "guests": ["Lex Fridman"],
+    "title": "#1455 - Lex Fridman",
     "episode_id": 1455,
     "isMMA": false,
     "isFC": false,
@@ -702,8 +702,8 @@ module.exports = [
     "date": "April 8, 2020"
   },
   {
-    "title": "#1454 - Dan Crenshaw",
     "guests": ["Dan Crenshaw"],
+    "title": "#1454 - Dan Crenshaw",
     "episode_id": 1454,
     "isMMA": false,
     "isFC": false,
@@ -711,8 +711,8 @@ module.exports = [
     "date": "April 7, 2020"
   },
   {
-    "title": "#1453 - Eric Weinstein",
     "guests": ["Eric Weinstein"],
+    "title": "#1453 - Eric Weinstein",
     "episode_id": 1453,
     "isMMA": false,
     "isFC": false,
@@ -720,8 +720,8 @@ module.exports = [
     "date": "April 3, 2020"
   },
   {
-    "title": "#1452 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1452 - Greg Fitzsimmons",
     "episode_id": 1452,
     "isMMA": false,
     "isFC": false,
@@ -729,8 +729,8 @@ module.exports = [
     "date": "April 2, 2020"
   },
   {
-    "title": "#1451 - Dr. Peter Hotez",
     "guests": ["Dr. Peter Hotez"],
+    "title": "#1451 - Dr. Peter Hotez",
     "episode_id": 1451,
     "isMMA": false,
     "isFC": false,
@@ -738,8 +738,8 @@ module.exports = [
     "date": "April 1, 2020"
   },
   {
-    "title": "#1450 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1450 - Brian Redban",
     "episode_id": 1450,
     "isMMA": false,
     "isFC": false,
@@ -747,8 +747,8 @@ module.exports = [
     "date": "March 31, 2020"
   },
   {
-    "title": "#1449 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1449 - Bryan Callen",
     "episode_id": 1449,
     "isMMA": false,
     "isFC": false,
@@ -756,8 +756,8 @@ module.exports = [
     "date": "March 27, 2020"
   },
   {
-    "title": "#1448 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1448 - Joey Diaz",
     "episode_id": 1448,
     "isMMA": false,
     "isFC": false,
@@ -765,8 +765,8 @@ module.exports = [
     "date": "March 26, 2020"
   },
   {
-    "title": "#1447 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#1447 - Tom Segura",
     "episode_id": 1447,
     "isMMA": false,
     "isFC": false,
@@ -774,8 +774,8 @@ module.exports = [
     "date": "March 25, 2020"
   },
   {
-    "title": "#1446 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#1446 - Bert Kreischer",
     "episode_id": 1446,
     "isMMA": false,
     "isFC": false,
@@ -783,8 +783,8 @@ module.exports = [
     "date": "March 24, 2020"
   },
   {
-    "title": "#1445 - Andy Stumpf",
     "guests": ["Andy Stumpf"],
+    "title": "#1445 - Andy Stumpf",
     "episode_id": 1445,
     "isMMA": false,
     "isFC": false,
@@ -792,8 +792,8 @@ module.exports = [
     "date": "March 21, 2020"
   },
   {
-    "title": "#1444 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#1444 - Duncan Trussell",
     "episode_id": 1444,
     "isMMA": false,
     "isFC": false,
@@ -801,8 +801,8 @@ module.exports = [
     "date": "March 19, 2020"
   },
   {
-    "title": "#1443 - Jonathan Ward",
     "guests": ["Jonathan Ward"],
+    "title": "#1443 - Jonathan Ward",
     "episode_id": 1443,
     "isMMA": false,
     "isFC": false,
@@ -810,8 +810,8 @@ module.exports = [
     "date": "March 18, 2020"
   },
   {
-    "title": "#1442 - Shannon O’Loughlin",
     "guests": ["Shannon O’Loughlin"],
+    "title": "#1442 - Shannon O’Loughlin",
     "episode_id": 1442,
     "isMMA": false,
     "isFC": false,
@@ -819,8 +819,8 @@ module.exports = [
     "date": "March 17, 2020"
   },
   {
-    "title": "#048 - Fight Companion – March 14, 2020",
     "guests": ["Fight Companion – March 14, 2020"],
+    "title": "#048 - Fight Companion – March 14, 2020",
     "episode_id": 48,
     "isMMA": false,
     "isFC": false,
@@ -828,8 +828,8 @@ module.exports = [
     "date": "March 14, 2020"
   },
   {
-    "title": "#1441 - Hugo Martin",
     "guests": ["Hugo Martin"],
+    "title": "#1441 - Hugo Martin",
     "episode_id": 1441,
     "isMMA": false,
     "isFC": false,
@@ -837,8 +837,8 @@ module.exports = [
     "date": "March 13, 2020"
   },
   {
-    "title": "#093 - JRE MMA Show #93 with Alexander Volkanovski",
     "guests": ["Alexander Volkanovski"],
+    "title": "#093 - JRE MMA Show #93 with Alexander Volkanovski",
     "episode_id": 93,
     "isMMA": true,
     "isFC": false,
@@ -846,8 +846,8 @@ module.exports = [
     "date": "March 11, 2020"
   },
   {
-    "title": "#1439 - Michael Osterholm",
     "guests": ["Michael Osterholm"],
+    "title": "#1439 - Michael Osterholm",
     "episode_id": 1439,
     "isMMA": false,
     "isFC": false,
@@ -855,8 +855,8 @@ module.exports = [
     "date": "March 10, 2020"
   },
   {
-    "title": "#1438 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1438 - Andrew Santino",
     "episode_id": 1438,
     "isMMA": false,
     "isFC": false,
@@ -864,8 +864,8 @@ module.exports = [
     "date": "March 6, 2020"
   },
   {
-    "title": "#1437 - Stephen Dubner",
     "guests": ["Stephen Dubner"],
+    "title": "#1437 - Stephen Dubner",
     "episode_id": 1437,
     "isMMA": false,
     "isFC": false,
@@ -873,8 +873,8 @@ module.exports = [
     "date": "March 5, 2020"
   },
   {
-    "title": "#1436 - Adam Curry",
     "guests": ["Adam Curry"],
+    "title": "#1436 - Adam Curry",
     "episode_id": 1436,
     "isMMA": false,
     "isFC": false,
@@ -882,8 +882,8 @@ module.exports = [
     "date": "March 4, 2020"
   },
   {
-    "title": "#1435 - Suzanne Santo & Gary Clark Jr.",
     "guests": ["Suzanne Santo", "Gary Clark Jr."],
+    "title": "#1435 - Suzanne Santo & Gary Clark Jr.",
     "episode_id": 1435,
     "isMMA": false,
     "isFC": false,
@@ -891,8 +891,8 @@ module.exports = [
     "date": "March 3, 2020"
   },
   {
-    "title": "#1434 - Trevor Thompson",
     "guests": ["Trevor Thompson"],
+    "title": "#1434 - Trevor Thompson",
     "episode_id": 1434,
     "isMMA": false,
     "isFC": false,
@@ -900,8 +900,8 @@ module.exports = [
     "date": "February 28, 2020"
   },
   {
-    "title": "#1433 - Michael Yo",
     "guests": ["Michael Yo"],
+    "title": "#1433 - Michael Yo",
     "episode_id": 1433,
     "isMMA": false,
     "isFC": false,
@@ -909,8 +909,8 @@ module.exports = [
     "date": "February 27, 2020"
   },
   {
-    "title": "#1432 - Aubrey de Grey",
     "guests": ["Aubrey de Grey"],
+    "title": "#1432 - Aubrey de Grey",
     "episode_id": 1432,
     "isMMA": false,
     "isFC": false,
@@ -918,8 +918,8 @@ module.exports = [
     "date": "February 26, 2020"
   },
   {
-    "title": "#1431 - Owen Smith",
     "guests": ["Owen Smith"],
+    "title": "#1431 - Owen Smith",
     "episode_id": 1431,
     "isMMA": false,
     "isFC": false,
@@ -927,8 +927,8 @@ module.exports = [
     "date": "February 25, 2020"
   },
   {
-    "title": "#047 - Fight Companion – February 22, 2020",
     "guests": ["Fight Companion – February 22, 2020"],
+    "title": "#047 - Fight Companion – February 22, 2020",
     "episode_id": 47,
     "isMMA": false,
     "isFC": false,
@@ -936,8 +936,8 @@ module.exports = [
     "date": "February 22, 2020"
   },
   {
-    "title": "#1430 - Raghunath Cappo",
     "guests": ["Raghunath Cappo"],
+    "title": "#1430 - Raghunath Cappo",
     "episode_id": 1430,
     "isMMA": false,
     "isFC": false,
@@ -945,8 +945,8 @@ module.exports = [
     "date": "February 21, 2020"
   },
   {
-    "title": "#1429 - Colin O’Brady",
     "guests": ["Colin O’Brady"],
+    "title": "#1429 - Colin O’Brady",
     "episode_id": 1429,
     "isMMA": false,
     "isFC": false,
@@ -954,8 +954,8 @@ module.exports = [
     "date": "February 20, 2020"
   },
   {
-    "title": "#1428 - Brian Greene",
     "guests": ["Brian Greene"],
+    "title": "#1428 - Brian Greene",
     "episode_id": 1428,
     "isMMA": false,
     "isFC": false,
@@ -963,8 +963,8 @@ module.exports = [
     "date": "February 19, 2020"
   },
   {
-    "title": "#092 - JRE MMA Show #92 with Angela Hill",
     "guests": ["Angela Hill"],
+    "title": "#092 - JRE MMA Show #92 with Angela Hill",
     "episode_id": 92,
     "isMMA": true,
     "isFC": false,
@@ -972,8 +972,8 @@ module.exports = [
     "date": "February 18, 2020"
   },
   {
-    "title": "#1427 - Melissa Chen",
     "guests": ["Melissa Chen"],
+    "title": "#1427 - Melissa Chen",
     "episode_id": 1427,
     "isMMA": false,
     "isFC": false,
@@ -981,8 +981,8 @@ module.exports = [
     "date": "February 14, 2020"
   },
   {
-    "title": "#091 - JRE MMA Show #91 with Radio Rahim",
     "guests": ["Radio Rahim"],
+    "title": "#091 - JRE MMA Show #91 with Radio Rahim",
     "episode_id": 91,
     "isMMA": true,
     "isFC": false,
@@ -990,8 +990,8 @@ module.exports = [
     "date": "February 13, 2020"
   },
   {
-    "title": "#1426 - Justin Martindale",
     "guests": ["Justin Martindale"],
+    "title": "#1426 - Justin Martindale",
     "episode_id": 1426,
     "isMMA": false,
     "isFC": false,
@@ -999,8 +999,8 @@ module.exports = [
     "date": "February 12, 2020"
   },
   {
-    "title": "#090 - JRE MMA Show #90 with Rashad Evans",
     "guests": ["Rashad Evans"],
+    "title": "#090 - JRE MMA Show #90 with Rashad Evans",
     "episode_id": 90,
     "isMMA": true,
     "isFC": false,
@@ -1008,8 +1008,8 @@ module.exports = [
     "date": "February 11, 2020"
   },
   {
-    "title": "#1425 - Garrett Reisman",
     "guests": ["Garrett Reisman"],
+    "title": "#1425 - Garrett Reisman",
     "episode_id": 1425,
     "isMMA": false,
     "isFC": false,
@@ -1017,8 +1017,8 @@ module.exports = [
     "date": "February 7, 2020"
   },
   {
-    "title": "#1424 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1424 - Tom Papa",
     "episode_id": 1424,
     "isMMA": false,
     "isFC": false,
@@ -1026,8 +1026,8 @@ module.exports = [
     "date": "February 6, 2020"
   },
   {
-    "title": "# - Andrew Doyle",
     "guests": ["Andrew Doyle"],
+    "title": "# - Andrew Doyle",
     "episode_id": 0,
     "isMMA": false,
     "isFC": false,
@@ -1035,8 +1035,8 @@ module.exports = [
     "date": "February 5, 2020"
   },
   {
-    "title": "#1422 - Lex Fridman",
     "guests": ["Lex Fridman"],
+    "title": "#1422 - Lex Fridman",
     "episode_id": 1422,
     "isMMA": false,
     "isFC": false,
@@ -1044,8 +1044,8 @@ module.exports = [
     "date": "February 4, 2020"
   },
   {
-    "title": "#1421 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#1421 - Jim Norton",
     "episode_id": 1421,
     "isMMA": false,
     "isFC": false,
@@ -1053,8 +1053,8 @@ module.exports = [
     "date": "February 4, 2020"
   },
   {
-    "title": "#1420 - Mark Normand",
     "guests": ["Mark Normand"],
+    "title": "#1420 - Mark Normand",
     "episode_id": 1420,
     "isMMA": false,
     "isFC": false,
@@ -1062,8 +1062,8 @@ module.exports = [
     "date": "January 31, 2020"
   },
   {
-    "title": "#1419 - Daryl Davis",
     "guests": ["Daryl Davis"],
+    "title": "#1419 - Daryl Davis",
     "episode_id": 1419,
     "isMMA": false,
     "isFC": false,
@@ -1071,8 +1071,8 @@ module.exports = [
     "date": "January 30, 2020"
   },
   {
-    "title": "#089 - JRE MMA Show #89 with Rafael Lovato Jr.",
     "guests": ["Rafael Lovato Jr."],
+    "title": "#089 - JRE MMA Show #89 with Rafael Lovato Jr.",
     "episode_id": 89,
     "isMMA": true,
     "isFC": false,
@@ -1080,8 +1080,8 @@ module.exports = [
     "date": "January 29, 2020"
   },
   {
-    "title": "#088 - JRE MMA Show #88 with Frankie Edgar",
     "guests": ["Frankie Edgar"],
+    "title": "#088 - JRE MMA Show #88 with Frankie Edgar",
     "episode_id": 88,
     "isMMA": true,
     "isFC": false,
@@ -1089,8 +1089,8 @@ module.exports = [
     "date": "January 28, 2020"
   },
   {
-    "title": "#087 - JRE MMA Show #87 with Kamaru Usman",
     "guests": ["Kamaru Usman"],
+    "title": "#087 - JRE MMA Show #87 with Kamaru Usman",
     "episode_id": 87,
     "isMMA": true,
     "isFC": false,
@@ -1098,8 +1098,8 @@ module.exports = [
     "date": "January 27, 2020"
   },
   {
-    "title": "#086 - JRE MMA Show #86 with Josh Thomson",
     "guests": ["Josh Thomson"],
+    "title": "#086 - JRE MMA Show #86 with Josh Thomson",
     "episode_id": 86,
     "isMMA": true,
     "isFC": false,
@@ -1107,8 +1107,8 @@ module.exports = [
     "date": "January 24, 2020"
   },
   {
-    "title": "#1418 - Don Gavin",
     "guests": ["Don Gavin"],
+    "title": "#1418 - Don Gavin",
     "episode_id": 1418,
     "isMMA": false,
     "isFC": false,
@@ -1116,8 +1116,8 @@ module.exports = [
     "date": "January 23, 2020"
   },
   {
-    "title": "#1417 - Kevin Ross",
     "guests": ["Kevin Ross"],
+    "title": "#1417 - Kevin Ross",
     "episode_id": 1417,
     "isMMA": false,
     "isFC": false,
@@ -1125,8 +1125,8 @@ module.exports = [
     "date": "January 22, 2020"
   },
   {
-    "title": "#1416 - Rob Kearney",
     "guests": ["Rob Kearney"],
+    "title": "#1416 - Rob Kearney",
     "episode_id": 1416,
     "isMMA": false,
     "isFC": false,
@@ -1134,8 +1134,8 @@ module.exports = [
     "date": "January 21, 2020"
   },
   {
-    "title": "#1415 - Bari Weiss",
     "guests": ["Bari Weiss"],
+    "title": "#1415 - Bari Weiss",
     "episode_id": 1415,
     "isMMA": false,
     "isFC": false,
@@ -1143,8 +1143,8 @@ module.exports = [
     "date": "January 20, 2020"
   },
   {
-    "title": "#1414 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1414 - Mike Baker",
     "episode_id": 1414,
     "isMMA": false,
     "isFC": false,
@@ -1152,8 +1152,8 @@ module.exports = [
     "date": "January 18, 2020"
   },
   {
-    "title": "#1413 - Bill Maher",
     "guests": ["Bill Maher"],
+    "title": "#1413 - Bill Maher",
     "episode_id": 1413,
     "isMMA": false,
     "isFC": false,
@@ -1161,8 +1161,8 @@ module.exports = [
     "date": "January 17, 2020"
   },
   {
-    "title": "#1412 - Jimmy Dore",
     "guests": ["Jimmy Dore"],
+    "title": "#1412 - Jimmy Dore",
     "episode_id": 1412,
     "isMMA": false,
     "isFC": false,
@@ -1170,8 +1170,8 @@ module.exports = [
     "date": "January 16, 2020"
   },
   {
-    "title": "#1411 - Robert Downey Jr.",
     "guests": ["Robert Downey Jr."],
+    "title": "#1411 - Robert Downey Jr.",
     "episode_id": 1411,
     "isMMA": false,
     "isFC": false,
@@ -1179,8 +1179,8 @@ module.exports = [
     "date": "January 15, 2020"
   },
   {
-    "title": "#1410 - Ash Dykes",
     "guests": ["Ash Dykes"],
+    "title": "#1410 - Ash Dykes",
     "episode_id": 1410,
     "isMMA": false,
     "isFC": false,
@@ -1188,8 +1188,8 @@ module.exports = [
     "date": "January 14, 2020"
   },
   {
-    "title": "#1409 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1409 - Joey Diaz",
     "episode_id": 1409,
     "isMMA": false,
     "isFC": false,
@@ -1197,8 +1197,8 @@ module.exports = [
     "date": "January 13, 2020"
   },
   {
-    "title": "#046 - Fight Companion – January 9, 2020",
     "guests": ["Fight Companion – January 9, 2020"],
+    "title": "#046 - Fight Companion – January 9, 2020",
     "episode_id": 46,
     "isMMA": false,
     "isFC": false,
@@ -1206,8 +1206,8 @@ module.exports = [
     "date": "January 10, 2020"
   },
   {
-    "title": "#1408 - Ed Calderon",
     "guests": ["Ed Calderon"],
+    "title": "#1408 - Ed Calderon",
     "episode_id": 1408,
     "isMMA": false,
     "isFC": false,
@@ -1215,8 +1215,8 @@ module.exports = [
     "date": "January 8, 2020"
   },
   {
-    "title": "#1407 - Michael Malice",
     "guests": ["Michael Malice"],
+    "title": "#1407 - Michael Malice",
     "episode_id": 1407,
     "isMMA": false,
     "isFC": false,
@@ -1224,8 +1224,8 @@ module.exports = [
     "date": "January 7, 2020"
   },
   {
-    "title": "#1406 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1406 - Brian Redban",
     "episode_id": 1406,
     "isMMA": false,
     "isFC": false,
@@ -1233,8 +1233,8 @@ module.exports = [
     "date": "January 6, 2020"
   },
   {
-    "title": "#1405 - Sober October 3 Recap",
     "guests": ["Sober October 3 Recap"],
+    "title": "#1405 - Sober October 3 Recap",
     "episode_id": 1405,
     "isMMA": false,
     "isFC": false,
@@ -1242,8 +1242,8 @@ module.exports = [
     "date": "December 24, 2019"
   },
   {
-    "title": "#1404 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1404 - Bryan Callen",
     "episode_id": 1404,
     "isMMA": false,
     "isFC": false,
@@ -1251,8 +1251,8 @@ module.exports = [
     "date": "December 20, 2019"
   },
   {
-    "title": "#1403 - Forrest Galante",
     "guests": ["Forrest Galante"],
+    "title": "#1403 - Forrest Galante",
     "episode_id": 1403,
     "isMMA": false,
     "isFC": false,
@@ -1260,8 +1260,8 @@ module.exports = [
     "date": "December 19, 2019"
   },
   {
-    "title": "#085 - JRE MMA Show #85 with Max Holloway",
     "guests": ["Max Holloway"],
+    "title": "#085 - JRE MMA Show #85 with Max Holloway",
     "episode_id": 85,
     "isMMA": true,
     "isFC": false,
@@ -1269,8 +1269,8 @@ module.exports = [
     "date": "December 18, 2019"
   },
   {
-    "title": "#1402 - Boyan Slat",
     "guests": ["Boyan Slat"],
+    "title": "#1402 - Boyan Slat",
     "episode_id": 1402,
     "isMMA": false,
     "isFC": false,
@@ -1278,8 +1278,8 @@ module.exports = [
     "date": "December 17, 2019"
   },
   {
-    "title": "#1401 - Iliza Shlesinger",
     "guests": ["Iliza Shlesinger"],
+    "title": "#1401 - Iliza Shlesinger",
     "episode_id": 1401,
     "isMMA": false,
     "isFC": false,
@@ -1287,8 +1287,8 @@ module.exports = [
     "date": "December 16, 2019"
   },
   {
-    "title": "#1400 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#1400 - Tony Hinchcliffe",
     "episode_id": 1400,
     "isMMA": false,
     "isFC": false,
@@ -1296,8 +1296,8 @@ module.exports = [
     "date": "December 13, 2019"
   },
   {
-    "title": "#1399 - Pavel Tsatsouline",
     "guests": ["Pavel Tsatsouline"],
+    "title": "#1399 - Pavel Tsatsouline",
     "episode_id": 1399,
     "isMMA": false,
     "isFC": false,
@@ -1305,8 +1305,8 @@ module.exports = [
     "date": "December 12, 2019"
   },
   {
-    "title": "#1398 - Lil Duval",
     "guests": ["Lil Duval"],
+    "title": "#1398 - Lil Duval",
     "episode_id": 1398,
     "isMMA": false,
     "isFC": false,
@@ -1314,8 +1314,8 @@ module.exports = [
     "date": "December 11, 2019"
   },
   {
-    "title": "#1397 - S.C. Gwynne",
     "guests": ["S.C. Gwynne"],
+    "title": "#1397 - S.C. Gwynne",
     "episode_id": 1397,
     "isMMA": false,
     "isFC": false,
@@ -1323,8 +1323,8 @@ module.exports = [
     "date": "December 10, 2019"
   },
   {
-    "title": "#1396 - Michelle Wolf",
     "guests": ["Michelle Wolf"],
+    "title": "#1396 - Michelle Wolf",
     "episode_id": 1396,
     "isMMA": false,
     "isFC": false,
@@ -1332,8 +1332,8 @@ module.exports = [
     "date": "December 9, 2019"
   },
   {
-    "title": "#1395 - Glenn Villeneuve",
     "guests": ["Glenn Villeneuve"],
+    "title": "#1395 - Glenn Villeneuve",
     "episode_id": 1395,
     "isMMA": false,
     "isFC": false,
@@ -1341,8 +1341,8 @@ module.exports = [
     "date": "December 7, 2019"
   },
   {
-    "title": "#1394 - Matt Farah",
     "guests": ["Matt Farah"],
+    "title": "#1394 - Matt Farah",
     "episode_id": 1394,
     "isMMA": false,
     "isFC": false,
@@ -1350,8 +1350,8 @@ module.exports = [
     "date": "December 6, 2019"
   },
   {
-    "title": "#1393 - James Wilks & Chris Kresser – The Game Changers Debate",
     "guests": ["James Wilks", "Chris Kresser – The Game Changers Debate"],
+    "title": "#1393 - James Wilks & Chris Kresser – The Game Changers Debate",
     "episode_id": 1393,
     "isMMA": false,
     "isFC": false,
@@ -1359,8 +1359,8 @@ module.exports = [
     "date": "December 5, 2019"
   },
   {
-    "title": "#084 - JRE MMA Show #84 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#084 - JRE MMA Show #84 with Brendan Schaub",
     "episode_id": 84,
     "isMMA": true,
     "isFC": false,
@@ -1368,8 +1368,8 @@ module.exports = [
     "date": "December 4, 2019"
   },
   {
-    "title": "#1392 - Zach Bitter",
     "guests": ["Zach Bitter"],
+    "title": "#1392 - Zach Bitter",
     "episode_id": 1392,
     "isMMA": false,
     "isFC": false,
@@ -1377,8 +1377,8 @@ module.exports = [
     "date": "December 3, 2019"
   },
   {
-    "title": "#083 - JRE MMA Show #83 with Firas Zahabi",
     "guests": ["Firas Zahabi"],
+    "title": "#083 - JRE MMA Show #83 with Firas Zahabi",
     "episode_id": 83,
     "isMMA": true,
     "isFC": false,
@@ -1386,8 +1386,8 @@ module.exports = [
     "date": "November 27, 2019"
   },
   {
-    "title": "#1391 - Tulsi Gabbard & Jocko Willink",
     "guests": ["Tulsi Gabbard", "Jocko Willink"],
+    "title": "#1391 - Tulsi Gabbard & Jocko Willink",
     "episode_id": 1391,
     "isMMA": false,
     "isFC": false,
@@ -1395,8 +1395,8 @@ module.exports = [
     "date": "November 26, 2019"
   },
   {
-    "title": "#1390 - Tim Dillon",
     "guests": ["Tim Dillon"],
+    "title": "#1390 - Tim Dillon",
     "episode_id": 1390,
     "isMMA": false,
     "isFC": false,
@@ -1404,8 +1404,8 @@ module.exports = [
     "date": "November 22, 2019"
   },
   {
-    "title": "#1389 - Chris Kresser Debunks “The Gamechangers” Documentary",
     "guests": ["Chris Kresser Debunks “The Gamechangers” Documentary"],
+    "title": "#1389 - Chris Kresser Debunks “The Gamechangers” Documentary",
     "episode_id": 1389,
     "isMMA": false,
     "isFC": false,
@@ -1413,8 +1413,8 @@ module.exports = [
     "date": "November 21, 2019"
   },
   {
-    "title": "#1388 - Louie Psihoyos",
     "guests": ["Louie Psihoyos"],
+    "title": "#1388 - Louie Psihoyos",
     "episode_id": 1388,
     "isMMA": false,
     "isFC": false,
@@ -1422,8 +1422,8 @@ module.exports = [
     "date": "November 20, 2019"
   },
   {
-    "title": "#1387 - Josh Homme",
     "guests": ["Josh Homme"],
+    "title": "#1387 - Josh Homme",
     "episode_id": 1387,
     "isMMA": false,
     "isFC": false,
@@ -1431,8 +1431,8 @@ module.exports = [
     "date": "November 19, 2019"
   },
   {
-    "title": "#1386 - Matt Taibbi",
     "guests": ["Matt Taibbi"],
+    "title": "#1386 - Matt Taibbi",
     "episode_id": 1386,
     "isMMA": false,
     "isFC": false,
@@ -1440,8 +1440,8 @@ module.exports = [
     "date": "November 16, 2019"
   },
   {
-    "title": "#1385 - Paul Stamets",
     "guests": ["Paul Stamets"],
+    "title": "#1385 - Paul Stamets",
     "episode_id": 1385,
     "isMMA": false,
     "isFC": false,
@@ -1449,8 +1449,8 @@ module.exports = [
     "date": "November 15, 2019"
   },
   {
-    "title": "#1384 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#1384 - Ari Shaffir",
     "episode_id": 1384,
     "isMMA": false,
     "isFC": false,
@@ -1458,8 +1458,8 @@ module.exports = [
     "date": "November 14, 2019"
   },
   {
-    "title": "#1383 - Malcolm Gladwell",
     "guests": ["Malcolm Gladwell"],
+    "title": "#1383 - Malcolm Gladwell",
     "episode_id": 1383,
     "isMMA": false,
     "isFC": false,
@@ -1467,8 +1467,8 @@ module.exports = [
     "date": "November 13, 2019"
   },
   {
-    "title": "#1382 - RZA & Donnell Rawlings",
     "guests": ["RZA", "Donnell Rawlings"],
+    "title": "#1382 - RZA & Donnell Rawlings",
     "episode_id": 1382,
     "isMMA": false,
     "isFC": false,
@@ -1476,8 +1476,8 @@ module.exports = [
     "date": "November 12, 2019"
   },
   {
-    "title": "#1381 - Donnell Rawlings",
     "guests": ["Donnell Rawlings"],
+    "title": "#1381 - Donnell Rawlings",
     "episode_id": 1381,
     "isMMA": false,
     "isFC": false,
@@ -1485,8 +1485,8 @@ module.exports = [
     "date": "November 12, 2019"
   },
   {
-    "title": "#082 - JRE MMA Show #82 with Israel Adesanya",
     "guests": ["Israel Adesanya"],
+    "title": "#082 - JRE MMA Show #82 with Israel Adesanya",
     "episode_id": 82,
     "isMMA": true,
     "isFC": false,
@@ -1494,8 +1494,8 @@ module.exports = [
     "date": "November 11, 2019"
   },
   {
-    "title": "#1380 - Pete Dominick",
     "guests": ["Pete Dominick"],
+    "title": "#1380 - Pete Dominick",
     "episode_id": 1380,
     "isMMA": false,
     "isFC": false,
@@ -1503,8 +1503,8 @@ module.exports = [
     "date": "November 8, 2019"
   },
   {
-    "title": "#1379 - Ben Westhoff",
     "guests": ["Ben Westhoff"],
+    "title": "#1379 - Ben Westhoff",
     "episode_id": 1379,
     "isMMA": false,
     "isFC": false,
@@ -1512,8 +1512,8 @@ module.exports = [
     "date": "November 7, 2019"
   },
   {
-    "title": "#1378 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1378 - Greg Fitzsimmons",
     "episode_id": 1378,
     "isMMA": false,
     "isFC": false,
@@ -1521,8 +1521,8 @@ module.exports = [
     "date": "November 6, 2019"
   },
   {
-    "title": "#1377 - Rick Baker",
     "guests": ["Rick Baker"],
+    "title": "#1377 - Rick Baker",
     "episode_id": 1377,
     "isMMA": false,
     "isFC": false,
@@ -1530,8 +1530,8 @@ module.exports = [
     "date": "November 5, 2019"
   },
   {
-    "title": "#1376 - Artie Lange",
     "guests": ["Artie Lange"],
+    "title": "#1376 - Artie Lange",
     "episode_id": 1376,
     "isMMA": false,
     "isFC": false,
@@ -1539,8 +1539,8 @@ module.exports = [
     "date": "November 4, 2019"
   },
   {
-    "title": "#1375 - Edward Norton",
     "guests": ["Edward Norton"],
+    "title": "#1375 - Edward Norton",
     "episode_id": 1375,
     "isMMA": false,
     "isFC": false,
@@ -1548,8 +1548,8 @@ module.exports = [
     "date": "October 31, 2019"
   },
   {
-    "title": "#1374 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#1374 - Justin Wren",
     "episode_id": 1374,
     "isMMA": false,
     "isFC": false,
@@ -1557,8 +1557,8 @@ module.exports = [
     "date": "October 30, 2019"
   },
   {
-    "title": "#1373 - Kyle Kulinski",
     "guests": ["Kyle Kulinski"],
+    "title": "#1373 - Kyle Kulinski",
     "episode_id": 1373,
     "isMMA": false,
     "isFC": false,
@@ -1566,8 +1566,8 @@ module.exports = [
     "date": "October 30, 2019"
   },
   {
-    "title": "#1372 - Kevin Smith",
     "guests": ["Kevin Smith"],
+    "title": "#1372 - Kevin Smith",
     "episode_id": 1372,
     "isMMA": false,
     "isFC": false,
@@ -1575,8 +1575,8 @@ module.exports = [
     "date": "October 29, 2019"
   },
   {
-    "title": "#1371 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1371 - Andrew Santino",
     "episode_id": 1371,
     "isMMA": false,
     "isFC": false,
@@ -1584,8 +1584,8 @@ module.exports = [
     "date": "October 29, 2019"
   },
   {
-    "title": "#081 - JRE MMA Show #81 with Dave Leduc",
     "guests": ["Dave Leduc"],
+    "title": "#081 - JRE MMA Show #81 with Dave Leduc",
     "episode_id": 81,
     "isMMA": true,
     "isFC": false,
@@ -1593,8 +1593,8 @@ module.exports = [
     "date": "October 28, 2019"
   },
   {
-    "title": "#1370 - Brian Grazer",
     "guests": ["Brian Grazer"],
+    "title": "#1370 - Brian Grazer",
     "episode_id": 1370,
     "isMMA": false,
     "isFC": false,
@@ -1602,8 +1602,8 @@ module.exports = [
     "date": "October 24, 2019"
   },
   {
-    "title": "#1369 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#1369 - Christopher Ryan",
     "episode_id": 1369,
     "isMMA": false,
     "isFC": false,
@@ -1611,8 +1611,8 @@ module.exports = [
     "date": "October 23, 2019"
   },
   {
-    "title": "#1368 - Edward Snowden",
     "guests": ["Edward Snowden"],
+    "title": "#1368 - Edward Snowden",
     "episode_id": 1368,
     "isMMA": false,
     "isFC": false,
@@ -1620,8 +1620,8 @@ module.exports = [
     "date": "October 23, 2019"
   },
   {
-    "title": "#1367 - Bridget Phetasy",
     "guests": ["Bridget Phetasy"],
+    "title": "#1367 - Bridget Phetasy",
     "episode_id": 1367,
     "isMMA": false,
     "isFC": false,
@@ -1629,8 +1629,8 @@ module.exports = [
     "date": "October 22, 2019"
   },
   {
-    "title": "#1336 - Richard Dawkins",
     "guests": ["Richard Dawkins"],
+    "title": "#1336 - Richard Dawkins",
     "episode_id": 1336,
     "isMMA": false,
     "isFC": false,
@@ -1638,8 +1638,8 @@ module.exports = [
     "date": "October 21, 2019"
   },
   {
-    "title": "#1365 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#1365 - Cameron Hanes",
     "episode_id": 1365,
     "isMMA": false,
     "isFC": false,
@@ -1647,8 +1647,8 @@ module.exports = [
     "date": "October 10, 2019"
   },
   {
-    "title": "#1364 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1364 - Brian Redban",
     "episode_id": 1364,
     "isMMA": false,
     "isFC": false,
@@ -1656,8 +1656,8 @@ module.exports = [
     "date": "October 9, 2019"
   },
   {
-    "title": "#1363 - Dakota Meyer",
     "guests": ["Dakota Meyer"],
+    "title": "#1363 - Dakota Meyer",
     "episode_id": 1363,
     "isMMA": false,
     "isFC": false,
@@ -1665,8 +1665,8 @@ module.exports = [
     "date": "October 8, 2019"
   },
   {
-    "title": "#080 - JRE MMA Show #80 with Evander Holyfield",
     "guests": ["Evander Holyfield"],
+    "title": "#080 - JRE MMA Show #80 with Evander Holyfield",
     "episode_id": 80,
     "isMMA": true,
     "isFC": false,
@@ -1674,8 +1674,8 @@ module.exports = [
     "date": "October 7, 2019"
   },
   {
-    "title": "#1362 - Lenny Clarke",
     "guests": ["Lenny Clarke"],
+    "title": "#1362 - Lenny Clarke",
     "episode_id": 1362,
     "isMMA": false,
     "isFC": false,
@@ -1683,8 +1683,8 @@ module.exports = [
     "date": "October 7, 2019"
   },
   {
-    "title": "#1361 - Cmdr. David Fravor & Jeremy Corbell",
     "guests": ["Cmdr. David Fravor", "Jeremy Corbell"],
+    "title": "#1361 - Cmdr. David Fravor & Jeremy Corbell",
     "episode_id": 1361,
     "isMMA": false,
     "isFC": false,
@@ -1692,8 +1692,8 @@ module.exports = [
     "date": "October 5, 2019"
   },
   {
-    "title": "#1360 - Nikki Glaser",
     "guests": ["Nikki Glaser"],
+    "title": "#1360 - Nikki Glaser",
     "episode_id": 1360,
     "isMMA": false,
     "isFC": false,
@@ -1701,8 +1701,8 @@ module.exports = [
     "date": "October 3, 2019"
   },
   {
-    "title": "#1359 - Roseanne Barr",
     "guests": ["Roseanne Barr"],
+    "title": "#1359 - Roseanne Barr",
     "episode_id": 1359,
     "isMMA": false,
     "isFC": false,
@@ -1710,8 +1710,8 @@ module.exports = [
     "date": "October 2, 2019"
   },
   {
-    "title": "#1358 - Sober October 3",
     "guests": ["Sober October 3"],
+    "title": "#1358 - Sober October 3",
     "episode_id": 1358,
     "isMMA": false,
     "isFC": false,
@@ -1719,8 +1719,8 @@ module.exports = [
     "date": "October 1, 2019"
   },
   {
-    "title": "#1357 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#1357 - Ari Shaffir",
     "episode_id": 1357,
     "isMMA": false,
     "isFC": false,
@@ -1728,8 +1728,8 @@ module.exports = [
     "date": "October 1, 2019"
   },
   {
-    "title": "#1356 - Sturgill Simpson & His Band",
     "guests": ["Sturgill Simpson", "His Band"],
+    "title": "#1356 - Sturgill Simpson & His Band",
     "episode_id": 1356,
     "isMMA": false,
     "isFC": false,
@@ -1737,8 +1737,8 @@ module.exports = [
     "date": "September 30, 2019"
   },
   {
-    "title": "#1355 - Mark Normand",
     "guests": ["Mark Normand"],
+    "title": "#1355 - Mark Normand",
     "episode_id": 1355,
     "isMMA": false,
     "isFC": false,
@@ -1746,8 +1746,8 @@ module.exports = [
     "date": "September 20, 2019"
   },
   {
-    "title": "#1354 - The Black Keys",
     "guests": ["The Black Keys"],
+    "title": "#1354 - The Black Keys",
     "episode_id": 1354,
     "isMMA": false,
     "isFC": false,
@@ -1755,8 +1755,8 @@ module.exports = [
     "date": "September 19, 2019"
   },
   {
-    "title": "#079 - JRE MMA Show #79 with Vinnie Shoreman & Liam Harrison",
     "guests": ["Vinnie Shoreman", "Liam Harrison"],
+    "title": "#079 - JRE MMA Show #79 with Vinnie Shoreman & Liam Harrison",
     "episode_id": 79,
     "isMMA": true,
     "isFC": false,
@@ -1764,8 +1764,8 @@ module.exports = [
     "date": "September 18, 2019"
   },
   {
-    "title": "#1353 - Rob Zombie",
     "guests": ["Rob Zombie"],
+    "title": "#1353 - Rob Zombie",
     "episode_id": 1353,
     "isMMA": false,
     "isFC": false,
@@ -1773,8 +1773,8 @@ module.exports = [
     "date": "September 16, 2019"
   },
   {
-    "title": "#1352 - Sean Carroll",
     "guests": ["Sean Carroll"],
+    "title": "#1352 - Sean Carroll",
     "episode_id": 1352,
     "isMMA": false,
     "isFC": false,
@@ -1782,8 +1782,8 @@ module.exports = [
     "date": "September 16, 2019"
   },
   {
-    "title": "#1351 - Dan Aykroyd",
     "guests": ["Dan Aykroyd"],
+    "title": "#1351 - Dan Aykroyd",
     "episode_id": 1351,
     "isMMA": false,
     "isFC": false,
@@ -1791,8 +1791,8 @@ module.exports = [
     "date": "September 12, 2019"
   },
   {
-    "title": "#1350 - Nick Bostrom",
     "guests": ["Nick Bostrom"],
+    "title": "#1350 - Nick Bostrom",
     "episode_id": 1350,
     "isMMA": false,
     "isFC": false,
@@ -1800,8 +1800,8 @@ module.exports = [
     "date": "September 11, 2019"
   },
   {
-    "title": "#1349 - David Sinclair",
     "guests": ["David Sinclair"],
+    "title": "#1349 - David Sinclair",
     "episode_id": 1349,
     "isMMA": false,
     "isFC": false,
@@ -1809,8 +1809,8 @@ module.exports = [
     "date": "September 10, 2019"
   },
   {
-    "title": "#1348 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#1348 - Bill Burr",
     "episode_id": 1348,
     "isMMA": false,
     "isFC": false,
@@ -1818,8 +1818,8 @@ module.exports = [
     "date": "September 9, 2019"
   },
   {
-    "title": "#045 - Fight Companion – September 7, 2019",
     "guests": ["Fight Companion – September 7, 2019"],
+    "title": "#045 - Fight Companion – September 7, 2019",
     "episode_id": 45,
     "isMMA": false,
     "isFC": false,
@@ -1827,8 +1827,8 @@ module.exports = [
     "date": "September 7, 2019"
   },
   {
-    "title": "#1347 - Neil deGrasse Tyson",
     "guests": ["Neil deGrasse Tyson"],
+    "title": "#1347 - Neil deGrasse Tyson",
     "episode_id": 1347,
     "isMMA": false,
     "isFC": false,
@@ -1836,8 +1836,8 @@ module.exports = [
     "date": "September 5, 2019"
   },
   {
-    "title": "#1346 - Zuby",
     "guests": ["Zuby"],
+    "title": "#1346 - Zuby",
     "episode_id": 1346,
     "isMMA": false,
     "isFC": false,
@@ -1845,8 +1845,8 @@ module.exports = [
     "date": "September 5, 2019"
   },
   {
-    "title": "#1345 - Steve Aoki",
     "guests": ["Steve Aoki"],
+    "title": "#1345 - Steve Aoki",
     "episode_id": 1345,
     "isMMA": false,
     "isFC": false,
@@ -1854,8 +1854,8 @@ module.exports = [
     "date": "September 4, 2019"
   },
   {
-    "title": "#1344 - Jospeh Ledoux",
     "guests": ["Jospeh Ledoux"],
+    "title": "#1344 - Jospeh Ledoux",
     "episode_id": 1344,
     "isMMA": false,
     "isFC": false,
@@ -1863,8 +1863,8 @@ module.exports = [
     "date": "September 4, 2019"
   },
   {
-    "title": "#078 - JRE MMA Show #78 with Andre Ward",
     "guests": ["Andre Ward"],
+    "title": "#078 - JRE MMA Show #78 with Andre Ward",
     "episode_id": 78,
     "isMMA": true,
     "isFC": false,
@@ -1872,8 +1872,8 @@ module.exports = [
     "date": "September 3, 2019"
   },
   {
-    "title": "#1343 - Penn Jillette",
     "guests": ["Penn Jillette"],
+    "title": "#1343 - Penn Jillette",
     "episode_id": 1343,
     "isMMA": false,
     "isFC": false,
@@ -1881,8 +1881,8 @@ module.exports = [
     "date": "August 29, 2019"
   },
   {
-    "title": "#1342 - John Carmack",
     "guests": ["John Carmack"],
+    "title": "#1342 - John Carmack",
     "episode_id": 1342,
     "isMMA": false,
     "isFC": false,
@@ -1890,8 +1890,8 @@ module.exports = [
     "date": "August 28, 2019"
   },
   {
-    "title": "#1341 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#1341 - Steven Rinella",
     "episode_id": 1341,
     "isMMA": false,
     "isFC": false,
@@ -1899,8 +1899,8 @@ module.exports = [
     "date": "August 27, 2019"
   },
   {
-    "title": "#077 - JRE MMA Show #77 with Cedric Doumbe",
     "guests": ["Cedric Doumbe"],
+    "title": "#077 - JRE MMA Show #77 with Cedric Doumbe",
     "episode_id": 77,
     "isMMA": true,
     "isFC": false,
@@ -1908,8 +1908,8 @@ module.exports = [
     "date": "August 26, 2019"
   },
   {
-    "title": "#1340 - John Nores",
     "guests": ["John Nores"],
+    "title": "#1340 - John Nores",
     "episode_id": 1340,
     "isMMA": false,
     "isFC": false,
@@ -1917,8 +1917,8 @@ module.exports = [
     "date": "August 26, 2019"
   },
   {
-    "title": "#1339 - Everlast",
     "guests": ["Everlast"],
+    "title": "#1339 - Everlast",
     "episode_id": 1339,
     "isMMA": false,
     "isFC": false,
@@ -1926,8 +1926,8 @@ module.exports = [
     "date": "August 21, 2019"
   },
   {
-    "title": "#1338 - Roy Wood Jr.",
     "guests": ["Roy Wood Jr."],
+    "title": "#1338 - Roy Wood Jr.",
     "episode_id": 1338,
     "isMMA": false,
     "isFC": false,
@@ -1935,8 +1935,8 @@ module.exports = [
     "date": "August 21, 2019"
   },
   {
-    "title": "#1337 - Dan Crenshaw",
     "guests": ["Dan Crenshaw"],
+    "title": "#1337 - Dan Crenshaw",
     "episode_id": 1337,
     "isMMA": false,
     "isFC": false,
@@ -1944,8 +1944,8 @@ module.exports = [
     "date": "August 20, 2019"
   },
   {
-    "title": "#076 - JRE MMA Show #76 with Terence Crawford",
     "guests": ["Terence Crawford"],
+    "title": "#076 - JRE MMA Show #76 with Terence Crawford",
     "episode_id": 76,
     "isMMA": true,
     "isFC": false,
@@ -1953,8 +1953,8 @@ module.exports = [
     "date": "August 19, 2019"
   },
   {
-    "title": "#1336 - Legion Of Skanks",
     "guests": ["Legion Of Skanks"],
+    "title": "#1336 - Legion Of Skanks",
     "episode_id": 1336,
     "isMMA": false,
     "isFC": false,
@@ -1962,8 +1962,8 @@ module.exports = [
     "date": "August 19, 2019"
   },
   {
-    "title": "#075 - JRE MMA Show #75 with Dan Hardy",
     "guests": ["Dan Hardy"],
+    "title": "#075 - JRE MMA Show #75 with Dan Hardy",
     "episode_id": 75,
     "isMMA": true,
     "isFC": false,
@@ -1971,8 +1971,8 @@ module.exports = [
     "date": "August 15, 2019"
   },
   {
-    "title": "#1335 - Jim Gaffigan",
     "guests": ["Jim Gaffigan"],
+    "title": "#1335 - Jim Gaffigan",
     "episode_id": 1335,
     "isMMA": false,
     "isFC": false,
@@ -1980,8 +1980,8 @@ module.exports = [
     "date": "August 14, 2019"
   },
   {
-    "title": "#1334 - Fahim Anwar",
     "guests": ["Fahim Anwar"],
+    "title": "#1334 - Fahim Anwar",
     "episode_id": 1334,
     "isMMA": false,
     "isFC": false,
@@ -1989,8 +1989,8 @@ module.exports = [
     "date": "August 13, 2019"
   },
   {
-    "title": "#1333 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1333 - Tom Papa",
     "episode_id": 1333,
     "isMMA": false,
     "isFC": false,
@@ -1998,8 +1998,8 @@ module.exports = [
     "date": "August 12, 2019"
   },
   {
-    "title": "#074 - JRE MMA Show #74 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#074 - JRE MMA Show #74 with Brendan Schaub",
     "episode_id": 74,
     "isMMA": true,
     "isFC": false,
@@ -2007,8 +2007,8 @@ module.exports = [
     "date": "August 7, 2019"
   },
   {
-    "title": "#1332 - Annie Lederman",
     "guests": ["Annie Lederman"],
+    "title": "#1332 - Annie Lederman",
     "episode_id": 1332,
     "isMMA": false,
     "isFC": false,
@@ -2016,8 +2016,8 @@ module.exports = [
     "date": "August 7, 2019"
   },
   {
-    "title": "#1331 - Alonzo Bodden",
     "guests": ["Alonzo Bodden"],
+    "title": "#1331 - Alonzo Bodden",
     "episode_id": 1331,
     "isMMA": false,
     "isFC": false,
@@ -2025,8 +2025,8 @@ module.exports = [
     "date": "August 6, 2019"
   },
   {
-    "title": "#1330 - Bernie Sanders",
     "guests": ["Bernie Sanders"],
+    "title": "#1330 - Bernie Sanders",
     "episode_id": 1330,
     "isMMA": false,
     "isFC": false,
@@ -2034,8 +2034,8 @@ module.exports = [
     "date": "August 6, 2019"
   },
   {
-    "title": "#073 - JRE MMA Show #73 with Jean Jacques Machado",
     "guests": ["Jean Jacques Machado"],
+    "title": "#073 - JRE MMA Show #73 with Jean Jacques Machado",
     "episode_id": 73,
     "isMMA": true,
     "isFC": false,
@@ -2043,8 +2043,8 @@ module.exports = [
     "date": "August 5, 2019"
   },
   {
-    "title": "#1329 - Brian Moses",
     "guests": ["Brian Moses"],
+    "title": "#1329 - Brian Moses",
     "episode_id": 1329,
     "isMMA": false,
     "isFC": false,
@@ -2052,8 +2052,8 @@ module.exports = [
     "date": "August 1, 2019"
   },
   {
-    "title": "#072 - JRE MMA Show #72 with Andy Ruiz",
     "guests": ["Andy Ruiz"],
+    "title": "#072 - JRE MMA Show #72 with Andy Ruiz",
     "episode_id": 72,
     "isMMA": true,
     "isFC": false,
@@ -2061,8 +2061,8 @@ module.exports = [
     "date": "July 31, 2019"
   },
   {
-    "title": "#1328 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#1328 - Whitney Cummings",
     "episode_id": 1328,
     "isMMA": false,
     "isFC": false,
@@ -2070,8 +2070,8 @@ module.exports = [
     "date": "July 30, 2019"
   },
   {
-    "title": "#1327 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1327 - Mike Baker",
     "episode_id": 1327,
     "isMMA": false,
     "isFC": false,
@@ -2079,8 +2079,8 @@ module.exports = [
     "date": "July 30, 2019"
   },
   {
-    "title": "#1326 - Maynard James Keenan",
     "guests": ["Maynard James Keenan"],
+    "title": "#1326 - Maynard James Keenan",
     "episode_id": 1326,
     "isMMA": false,
     "isFC": false,
@@ -2088,8 +2088,8 @@ module.exports = [
     "date": "July 29, 2019"
   },
   {
-    "title": "#071 - JRE MMA Show #71 with Rico Verhoeven",
     "guests": ["Rico Verhoeven"],
+    "title": "#071 - JRE MMA Show #71 with Rico Verhoeven",
     "episode_id": 71,
     "isMMA": true,
     "isFC": false,
@@ -2097,8 +2097,8 @@ module.exports = [
     "date": "July 24, 2019"
   },
   {
-    "title": "#1325 - Dr. Cornel West",
     "guests": ["Dr. Cornel West"],
+    "title": "#1325 - Dr. Cornel West",
     "episode_id": 1325,
     "isMMA": false,
     "isFC": false,
@@ -2106,8 +2106,8 @@ module.exports = [
     "date": "July 24, 2019"
   },
   {
-    "title": "#070 - JRE MMA Show #70 with Aljamain Sterling",
     "guests": ["Aljamain Sterling"],
+    "title": "#070 - JRE MMA Show #70 with Aljamain Sterling",
     "episode_id": 70,
     "isMMA": true,
     "isFC": false,
@@ -2115,8 +2115,8 @@ module.exports = [
     "date": "July 11, 2019"
   },
   {
-    "title": "#1324 - Ian Edwards",
     "guests": ["Ian Edwards"],
+    "title": "#1324 - Ian Edwards",
     "episode_id": 1324,
     "isMMA": false,
     "isFC": false,
@@ -2124,8 +2124,8 @@ module.exports = [
     "date": "July 11, 2019"
   },
   {
-    "title": "#1323 - Andy Ngo",
     "guests": ["Andy Ngo"],
+    "title": "#1323 - Andy Ngo",
     "episode_id": 1323,
     "isMMA": false,
     "isFC": false,
@@ -2133,8 +2133,8 @@ module.exports = [
     "date": "July 10, 2019"
   },
   {
-    "title": "#1322 - Reggie Watts",
     "guests": ["Reggie Watts"],
+    "title": "#1322 - Reggie Watts",
     "episode_id": 1322,
     "isMMA": false,
     "isFC": false,
@@ -2142,8 +2142,8 @@ module.exports = [
     "date": "July 9, 2019"
   },
   {
-    "title": "#1321 - Robert Oberst",
     "guests": ["Robert Oberst"],
+    "title": "#1321 - Robert Oberst",
     "episode_id": 1321,
     "isMMA": false,
     "isFC": false,
@@ -2151,8 +2151,8 @@ module.exports = [
     "date": "July 8, 2019"
   },
   {
-    "title": "#1320 - Eric Weinstein",
     "guests": ["Eric Weinstein"],
+    "title": "#1320 - Eric Weinstein",
     "episode_id": 1320,
     "isMMA": false,
     "isFC": false,
@@ -2160,8 +2160,8 @@ module.exports = [
     "date": "July 3, 2019"
   },
   {
-    "title": "#069 - JRE MMA Show #69 with Yves Edwards",
     "guests": ["Yves Edwards"],
+    "title": "#069 - JRE MMA Show #69 with Yves Edwards",
     "episode_id": 69,
     "isMMA": true,
     "isFC": false,
@@ -2169,8 +2169,8 @@ module.exports = [
     "date": "July 2, 2019"
   },
   {
-    "title": "#1319 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1319 - Joey Diaz",
     "episode_id": 1319,
     "isMMA": false,
     "isFC": false,
@@ -2178,8 +2178,8 @@ module.exports = [
     "date": "July 1, 2019"
   },
   {
-    "title": "#1318 - Hotep Jesus",
     "guests": ["Hotep Jesus"],
+    "title": "#1318 - Hotep Jesus",
     "episode_id": 1318,
     "isMMA": false,
     "isFC": false,
@@ -2187,8 +2187,8 @@ module.exports = [
     "date": "June 26, 2019"
   },
   {
-    "title": "#1317 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1317 - Andrew Santino",
     "episode_id": 1317,
     "isMMA": false,
     "isFC": false,
@@ -2196,8 +2196,8 @@ module.exports = [
     "date": "June 25, 2019"
   },
   {
-    "title": "#1316 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#1316 - Abby Martin",
     "episode_id": 1316,
     "isMMA": false,
     "isFC": false,
@@ -2205,8 +2205,8 @@ module.exports = [
     "date": "June 25, 2019"
   },
   {
-    "title": "#068 - JRE MMA Show #68 with Will Harris",
     "guests": ["Will Harris"],
+    "title": "#068 - JRE MMA Show #68 with Will Harris",
     "episode_id": 68,
     "isMMA": true,
     "isFC": false,
@@ -2214,8 +2214,8 @@ module.exports = [
     "date": "June 24, 2019"
   },
   {
-    "title": "#Swapcast01 - Swapcast01",
     "guests": ["Swapcast01"],
+    "title": "#Swapcast01 - Swapcast01",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -2223,8 +2223,8 @@ module.exports = [
     "date": "June 21, 2019"
   },
   {
-    "title": "#1315 - Bob Lazar & Jeremy Corbell",
     "guests": ["Bob Lazar", "Jeremy Corbell"],
+    "title": "#1315 - Bob Lazar & Jeremy Corbell",
     "episode_id": 1315,
     "isMMA": false,
     "isFC": false,
@@ -2232,8 +2232,8 @@ module.exports = [
     "date": "June 20, 2019"
   },
   {
-    "title": "#1314 - Charlamagne tha God & Andrew Schulz",
     "guests": ["Charlamagne tha God", "Andrew Schulz"],
+    "title": "#1314 - Charlamagne tha God & Andrew Schulz",
     "episode_id": 1314,
     "isMMA": false,
     "isFC": false,
@@ -2241,8 +2241,8 @@ module.exports = [
     "date": "June 19, 2019"
   },
   {
-    "title": "#1313 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#1313 - Duncan Trussell",
     "episode_id": 1313,
     "isMMA": false,
     "isFC": false,
@@ -2250,8 +2250,8 @@ module.exports = [
     "date": "June 18, 2019"
   },
   {
-    "title": "#1312 - Ms. Pat",
     "guests": ["Ms. Pat"],
+    "title": "#1312 - Ms. Pat",
     "episode_id": 1312,
     "isMMA": false,
     "isFC": false,
@@ -2259,8 +2259,8 @@ module.exports = [
     "date": "June 18, 2019"
   },
   {
-    "title": "#067 - JRE MMA Show #67 with Kevin Lee",
     "guests": ["Kevin Lee"],
+    "title": "#067 - JRE MMA Show #67 with Kevin Lee",
     "episode_id": 67,
     "isMMA": true,
     "isFC": false,
@@ -2268,8 +2268,8 @@ module.exports = [
     "date": "June 5, 2019"
   },
   {
-    "title": "#1311 - David Pakman",
     "guests": ["David Pakman"],
+    "title": "#1311 - David Pakman",
     "episode_id": 1311,
     "isMMA": false,
     "isFC": false,
@@ -2277,8 +2277,8 @@ module.exports = [
     "date": "June 5, 2019"
   },
   {
-    "title": "#1310 - Sober October 2019 Preview",
     "guests": ["Sober October 2019 Preview"],
+    "title": "#1310 - Sober October 2019 Preview",
     "episode_id": 1310,
     "isMMA": false,
     "isFC": false,
@@ -2286,8 +2286,8 @@ module.exports = [
     "date": "June 4, 2019"
   },
   {
-    "title": "#1309 - Naval Ravikant",
     "guests": ["Naval Ravikant"],
+    "title": "#1309 - Naval Ravikant",
     "episode_id": 1309,
     "isMMA": false,
     "isFC": false,
@@ -2295,8 +2295,8 @@ module.exports = [
     "date": "June 4, 2019"
   },
   {
-    "title": "#1308 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#1308 - Eddie Bravo",
     "episode_id": 1308,
     "isMMA": false,
     "isFC": false,
@@ -2304,8 +2304,8 @@ module.exports = [
     "date": "June 4, 2019"
   },
   {
-    "title": "#1307 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1307 - Greg Fitzsimmons",
     "episode_id": 1307,
     "isMMA": false,
     "isFC": false,
@@ -2313,8 +2313,8 @@ module.exports = [
     "date": "May 31, 2019"
   },
   {
-    "title": "#1306 - Wiz Khalifa",
     "guests": ["Wiz Khalifa"],
+    "title": "#1306 - Wiz Khalifa",
     "episode_id": 1306,
     "isMMA": false,
     "isFC": false,
@@ -2322,8 +2322,8 @@ module.exports = [
     "date": "May 30, 2019"
   },
   {
-    "title": "#1305 - JD & John Witherspoon",
     "guests": ["JD", "John Witherspoon"],
+    "title": "#1305 - JD & John Witherspoon",
     "episode_id": 1305,
     "isMMA": false,
     "isFC": false,
@@ -2331,8 +2331,8 @@ module.exports = [
     "date": "May 29, 2019"
   },
   {
-    "title": "#066 - JRE MMA Show #66 with Michelle Waterson",
     "guests": ["Michelle Waterson"],
+    "title": "#066 - JRE MMA Show #66 with Michelle Waterson",
     "episode_id": 66,
     "isMMA": true,
     "isFC": false,
@@ -2340,8 +2340,8 @@ module.exports = [
     "date": "May 28, 2019"
   },
   {
-    "title": "#1304 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#1304 - Brendan Schaub",
     "episode_id": 1304,
     "isMMA": false,
     "isFC": false,
@@ -2349,8 +2349,8 @@ module.exports = [
     "date": "May 23, 2019"
   },
   {
-    "title": "#1303 - Tommy Chong",
     "guests": ["Tommy Chong"],
+    "title": "#1303 - Tommy Chong",
     "episode_id": 1303,
     "isMMA": false,
     "isFC": false,
@@ -2358,8 +2358,8 @@ module.exports = [
     "date": "May 23, 2019"
   },
   {
-    "title": "#1302 - Ed Calderon",
     "guests": ["Ed Calderon"],
+    "title": "#1302 - Ed Calderon",
     "episode_id": 1302,
     "isMMA": false,
     "isFC": false,
@@ -2367,8 +2367,8 @@ module.exports = [
     "date": "May 22, 2019"
   },
   {
-    "title": "#1301 - Laird Hamilton",
     "guests": ["Laird Hamilton"],
+    "title": "#1301 - Laird Hamilton",
     "episode_id": 1301,
     "isMMA": false,
     "isFC": false,
@@ -2376,8 +2376,8 @@ module.exports = [
     "date": "May 22, 2019"
   },
   {
-    "title": "#1300 - Michael Malice",
     "guests": ["Michael Malice"],
+    "title": "#1300 - Michael Malice",
     "episode_id": 1300,
     "isMMA": false,
     "isFC": false,
@@ -2385,8 +2385,8 @@ module.exports = [
     "date": "May 20, 2019"
   },
   {
-    "title": "#1299 - Annie Jacobsen",
     "guests": ["Annie Jacobsen"],
+    "title": "#1299 - Annie Jacobsen",
     "episode_id": 1299,
     "isMMA": false,
     "isFC": false,
@@ -2394,8 +2394,8 @@ module.exports = [
     "date": "May 16, 2019"
   },
   {
-    "title": "#1298 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#1298 - Neal Brennan",
     "episode_id": 1298,
     "isMMA": false,
     "isFC": false,
@@ -2403,8 +2403,8 @@ module.exports = [
     "date": "May 15, 2019"
   },
   {
-    "title": "#1297 - Phil Demers",
     "guests": ["Phil Demers"],
+    "title": "#1297 - Phil Demers",
     "episode_id": 1297,
     "isMMA": false,
     "isFC": false,
@@ -2412,8 +2412,8 @@ module.exports = [
     "date": "May 15, 2019"
   },
   {
-    "title": "#1296 - Joe List",
     "guests": ["Joe List"],
+    "title": "#1296 - Joe List",
     "episode_id": 1296,
     "isMMA": false,
     "isFC": false,
@@ -2421,8 +2421,8 @@ module.exports = [
     "date": "May 14, 2019"
   },
   {
-    "title": "#1295 - Tulsi Gabbard",
     "guests": ["Tulsi Gabbard"],
+    "title": "#1295 - Tulsi Gabbard",
     "episode_id": 1295,
     "isMMA": false,
     "isFC": false,
@@ -2430,8 +2430,8 @@ module.exports = [
     "date": "May 13, 2019"
   },
   {
-    "title": "#1294 - Jamie Metzl",
     "guests": ["Jamie Metzl"],
+    "title": "#1294 - Jamie Metzl",
     "episode_id": 1294,
     "isMMA": false,
     "isFC": false,
@@ -2439,8 +2439,8 @@ module.exports = [
     "date": "May 9, 2019"
   },
   {
-    "title": "#1293 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1293 - Andrew Santino",
     "episode_id": 1293,
     "isMMA": false,
     "isFC": false,
@@ -2448,8 +2448,8 @@ module.exports = [
     "date": "May 8, 2019"
   },
   {
-    "title": "#1292 - Lex Fridman",
     "guests": ["Lex Fridman"],
+    "title": "#1292 - Lex Fridman",
     "episode_id": 1292,
     "isMMA": false,
     "isFC": false,
@@ -2457,8 +2457,8 @@ module.exports = [
     "date": "May 7, 2019"
   },
   {
-    "title": "#1291 - C.T. Fletcher",
     "guests": ["C.T. Fletcher"],
+    "title": "#1291 - C.T. Fletcher",
     "episode_id": 1291,
     "isMMA": false,
     "isFC": false,
@@ -2466,8 +2466,8 @@ module.exports = [
     "date": "May 6, 2019"
   },
   {
-    "title": "#1290 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1290 - Bryan Callen",
     "episode_id": 1290,
     "isMMA": false,
     "isFC": false,
@@ -2475,8 +2475,8 @@ module.exports = [
     "date": "May 3, 2019"
   },
   {
-    "title": "#1289 - Eddie Izzard",
     "guests": ["Eddie Izzard"],
+    "title": "#1289 - Eddie Izzard",
     "episode_id": 1289,
     "isMMA": false,
     "isFC": false,
@@ -2484,8 +2484,8 @@ module.exports = [
     "date": "May 2, 2019"
   },
   {
-    "title": "#1288 - Jon Reep",
     "guests": ["Jon Reep"],
+    "title": "#1288 - Jon Reep",
     "episode_id": 1288,
     "isMMA": false,
     "isFC": false,
@@ -2493,8 +2493,8 @@ module.exports = [
     "date": "May 1, 2019"
   },
   {
-    "title": "#1287 - Rich Benoit",
     "guests": ["Rich Benoit"],
+    "title": "#1287 - Rich Benoit",
     "episode_id": 1287,
     "isMMA": false,
     "isFC": false,
@@ -2502,8 +2502,8 @@ module.exports = [
     "date": "April 30, 2019"
   },
   {
-    "title": "#1286 - Anthony Jeselnik",
     "guests": ["Anthony Jeselnik"],
+    "title": "#1286 - Anthony Jeselnik",
     "episode_id": 1286,
     "isMMA": false,
     "isFC": false,
@@ -2511,8 +2511,8 @@ module.exports = [
     "date": "April 29, 2019"
   },
   {
-    "title": "#065 - JRE MMA Show #65 with Corey Anderson",
     "guests": ["Corey Anderson"],
+    "title": "#065 - JRE MMA Show #65 with Corey Anderson",
     "episode_id": 65,
     "isMMA": true,
     "isFC": false,
@@ -2520,8 +2520,8 @@ module.exports = [
     "date": "April 26, 2019"
   },
   {
-    "title": "#064 - JRE MMA Show #64 with Khalil Rountree Jr.",
     "guests": ["Khalil Rountree Jr."],
+    "title": "#064 - JRE MMA Show #64 with Khalil Rountree Jr.",
     "episode_id": 64,
     "isMMA": true,
     "isFC": false,
@@ -2529,8 +2529,8 @@ module.exports = [
     "date": "April 25, 2019"
   },
   {
-    "title": "#1285 - B-Real",
     "guests": ["B-Real"],
+    "title": "#1285 - B-Real",
     "episode_id": 1285,
     "isMMA": false,
     "isFC": false,
@@ -2538,8 +2538,8 @@ module.exports = [
     "date": "April 23, 2019"
   },
   {
-    "title": "#1284 - Graham Hancock",
     "guests": ["Graham Hancock"],
+    "title": "#1284 - Graham Hancock",
     "episode_id": 1284,
     "isMMA": false,
     "isFC": false,
@@ -2547,8 +2547,8 @@ module.exports = [
     "date": "April 22, 2019"
   },
   {
-    "title": "#1283 - Russell Brand",
     "guests": ["Russell Brand"],
+    "title": "#1283 - Russell Brand",
     "episode_id": 1283,
     "isMMA": false,
     "isFC": false,
@@ -2556,8 +2556,8 @@ module.exports = [
     "date": "April 20, 2019"
   },
   {
-    "title": "#1282 - Adam Conover",
     "guests": ["Adam Conover"],
+    "title": "#1282 - Adam Conover",
     "episode_id": 1282,
     "isMMA": false,
     "isFC": false,
@@ -2565,8 +2565,8 @@ module.exports = [
     "date": "April 17, 2019"
   },
   {
-    "title": "#063 - JRE MMA Show #63 with Jorge Masvidal",
     "guests": ["Jorge Masvidal"],
+    "title": "#063 - JRE MMA Show #63 with Jorge Masvidal",
     "episode_id": 63,
     "isMMA": true,
     "isFC": false,
@@ -2574,8 +2574,8 @@ module.exports = [
     "date": "April 16, 2019"
   },
   {
-    "title": "#062 - JRE MMA Show #62 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#062 - JRE MMA Show #62 with Brendan Schaub",
     "episode_id": 62,
     "isMMA": true,
     "isFC": false,
@@ -2583,8 +2583,8 @@ module.exports = [
     "date": "April 15, 2019"
   },
   {
-    "title": "#1281 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1281 - Tom Papa",
     "episode_id": 1281,
     "isMMA": false,
     "isFC": false,
@@ -2592,8 +2592,8 @@ module.exports = [
     "date": "April 15, 2019"
   },
   {
-    "title": "#061 - JRE MMA Show #61 with Herb Dean",
     "guests": ["Herb Dean"],
+    "title": "#061 - JRE MMA Show #61 with Herb Dean",
     "episode_id": 61,
     "isMMA": true,
     "isFC": false,
@@ -2601,8 +2601,8 @@ module.exports = [
     "date": "April 10, 2019"
   },
   {
-    "title": "#1280 - Micheal Yo",
     "guests": ["Micheal Yo"],
+    "title": "#1280 - Micheal Yo",
     "episode_id": 1280,
     "isMMA": false,
     "isFC": false,
@@ -2610,8 +2610,8 @@ module.exports = [
     "date": "April 9, 2019"
   },
   {
-    "title": "#1279 - Jessimae Peluso",
     "guests": ["Jessimae Peluso"],
+    "title": "#1279 - Jessimae Peluso",
     "episode_id": 1279,
     "isMMA": false,
     "isFC": false,
@@ -2619,8 +2619,8 @@ module.exports = [
     "date": "April 8, 2019"
   },
   {
-    "title": "#1278 - Kevin Hart",
     "guests": ["Kevin Hart"],
+    "title": "#1278 - Kevin Hart",
     "episode_id": 1278,
     "isMMA": false,
     "isFC": false,
@@ -2628,8 +2628,8 @@ module.exports = [
     "date": "April 6, 2019"
   },
   {
-    "title": "#1277 - Gabrielle Reece",
     "guests": ["Gabrielle Reece"],
+    "title": "#1277 - Gabrielle Reece",
     "episode_id": 1277,
     "isMMA": false,
     "isFC": false,
@@ -2637,8 +2637,8 @@ module.exports = [
     "date": "April 3, 2019"
   },
   {
-    "title": "#1276 - Ben Shapiro",
     "guests": ["Ben Shapiro"],
+    "title": "#1276 - Ben Shapiro",
     "episode_id": 1276,
     "isMMA": false,
     "isFC": false,
@@ -2646,8 +2646,8 @@ module.exports = [
     "date": "April 3, 2019"
   },
   {
-    "title": "#060 - JRE MMA Show #60 with Forrest Griffin, Clint Wattenberg & Dr. Duncan French",
     "guests": ["Forrest Griffin", "Clint Wattenberg", "Dr. Duncan French"],
+    "title": "#060 - JRE MMA Show #60 with Forrest Griffin, Clint Wattenberg & Dr. Duncan French",
     "episode_id": 60,
     "isMMA": true,
     "isFC": false,
@@ -2655,8 +2655,8 @@ module.exports = [
     "date": "April 2, 2019"
   },
   {
-    "title": "#1275 - Luis J. Gomez",
     "guests": ["Luis J. Gomez"],
+    "title": "#1275 - Luis J. Gomez",
     "episode_id": 1275,
     "isMMA": false,
     "isFC": false,
@@ -2664,8 +2664,8 @@ module.exports = [
     "date": "April 2, 2019"
   },
   {
-    "title": "#1274 - Nicholas Christakis",
     "guests": ["Nicholas Christakis"],
+    "title": "#1274 - Nicholas Christakis",
     "episode_id": 1274,
     "isMMA": false,
     "isFC": false,
@@ -2673,8 +2673,8 @@ module.exports = [
     "date": "March 28, 2019"
   },
   {
-    "title": "#1273 - Ron Funches",
     "guests": ["Ron Funches"],
+    "title": "#1273 - Ron Funches",
     "episode_id": 1273,
     "isMMA": false,
     "isFC": false,
@@ -2682,8 +2682,8 @@ module.exports = [
     "date": "March 26, 2019"
   },
   {
-    "title": "#1272 - Lindsey Fitzharris",
     "guests": ["Lindsey Fitzharris"],
+    "title": "#1272 - Lindsey Fitzharris",
     "episode_id": 1272,
     "isMMA": false,
     "isFC": false,
@@ -2691,8 +2691,8 @@ module.exports = [
     "date": "March 26, 2019"
   },
   {
-    "title": "#1271 - Billy Corben",
     "guests": ["Billy Corben"],
+    "title": "#1271 - Billy Corben",
     "episode_id": 1271,
     "isMMA": false,
     "isFC": false,
@@ -2700,8 +2700,8 @@ module.exports = [
     "date": "March 25, 2019"
   },
   {
-    "title": "#1270 - Lenny Clarke",
     "guests": ["Lenny Clarke"],
+    "title": "#1270 - Lenny Clarke",
     "episode_id": 1270,
     "isMMA": false,
     "isFC": false,
@@ -2709,8 +2709,8 @@ module.exports = [
     "date": "March 25, 2019"
   },
   {
-    "title": "#1269 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1269 - Bryan Callen",
     "episode_id": 1269,
     "isMMA": false,
     "isFC": false,
@@ -2718,8 +2718,8 @@ module.exports = [
     "date": "March 20, 2019"
   },
   {
-    "title": "#1268 - Ron White",
     "guests": ["Ron White"],
+    "title": "#1268 - Ron White",
     "episode_id": 1268,
     "isMMA": false,
     "isFC": false,
@@ -2727,8 +2727,8 @@ module.exports = [
     "date": "March 19, 2019"
   },
   {
-    "title": "#1267 - Gary Taubes & Stephan Guyenet",
     "guests": ["Gary Taubes", "Stephan Guyenet"],
+    "title": "#1267 - Gary Taubes & Stephan Guyenet",
     "episode_id": 1267,
     "isMMA": false,
     "isFC": false,
@@ -2736,8 +2736,8 @@ module.exports = [
     "date": "March 19, 2019"
   },
   {
-    "title": "#059 - MMA Show #59 with Kamaru Usman",
     "guests": ["MMA Show #59 with Kamaru Usman"],
+    "title": "#059 - MMA Show #59 with Kamaru Usman",
     "episode_id": 59,
     "isMMA": false,
     "isFC": false,
@@ -2745,8 +2745,8 @@ module.exports = [
     "date": "March 18, 2019"
   },
   {
-    "title": "#1266 - Ben Anderson",
     "guests": ["Ben Anderson"],
+    "title": "#1266 - Ben Anderson",
     "episode_id": 1266,
     "isMMA": false,
     "isFC": false,
@@ -2754,8 +2754,8 @@ module.exports = [
     "date": "March 18, 2019"
   },
   {
-    "title": "#1265 - Andrew Schulz",
     "guests": ["Andrew Schulz"],
+    "title": "#1265 - Andrew Schulz",
     "episode_id": 1265,
     "isMMA": false,
     "isFC": false,
@@ -2763,8 +2763,8 @@ module.exports = [
     "date": "March 14, 2019"
   },
   {
-    "title": "#1264 - Timothy Denevi",
     "guests": ["Timothy Denevi"],
+    "title": "#1264 - Timothy Denevi",
     "episode_id": 1264,
     "isMMA": false,
     "isFC": false,
@@ -2772,8 +2772,8 @@ module.exports = [
     "date": "March 13, 2019"
   },
   {
-    "title": "#1263 - Renée DiResta",
     "guests": ["Renée DiResta"],
+    "title": "#1263 - Renée DiResta",
     "episode_id": 1263,
     "isMMA": false,
     "isFC": false,
@@ -2781,8 +2781,8 @@ module.exports = [
     "date": "March 12, 2019"
   },
   {
-    "title": "#1262 - Pat McNamara",
     "guests": ["Pat McNamara"],
+    "title": "#1262 - Pat McNamara",
     "episode_id": 1262,
     "isMMA": false,
     "isFC": false,
@@ -2790,8 +2790,8 @@ module.exports = [
     "date": "March 12, 2019"
   },
   {
-    "title": "#1261 - Peter Hotez",
     "guests": ["Peter Hotez"],
+    "title": "#1261 - Peter Hotez",
     "episode_id": 1261,
     "isMMA": false,
     "isFC": false,
@@ -2799,8 +2799,8 @@ module.exports = [
     "date": "March 11, 2019"
   },
   {
-    "title": "#1260 - Lennox Lewis & Russell Peters",
     "guests": ["Lennox Lewis", "Russell Peters"],
+    "title": "#1260 - Lennox Lewis & Russell Peters",
     "episode_id": 1260,
     "isMMA": false,
     "isFC": false,
@@ -2808,8 +2808,8 @@ module.exports = [
     "date": "March 7, 2019"
   },
   {
-    "title": "#1259 - David Wallace-Wells",
     "guests": ["David Wallace-Wells"],
+    "title": "#1259 - David Wallace-Wells",
     "episode_id": 1259,
     "isMMA": false,
     "isFC": false,
@@ -2817,8 +2817,8 @@ module.exports = [
     "date": "March 6, 2019"
   },
   {
-    "title": "#1258 - Jack Dorsey, Vijaya Gadde & Tim Pool",
     "guests": ["Jack Dorsey", "Vijaya Gadde", "Tim Pool"],
+    "title": "#1258 - Jack Dorsey, Vijaya Gadde & Tim Pool",
     "episode_id": 1258,
     "isMMA": false,
     "isFC": false,
@@ -2826,8 +2826,8 @@ module.exports = [
     "date": "March 5, 2019"
   },
   {
-    "title": "#058 - JRE MMA Show #58 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#058 - JRE MMA Show #58 with Brendan Schaub",
     "episode_id": 58,
     "isMMA": true,
     "isFC": false,
@@ -2835,8 +2835,8 @@ module.exports = [
     "date": "March 4, 2019"
   },
   {
-    "title": "#1257 - Steve Sweeney",
     "guests": ["Steve Sweeney"],
+    "title": "#1257 - Steve Sweeney",
     "episode_id": 1257,
     "isMMA": false,
     "isFC": false,
@@ -2844,8 +2844,8 @@ module.exports = [
     "date": "March 4, 2019"
   },
   {
-    "title": "#1256 - David Lee Roth",
     "guests": ["David Lee Roth"],
+    "title": "#1256 - David Lee Roth",
     "episode_id": 1256,
     "isMMA": false,
     "isFC": false,
@@ -2853,8 +2853,8 @@ module.exports = [
     "date": "February 28, 2019"
   },
   {
-    "title": "#1255 - Alex Jones Returns!",
     "guests": ["Alex Jones Returns!"],
+    "title": "#1255 - Alex Jones Returns!",
     "episode_id": 1255,
     "isMMA": false,
     "isFC": false,
@@ -2862,8 +2862,8 @@ module.exports = [
     "date": "February 27, 2019"
   },
   {
-    "title": "#1254 - Dr. Phil",
     "guests": ["Dr. Phil"],
+    "title": "#1254 - Dr. Phil",
     "episode_id": 1254,
     "isMMA": false,
     "isFC": false,
@@ -2871,8 +2871,8 @@ module.exports = [
     "date": "February 26, 2019"
   },
   {
-    "title": "#1253 - Ioan Grillo",
     "guests": ["Ioan Grillo"],
+    "title": "#1253 - Ioan Grillo",
     "episode_id": 1253,
     "isMMA": false,
     "isFC": false,
@@ -2880,8 +2880,8 @@ module.exports = [
     "date": "February 26, 2019"
   },
   {
-    "title": "#1252 - Dave Foley & Paul Greenberg",
     "guests": ["Dave Foley", "Paul Greenberg"],
+    "title": "#1252 - Dave Foley & Paul Greenberg",
     "episode_id": 1252,
     "isMMA": false,
     "isFC": false,
@@ -2889,8 +2889,8 @@ module.exports = [
     "date": "February 25, 2019"
   },
   {
-    "title": "#1251 - Tim Dillon",
     "guests": ["Tim Dillon"],
+    "title": "#1251 - Tim Dillon",
     "episode_id": 1251,
     "isMMA": false,
     "isFC": false,
@@ -2898,8 +2898,8 @@ module.exports = [
     "date": "February 21, 2019"
   },
   {
-    "title": "#1250 - Johann Hari",
     "guests": ["Johann Hari"],
+    "title": "#1250 - Johann Hari",
     "episode_id": 1250,
     "isMMA": false,
     "isFC": false,
@@ -2907,8 +2907,8 @@ module.exports = [
     "date": "February 20, 2019"
   },
   {
-    "title": "#1249 - Donnell Rawlings",
     "guests": ["Donnell Rawlings"],
+    "title": "#1249 - Donnell Rawlings",
     "episode_id": 1249,
     "isMMA": false,
     "isFC": false,
@@ -2916,8 +2916,8 @@ module.exports = [
     "date": "February 19, 2019"
   },
   {
-    "title": "#1248 - Bill Ottman",
     "guests": ["Bill Ottman"],
+    "title": "#1248 - Bill Ottman",
     "episode_id": 1248,
     "isMMA": false,
     "isFC": false,
@@ -2925,8 +2925,8 @@ module.exports = [
     "date": "February 19, 2019"
   },
   {
-    "title": "#1247 - Andy Stumpf",
     "guests": ["Andy Stumpf"],
+    "title": "#1247 - Andy Stumpf",
     "episode_id": 1247,
     "isMMA": false,
     "isFC": false,
@@ -2934,8 +2934,8 @@ module.exports = [
     "date": "February 18, 2019"
   },
   {
-    "title": "#044 - Fight Companion – February 17, 2019",
     "guests": ["Fight Companion – February 17, 2019"],
+    "title": "#044 - Fight Companion – February 17, 2019",
     "episode_id": 44,
     "isMMA": false,
     "isFC": false,
@@ -2943,8 +2943,8 @@ module.exports = [
     "date": "February 17, 2019"
   },
   {
-    "title": "#1246 - Pot Debate – Alex Berenson & Dr. Michael Hart",
     "guests": ["Pot Debate – Alex Berenson", "Dr. Michael Hart"],
+    "title": "#1246 - Pot Debate – Alex Berenson & Dr. Michael Hart",
     "episode_id": 1246,
     "isMMA": false,
     "isFC": false,
@@ -2952,8 +2952,8 @@ module.exports = [
     "date": "February 13, 2019"
   },
   {
-    "title": "#1245 - Andrew Yang",
     "guests": ["Andrew Yang"],
+    "title": "#1245 - Andrew Yang",
     "episode_id": 1245,
     "isMMA": false,
     "isFC": false,
@@ -2961,8 +2961,8 @@ module.exports = [
     "date": "February 12, 2019"
   },
   {
-    "title": "#1244 - Colin O’Brady",
     "guests": ["Colin O’Brady"],
+    "title": "#1244 - Colin O’Brady",
     "episode_id": 1244,
     "isMMA": false,
     "isFC": false,
@@ -2970,8 +2970,8 @@ module.exports = [
     "date": "February 11, 2019"
   },
   {
-    "title": "#1243 - Rafinha Bastos",
     "guests": ["Rafinha Bastos"],
+    "title": "#1243 - Rafinha Bastos",
     "episode_id": 1243,
     "isMMA": false,
     "isFC": false,
@@ -2979,8 +2979,8 @@ module.exports = [
     "date": "February 11, 2019"
   },
   {
-    "title": "#1242 - Tim Pool",
     "guests": ["Tim Pool"],
+    "title": "#1242 - Tim Pool",
     "episode_id": 1242,
     "isMMA": false,
     "isFC": false,
@@ -2988,8 +2988,8 @@ module.exports = [
     "date": "February 8, 2019"
   },
   {
-    "title": "#1241 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#1241 - Sam Harris",
     "episode_id": 1241,
     "isMMA": false,
     "isFC": false,
@@ -2997,8 +2997,8 @@ module.exports = [
     "date": "February 7, 2019"
   },
   {
-    "title": "#1240 - Forrest Galante",
     "guests": ["Forrest Galante"],
+    "title": "#1240 - Forrest Galante",
     "episode_id": 1240,
     "isMMA": false,
     "isFC": false,
@@ -3006,8 +3006,8 @@ module.exports = [
     "date": "February 6, 2019"
   },
   {
-    "title": "#1239 - Travis Barker",
     "guests": ["Travis Barker"],
+    "title": "#1239 - Travis Barker",
     "episode_id": 1239,
     "isMMA": false,
     "isFC": false,
@@ -3015,8 +3015,8 @@ module.exports = [
     "date": "February 5, 2019"
   },
   {
-    "title": "#1238 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1238 - Brian Redban",
     "episode_id": 1238,
     "isMMA": false,
     "isFC": false,
@@ -3024,8 +3024,8 @@ module.exports = [
     "date": "February 4, 2019"
   },
   {
-    "title": "#1237 - Sebastian Maniscalco",
     "guests": ["Sebastian Maniscalco"],
+    "title": "#1237 - Sebastian Maniscalco",
     "episode_id": 1237,
     "isMMA": false,
     "isFC": false,
@@ -3033,8 +3033,8 @@ module.exports = [
     "date": "February 4, 2019"
   },
   {
-    "title": "#1236 - Jack Dorsey",
     "guests": ["Jack Dorsey"],
+    "title": "#1236 - Jack Dorsey",
     "episode_id": 1236,
     "isMMA": false,
     "isFC": false,
@@ -3042,8 +3042,8 @@ module.exports = [
     "date": "February 1, 2019"
   },
   {
-    "title": "#057 - JRE MMA Show #57 with TJ Dillashaw",
     "guests": ["TJ Dillashaw"],
+    "title": "#057 - JRE MMA Show #57 with TJ Dillashaw",
     "episode_id": 57,
     "isMMA": true,
     "isFC": false,
@@ -3051,8 +3051,8 @@ module.exports = [
     "date": "January 31, 2019"
   },
   {
-    "title": "#1235 - Ben Greenfield",
     "guests": ["Ben Greenfield"],
+    "title": "#1235 - Ben Greenfield",
     "episode_id": 1235,
     "isMMA": false,
     "isFC": false,
@@ -3060,8 +3060,8 @@ module.exports = [
     "date": "January 30, 2019"
   },
   {
-    "title": "#1234 - David Sinclair",
     "guests": ["David Sinclair"],
+    "title": "#1234 - David Sinclair",
     "episode_id": 1234,
     "isMMA": false,
     "isFC": false,
@@ -3069,8 +3069,8 @@ module.exports = [
     "date": "January 29, 2019"
   },
   {
-    "title": "#1233 - Brian Cox",
     "guests": ["Brian Cox"],
+    "title": "#1233 - Brian Cox",
     "episode_id": 1233,
     "isMMA": false,
     "isFC": false,
@@ -3078,8 +3078,8 @@ module.exports = [
     "date": "January 28, 2019"
   },
   {
-    "title": "#043 - Fight Companion – January 26, 2019",
     "guests": ["Fight Companion – January 26, 2019"],
+    "title": "#043 - Fight Companion – January 26, 2019",
     "episode_id": 43,
     "isMMA": false,
     "isFC": false,
@@ -3087,8 +3087,8 @@ module.exports = [
     "date": "January 26, 2019"
   },
   {
-    "title": "#1232 - Nick Di Paolo",
     "guests": ["Nick Di Paolo"],
+    "title": "#1232 - Nick Di Paolo",
     "episode_id": 1232,
     "isMMA": false,
     "isFC": false,
@@ -3096,8 +3096,8 @@ module.exports = [
     "date": "January 25, 2019"
   },
   {
-    "title": "#1231 - Matt Braunger",
     "guests": ["Matt Braunger"],
+    "title": "#1231 - Matt Braunger",
     "episode_id": 1231,
     "isMMA": false,
     "isFC": false,
@@ -3105,8 +3105,8 @@ module.exports = [
     "date": "January 24, 2019"
   },
   {
-    "title": "#1230 - Killer Mike",
     "guests": ["Killer Mike"],
+    "title": "#1230 - Killer Mike",
     "episode_id": 1230,
     "isMMA": false,
     "isFC": false,
@@ -3114,8 +3114,8 @@ module.exports = [
     "date": "January 23, 2019"
   },
   {
-    "title": "#1229 - Richard Rawlings",
     "guests": ["Richard Rawlings"],
+    "title": "#1229 - Richard Rawlings",
     "episode_id": 1229,
     "isMMA": false,
     "isFC": false,
@@ -3123,8 +3123,8 @@ module.exports = [
     "date": "January 22, 2019"
   },
   {
-    "title": "#1228 - Bari Weiss",
     "guests": ["Bari Weiss"],
+    "title": "#1228 - Bari Weiss",
     "episode_id": 1228,
     "isMMA": false,
     "isFC": false,
@@ -3132,8 +3132,8 @@ module.exports = [
     "date": "January 21, 2019"
   },
   {
-    "title": "#1227 - Mike Tyson",
     "guests": ["Mike Tyson"],
+    "title": "#1227 - Mike Tyson",
     "episode_id": 1227,
     "isMMA": false,
     "isFC": false,
@@ -3141,8 +3141,8 @@ module.exports = [
     "date": "January 17, 2019"
   },
   {
-    "title": "#1226 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1226 - Mike Baker",
     "episode_id": 1226,
     "isMMA": false,
     "isFC": false,
@@ -3150,8 +3150,8 @@ module.exports = [
     "date": "January 17, 2019"
   },
   {
-    "title": "#056 - JRE MMA Show #56 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#056 - JRE MMA Show #56 with Brendan Schaub",
     "episode_id": 56,
     "isMMA": true,
     "isFC": false,
@@ -3159,8 +3159,8 @@ module.exports = [
     "date": "January 17, 2019"
   },
   {
-    "title": "#1225 - Theo Von",
     "guests": ["Theo Von"],
+    "title": "#1225 - Theo Von",
     "episode_id": 1225,
     "isMMA": false,
     "isFC": false,
@@ -3168,8 +3168,8 @@ module.exports = [
     "date": "January 15, 2019"
   },
   {
-    "title": "#1224 - Adam Greentree",
     "guests": ["Adam Greentree"],
+    "title": "#1224 - Adam Greentree",
     "episode_id": 1224,
     "isMMA": false,
     "isFC": false,
@@ -3177,8 +3177,8 @@ module.exports = [
     "date": "January 14, 2019"
   },
   {
-    "title": "#1223 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1223 - Greg Fitzsimmons",
     "episode_id": 1223,
     "isMMA": false,
     "isFC": false,
@@ -3186,8 +3186,8 @@ module.exports = [
     "date": "January 11, 2019"
   },
   {
-    "title": "#1222 - Michael Shermer",
     "guests": ["Michael Shermer"],
+    "title": "#1222 - Michael Shermer",
     "episode_id": 1222,
     "isMMA": false,
     "isFC": false,
@@ -3195,8 +3195,8 @@ module.exports = [
     "date": "January 10, 2019"
   },
   {
-    "title": "#055 - JRE MMA Show #55 with Kelly Pavlik",
     "guests": ["Kelly Pavlik"],
+    "title": "#055 - JRE MMA Show #55 with Kelly Pavlik",
     "episode_id": 55,
     "isMMA": true,
     "isFC": false,
@@ -3204,8 +3204,8 @@ module.exports = [
     "date": "January 9, 2019"
   },
   {
-    "title": "#054 - JRE MMA Show #54 with Din Thomas",
     "guests": ["Din Thomas"],
+    "title": "#054 - JRE MMA Show #54 with Din Thomas",
     "episode_id": 54,
     "isMMA": true,
     "isFC": false,
@@ -3213,8 +3213,8 @@ module.exports = [
     "date": "January 8, 2019"
   },
   {
-    "title": "#1221 - Jonathan Haidt",
     "guests": ["Jonathan Haidt"],
+    "title": "#1221 - Jonathan Haidt",
     "episode_id": 1221,
     "isMMA": false,
     "isFC": false,
@@ -3222,8 +3222,8 @@ module.exports = [
     "date": "January 7, 2019"
   },
   {
-    "title": "#053 - JRE MMA Show #53 with Jeff Novitzky",
     "guests": ["Jeff Novitzky"],
+    "title": "#053 - JRE MMA Show #53 with Jeff Novitzky",
     "episode_id": 53,
     "isMMA": true,
     "isFC": false,
@@ -3231,8 +3231,8 @@ module.exports = [
     "date": "December 27, 2018"
   },
   {
-    "title": "#1220 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1220 - Joey Diaz",
     "episode_id": 1220,
     "isMMA": false,
     "isFC": false,
@@ -3240,8 +3240,8 @@ module.exports = [
     "date": "December 24, 2018"
   },
   {
-    "title": "#1219 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#1219 - Bill Burr",
     "episode_id": 1219,
     "isMMA": false,
     "isFC": false,
@@ -3249,8 +3249,8 @@ module.exports = [
     "date": "December 20, 2018"
   },
   {
-    "title": "#1218 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#1218 - Gad Saad",
     "episode_id": 1218,
     "isMMA": false,
     "isFC": false,
@@ -3258,8 +3258,8 @@ module.exports = [
     "date": "December 19, 2018"
   },
   {
-    "title": "#1217 - Nimesh Patel",
     "guests": ["Nimesh Patel"],
+    "title": "#1217 - Nimesh Patel",
     "episode_id": 1217,
     "isMMA": false,
     "isFC": false,
@@ -3267,8 +3267,8 @@ module.exports = [
     "date": "December 19, 2018"
   },
   {
-    "title": "#1216 - Sir Roger Penrose",
     "guests": ["Sir Roger Penrose"],
+    "title": "#1216 - Sir Roger Penrose",
     "episode_id": 1216,
     "isMMA": false,
     "isFC": false,
@@ -3276,8 +3276,8 @@ module.exports = [
     "date": "December 18, 2018"
   },
   {
-    "title": "#1215 - Ben O’Brien",
     "guests": ["Ben O’Brien"],
+    "title": "#1215 - Ben O’Brien",
     "episode_id": 1215,
     "isMMA": false,
     "isFC": false,
@@ -3285,8 +3285,8 @@ module.exports = [
     "date": "December 17, 2018"
   },
   {
-    "title": "#1214 - Lawrence Lessig",
     "guests": ["Lawrence Lessig"],
+    "title": "#1214 - Lawrence Lessig",
     "episode_id": 1214,
     "isMMA": false,
     "isFC": false,
@@ -3294,8 +3294,8 @@ module.exports = [
     "date": "December 13, 2018"
   },
   {
-    "title": "#1213 - Dr. Andrew Weil",
     "guests": ["Dr. Andrew Weil"],
+    "title": "#1213 - Dr. Andrew Weil",
     "episode_id": 1213,
     "isMMA": false,
     "isFC": false,
@@ -3303,8 +3303,8 @@ module.exports = [
     "date": "December 12, 2018"
   },
   {
-    "title": "#052 - JRE MMA Show #52 with Michael Bisping",
     "guests": ["Michael Bisping"],
+    "title": "#052 - JRE MMA Show #52 with Michael Bisping",
     "episode_id": 52,
     "isMMA": true,
     "isFC": false,
@@ -3312,8 +3312,8 @@ module.exports = [
     "date": "December 11, 2018"
   },
   {
-    "title": "#051 - JRE MMA Show #51 with Deontay WIlder",
     "guests": ["Deontay WIlder"],
+    "title": "#051 - JRE MMA Show #51 with Deontay WIlder",
     "episode_id": 51,
     "isMMA": true,
     "isFC": false,
@@ -3321,8 +3321,8 @@ module.exports = [
     "date": "December 10, 2018"
   },
   {
-    "title": "#1212 - David Goggins",
     "guests": ["David Goggins"],
+    "title": "#1212 - David Goggins",
     "episode_id": 1212,
     "isMMA": false,
     "isFC": false,
@@ -3330,8 +3330,8 @@ module.exports = [
     "date": "December 5, 2018"
   },
   {
-    "title": "#050 - JRE MMA Show #50 with Yves Edwards",
     "guests": ["Yves Edwards"],
+    "title": "#050 - JRE MMA Show #50 with Yves Edwards",
     "episode_id": 50,
     "isMMA": true,
     "isFC": false,
@@ -3339,8 +3339,8 @@ module.exports = [
     "date": "December 5, 2018"
   },
   {
-    "title": "#1211 - Dr. Ben Goertzel",
     "guests": ["Dr. Ben Goertzel"],
+    "title": "#1211 - Dr. Ben Goertzel",
     "episode_id": 1211,
     "isMMA": false,
     "isFC": false,
@@ -3348,8 +3348,8 @@ module.exports = [
     "date": "December 4, 2018"
   },
   {
-    "title": "#1210 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1210 - Tom Papa",
     "episode_id": 1210,
     "isMMA": false,
     "isFC": false,
@@ -3357,8 +3357,8 @@ module.exports = [
     "date": "December 3, 2018"
   },
   {
-    "title": "#1209 - Anthony Cumia",
     "guests": ["Anthony Cumia"],
+    "title": "#1209 - Anthony Cumia",
     "episode_id": 1209,
     "isMMA": false,
     "isFC": false,
@@ -3366,8 +3366,8 @@ module.exports = [
     "date": "November 30, 2018"
   },
   {
-    "title": "#1208 - Jordan Peterson",
     "guests": ["Jordan Peterson"],
+    "title": "#1208 - Jordan Peterson",
     "episode_id": 1208,
     "isMMA": false,
     "isFC": false,
@@ -3375,8 +3375,8 @@ module.exports = [
     "date": "November 29, 2018"
   },
   {
-    "title": "#049 - JRE MMA Show #49 with Miriam Nakamoto",
     "guests": ["Miriam Nakamoto"],
+    "title": "#049 - JRE MMA Show #49 with Miriam Nakamoto",
     "episode_id": 49,
     "isMMA": true,
     "isFC": false,
@@ -3384,8 +3384,8 @@ module.exports = [
     "date": "November 28, 2018"
   },
   {
-    "title": "#1207 - Jeff Ross & Dave Attell",
     "guests": ["Jeff Ross", "Dave Attell"],
+    "title": "#1207 - Jeff Ross & Dave Attell",
     "episode_id": 1207,
     "isMMA": false,
     "isFC": false,
@@ -3393,8 +3393,8 @@ module.exports = [
     "date": "November 27, 2018"
   },
   {
-    "title": "#042 - Fight Companion – November 24, 2018",
     "guests": ["Fight Companion – November 24, 2018"],
+    "title": "#042 - Fight Companion – November 24, 2018",
     "episode_id": 42,
     "isMMA": false,
     "isFC": false,
@@ -3402,8 +3402,8 @@ module.exports = [
     "date": "November 24, 2018"
   },
   {
-    "title": "#1206 - Mike Ward & Pantelis",
     "guests": ["Mike Ward", "Pantelis"],
+    "title": "#1206 - Mike Ward & Pantelis",
     "episode_id": 1206,
     "isMMA": false,
     "isFC": false,
@@ -3411,8 +3411,8 @@ module.exports = [
     "date": "November 21, 2018"
   },
   {
-    "title": "#1205 - Jake “The Snake” Roberts & Tony Hinchcliffe",
     "guests": ["Jake “The Snake” Roberts", "Tony Hinchcliffe"],
+    "title": "#1205 - Jake “The Snake” Roberts & Tony Hinchcliffe",
     "episode_id": 1205,
     "isMMA": false,
     "isFC": false,
@@ -3420,8 +3420,8 @@ module.exports = [
     "date": "November 20, 2018"
   },
   {
-    "title": "#1204 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#1204 - Steven Rinella",
     "episode_id": 1204,
     "isMMA": false,
     "isFC": false,
@@ -3429,8 +3429,8 @@ module.exports = [
     "date": "November 16, 2018"
   },
   {
-    "title": "#1203 - Eric Weinstein",
     "guests": ["Eric Weinstein"],
+    "title": "#1203 - Eric Weinstein",
     "episode_id": 1203,
     "isMMA": false,
     "isFC": false,
@@ -3438,8 +3438,8 @@ module.exports = [
     "date": "November 15, 2018"
   },
   {
-    "title": "#1202 - Fred Morin & David McMillan",
     "guests": ["Fred Morin", "David McMillan"],
+    "title": "#1202 - Fred Morin & David McMillan",
     "episode_id": 1202,
     "isMMA": false,
     "isFC": false,
@@ -3447,8 +3447,8 @@ module.exports = [
     "date": "November 14, 2018"
   },
   {
-    "title": "#1201 - William von Hippel",
     "guests": ["William von Hippel"],
+    "title": "#1201 - William von Hippel",
     "episode_id": 1201,
     "isMMA": false,
     "isFC": false,
@@ -3456,8 +3456,8 @@ module.exports = [
     "date": "November 13, 2018"
   },
   {
-    "title": "#1200 - Ross Edgley",
     "guests": ["Ross Edgley"],
+    "title": "#1200 - Ross Edgley",
     "episode_id": 1200,
     "isMMA": false,
     "isFC": false,
@@ -3465,8 +3465,8 @@ module.exports = [
     "date": "November 12, 2018"
   },
   {
-    "title": "#1199 - Tom Segura & Sean Anders",
     "guests": ["Tom Segura", "Sean Anders"],
+    "title": "#1199 - Tom Segura & Sean Anders",
     "episode_id": 1199,
     "isMMA": false,
     "isFC": false,
@@ -3474,17 +3474,17 @@ module.exports = [
     "date": "November 12, 2018"
   },
   {
-    "title": "#FC41 - Fight Companion 41",
     "guests": ["FC41"],
-    "episode_id": null,
+    "title": "#FC41 - Fight Companion 41",
+    "episode_id": 41,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on November...",
     "date": "November 11, 2018"
   },
   {
-    "title": "#1198 - Derren Brown",
     "guests": ["Derren Brown"],
+    "title": "#1198 - Derren Brown",
     "episode_id": 1198,
     "isMMA": false,
     "isFC": false,
@@ -3492,8 +3492,8 @@ module.exports = [
     "date": "November 9, 2018"
   },
   {
-    "title": "#1197 - Michael Malice",
     "guests": ["Michael Malice"],
+    "title": "#1197 - Michael Malice",
     "episode_id": 1197,
     "isMMA": false,
     "isFC": false,
@@ -3501,8 +3501,8 @@ module.exports = [
     "date": "November 8, 2018"
   },
   {
-    "title": "#1196 - Dale Earnhardt Jr.",
     "guests": ["Dale Earnhardt Jr."],
+    "title": "#1196 - Dale Earnhardt Jr.",
     "episode_id": 1196,
     "isMMA": false,
     "isFC": false,
@@ -3510,8 +3510,8 @@ module.exports = [
     "date": "November 7, 2018"
   },
   {
-    "title": "#1195 - Christina P",
     "guests": ["Christina P"],
+    "title": "#1195 - Christina P",
     "episode_id": 1195,
     "isMMA": false,
     "isFC": false,
@@ -3519,8 +3519,8 @@ module.exports = [
     "date": "November 6, 2018"
   },
   {
-    "title": "#1194 - Sober October 2 Recap",
     "guests": ["Sober October 2 Recap"],
+    "title": "#1194 - Sober October 2 Recap",
     "episode_id": 1194,
     "isMMA": false,
     "isFC": false,
@@ -3528,8 +3528,8 @@ module.exports = [
     "date": "November 5, 2018"
   },
   {
-    "title": "#1193 - Shane Dorian",
     "guests": ["Shane Dorian"],
+    "title": "#1193 - Shane Dorian",
     "episode_id": 1193,
     "isMMA": false,
     "isFC": false,
@@ -3537,8 +3537,8 @@ module.exports = [
     "date": "November 5, 2018"
   },
   {
-    "title": "#1192 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#1192 - Tony Hinchcliffe",
     "episode_id": 1192,
     "isMMA": false,
     "isFC": false,
@@ -3546,8 +3546,8 @@ module.exports = [
     "date": "October 31, 2018"
   },
   {
-    "title": "#48 - JRE MMA Show #48 with Henry Cejudo & Eric Albarracin",
     "guests": ["Henry Cejudo", "Eric Albarracin"],
+    "title": "#48 - JRE MMA Show #48 with Henry Cejudo & Eric Albarracin",
     "episode_id": 48,
     "isMMA": true,
     "isFC": false,
@@ -3555,8 +3555,8 @@ module.exports = [
     "date": "October 31, 2018"
   },
   {
-    "title": "#1191 - Peter Boghossian & James Lindsay",
     "guests": ["Peter Boghossian", "James Lindsay"],
+    "title": "#1191 - Peter Boghossian & James Lindsay",
     "episode_id": 1191,
     "isMMA": false,
     "isFC": false,
@@ -3564,8 +3564,8 @@ module.exports = [
     "date": "October 30, 2018"
   },
   {
-    "title": "#1190 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1190 - Joey Diaz",
     "episode_id": 1190,
     "isMMA": false,
     "isFC": false,
@@ -3573,8 +3573,8 @@ module.exports = [
     "date": "October 29, 2018"
   },
   {
-    "title": "#47 - JRE MMA Show #47 with Tyson Fury",
     "guests": ["Tyson Fury"],
+    "title": "#47 - JRE MMA Show #47 with Tyson Fury",
     "episode_id": 47,
     "isMMA": true,
     "isFC": false,
@@ -3582,8 +3582,8 @@ module.exports = [
     "date": "October 25, 2018"
   },
   {
-    "title": "#1189 - Alex Honnold",
     "guests": ["Alex Honnold"],
+    "title": "#1189 - Alex Honnold",
     "episode_id": 1189,
     "isMMA": false,
     "isFC": false,
@@ -3591,8 +3591,8 @@ module.exports = [
     "date": "October 25, 2018"
   },
   {
-    "title": "#1188 - Lex Fridman",
     "guests": ["Lex Fridman"],
+    "title": "#1188 - Lex Fridman",
     "episode_id": 1188,
     "isMMA": false,
     "isFC": false,
@@ -3600,8 +3600,8 @@ module.exports = [
     "date": "October 24, 2018"
   },
   {
-    "title": "#1187 - Kyle Kulinski",
     "guests": ["Kyle Kulinski"],
+    "title": "#1187 - Kyle Kulinski",
     "episode_id": 1187,
     "isMMA": false,
     "isFC": false,
@@ -3609,8 +3609,8 @@ module.exports = [
     "date": "October 23, 2018"
   },
   {
-    "title": "#1186 - Marques Brownlee",
     "guests": ["Marques Brownlee"],
+    "title": "#1186 - Marques Brownlee",
     "episode_id": 1186,
     "isMMA": false,
     "isFC": false,
@@ -3618,8 +3618,8 @@ module.exports = [
     "date": "October 23, 2018"
   },
   {
-    "title": "#1185 - Kelly Slater",
     "guests": ["Kelly Slater"],
+    "title": "#1185 - Kelly Slater",
     "episode_id": 1185,
     "isMMA": false,
     "isFC": false,
@@ -3627,8 +3627,8 @@ module.exports = [
     "date": "October 22, 2018"
   },
   {
-    "title": "#046 - JRE MMA Show #46 with Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#046 - JRE MMA Show #46 with Ari Shaffir",
     "episode_id": 46,
     "isMMA": true,
     "isFC": false,
@@ -3636,8 +3636,8 @@ module.exports = [
     "date": "October 21, 2018"
   },
   {
-    "title": "#45 - JRE MMA Show #45 with Justin Wren & Rafael Lovato Jr.",
     "guests": ["Justin Wren", "Rafael Lovato Jr."],
+    "title": "#45 - JRE MMA Show #45 with Justin Wren & Rafael Lovato Jr.",
     "episode_id": 45,
     "isMMA": true,
     "isFC": false,
@@ -3645,8 +3645,8 @@ module.exports = [
     "date": "October 15, 2018"
   },
   {
-    "title": "#1184 - Roseanne Barr",
     "guests": ["Roseanne Barr"],
+    "title": "#1184 - Roseanne Barr",
     "episode_id": 1184,
     "isMMA": false,
     "isFC": false,
@@ -3654,8 +3654,8 @@ module.exports = [
     "date": "October 11, 2018"
   },
   {
-    "title": "#1183 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1183 - Andrew Santino",
     "episode_id": 1183,
     "isMMA": false,
     "isFC": false,
@@ -3663,8 +3663,8 @@ module.exports = [
     "date": "October 11, 2018"
   },
   {
-    "title": "#1182 - Nick Kroll",
     "guests": ["Nick Kroll"],
+    "title": "#1182 - Nick Kroll",
     "episode_id": 1182,
     "isMMA": false,
     "isFC": false,
@@ -3672,8 +3672,8 @@ module.exports = [
     "date": "October 9, 2018"
   },
   {
-    "title": "#44 - JRE MMA Show #44 with John Kavanagh & George Lockhart",
     "guests": ["John Kavanagh", "George Lockhart"],
+    "title": "#44 - JRE MMA Show #44 with John Kavanagh & George Lockhart",
     "episode_id": 44,
     "isMMA": true,
     "isFC": false,
@@ -3681,8 +3681,8 @@ module.exports = [
     "date": "October 8, 2018"
   },
   {
-    "title": "#1181 - John Dudley",
     "guests": ["John Dudley"],
+    "title": "#1181 - John Dudley",
     "episode_id": 1181,
     "isMMA": false,
     "isFC": false,
@@ -3690,8 +3690,8 @@ module.exports = [
     "date": "October 8, 2018"
   },
   {
-    "title": "#1180 - Everlast",
     "guests": ["Everlast"],
+    "title": "#1180 - Everlast",
     "episode_id": 1180,
     "isMMA": false,
     "isFC": false,
@@ -3699,8 +3699,8 @@ module.exports = [
     "date": "October 4, 2018"
   },
   {
-    "title": "#1179 - Nikki Glaser",
     "guests": ["Nikki Glaser"],
+    "title": "#1179 - Nikki Glaser",
     "episode_id": 1179,
     "isMMA": false,
     "isFC": false,
@@ -3708,8 +3708,8 @@ module.exports = [
     "date": "October 3, 2018"
   },
   {
-    "title": "#1178 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#1178 - Dr. Rhonda Patrick",
     "episode_id": 1178,
     "isMMA": false,
     "isFC": false,
@@ -3717,8 +3717,8 @@ module.exports = [
     "date": "October 2, 2018"
   },
   {
-    "title": "#43 - JRE MMA Show #43 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#43 - JRE MMA Show #43 with Brendan Schaub",
     "episode_id": 43,
     "isMMA": true,
     "isFC": false,
@@ -3726,8 +3726,8 @@ module.exports = [
     "date": "October 2, 2018"
   },
   {
-    "title": "#1177 - Sober October 2",
     "guests": ["Sober October 2"],
+    "title": "#1177 - Sober October 2",
     "episode_id": 1177,
     "isMMA": false,
     "isFC": false,
@@ -3735,8 +3735,8 @@ module.exports = [
     "date": "October 1, 2018"
   },
   {
-    "title": "#1176 - Dom D’Agostino & Layne Norton",
     "guests": ["Dom D’Agostino", "Layne Norton"],
+    "title": "#1176 - Dom D’Agostino & Layne Norton",
     "episode_id": 1176,
     "isMMA": false,
     "isFC": false,
@@ -3744,8 +3744,8 @@ module.exports = [
     "date": "September 28, 2018"
   },
   {
-    "title": "#1175 - Chris Kresser & Dr. Joel Kahn",
     "guests": ["Chris Kresser", "Dr. Joel Kahn"],
+    "title": "#1175 - Chris Kresser & Dr. Joel Kahn",
     "episode_id": 1175,
     "isMMA": false,
     "isFC": false,
@@ -3753,8 +3753,8 @@ module.exports = [
     "date": "September 27, 2018"
   },
   {
-    "title": "#1174 - Vinnie Paz",
     "guests": ["Vinnie Paz"],
+    "title": "#1174 - Vinnie Paz",
     "episode_id": 1174,
     "isMMA": false,
     "isFC": false,
@@ -3762,8 +3762,8 @@ module.exports = [
     "date": "September 26, 2018"
   },
   {
-    "title": "#1173 - Geoffrey Miller",
     "guests": ["Geoffrey Miller"],
+    "title": "#1173 - Geoffrey Miller",
     "episode_id": 1173,
     "isMMA": false,
     "isFC": false,
@@ -3771,8 +3771,8 @@ module.exports = [
     "date": "September 25, 2018"
   },
   {
-    "title": "#042 - JRE MMA Show #42 with Teddy Atlas",
     "guests": ["Teddy Atlas"],
+    "title": "#042 - JRE MMA Show #42 with Teddy Atlas",
     "episode_id": 42,
     "isMMA": true,
     "isFC": false,
@@ -3780,8 +3780,8 @@ module.exports = [
     "date": "September 24, 2018"
   },
   {
-    "title": "#1172 - Morgan Fallon",
     "guests": ["Morgan Fallon"],
+    "title": "#1172 - Morgan Fallon",
     "episode_id": 1172,
     "isMMA": false,
     "isFC": false,
@@ -3789,8 +3789,8 @@ module.exports = [
     "date": "September 12, 2018"
   },
   {
-    "title": "#041 - MMA Show #41 with TJ Dillashaw & Duane Ludwig",
     "guests": ["MMA Show #41 with TJ Dillashaw", "Duane Ludwig"],
+    "title": "#041 - MMA Show #41 with TJ Dillashaw & Duane Ludwig",
     "episode_id": 41,
     "isMMA": false,
     "isFC": false,
@@ -3798,8 +3798,8 @@ module.exports = [
     "date": "September 12, 2018"
   },
   {
-    "title": "#1171 - Nick Yarris",
     "guests": ["Nick Yarris"],
+    "title": "#1171 - Nick Yarris",
     "episode_id": 1171,
     "isMMA": false,
     "isFC": false,
@@ -3807,8 +3807,8 @@ module.exports = [
     "date": "September 11, 2018"
   },
   {
-    "title": "#1170 - Tulsi Gabbard",
     "guests": ["Tulsi Gabbard"],
+    "title": "#1170 - Tulsi Gabbard",
     "episode_id": 1170,
     "isMMA": false,
     "isFC": false,
@@ -3816,8 +3816,8 @@ module.exports = [
     "date": "September 10, 2018"
   },
   {
-    "title": "#1169 - Elon Musk",
     "guests": ["Elon Musk"],
+    "title": "#1169 - Elon Musk",
     "episode_id": 1169,
     "isMMA": false,
     "isFC": false,
@@ -3825,8 +3825,8 @@ module.exports = [
     "date": "September 7, 2018"
   },
   {
-    "title": "#40 - JRE MMA Show #40 with Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#40 - JRE MMA Show #40 with Eddie Bravo",
     "episode_id": 40,
     "isMMA": true,
     "isFC": false,
@@ -3834,8 +3834,8 @@ module.exports = [
     "date": "September 6, 2018"
   },
   {
-    "title": "#1168 - Mareko Maumasi",
     "guests": ["Mareko Maumasi"],
+    "title": "#1168 - Mareko Maumasi",
     "episode_id": 1168,
     "isMMA": false,
     "isFC": false,
@@ -3843,8 +3843,8 @@ module.exports = [
     "date": "September 5, 2018"
   },
   {
-    "title": "#1167 - Larry Sharpe",
     "guests": ["Larry Sharpe"],
+    "title": "#1167 - Larry Sharpe",
     "episode_id": 1167,
     "isMMA": false,
     "isFC": false,
@@ -3852,8 +3852,8 @@ module.exports = [
     "date": "September 5, 2018"
   },
   {
-    "title": "#1166 - Diamond Dallas Page",
     "guests": ["Diamond Dallas Page"],
+    "title": "#1166 - Diamond Dallas Page",
     "episode_id": 1166,
     "isMMA": false,
     "isFC": false,
@@ -3861,8 +3861,8 @@ module.exports = [
     "date": "September 4, 2018"
   },
   {
-    "title": "#1165 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1165 - Tom Papa",
     "episode_id": 1165,
     "isMMA": false,
     "isFC": false,
@@ -3870,8 +3870,8 @@ module.exports = [
     "date": "August 31, 2018"
   },
   {
-    "title": "#1164 - Mikhaila Peterson",
     "guests": ["Mikhaila Peterson"],
+    "title": "#1164 - Mikhaila Peterson",
     "episode_id": 1164,
     "isMMA": false,
     "isFC": false,
@@ -3879,8 +3879,8 @@ module.exports = [
     "date": "August 30, 2018"
   },
   {
-    "title": "#039 - JRE MMA Show #39 with Donald “Cowboy” Cerrone",
     "guests": ["Donald “Cowboy” Cerrone"],
+    "title": "#039 - JRE MMA Show #39 with Donald “Cowboy” Cerrone",
     "episode_id": 39,
     "isMMA": true,
     "isFC": false,
@@ -3888,8 +3888,8 @@ module.exports = [
     "date": "August 29, 2018"
   },
   {
-    "title": "#1163 - Banachek",
     "guests": ["Banachek"],
+    "title": "#1163 - Banachek",
     "episode_id": 1163,
     "isMMA": false,
     "isFC": false,
@@ -3897,8 +3897,8 @@ module.exports = [
     "date": "August 28, 2018"
   },
   {
-    "title": "#1162 - Valentine Thomas",
     "guests": ["Valentine Thomas"],
+    "title": "#1162 - Valentine Thomas",
     "episode_id": 1162,
     "isMMA": false,
     "isFC": false,
@@ -3906,8 +3906,8 @@ module.exports = [
     "date": "August 27, 2018"
   },
   {
-    "title": "#1161 - Jerrod Carmichael & Jamar Neighbors",
     "guests": ["Jerrod Carmichael", "Jamar Neighbors"],
+    "title": "#1161 - Jerrod Carmichael & Jamar Neighbors",
     "episode_id": 1161,
     "isMMA": false,
     "isFC": false,
@@ -3915,8 +3915,8 @@ module.exports = [
     "date": "August 23, 2018"
   },
   {
-    "title": "#1160 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#1160 - Bert Kreischer",
     "episode_id": 1160,
     "isMMA": false,
     "isFC": false,
@@ -3924,8 +3924,8 @@ module.exports = [
     "date": "August 23, 2018"
   },
   {
-    "title": "#1159 - Neil deGrasse Tyson",
     "guests": ["Neil deGrasse Tyson"],
+    "title": "#1159 - Neil deGrasse Tyson",
     "episode_id": 1159,
     "isMMA": false,
     "isFC": false,
@@ -3933,8 +3933,8 @@ module.exports = [
     "date": "August 22, 2018"
   },
   {
-    "title": "#1158 - Chuck Palahniuk",
     "guests": ["Chuck Palahniuk"],
+    "title": "#1158 - Chuck Palahniuk",
     "episode_id": 1158,
     "isMMA": false,
     "isFC": false,
@@ -3942,8 +3942,8 @@ module.exports = [
     "date": "August 22, 2018"
   },
   {
-    "title": "#1157 - Shooter Jennings",
     "guests": ["Shooter Jennings"],
+    "title": "#1157 - Shooter Jennings",
     "episode_id": 1157,
     "isMMA": false,
     "isFC": false,
@@ -3951,8 +3951,8 @@ module.exports = [
     "date": "August 21, 2018"
   },
   {
-    "title": "#1156 - Jimmy Dore",
     "guests": ["Jimmy Dore"],
+    "title": "#1156 - Jimmy Dore",
     "episode_id": 1156,
     "isMMA": false,
     "isFC": false,
@@ -3960,8 +3960,8 @@ module.exports = [
     "date": "August 9, 2018"
   },
   {
-    "title": "#1155 - Henry Rollins",
     "guests": ["Henry Rollins"],
+    "title": "#1155 - Henry Rollins",
     "episode_id": 1155,
     "isMMA": false,
     "isFC": false,
@@ -3969,8 +3969,8 @@ module.exports = [
     "date": "August 9, 2018"
   },
   {
-    "title": "#1154 - Doug Duren & Bryan Richards",
     "guests": ["Doug Duren", "Bryan Richards"],
+    "title": "#1154 - Doug Duren & Bryan Richards",
     "episode_id": 1154,
     "isMMA": false,
     "isFC": false,
@@ -3978,8 +3978,8 @@ module.exports = [
     "date": "August 8, 2018"
   },
   {
-    "title": "#1153 - Macaulay Culkin",
     "guests": ["Macaulay Culkin"],
+    "title": "#1153 - Macaulay Culkin",
     "episode_id": 1153,
     "isMMA": false,
     "isFC": false,
@@ -3987,8 +3987,8 @@ module.exports = [
     "date": "August 7, 2018"
   },
   {
-    "title": "#038 - JRE MMA Show #38 with Gaston Bolanos & Kirian Fitzgibbons",
     "guests": ["Gaston Bolanos", "Kirian Fitzgibbons"],
+    "title": "#038 - JRE MMA Show #38 with Gaston Bolanos & Kirian Fitzgibbons",
     "episode_id": 38,
     "isMMA": true,
     "isFC": false,
@@ -3996,8 +3996,8 @@ module.exports = [
     "date": "August 6, 2018"
   },
   {
-    "title": "#037 - JRE MMA Show #37 with Mark DellaGrotte",
     "guests": ["Mark DellaGrotte"],
+    "title": "#037 - JRE MMA Show #37 with Mark DellaGrotte",
     "episode_id": 37,
     "isMMA": true,
     "isFC": false,
@@ -4005,8 +4005,8 @@ module.exports = [
     "date": "August 3, 2018"
   },
   {
-    "title": "#1152 - John Joseph",
     "guests": ["John Joseph"],
+    "title": "#1152 - John Joseph",
     "episode_id": 1152,
     "isMMA": false,
     "isFC": false,
@@ -4014,8 +4014,8 @@ module.exports = [
     "date": "August 2, 2018"
   },
   {
-    "title": "#1151 - Sean Carroll",
     "guests": ["Sean Carroll"],
+    "title": "#1151 - Sean Carroll",
     "episode_id": 1151,
     "isMMA": false,
     "isFC": false,
@@ -4023,8 +4023,8 @@ module.exports = [
     "date": "August 1, 2018"
   },
   {
-    "title": "#1150 - Felipe Esparza",
     "guests": ["Felipe Esparza"],
+    "title": "#1150 - Felipe Esparza",
     "episode_id": 1150,
     "isMMA": false,
     "isFC": false,
@@ -4032,8 +4032,8 @@ module.exports = [
     "date": "July 31, 2018"
   },
   {
-    "title": "#1149 - Michael Scott Moore",
     "guests": ["Michael Scott Moore"],
+    "title": "#1149 - Michael Scott Moore",
     "episode_id": 1149,
     "isMMA": false,
     "isFC": false,
@@ -4041,8 +4041,8 @@ module.exports = [
     "date": "July 30, 2018"
   },
   {
-    "title": "#1148 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1148 - Andrew Santino",
     "episode_id": 1148,
     "isMMA": false,
     "isFC": false,
@@ -4050,8 +4050,8 @@ module.exports = [
     "date": "July 27, 2018"
   },
   {
-    "title": "#1147 - Dr. Debra Soh",
     "guests": ["Dr. Debra Soh"],
+    "title": "#1147 - Dr. Debra Soh",
     "episode_id": 1147,
     "isMMA": false,
     "isFC": false,
@@ -4059,8 +4059,8 @@ module.exports = [
     "date": "July 26, 2018"
   },
   {
-    "title": "#36 - JRE MMA Show #36 with Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#36 - JRE MMA Show #36 with Brendan Schaub & Bryan Callen",
     "episode_id": 36,
     "isMMA": true,
     "isFC": false,
@@ -4068,8 +4068,8 @@ module.exports = [
     "date": "July 25, 2018"
   },
   {
-    "title": "#1146 - Jeff Garlin",
     "guests": ["Jeff Garlin"],
+    "title": "#1146 - Jeff Garlin",
     "episode_id": 1146,
     "isMMA": false,
     "isFC": false,
@@ -4077,8 +4077,8 @@ module.exports = [
     "date": "July 25, 2018"
   },
   {
-    "title": "#1145 - Peter Schiff",
     "guests": ["Peter Schiff"],
+    "title": "#1145 - Peter Schiff",
     "episode_id": 1145,
     "isMMA": false,
     "isFC": false,
@@ -4086,8 +4086,8 @@ module.exports = [
     "date": "July 17, 2018"
   },
   {
-    "title": "#1144 - Doug Stanhope",
     "guests": ["Doug Stanhope"],
+    "title": "#1144 - Doug Stanhope",
     "episode_id": 1144,
     "isMMA": false,
     "isFC": false,
@@ -4095,8 +4095,8 @@ module.exports = [
     "date": "July 16, 2018"
   },
   {
-    "title": "#1143 - Candice Thompson",
     "guests": ["Candice Thompson"],
+    "title": "#1143 - Candice Thompson",
     "episode_id": 1143,
     "isMMA": false,
     "isFC": false,
@@ -4104,8 +4104,8 @@ module.exports = [
     "date": "July 11, 2018"
   },
   {
-    "title": "#035 - JRE MMA Show #35 with Israel Adesanya",
     "guests": ["Israel Adesanya"],
+    "title": "#035 - JRE MMA Show #35 with Israel Adesanya",
     "episode_id": 35,
     "isMMA": true,
     "isFC": false,
@@ -4113,8 +4113,8 @@ module.exports = [
     "date": "July 10, 2018"
   },
   {
-    "title": "#1142 - Tony Rock",
     "guests": ["Tony Rock"],
+    "title": "#1142 - Tony Rock",
     "episode_id": 1142,
     "isMMA": false,
     "isFC": false,
@@ -4122,8 +4122,8 @@ module.exports = [
     "date": "July 10, 2018"
   },
   {
-    "title": "#034 - JRE MMA Show #34 with Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#034 - JRE MMA Show #34 with Josh Barnett",
     "episode_id": 34,
     "isMMA": true,
     "isFC": false,
@@ -4131,8 +4131,8 @@ module.exports = [
     "date": "July 9, 2018"
   },
   {
-    "title": "#1141 - Theo Von",
     "guests": ["Theo Von"],
+    "title": "#1141 - Theo Von",
     "episode_id": 1141,
     "isMMA": false,
     "isFC": false,
@@ -4140,8 +4140,8 @@ module.exports = [
     "date": "July 5, 2018"
   },
   {
-    "title": "#1140 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1140 - Joey Diaz",
     "episode_id": 1140,
     "isMMA": false,
     "isFC": false,
@@ -4149,8 +4149,8 @@ module.exports = [
     "date": "July 4, 2018"
   },
   {
-    "title": "#033 - JRE MMA Show #33 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#033 - JRE MMA Show #33 with Brendan Schaub",
     "episode_id": 33,
     "isMMA": true,
     "isFC": false,
@@ -4158,8 +4158,8 @@ module.exports = [
     "date": "July 3, 2018"
   },
   {
-    "title": "#1139 - Jordan Peterson",
     "guests": ["Jordan Peterson"],
+    "title": "#1139 - Jordan Peterson",
     "episode_id": 1139,
     "isMMA": false,
     "isFC": false,
@@ -4167,8 +4167,8 @@ module.exports = [
     "date": "July 2, 2018"
   },
   {
-    "title": "#1138 - Ted Nugent",
     "guests": ["Ted Nugent"],
+    "title": "#1138 - Ted Nugent",
     "episode_id": 1138,
     "isMMA": false,
     "isFC": false,
@@ -4176,8 +4176,8 @@ module.exports = [
     "date": "June 28, 2018"
   },
   {
-    "title": "#1137 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#1137 - Duncan Trussell",
     "episode_id": 1137,
     "isMMA": false,
     "isFC": false,
@@ -4185,8 +4185,8 @@ module.exports = [
     "date": "June 27, 2018"
   },
   {
-    "title": "#1136 - Hamilton Morris",
     "guests": ["Hamilton Morris"],
+    "title": "#1136 - Hamilton Morris",
     "episode_id": 1136,
     "isMMA": false,
     "isFC": false,
@@ -4194,8 +4194,8 @@ module.exports = [
     "date": "June 26, 2018"
   },
   {
-    "title": "#1135 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#1135 - Ari Shaffir",
     "episode_id": 1135,
     "isMMA": false,
     "isFC": false,
@@ -4203,8 +4203,8 @@ module.exports = [
     "date": "June 25, 2018"
   },
   {
-    "title": "#1134 - Kyle Dunnigan",
     "guests": ["Kyle Dunnigan"],
+    "title": "#1134 - Kyle Dunnigan",
     "episode_id": 1134,
     "isMMA": false,
     "isFC": false,
@@ -4212,8 +4212,8 @@ module.exports = [
     "date": "June 22, 2018"
   },
   {
-    "title": "#1133 - Dennis McKenna",
     "guests": ["Dennis McKenna"],
+    "title": "#1133 - Dennis McKenna",
     "episode_id": 1133,
     "isMMA": false,
     "isFC": false,
@@ -4221,8 +4221,8 @@ module.exports = [
     "date": "June 21, 2018"
   },
   {
-    "title": "#032 - JRE MMA Show #32 with Firas Zahabi",
     "guests": ["Firas Zahabi"],
+    "title": "#032 - JRE MMA Show #32 with Firas Zahabi",
     "episode_id": 32,
     "isMMA": true,
     "isFC": false,
@@ -4230,8 +4230,8 @@ module.exports = [
     "date": "June 19, 2018"
   },
   {
-    "title": "#1132 - Kyle Kingsbury",
     "guests": ["Kyle Kingsbury"],
+    "title": "#1132 - Kyle Kingsbury",
     "episode_id": 1132,
     "isMMA": false,
     "isFC": false,
@@ -4239,8 +4239,8 @@ module.exports = [
     "date": "June 18, 2018"
   },
   {
-    "title": "#1131 - Dave Rubin",
     "guests": ["Dave Rubin"],
+    "title": "#1131 - Dave Rubin",
     "episode_id": 1131,
     "isMMA": false,
     "isFC": false,
@@ -4248,8 +4248,8 @@ module.exports = [
     "date": "June 13, 2018"
   },
   {
-    "title": "#031 - JRE MMA Show #31 with Daniel Straus & Joe Schilling",
     "guests": ["Daniel Straus", "Joe Schilling"],
+    "title": "#031 - JRE MMA Show #31 with Daniel Straus & Joe Schilling",
     "episode_id": 31,
     "isMMA": true,
     "isFC": false,
@@ -4257,8 +4257,8 @@ module.exports = [
     "date": "June 12, 2018"
   },
   {
-    "title": "#1130 - Adam Frank",
     "guests": ["Adam Frank"],
+    "title": "#1130 - Adam Frank",
     "episode_id": 1130,
     "isMMA": false,
     "isFC": false,
@@ -4266,8 +4266,8 @@ module.exports = [
     "date": "June 12, 2018"
   },
   {
-    "title": "#1129 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1129 - Tom Papa",
     "episode_id": 1129,
     "isMMA": false,
     "isFC": false,
@@ -4275,8 +4275,8 @@ module.exports = [
     "date": "June 11, 2018"
   },
   {
-    "title": "#1128 - Ryan Sickler",
     "guests": ["Ryan Sickler"],
+    "title": "#1128 - Ryan Sickler",
     "episode_id": 1128,
     "isMMA": false,
     "isFC": false,
@@ -4284,8 +4284,8 @@ module.exports = [
     "date": "June 6, 2018"
   },
   {
-    "title": "#030 - JRE MMA Show #30 with Sean O’Malley & Tim Welch",
     "guests": ["Sean O’Malley", "Tim Welch"],
+    "title": "#030 - JRE MMA Show #30 with Sean O’Malley & Tim Welch",
     "episode_id": 30,
     "isMMA": true,
     "isFC": false,
@@ -4293,8 +4293,8 @@ module.exports = [
     "date": "June 5, 2018"
   },
   {
-    "title": "#1127 - Jesse Itzler",
     "guests": ["Jesse Itzler"],
+    "title": "#1127 - Jesse Itzler",
     "episode_id": 1127,
     "isMMA": false,
     "isFC": false,
@@ -4302,8 +4302,8 @@ module.exports = [
     "date": "June 5, 2018"
   },
   {
-    "title": "#1126 - Erik Griffin",
     "guests": ["Erik Griffin"],
+    "title": "#1126 - Erik Griffin",
     "episode_id": 1126,
     "isMMA": false,
     "isFC": false,
@@ -4311,8 +4311,8 @@ module.exports = [
     "date": "June 4, 2018"
   },
   {
-    "title": "#1125 - Candace Owens",
     "guests": ["Candace Owens"],
+    "title": "#1125 - Candace Owens",
     "episode_id": 1125,
     "isMMA": false,
     "isFC": false,
@@ -4320,8 +4320,8 @@ module.exports = [
     "date": "May 31, 2018"
   },
   {
-    "title": "#1124 - Robert Schoch",
     "guests": ["Robert Schoch"],
+    "title": "#1124 - Robert Schoch",
     "episode_id": 1124,
     "isMMA": false,
     "isFC": false,
@@ -4329,8 +4329,8 @@ module.exports = [
     "date": "May 31, 2018"
   },
   {
-    "title": "#1123 - Kevin Smith",
     "guests": ["Kevin Smith"],
+    "title": "#1123 - Kevin Smith",
     "episode_id": 1123,
     "isMMA": false,
     "isFC": false,
@@ -4338,8 +4338,8 @@ module.exports = [
     "date": "May 30, 2018"
   },
   {
-    "title": "#1122 - Donnie Vincent",
     "guests": ["Donnie Vincent"],
+    "title": "#1122 - Donnie Vincent",
     "episode_id": 1122,
     "isMMA": false,
     "isFC": false,
@@ -4347,8 +4347,8 @@ module.exports = [
     "date": "May 29, 2018"
   },
   {
-    "title": "#029 - JRE MMA Show #29",
     "guests": ["JRE MMA Show #29"],
+    "title": "#029 - JRE MMA Show #29",
     "episode_id": 29,
     "isMMA": true,
     "isFC": false,
@@ -4356,8 +4356,8 @@ module.exports = [
     "date": "May 28, 2018"
   },
   {
-    "title": "#040 - Fight Companion – May 27, 2018",
     "guests": ["Fight Companion – May 27, 2018"],
+    "title": "#040 - Fight Companion – May 27, 2018",
     "episode_id": 40,
     "isMMA": false,
     "isFC": false,
@@ -4365,8 +4365,8 @@ module.exports = [
     "date": "May 27, 2018"
   },
   {
-    "title": "#1121 - Michael Pollan",
     "guests": ["Michael Pollan"],
+    "title": "#1121 - Michael Pollan",
     "episode_id": 1121,
     "isMMA": false,
     "isFC": false,
@@ -4374,8 +4374,8 @@ module.exports = [
     "date": "May 24, 2018"
   },
   {
-    "title": "#028 - JRE MMA Show #28 with Georges St-Pierre",
     "guests": ["Georges St-Pierre"],
+    "title": "#028 - JRE MMA Show #28 with Georges St-Pierre",
     "episode_id": 28,
     "isMMA": true,
     "isFC": false,
@@ -4383,8 +4383,8 @@ module.exports = [
     "date": "May 23, 2018"
   },
   {
-    "title": "#1120 - Ben Greenfield",
     "guests": ["Ben Greenfield"],
+    "title": "#1120 - Ben Greenfield",
     "episode_id": 1120,
     "isMMA": false,
     "isFC": false,
@@ -4392,8 +4392,8 @@ module.exports = [
     "date": "May 22, 2018"
   },
   {
-    "title": "#027 - JRE MMA Show #27 with Robin Black",
     "guests": ["Robin Black"],
+    "title": "#027 - JRE MMA Show #27 with Robin Black",
     "episode_id": 27,
     "isMMA": true,
     "isFC": false,
@@ -4401,8 +4401,8 @@ module.exports = [
     "date": "May 22, 2018"
   },
   {
-    "title": "#1119 - Howard Bloom",
     "guests": ["Howard Bloom"],
+    "title": "#1119 - Howard Bloom",
     "episode_id": 1119,
     "isMMA": false,
     "isFC": false,
@@ -4410,8 +4410,8 @@ module.exports = [
     "date": "May 21, 2018"
   },
   {
-    "title": "#1118 - Theo Von",
     "guests": ["Theo Von"],
+    "title": "#1118 - Theo Von",
     "episode_id": 1118,
     "isMMA": false,
     "isFC": false,
@@ -4419,8 +4419,8 @@ module.exports = [
     "date": "May 18, 2018"
   },
   {
-    "title": "#027 - Tim Kennedy",
     "guests": ["Tim Kennedy"],
+    "title": "#027 - Tim Kennedy",
     "episode_id": 27,
     "isMMA": false,
     "isFC": false,
@@ -4428,8 +4428,8 @@ module.exports = [
     "date": "May 17, 2018"
   },
   {
-    "title": "#1116 - Steven Tyler",
     "guests": ["Steven Tyler"],
+    "title": "#1116 - Steven Tyler",
     "episode_id": 1116,
     "isMMA": false,
     "isFC": false,
@@ -4437,8 +4437,8 @@ module.exports = [
     "date": "May 16, 2018"
   },
   {
-    "title": "#026 - JRE MMA Show #26 with Big John McCarthy",
     "guests": ["Big John McCarthy"],
+    "title": "#026 - JRE MMA Show #26 with Big John McCarthy",
     "episode_id": 26,
     "isMMA": true,
     "isFC": false,
@@ -4446,8 +4446,8 @@ module.exports = [
     "date": "May 16, 2018"
   },
   {
-    "title": "#1115 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1115 - Mike Baker",
     "episode_id": 1115,
     "isMMA": false,
     "isFC": false,
@@ -4455,8 +4455,8 @@ module.exports = [
     "date": "May 9, 2018"
   },
   {
-    "title": "#1114 - Matt Taibbi",
     "guests": ["Matt Taibbi"],
+    "title": "#1114 - Matt Taibbi",
     "episode_id": 1114,
     "isMMA": false,
     "isFC": false,
@@ -4464,8 +4464,8 @@ module.exports = [
     "date": "May 9, 2018"
   },
   {
-    "title": "#1113 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1113 - Brian Redban",
     "episode_id": 1113,
     "isMMA": false,
     "isFC": false,
@@ -4473,8 +4473,8 @@ module.exports = [
     "date": "May 8, 2018"
   },
   {
-    "title": "#25 - JRE MMA Show #25 with Michael Chandler",
     "guests": ["Michael Chandler"],
+    "title": "#25 - JRE MMA Show #25 with Michael Chandler",
     "episode_id": 25,
     "isMMA": true,
     "isFC": false,
@@ -4482,8 +4482,8 @@ module.exports = [
     "date": "May 7, 2018"
   },
   {
-    "title": "#1112 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#1112 - Cameron Hanes",
     "episode_id": 1112,
     "isMMA": false,
     "isFC": false,
@@ -4491,17 +4491,17 @@ module.exports = [
     "date": "May 5, 2018"
   },
   {
-    "title": "#FC39 - Fight Companion 39",
     "guests": ["FC39"],
-    "episode_id": null,
+    "title": "#FC39 - Fight Companion 39",
+    "episode_id": 39,
     "isMMA": false,
     "isFC": true,
     "description": "FC39. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on April...",
     "date": "April 28, 2018"
   },
   {
-    "title": "#1111 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#1111 - Abby Martin",
     "episode_id": 1111,
     "isMMA": false,
     "isFC": false,
@@ -4509,8 +4509,8 @@ module.exports = [
     "date": "April 26, 2018"
   },
   {
-    "title": "#1110 - Zach Bitter",
     "guests": ["Zach Bitter"],
+    "title": "#1110 - Zach Bitter",
     "episode_id": 1110,
     "isMMA": false,
     "isFC": false,
@@ -4518,8 +4518,8 @@ module.exports = [
     "date": "April 26, 2018"
   },
   {
-    "title": "#1109 - Matthew Walker",
     "guests": ["Matthew Walker"],
+    "title": "#1109 - Matthew Walker",
     "episode_id": 1109,
     "isMMA": false,
     "isFC": false,
@@ -4527,8 +4527,8 @@ module.exports = [
     "date": "April 25, 2018"
   },
   {
-    "title": "#1108 - Peter Attia",
     "guests": ["Peter Attia"],
+    "title": "#1108 - Peter Attia",
     "episode_id": 1108,
     "isMMA": false,
     "isFC": false,
@@ -4536,8 +4536,8 @@ module.exports = [
     "date": "April 24, 2018"
   },
   {
-    "title": "#24 - JRE MMA Show #24 with Kevin Lee",
     "guests": ["Kevin Lee"],
+    "title": "#24 - JRE MMA Show #24 with Kevin Lee",
     "episode_id": 24,
     "isMMA": true,
     "isFC": false,
@@ -4545,8 +4545,8 @@ module.exports = [
     "date": "April 23, 2018"
   },
   {
-    "title": "#1107 - Sam Harris & Maajid Nawaz",
     "guests": ["Sam Harris", "Maajid Nawaz"],
+    "title": "#1107 - Sam Harris & Maajid Nawaz",
     "episode_id": 1107,
     "isMMA": false,
     "isFC": false,
@@ -4554,8 +4554,8 @@ module.exports = [
     "date": "April 18, 2018"
   },
   {
-    "title": "#1106 - Colion Noir",
     "guests": ["Colion Noir"],
+    "title": "#1106 - Colion Noir",
     "episode_id": 1106,
     "isMMA": false,
     "isFC": false,
@@ -4563,8 +4563,8 @@ module.exports = [
     "date": "April 18, 2018"
   },
   {
-    "title": "#1105 - Michael Hunter",
     "guests": ["Michael Hunter"],
+    "title": "#1105 - Michael Hunter",
     "episode_id": 1105,
     "isMMA": false,
     "isFC": false,
@@ -4572,8 +4572,8 @@ module.exports = [
     "date": "April 17, 2018"
   },
   {
-    "title": "#023 - JRE MMA Show #23 with Alexander Gustafsson",
     "guests": ["Alexander Gustafsson"],
+    "title": "#023 - JRE MMA Show #23 with Alexander Gustafsson",
     "episode_id": 23,
     "isMMA": true,
     "isFC": false,
@@ -4581,8 +4581,8 @@ module.exports = [
     "date": "April 16, 2018"
   },
   {
-    "title": "#1104 - Boyan Slat",
     "guests": ["Boyan Slat"],
+    "title": "#1104 - Boyan Slat",
     "episode_id": 1104,
     "isMMA": false,
     "isFC": false,
@@ -4590,8 +4590,8 @@ module.exports = [
     "date": "April 16, 2018"
   },
   {
-    "title": "#1103 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#1103 - Tom Segura",
     "episode_id": 1103,
     "isMMA": false,
     "isFC": false,
@@ -4599,8 +4599,8 @@ module.exports = [
     "date": "April 13, 2018"
   },
   {
-    "title": "#1102 - Matt Farah",
     "guests": ["Matt Farah"],
+    "title": "#1102 - Matt Farah",
     "episode_id": 1102,
     "isMMA": false,
     "isFC": false,
@@ -4608,8 +4608,8 @@ module.exports = [
     "date": "April 11, 2018"
   },
   {
-    "title": "#022 - JRE MMA Show #22 with Bas Rutten",
     "guests": ["Bas Rutten"],
+    "title": "#022 - JRE MMA Show #22 with Bas Rutten",
     "episode_id": 22,
     "isMMA": true,
     "isFC": false,
@@ -4617,8 +4617,8 @@ module.exports = [
     "date": "April 10, 2018"
   },
   {
-    "title": "#1101 - Chris & Mark Bell",
     "guests": ["Chris", "Mark Bell"],
+    "title": "#1101 - Chris & Mark Bell",
     "episode_id": 1101,
     "isMMA": false,
     "isFC": false,
@@ -4626,8 +4626,8 @@ module.exports = [
     "date": "April 9, 2018"
   },
   {
-    "title": "#1100 - Liz Phair",
     "guests": ["Liz Phair"],
+    "title": "#1100 - Liz Phair",
     "episode_id": 1100,
     "isMMA": false,
     "isFC": false,
@@ -4635,8 +4635,8 @@ module.exports = [
     "date": "April 4, 2018"
   },
   {
-    "title": "#21 - JRE MMA Show #21 with Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#21 - JRE MMA Show #21 with Brendan Schaub",
     "episode_id": 21,
     "isMMA": true,
     "isFC": false,
@@ -4644,8 +4644,8 @@ module.exports = [
     "date": "April 4, 2018"
   },
   {
-    "title": "#1099 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#1099 - Christopher Ryan",
     "episode_id": 1099,
     "isMMA": false,
     "isFC": false,
@@ -4653,8 +4653,8 @@ module.exports = [
     "date": "April 3, 2018"
   },
   {
-    "title": "#1098 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#1098 - Eddie Bravo",
     "episode_id": 1098,
     "isMMA": false,
     "isFC": false,
@@ -4662,8 +4662,8 @@ module.exports = [
     "date": "April 2, 2018"
   },
   {
-    "title": "#20 - JRE MMA Show #20 with Yves Edwards",
     "guests": ["Yves Edwards"],
+    "title": "#20 - JRE MMA Show #20 with Yves Edwards",
     "episode_id": 20,
     "isMMA": true,
     "isFC": false,
@@ -4671,8 +4671,8 @@ module.exports = [
     "date": "March 29, 2018"
   },
   {
-    "title": "#1097 - Legion of Skanks",
     "guests": ["Legion of Skanks"],
+    "title": "#1097 - Legion of Skanks",
     "episode_id": 1097,
     "isMMA": false,
     "isFC": false,
@@ -4680,8 +4680,8 @@ module.exports = [
     "date": "March 28, 2018"
   },
   {
-    "title": "#1096 - Todd Glass",
     "guests": ["Todd Glass"],
+    "title": "#1096 - Todd Glass",
     "episode_id": 1096,
     "isMMA": false,
     "isFC": false,
@@ -4689,8 +4689,8 @@ module.exports = [
     "date": "March 27, 2018"
   },
   {
-    "title": "#1095 - T.J. English & Joey Diaz",
     "guests": ["T.J. English", "Joey Diaz"],
+    "title": "#1095 - T.J. English & Joey Diaz",
     "episode_id": 1095,
     "isMMA": false,
     "isFC": false,
@@ -4698,8 +4698,8 @@ module.exports = [
     "date": "March 26, 2018"
   },
   {
-    "title": "#019 - JRE MMA Show #19 with Vinny Shoreman & Liam Harrison",
     "guests": ["JRE MMA Show #19 with Vinny Shoreman", "Liam Harrison"],
+    "title": "#019 - JRE MMA Show #19 with Vinny Shoreman & Liam Harrison",
     "episode_id": 19,
     "isMMA": true,
     "isFC": false,
@@ -4707,8 +4707,8 @@ module.exports = [
     "date": "March 22, 2018"
   },
   {
-    "title": "#018 - MMA Show #18 with Pat Miletich",
     "guests": ["MMA Show #18 with Pat Miletich"],
+    "title": "#018 - MMA Show #18 with Pat Miletich",
     "episode_id": 18,
     "isMMA": false,
     "isFC": false,
@@ -4716,8 +4716,8 @@ module.exports = [
     "date": "March 21, 2018"
   },
   {
-    "title": "#1094 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1094 - Brian Redban",
     "episode_id": 1094,
     "isMMA": false,
     "isFC": false,
@@ -4725,8 +4725,8 @@ module.exports = [
     "date": "March 20, 2018"
   },
   {
-    "title": "# - Owen Benjamin & Kurt Metzger",
     "guests": ["Owen Benjamin", "Kurt Metzger"],
+    "title": "# - Owen Benjamin & Kurt Metzger",
     "episode_id": 0,
     "isMMA": false,
     "isFC": false,
@@ -4734,8 +4734,8 @@ module.exports = [
     "date": "March 19, 2018"
   },
   {
-    "title": "#1092 - Mary Lynn Rajskub",
     "guests": ["Mary Lynn Rajskub"],
+    "title": "#1092 - Mary Lynn Rajskub",
     "episode_id": 1092,
     "isMMA": false,
     "isFC": false,
@@ -4743,8 +4743,8 @@ module.exports = [
     "date": "March 14, 2018"
   },
   {
-    "title": "#1091 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#1091 - Daniele Bolelli",
     "episode_id": 1091,
     "isMMA": false,
     "isFC": false,
@@ -4752,8 +4752,8 @@ module.exports = [
     "date": "March 14, 2018"
   },
   {
-    "title": "#1090 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#1090 - Andrew Santino",
     "episode_id": 1090,
     "isMMA": false,
     "isFC": false,
@@ -4761,8 +4761,8 @@ module.exports = [
     "date": "March 13, 2018"
   },
   {
-    "title": "#017 - MMA Show #17 with Yoel Romero & Joey Diaz",
     "guests": ["MMA Show #17 with Yoel Romero", "Joey Diaz"],
+    "title": "#017 - MMA Show #17 with Yoel Romero & Joey Diaz",
     "episode_id": 17,
     "isMMA": false,
     "isFC": false,
@@ -4770,8 +4770,8 @@ module.exports = [
     "date": "March 12, 2018"
   },
   {
-    "title": "#1089 - John Dudley",
     "guests": ["John Dudley"],
+    "title": "#1089 - John Dudley",
     "episode_id": 1089,
     "isMMA": false,
     "isFC": false,
@@ -4779,8 +4779,8 @@ module.exports = [
     "date": "March 7, 2018"
   },
   {
-    "title": "#1088 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1088 - Bryan Callen",
     "episode_id": 1088,
     "isMMA": false,
     "isFC": false,
@@ -4788,8 +4788,8 @@ module.exports = [
     "date": "March 6, 2018"
   },
   {
-    "title": "#016 - MMA Show #16 with Brendan Schaub",
     "guests": ["MMA Show #16 with Brendan Schaub"],
+    "title": "#016 - MMA Show #16 with Brendan Schaub",
     "episode_id": 16,
     "isMMA": false,
     "isFC": false,
@@ -4797,8 +4797,8 @@ module.exports = [
     "date": "March 6, 2018"
   },
   {
-    "title": "#1087 - Sturgill Simpson",
     "guests": ["Sturgill Simpson"],
+    "title": "#1087 - Sturgill Simpson",
     "episode_id": 1087,
     "isMMA": false,
     "isFC": false,
@@ -4806,8 +4806,8 @@ module.exports = [
     "date": "March 5, 2018"
   },
   {
-    "title": "#1086 - Rory Albanese",
     "guests": ["Rory Albanese"],
+    "title": "#1086 - Rory Albanese",
     "episode_id": 1086,
     "isMMA": false,
     "isFC": false,
@@ -4815,8 +4815,8 @@ module.exports = [
     "date": "February 28, 2018"
   },
   {
-    "title": "#1085 - Kyle Kulinski",
     "guests": ["Kyle Kulinski"],
+    "title": "#1085 - Kyle Kulinski",
     "episode_id": 1085,
     "isMMA": false,
     "isFC": false,
@@ -4824,8 +4824,8 @@ module.exports = [
     "date": "February 27, 2018"
   },
   {
-    "title": "#1084 - Douglas Murray",
     "guests": ["Douglas Murray"],
+    "title": "#1084 - Douglas Murray",
     "episode_id": 1084,
     "isMMA": false,
     "isFC": false,
@@ -4833,8 +4833,8 @@ module.exports = [
     "date": "February 26, 2018"
   },
   {
-    "title": "#1083 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#1083 - Dom Irrera",
     "episode_id": 1083,
     "isMMA": false,
     "isFC": false,
@@ -4842,8 +4842,8 @@ module.exports = [
     "date": "February 22, 2018"
   },
   {
-    "title": "#1082 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1082 - Greg Fitzsimmons",
     "episode_id": 1082,
     "isMMA": false,
     "isFC": false,
@@ -4851,8 +4851,8 @@ module.exports = [
     "date": "February 21, 2018"
   },
   {
-    "title": "#1081 - Bret Weinstein & Heather Heying",
     "guests": ["Bret Weinstein", "Heather Heying"],
+    "title": "#1081 - Bret Weinstein & Heather Heying",
     "episode_id": 1081,
     "isMMA": false,
     "isFC": false,
@@ -4860,8 +4860,8 @@ module.exports = [
     "date": "February 20, 2018"
   },
   {
-    "title": "#1080 - David Goggins",
     "guests": ["David Goggins"],
+    "title": "#1080 - David Goggins",
     "episode_id": 1080,
     "isMMA": false,
     "isFC": false,
@@ -4869,8 +4869,8 @@ module.exports = [
     "date": "February 19, 2018"
   },
   {
-    "title": "#1079 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#1079 - Tony Hinchcliffe",
     "episode_id": 1079,
     "isMMA": false,
     "isFC": false,
@@ -4878,8 +4878,8 @@ module.exports = [
     "date": "February 15, 2018"
   },
   {
-    "title": "#015 - MMA Show #15 with Brendan Schaub",
     "guests": ["MMA Show #15 with Brendan Schaub"],
+    "title": "#015 - MMA Show #15 with Brendan Schaub",
     "episode_id": 15,
     "isMMA": false,
     "isFC": false,
@@ -4887,8 +4887,8 @@ module.exports = [
     "date": "February 13, 2018"
   },
   {
-    "title": "#1078 - Jimmy Dore",
     "guests": ["Jimmy Dore"],
+    "title": "#1078 - Jimmy Dore",
     "episode_id": 1078,
     "isMMA": false,
     "isFC": false,
@@ -4896,8 +4896,8 @@ module.exports = [
     "date": "February 13, 2018"
   },
   {
-    "title": "#1077 - Johann Hari",
     "guests": ["Johann Hari"],
+    "title": "#1077 - Johann Hari",
     "episode_id": 1077,
     "isMMA": false,
     "isFC": false,
@@ -4905,8 +4905,8 @@ module.exports = [
     "date": "February 12, 2018"
   },
   {
-    "title": "#1076 - Phil Demers",
     "guests": ["Phil Demers"],
+    "title": "#1076 - Phil Demers",
     "episode_id": 1076,
     "isMMA": false,
     "isFC": false,
@@ -4914,8 +4914,8 @@ module.exports = [
     "date": "February 9, 2018"
   },
   {
-    "title": "#1075 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#1075 - Duncan Trussell",
     "episode_id": 1075,
     "isMMA": false,
     "isFC": false,
@@ -4923,8 +4923,8 @@ module.exports = [
     "date": "February 8, 2018"
   },
   {
-    "title": "#14 - MMA Show #14 with Matt Brown",
     "guests": ["MMA Show #14 with Matt Brown"],
+    "title": "#14 - MMA Show #14 with Matt Brown",
     "episode_id": 14,
     "isMMA": false,
     "isFC": false,
@@ -4932,8 +4932,8 @@ module.exports = [
     "date": "February 7, 2018"
   },
   {
-    "title": "#1074 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#1074 - Cameron Hanes",
     "episode_id": 1074,
     "isMMA": false,
     "isFC": false,
@@ -4941,8 +4941,8 @@ module.exports = [
     "date": "February 6, 2018"
   },
   {
-    "title": "#1073 - Steven Pinker",
     "guests": ["Steven Pinker"],
+    "title": "#1073 - Steven Pinker",
     "episode_id": 1073,
     "isMMA": false,
     "isFC": false,
@@ -4950,8 +4950,8 @@ module.exports = [
     "date": "February 4, 2018"
   },
   {
-    "title": "#1072 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#1072 - Joey Diaz",
     "episode_id": 1072,
     "isMMA": false,
     "isFC": false,
@@ -4959,8 +4959,8 @@ module.exports = [
     "date": "February 1, 2018"
   },
   {
-    "title": "#1071 - Steven Crowder & NotGay Jared",
     "guests": ["Steven Crowder", "NotGay Jared"],
+    "title": "#1071 - Steven Crowder & NotGay Jared",
     "episode_id": 1071,
     "isMMA": false,
     "isFC": false,
@@ -4968,8 +4968,8 @@ module.exports = [
     "date": "January 30, 2018"
   },
   {
-    "title": "#1070 - Jordan Peterson",
     "guests": ["Jordan Peterson"],
+    "title": "#1070 - Jordan Peterson",
     "episode_id": 1070,
     "isMMA": false,
     "isFC": false,
@@ -4977,8 +4977,8 @@ module.exports = [
     "date": "January 30, 2018"
   },
   {
-    "title": "#1069 - Ben Greenfield",
     "guests": ["Ben Greenfield"],
+    "title": "#1069 - Ben Greenfield",
     "episode_id": 1069,
     "isMMA": false,
     "isFC": false,
@@ -4986,8 +4986,8 @@ module.exports = [
     "date": "January 29, 2018"
   },
   {
-    "title": "#1068 - Michael Shermer",
     "guests": ["Michael Shermer"],
+    "title": "#1068 - Michael Shermer",
     "episode_id": 1068,
     "isMMA": false,
     "isFC": false,
@@ -4995,8 +4995,8 @@ module.exports = [
     "date": "January 24, 2018"
   },
   {
-    "title": "#013 - MMA Show #13 with Rose Namajunas & Pat Barry",
     "guests": ["MMA Show #13 with Rose Namajunas", "Pat Barry"],
+    "title": "#013 - MMA Show #13 with Rose Namajunas & Pat Barry",
     "episode_id": 13,
     "isMMA": false,
     "isFC": false,
@@ -5004,8 +5004,8 @@ module.exports = [
     "date": "January 23, 2018"
   },
   {
-    "title": "#1067 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#1067 - Whitney Cummings",
     "episode_id": 1067,
     "isMMA": false,
     "isFC": false,
@@ -5013,8 +5013,8 @@ module.exports = [
     "date": "January 23, 2018"
   },
   {
-    "title": "#12 - MMA Show #12 with Ben Askren",
     "guests": ["MMA Show #12 with Ben Askren"],
+    "title": "#12 - MMA Show #12 with Ben Askren",
     "episode_id": 12,
     "isMMA": false,
     "isFC": false,
@@ -5022,8 +5022,8 @@ module.exports = [
     "date": "January 22, 2018"
   },
   {
-    "title": "#1066 - Mel Gibson & Dr. Neil Riordan",
     "guests": ["Mel Gibson", "Dr. Neil Riordan"],
+    "title": "#1066 - Mel Gibson & Dr. Neil Riordan",
     "episode_id": 1066,
     "isMMA": false,
     "isFC": false,
@@ -5031,8 +5031,8 @@ module.exports = [
     "date": "January 17, 2018"
   },
   {
-    "title": "#1065 - Danica Patrick",
     "guests": ["Danica Patrick"],
+    "title": "#1065 - Danica Patrick",
     "episode_id": 1065,
     "isMMA": false,
     "isFC": false,
@@ -5040,8 +5040,8 @@ module.exports = [
     "date": "January 16, 2018"
   },
   {
-    "title": "#1064 - Eddie Huang & Jessica Rosenworcel",
     "guests": ["Eddie Huang", "Jessica Rosenworcel"],
+    "title": "#1064 - Eddie Huang & Jessica Rosenworcel",
     "episode_id": 1064,
     "isMMA": false,
     "isFC": false,
@@ -5049,8 +5049,8 @@ module.exports = [
     "date": "January 15, 2018"
   },
   {
-    "title": "#11 - MMA Show #11 with John Danaher",
     "guests": ["MMA Show #11 with John Danaher"],
+    "title": "#11 - MMA Show #11 with John Danaher",
     "episode_id": 11,
     "isMMA": false,
     "isFC": false,
@@ -5058,17 +5058,17 @@ module.exports = [
     "date": "January 15, 2018"
   },
   {
-    "title": "#FC36 - Fight Companion 36",
     "guests": ["FC36"],
-    "episode_id": null,
+    "title": "#FC36 - Fight Companion 36",
+    "episode_id": 36,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo, Jimmy Smith, and Bryan Callen to discuss the...",
     "date": "January 14, 2018"
   },
   {
-    "title": "#010 - MMA Show #10 with Tyron Woodley",
     "guests": ["MMA Show #10 with Tyron Woodley"],
+    "title": "#010 - MMA Show #10 with Tyron Woodley",
     "episode_id": 10,
     "isMMA": false,
     "isFC": false,
@@ -5076,8 +5076,8 @@ module.exports = [
     "date": "January 11, 2018"
   },
   {
-    "title": "#1063 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#1063 - Tom Segura",
     "episode_id": 1063,
     "isMMA": false,
     "isFC": false,
@@ -5085,8 +5085,8 @@ module.exports = [
     "date": "January 11, 2018"
   },
   {
-    "title": "#1062 - Dan Harris & Jeff Warren",
     "guests": ["Dan Harris", "Jeff Warren"],
+    "title": "#1062 - Dan Harris & Jeff Warren",
     "episode_id": 1062,
     "isMMA": false,
     "isFC": false,
@@ -5094,8 +5094,8 @@ module.exports = [
     "date": "January 10, 2018"
   },
   {
-    "title": "#1061 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1061 - Tom Papa",
     "episode_id": 1061,
     "isMMA": false,
     "isFC": false,
@@ -5103,8 +5103,8 @@ module.exports = [
     "date": "January 9, 2018"
   },
   {
-    "title": "#1060 - Remi Warren",
     "guests": ["Remi Warren"],
+    "title": "#1060 - Remi Warren",
     "episode_id": 1060,
     "isMMA": false,
     "isFC": false,
@@ -5112,8 +5112,8 @@ module.exports = [
     "date": "January 4, 2018"
   },
   {
-    "title": "#009 - MMA Show #9 with Jeff Novitzky",
     "guests": ["MMA Show #9 with Jeff Novitzky"],
+    "title": "#009 - MMA Show #9 with Jeff Novitzky",
     "episode_id": 9,
     "isMMA": false,
     "isFC": false,
@@ -5121,8 +5121,8 @@ module.exports = [
     "date": "January 3, 2018"
   },
   {
-    "title": "#008 - MMA Show #8 with Jimmy Smith",
     "guests": ["MMA Show #8 with Jimmy Smith"],
+    "title": "#008 - MMA Show #8 with Jimmy Smith",
     "episode_id": 8,
     "isMMA": false,
     "isFC": false,
@@ -5130,8 +5130,8 @@ module.exports = [
     "date": "January 2, 2018"
   },
   {
-    "title": "#1059 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1059 - Brian Redban",
     "episode_id": 1059,
     "isMMA": false,
     "isFC": false,
@@ -5139,8 +5139,8 @@ module.exports = [
     "date": "January 2, 2018"
   },
   {
-    "title": "#1058 - Nina Teicholz",
     "guests": ["Nina Teicholz"],
+    "title": "#1058 - Nina Teicholz",
     "episode_id": 1058,
     "isMMA": false,
     "isFC": false,
@@ -5148,8 +5148,8 @@ module.exports = [
     "date": "December 28, 2017"
   },
   {
-    "title": "#1057 - Eddie Pepitone",
     "guests": ["Eddie Pepitone"],
+    "title": "#1057 - Eddie Pepitone",
     "episode_id": 1057,
     "isMMA": false,
     "isFC": false,
@@ -5157,8 +5157,8 @@ module.exports = [
     "date": "December 28, 2017"
   },
   {
-    "title": "#1056 - Dr. Mark Gordon & Andrew Marr",
     "guests": ["Dr. Mark Gordon", "Andrew Marr"],
+    "title": "#1056 - Dr. Mark Gordon & Andrew Marr",
     "episode_id": 1056,
     "isMMA": false,
     "isFC": false,
@@ -5166,8 +5166,8 @@ module.exports = [
     "date": "December 27, 2017"
   },
   {
-    "title": "#007 - MMA Show #7 with Brendan Schaub & Bryan Callen",
     "guests": ["MMA Show #7 with Brendan Schaub", "Bryan Callen"],
+    "title": "#007 - MMA Show #7 with Brendan Schaub & Bryan Callen",
     "episode_id": 7,
     "isMMA": false,
     "isFC": false,
@@ -5175,8 +5175,8 @@ module.exports = [
     "date": "December 26, 2017"
   },
   {
-    "title": "#006 - MMA Show #6 with Eddie Bravo",
     "guests": ["MMA Show #6 with Eddie Bravo"],
+    "title": "#006 - MMA Show #6 with Eddie Bravo",
     "episode_id": 6,
     "isMMA": false,
     "isFC": false,
@@ -5184,8 +5184,8 @@ module.exports = [
     "date": "December 19, 2017"
   },
   {
-    "title": "#1055 - Bret Weinstein",
     "guests": ["Bret Weinstein"],
+    "title": "#1055 - Bret Weinstein",
     "episode_id": 1055,
     "isMMA": false,
     "isFC": false,
@@ -5193,8 +5193,8 @@ module.exports = [
     "date": "December 19, 2017"
   },
   {
-    "title": "#1054 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#1054 - Dr. Rhonda Patrick",
     "episode_id": 1054,
     "isMMA": false,
     "isFC": false,
@@ -5202,8 +5202,8 @@ module.exports = [
     "date": "December 18, 2017"
   },
   {
-    "title": "#1053 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#1053 - Neal Brennan",
     "episode_id": 1053,
     "isMMA": false,
     "isFC": false,
@@ -5211,8 +5211,8 @@ module.exports = [
     "date": "December 14, 2017"
   },
   {
-    "title": "#005 - MMA Show #5 with Stipe Miocic",
     "guests": ["MMA Show #5 with Stipe Miocic"],
+    "title": "#005 - MMA Show #5 with Stipe Miocic",
     "episode_id": 5,
     "isMMA": false,
     "isFC": false,
@@ -5220,8 +5220,8 @@ module.exports = [
     "date": "December 13, 2017"
   },
   {
-    "title": "#1052 - Mick West",
     "guests": ["Mick West"],
+    "title": "#1052 - Mick West",
     "episode_id": 1052,
     "isMMA": false,
     "isFC": false,
@@ -5229,8 +5229,8 @@ module.exports = [
     "date": "December 12, 2017"
   },
   {
-    "title": "#1051 - Duncan Trussell & Christopher Ryan",
     "guests": ["Duncan Trussell", "Christopher Ryan"],
+    "title": "#1051 - Duncan Trussell & Christopher Ryan",
     "episode_id": 1051,
     "isMMA": false,
     "isFC": false,
@@ -5238,8 +5238,8 @@ module.exports = [
     "date": "December 11, 2017"
   },
   {
-    "title": "#1050 - Dr. Shawn Baker",
     "guests": ["Dr. Shawn Baker"],
+    "title": "#1050 - Dr. Shawn Baker",
     "episode_id": 1050,
     "isMMA": false,
     "isFC": false,
@@ -5247,8 +5247,8 @@ module.exports = [
     "date": "December 7, 2017"
   },
   {
-    "title": "#1049 - Chris Stapleton",
     "guests": ["Chris Stapleton"],
+    "title": "#1049 - Chris Stapleton",
     "episode_id": 1049,
     "isMMA": false,
     "isFC": false,
@@ -5256,8 +5256,8 @@ module.exports = [
     "date": "December 6, 2017"
   },
   {
-    "title": "#004 - MMA Show #4 with Justin Wren",
     "guests": ["MMA Show #4 with Justin Wren"],
+    "title": "#004 - MMA Show #4 with Justin Wren",
     "episode_id": 4,
     "isMMA": false,
     "isFC": false,
@@ -5265,8 +5265,8 @@ module.exports = [
     "date": "December 6, 2017"
   },
   {
-    "title": "#1048 - Doug Stanhope",
     "guests": ["Doug Stanhope"],
+    "title": "#1048 - Doug Stanhope",
     "episode_id": 1048,
     "isMMA": false,
     "isFC": false,
@@ -5274,8 +5274,8 @@ module.exports = [
     "date": "December 5, 2017"
   },
   {
-    "title": "#1047 - Andy Stumpf",
     "guests": ["Andy Stumpf"],
+    "title": "#1047 - Andy Stumpf",
     "episode_id": 1047,
     "isMMA": false,
     "isFC": false,
@@ -5283,8 +5283,8 @@ module.exports = [
     "date": "December 4, 2017"
   },
   {
-    "title": "#003 - MMA Show #3",
     "guests": ["MMA Show #3"],
+    "title": "#003 - MMA Show #3",
     "episode_id": 3,
     "isMMA": false,
     "isFC": false,
@@ -5292,8 +5292,8 @@ module.exports = [
     "date": "November 29, 2017"
   },
   {
-    "title": "#1046 - Owen Smith",
     "guests": ["Owen Smith"],
+    "title": "#1046 - Owen Smith",
     "episode_id": 1046,
     "isMMA": false,
     "isFC": false,
@@ -5301,8 +5301,8 @@ module.exports = [
     "date": "November 29, 2017"
   },
   {
-    "title": "#1045 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#1045 - Bryan Callen",
     "episode_id": 1045,
     "isMMA": false,
     "isFC": false,
@@ -5310,8 +5310,8 @@ module.exports = [
     "date": "November 28, 2017"
   },
   {
-    "title": "#1044 - C.T. Fletcher",
     "guests": ["C.T. Fletcher"],
+    "title": "#1044 - C.T. Fletcher",
     "episode_id": 1044,
     "isMMA": false,
     "isFC": false,
@@ -5319,8 +5319,8 @@ module.exports = [
     "date": "November 28, 2017"
   },
   {
-    "title": "#1043 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1043 - Brian Redban",
     "episode_id": 1043,
     "isMMA": false,
     "isFC": false,
@@ -5328,8 +5328,8 @@ module.exports = [
     "date": "November 27, 2017"
   },
   {
-    "title": "#002 - MMA Show #2",
     "guests": ["MMA Show #2"],
+    "title": "#002 - MMA Show #2",
     "episode_id": 2,
     "isMMA": false,
     "isFC": false,
@@ -5337,8 +5337,8 @@ module.exports = [
     "date": "November 25, 2017"
   },
   {
-    "title": "#1042 - Krystyna Hutchinson & Corinne Fisher",
     "guests": ["Krystyna Hutchinson", "Corinne Fisher"],
+    "title": "#1042 - Krystyna Hutchinson & Corinne Fisher",
     "episode_id": 1042,
     "isMMA": false,
     "isFC": false,
@@ -5346,8 +5346,8 @@ module.exports = [
     "date": "November 20, 2017"
   },
   {
-    "title": "#001 - JRE MMA Show #1",
     "guests": ["JRE MMA Show #1"],
+    "title": "#001 - JRE MMA Show #1",
     "episode_id": 1,
     "isMMA": true,
     "isFC": false,
@@ -5355,8 +5355,8 @@ module.exports = [
     "date": "November 16, 2017"
   },
   {
-    "title": "#1041 - Dan Carlin",
     "guests": ["Dan Carlin"],
+    "title": "#1041 - Dan Carlin",
     "episode_id": 1041,
     "isMMA": false,
     "isFC": false,
@@ -5364,8 +5364,8 @@ module.exports = [
     "date": "November 16, 2017"
   },
   {
-    "title": "#1040 - Brian Regan",
     "guests": ["Brian Regan"],
+    "title": "#1040 - Brian Regan",
     "episode_id": 1040,
     "isMMA": false,
     "isFC": false,
@@ -5373,8 +5373,8 @@ module.exports = [
     "date": "November 15, 2017"
   },
   {
-    "title": "#1039 - Iliza Shlesinger",
     "guests": ["Iliza Shlesinger"],
+    "title": "#1039 - Iliza Shlesinger",
     "episode_id": 1039,
     "isMMA": false,
     "isFC": false,
@@ -5382,8 +5382,8 @@ module.exports = [
     "date": "November 14, 2017"
   },
   {
-    "title": "#1038 - Billy Corgan",
     "guests": ["Billy Corgan"],
+    "title": "#1038 - Billy Corgan",
     "episode_id": 1038,
     "isMMA": false,
     "isFC": false,
@@ -5391,8 +5391,8 @@ module.exports = [
     "date": "November 10, 2017"
   },
   {
-    "title": "#1037 - Chris Kresser",
     "guests": ["Chris Kresser"],
+    "title": "#1037 - Chris Kresser",
     "episode_id": 1037,
     "isMMA": false,
     "isFC": false,
@@ -5400,8 +5400,8 @@ module.exports = [
     "date": "November 8, 2017"
   },
   {
-    "title": "#1037 - Ari Shaffir, Bert Kreischer & Tom Segura",
     "guests": ["Ari Shaffir", "Bert Kreischer", "Tom Segura"],
+    "title": "#1037 - Ari Shaffir, Bert Kreischer & Tom Segura",
     "episode_id": 1037,
     "isMMA": false,
     "isFC": false,
@@ -5409,8 +5409,8 @@ module.exports = [
     "date": "November 7, 2017"
   },
   {
-    "title": "#1035 - Paul Stamets",
     "guests": ["Paul Stamets"],
+    "title": "#1035 - Paul Stamets",
     "episode_id": 1035,
     "isMMA": false,
     "isFC": false,
@@ -5418,17 +5418,17 @@ module.exports = [
     "date": "November 7, 2017"
   },
   {
-    "title": "#Fight Recap - Fight Recap",
-    "guests": ["Fight Recap"],
+    "guests": ["Brendan Schaub"],
+    "title": "Fight Recap w/ Brendan Schaub",
     "episode_id": null,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017.",
     "date": "November 6, 2017"
   },
   {
-    "title": "#1034 - Sebastian Junger",
     "guests": ["Sebastian Junger"],
+    "title": "#1034 - Sebastian Junger",
     "episode_id": 1034,
     "isMMA": false,
     "isFC": false,
@@ -5436,8 +5436,8 @@ module.exports = [
     "date": "November 6, 2017"
   },
   {
-    "title": "#1033 - Owen Benjamin",
     "guests": ["Owen Benjamin"],
+    "title": "#1033 - Owen Benjamin",
     "episode_id": 1033,
     "isMMA": false,
     "isFC": false,
@@ -5445,8 +5445,8 @@ module.exports = [
     "date": "November 1, 2017"
   },
   {
-    "title": "#1032 - Colin Moriarty",
     "guests": ["Colin Moriarty"],
+    "title": "#1032 - Colin Moriarty",
     "episode_id": 1032,
     "isMMA": false,
     "isFC": false,
@@ -5454,8 +5454,8 @@ module.exports = [
     "date": "October 31, 2017"
   },
   {
-    "title": "#1031 - Jamie Kilstein",
     "guests": ["Jamie Kilstein"],
+    "title": "#1031 - Jamie Kilstein",
     "episode_id": 1031,
     "isMMA": false,
     "isFC": false,
@@ -5463,8 +5463,8 @@ module.exports = [
     "date": "October 30, 2017"
   },
   {
-    "title": "#1030 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#1030 - Joey “CoCo” Diaz",
     "episode_id": 1030,
     "isMMA": false,
     "isFC": false,
@@ -5472,8 +5472,8 @@ module.exports = [
     "date": "October 27, 2017"
   },
   {
-    "title": "#1029 - Tom DeLonge",
     "guests": ["Tom DeLonge"],
+    "title": "#1029 - Tom DeLonge",
     "episode_id": 1029,
     "isMMA": false,
     "isFC": false,
@@ -5481,8 +5481,8 @@ module.exports = [
     "date": "October 26, 2017"
   },
   {
-    "title": "#1028 - Adam Greentree",
     "guests": ["Adam Greentree"],
+    "title": "#1028 - Adam Greentree",
     "episode_id": 1028,
     "isMMA": false,
     "isFC": false,
@@ -5490,8 +5490,8 @@ module.exports = [
     "date": "October 25, 2017"
   },
   {
-    "title": "#1027 - Courtney Dauwalter",
     "guests": ["Courtney Dauwalter"],
+    "title": "#1027 - Courtney Dauwalter",
     "episode_id": 1027,
     "isMMA": false,
     "isFC": false,
@@ -5499,8 +5499,8 @@ module.exports = [
     "date": "October 24, 2017"
   },
   {
-    "title": "#1026 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1026 - Brian Redban",
     "episode_id": 1026,
     "isMMA": false,
     "isFC": false,
@@ -5508,17 +5508,17 @@ module.exports = [
     "date": "October 23, 2017"
   },
   {
-    "title": "#FC37 - Fight Companion 37",
     "guests": ["FC37"],
-    "episode_id": null,
+    "title": "#FC37 - Fight Companion 37",
+    "episode_id": 37,
     "isMMA": false,
     "isFC": true,
     "description": "FC37. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on October 21,...",
     "date": "October 21, 2017"
   },
   {
-    "title": "#1025 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#1025 - Greg Fitzsimmons",
     "episode_id": 1025,
     "isMMA": false,
     "isFC": false,
@@ -5526,8 +5526,8 @@ module.exports = [
     "date": "October 18, 2017"
   },
   {
-    "title": "#1024 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#1024 - Bert Kreischer",
     "episode_id": 1024,
     "isMMA": false,
     "isFC": false,
@@ -5535,8 +5535,8 @@ module.exports = [
     "date": "October 12, 2017"
   },
   {
-    "title": "#1023 - Christina P",
     "guests": ["Christina P"],
+    "title": "#1023 - Christina P",
     "episode_id": 1023,
     "isMMA": false,
     "isFC": false,
@@ -5544,8 +5544,8 @@ module.exports = [
     "date": "October 11, 2017"
   },
   {
-    "title": "#1022 - Eric Weinstein",
     "guests": ["Eric Weinstein"],
+    "title": "#1022 - Eric Weinstein",
     "episode_id": 1022,
     "isMMA": false,
     "isFC": false,
@@ -5553,8 +5553,8 @@ module.exports = [
     "date": "October 10, 2017"
   },
   {
-    "title": "#1021 - Russell Brand",
     "guests": ["Russell Brand"],
+    "title": "#1021 - Russell Brand",
     "episode_id": 1021,
     "isMMA": false,
     "isFC": false,
@@ -5562,8 +5562,8 @@ module.exports = [
     "date": "October 5, 2017"
   },
   {
-    "title": "#1020 - Amy Alkon",
     "guests": ["Amy Alkon"],
+    "title": "#1020 - Amy Alkon",
     "episode_id": 1020,
     "isMMA": false,
     "isFC": false,
@@ -5571,8 +5571,8 @@ module.exports = [
     "date": "October 5, 2017"
   },
   {
-    "title": "#1019 - Bryan Fogel",
     "guests": ["Bryan Fogel"],
+    "title": "#1019 - Bryan Fogel",
     "episode_id": 1019,
     "isMMA": false,
     "isFC": false,
@@ -5580,8 +5580,8 @@ module.exports = [
     "date": "October 4, 2017"
   },
   {
-    "title": "#1018 - Alonzo Bodden",
     "guests": ["Alonzo Bodden"],
+    "title": "#1018 - Alonzo Bodden",
     "episode_id": 1018,
     "isMMA": false,
     "isFC": false,
@@ -5589,8 +5589,8 @@ module.exports = [
     "date": "October 3, 2017"
   },
   {
-    "title": "#1017 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#1017 - Jim Norton",
     "episode_id": 1017,
     "isMMA": false,
     "isFC": false,
@@ -5598,8 +5598,8 @@ module.exports = [
     "date": "September 28, 2017"
   },
   {
-    "title": "#1016 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#1016 - Whitney Cummings",
     "episode_id": 1016,
     "isMMA": false,
     "isFC": false,
@@ -5607,8 +5607,8 @@ module.exports = [
     "date": "September 27, 2017"
   },
   {
-    "title": "#1015 - Reggie Watts",
     "guests": ["Reggie Watts"],
+    "title": "#1015 - Reggie Watts",
     "episode_id": 1015,
     "isMMA": false,
     "isFC": false,
@@ -5616,8 +5616,8 @@ module.exports = [
     "date": "September 26, 2017"
   },
   {
-    "title": "#1014 - Dave Smith",
     "guests": ["Dave Smith"],
+    "title": "#1014 - Dave Smith",
     "episode_id": 1014,
     "isMMA": false,
     "isFC": false,
@@ -5625,8 +5625,8 @@ module.exports = [
     "date": "September 25, 2017"
   },
   {
-    "title": "#1013 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#1013 - Cameron Hanes",
     "episode_id": 1013,
     "isMMA": false,
     "isFC": false,
@@ -5634,17 +5634,17 @@ module.exports = [
     "date": "September 22, 2017"
   },
   {
-    "title": "#FC36 - Fight Companion 36",
     "guests": ["FC36"],
-    "episode_id": null,
+    "title": "#FC36 - Fight Companion 36",
+    "episode_id": 36,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo & Jim Norton to watch the fights on September...",
     "date": "September 16, 2017"
   },
   {
-    "title": "#1012 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#1012 - Brendan Schaub",
     "episode_id": 1012,
     "isMMA": false,
     "isFC": false,
@@ -5652,8 +5652,8 @@ module.exports = [
     "date": "September 15, 2017"
   },
   {
-    "title": "#1011 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#1011 - Tom Papa",
     "episode_id": 1011,
     "isMMA": false,
     "isFC": false,
@@ -5661,8 +5661,8 @@ module.exports = [
     "date": "September 14, 2017"
   },
   {
-    "title": "#1010 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1010 - Brian Redban",
     "episode_id": 1010,
     "isMMA": false,
     "isFC": false,
@@ -5670,8 +5670,8 @@ module.exports = [
     "date": "September 7, 2017"
   },
   {
-    "title": "#1009 - James Damore",
     "guests": ["James Damore"],
+    "title": "#1009 - James Damore",
     "episode_id": 1009,
     "isMMA": false,
     "isFC": false,
@@ -5679,8 +5679,8 @@ module.exports = [
     "date": "September 6, 2017"
   },
   {
-    "title": "#1008 - Cody Garbrandt & Urijah Faber",
     "guests": ["Cody Garbrandt", "Urijah Faber"],
+    "title": "#1008 - Cody Garbrandt & Urijah Faber",
     "episode_id": 1008,
     "isMMA": false,
     "isFC": false,
@@ -5688,8 +5688,8 @@ module.exports = [
     "date": "September 5, 2017"
   },
   {
-    "title": "#1007 - Ari Shaffir, Bert Kreischer & Tom Segura",
     "guests": ["Ari Shaffir", "Bert Kreischer", "Tom Segura"],
+    "title": "#1007 - Ari Shaffir, Bert Kreischer & Tom Segura",
     "episode_id": 1007,
     "isMMA": false,
     "isFC": false,
@@ -5697,17 +5697,17 @@ module.exports = [
     "date": "September 4, 2017"
   },
   {
-    "title": "#FC35 - Fight Companion 35",
     "guests": ["FC35"],
-    "episode_id": null,
+    "title": "#FC35 - Fight Companion 35",
+    "episode_id": 35,
     "isMMA": false,
     "isFC": true,
     "description": "FC35. Joe sits down with Brendan Schaub to watch the fights on September 2, 2017.",
     "date": "September 2, 2017"
   },
   {
-    "title": "#1006 - Jordan Peterson & Bret Weinstein",
     "guests": ["Jordan Peterson", "Bret Weinstein"],
+    "title": "#1006 - Jordan Peterson & Bret Weinstein",
     "episode_id": 1006,
     "isMMA": false,
     "isFC": false,
@@ -5715,8 +5715,8 @@ module.exports = [
     "date": "September 1, 2017"
   },
   {
-    "title": "#1005 - Hannibal Buress",
     "guests": ["Hannibal Buress"],
+    "title": "#1005 - Hannibal Buress",
     "episode_id": 1005,
     "isMMA": false,
     "isFC": false,
@@ -5724,8 +5724,8 @@ module.exports = [
     "date": "August 30, 2017"
   },
   {
-    "title": "#1004 - W. Kamau Bell",
     "guests": ["W. Kamau Bell"],
+    "title": "#1004 - W. Kamau Bell",
     "episode_id": 1004,
     "isMMA": false,
     "isFC": false,
@@ -5733,17 +5733,17 @@ module.exports = [
     "date": "August 29, 2017"
   },
   {
-    "title": "#Recap - Recap",
-    "guests": ["Recap"],
+    "guests": ["Brendan Schaub"],
+    "title": "Mayweather vs. McGregor Recap with Brendan Schaub",
     "episode_id": null,
     "isMMA": false,
-    "isFC": false,
-    "description": "recap. Joe sits down with Brendan Schaub to discuss the recent fight between Floyd Mayweather &...",
+    "isFC": true,
+    "description": "Joe sits down with Brendan Schaub to discuss the recent fight between Floyd Mayweather & Conor McGregor.",
     "date": "August 28, 2017"
   },
   {
-    "title": "#1003 - Sean Carroll",
     "guests": ["Sean Carroll"],
+    "title": "#1003 - Sean Carroll",
     "episode_id": 1003,
     "isMMA": false,
     "isFC": false,
@@ -5751,8 +5751,8 @@ module.exports = [
     "date": "August 24, 2017"
   },
   {
-    "title": "#1002 - Peter Schiff",
     "guests": ["Peter Schiff"],
+    "title": "#1002 - Peter Schiff",
     "episode_id": 1002,
     "isMMA": false,
     "isFC": false,
@@ -5760,8 +5760,8 @@ module.exports = [
     "date": "August 23, 2017"
   },
   {
-    "title": "#1001 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#1001 - Mike Baker",
     "episode_id": 1001,
     "isMMA": false,
     "isFC": false,
@@ -5769,8 +5769,8 @@ module.exports = [
     "date": "August 21, 2017"
   },
   {
-    "title": "#1000 - Joey Diaz & Tom Segura",
     "guests": ["Joey Diaz", "Tom Segura"],
+    "title": "#1000 - Joey Diaz & Tom Segura",
     "episode_id": 1000,
     "isMMA": false,
     "isFC": false,
@@ -5778,8 +5778,8 @@ module.exports = [
     "date": "August 18, 2017"
   },
   {
-    "title": "#999 - Tom Bilyeu",
     "guests": ["Tom Bilyeu"],
+    "title": "#999 - Tom Bilyeu",
     "episode_id": 999,
     "isMMA": false,
     "isFC": false,
@@ -5787,8 +5787,8 @@ module.exports = [
     "date": "August 16, 2017"
   },
   {
-    "title": "#Fight Breakdown - Fight Breakdown",
     "guests": ["Fight Breakdown"],
+    "title": "#Fight Breakdown - Fight Breakdown",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -5796,8 +5796,8 @@ module.exports = [
     "date": "August 16, 2017"
   },
   {
-    "title": "#998 - Owen Benjamin",
     "guests": ["Owen Benjamin"],
+    "title": "#998 - Owen Benjamin",
     "episode_id": 998,
     "isMMA": false,
     "isFC": false,
@@ -5805,8 +5805,8 @@ module.exports = [
     "date": "August 15, 2017"
   },
   {
-    "title": "#997 - Pauly Shore",
     "guests": ["Pauly Shore"],
+    "title": "#997 - Pauly Shore",
     "episode_id": 997,
     "isMMA": false,
     "isFC": false,
@@ -5814,8 +5814,8 @@ module.exports = [
     "date": "August 10, 2017"
   },
   {
-    "title": "#996 - Dr. Andy Galpin",
     "guests": ["Dr. Andy Galpin"],
+    "title": "#996 - Dr. Andy Galpin",
     "episode_id": 996,
     "isMMA": false,
     "isFC": false,
@@ -5823,8 +5823,8 @@ module.exports = [
     "date": "August 9, 2017"
   },
   {
-    "title": "#995 - Jon Ronson",
     "guests": ["Jon Ronson"],
+    "title": "#995 - Jon Ronson",
     "episode_id": 995,
     "isMMA": false,
     "isFC": false,
@@ -5832,8 +5832,8 @@ module.exports = [
     "date": "August 8, 2017"
   },
   {
-    "title": "#994 - Dom D’Agostino",
     "guests": ["Dom D’Agostino"],
+    "title": "#994 - Dom D’Agostino",
     "episode_id": 994,
     "isMMA": false,
     "isFC": false,
@@ -5841,8 +5841,8 @@ module.exports = [
     "date": "August 7, 2017"
   },
   {
-    "title": "#993 - Ben Shapiro",
     "guests": ["Ben Shapiro"],
+    "title": "#993 - Ben Shapiro",
     "episode_id": 993,
     "isMMA": false,
     "isFC": false,
@@ -5850,8 +5850,8 @@ module.exports = [
     "date": "August 2, 2017"
   },
   {
-    "title": "#992 - Ian Edwards",
     "guests": ["Ian Edwards"],
+    "title": "#992 - Ian Edwards",
     "episode_id": 992,
     "isMMA": false,
     "isFC": false,
@@ -5859,8 +5859,8 @@ module.exports = [
     "date": "August 1, 2017"
   },
   {
-    "title": "#991 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#991 - Eddie Bravo",
     "episode_id": 991,
     "isMMA": false,
     "isFC": false,
@@ -5868,8 +5868,8 @@ module.exports = [
     "date": "July 31, 2017"
   },
   {
-    "title": "#990 - Jamie Foxx",
     "guests": ["Jamie Foxx"],
+    "title": "#990 - Jamie Foxx",
     "episode_id": 990,
     "isMMA": false,
     "isFC": false,
@@ -5877,8 +5877,8 @@ module.exports = [
     "date": "July 27, 2017"
   },
   {
-    "title": "#989 - Dorian Yates",
     "guests": ["Dorian Yates"],
+    "title": "#989 - Dorian Yates",
     "episode_id": 989,
     "isMMA": false,
     "isFC": false,
@@ -5886,8 +5886,8 @@ module.exports = [
     "date": "July 26, 2017"
   },
   {
-    "title": "#988 - Nick Swardson",
     "guests": ["Nick Swardson"],
+    "title": "#988 - Nick Swardson",
     "episode_id": 988,
     "isMMA": false,
     "isFC": false,
@@ -5895,8 +5895,8 @@ module.exports = [
     "date": "July 25, 2017"
   },
   {
-    "title": "#On A Hike - On A Hike",
     "guests": ["On A Hike"],
+    "title": "#On A Hike - On A Hike",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -5904,8 +5904,8 @@ module.exports = [
     "date": "July 18, 2017"
   },
   {
-    "title": "#987 - Ben O’Brien",
     "guests": ["Ben O’Brien"],
+    "title": "#987 - Ben O’Brien",
     "episode_id": 987,
     "isMMA": false,
     "isFC": false,
@@ -5913,8 +5913,8 @@ module.exports = [
     "date": "July 13, 2017"
   },
   {
-    "title": "#986 - Maynard James Keenan",
     "guests": ["Maynard James Keenan"],
+    "title": "#986 - Maynard James Keenan",
     "episode_id": 986,
     "isMMA": false,
     "isFC": false,
@@ -5922,8 +5922,8 @@ module.exports = [
     "date": "July 12, 2017"
   },
   {
-    "title": "#985 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#985 - Gad Saad",
     "episode_id": 985,
     "isMMA": false,
     "isFC": false,
@@ -5931,8 +5931,8 @@ module.exports = [
     "date": "July 11, 2017"
   },
   {
-    "title": "#984 - Yvette d’Entremont",
     "guests": ["Yvette d’Entremont"],
+    "title": "#984 - Yvette d’Entremont",
     "episode_id": 984,
     "isMMA": false,
     "isFC": false,
@@ -5940,8 +5940,8 @@ module.exports = [
     "date": "July 6, 2017"
   },
   {
-    "title": "#983 - Natasha Leggero & Moshe Kasher",
     "guests": ["Natasha Leggero", "Moshe Kasher"],
+    "title": "#983 - Natasha Leggero & Moshe Kasher",
     "episode_id": 983,
     "isMMA": false,
     "isFC": false,
@@ -5949,8 +5949,8 @@ module.exports = [
     "date": "July 5, 2017"
   },
   {
-    "title": "#982 - Honey Honey",
     "guests": ["Honey Honey"],
+    "title": "#982 - Honey Honey",
     "episode_id": 982,
     "isMMA": false,
     "isFC": false,
@@ -5958,8 +5958,8 @@ module.exports = [
     "date": "July 3, 2017"
   },
   {
-    "title": "#981 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#981 - Josh Barnett",
     "episode_id": 981,
     "isMMA": false,
     "isFC": false,
@@ -5967,8 +5967,8 @@ module.exports = [
     "date": "June 28, 2017"
   },
   {
-    "title": "#980 - Chris D’Elia",
     "guests": ["Chris D’Elia"],
+    "title": "#980 - Chris D’Elia",
     "episode_id": 980,
     "isMMA": false,
     "isFC": false,
@@ -5976,8 +5976,8 @@ module.exports = [
     "date": "June 27, 2017"
   },
   {
-    "title": "#979 - Sargon of Akkad",
     "guests": ["Sargon of Akkad"],
+    "title": "#979 - Sargon of Akkad",
     "episode_id": 979,
     "isMMA": false,
     "isFC": false,
@@ -5985,8 +5985,8 @@ module.exports = [
     "date": "June 26, 2017"
   },
   {
-    "title": "#978 - Judd Apatow",
     "guests": ["Judd Apatow"],
+    "title": "#978 - Judd Apatow",
     "episode_id": 978,
     "isMMA": false,
     "isFC": false,
@@ -5994,8 +5994,8 @@ module.exports = [
     "date": "June 22, 2017"
   },
   {
-    "title": "#977 - Jeff Evans & Bud Brutsman",
     "guests": ["Jeff Evans", "Bud Brutsman"],
+    "title": "#977 - Jeff Evans & Bud Brutsman",
     "episode_id": 977,
     "isMMA": false,
     "isFC": false,
@@ -6003,8 +6003,8 @@ module.exports = [
     "date": "June 21, 2017"
   },
   {
-    "title": "#976 - Morgan Murphy",
     "guests": ["Morgan Murphy"],
+    "title": "#976 - Morgan Murphy",
     "episode_id": 976,
     "isMMA": false,
     "isFC": false,
@@ -6012,8 +6012,8 @@ module.exports = [
     "date": "June 19, 2017"
   },
   {
-    "title": "#Paradise - Paradise",
     "guests": ["Paradise"],
+    "title": "#Paradise - Paradise",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -6021,8 +6021,8 @@ module.exports = [
     "date": "June 16, 2017"
   },
   {
-    "title": "#975 - Sebastian Junger",
     "guests": ["Sebastian Junger"],
+    "title": "#975 - Sebastian Junger",
     "episode_id": 975,
     "isMMA": false,
     "isFC": false,
@@ -6030,8 +6030,8 @@ module.exports = [
     "date": "June 9, 2017"
   },
   {
-    "title": "#974 - Megan Phelps-Roper",
     "guests": ["Megan Phelps-Roper"],
+    "title": "#974 - Megan Phelps-Roper",
     "episode_id": 974,
     "isMMA": false,
     "isFC": false,
@@ -6039,8 +6039,8 @@ module.exports = [
     "date": "June 8, 2017"
   },
   {
-    "title": "#973 - Wheeler Walker, Jr.",
     "guests": ["Wheeler Walker, Jr."],
+    "title": "#973 - Wheeler Walker, Jr.",
     "episode_id": 973,
     "isMMA": false,
     "isFC": false,
@@ -6048,8 +6048,8 @@ module.exports = [
     "date": "June 8, 2017"
   },
   {
-    "title": "#972 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#972 - Ari Shaffir",
     "episode_id": 972,
     "isMMA": false,
     "isFC": false,
@@ -6057,8 +6057,8 @@ module.exports = [
     "date": "June 7, 2017"
   },
   {
-    "title": "#971 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#971 - Steven Rinella",
     "episode_id": 971,
     "isMMA": false,
     "isFC": false,
@@ -6066,17 +6066,17 @@ module.exports = [
     "date": "June 6, 2017"
   },
   {
-    "title": "#FC35 - Fight Companion 35",
     "guests": ["FC35"],
-    "episode_id": null,
+    "title": "#FC35 - Fight Companion 35",
+    "episode_id": 35,
     "isMMA": false,
     "isFC": true,
     "description": "FC35. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights on June 3, 2017.",
     "date": "June 3, 2017"
   },
   {
-    "title": "#970 - Bret Weinstein",
     "guests": ["Bret Weinstein"],
+    "title": "#970 - Bret Weinstein",
     "episode_id": 970,
     "isMMA": false,
     "isFC": false,
@@ -6084,8 +6084,8 @@ module.exports = [
     "date": "June 2, 2017"
   },
   {
-    "title": "#969 - Andrew Santino",
     "guests": ["Andrew Santino"],
+    "title": "#969 - Andrew Santino",
     "episode_id": 969,
     "isMMA": false,
     "isFC": false,
@@ -6093,8 +6093,8 @@ module.exports = [
     "date": "June 1, 2017"
   },
   {
-    "title": "#968 - Kelly Brogan",
     "guests": ["Kelly Brogan"],
+    "title": "#968 - Kelly Brogan",
     "episode_id": 968,
     "isMMA": false,
     "isFC": false,
@@ -6102,8 +6102,8 @@ module.exports = [
     "date": "May 31, 2017"
   },
   {
-    "title": "#967 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#967 - Bill Burr",
     "episode_id": 967,
     "isMMA": false,
     "isFC": false,
@@ -6111,17 +6111,17 @@ module.exports = [
     "date": "May 30, 2017"
   },
   {
-    "title": "#FC34 - Fight Companion 34",
     "guests": ["FC34"],
-    "episode_id": null,
+    "title": "#FC34 - Fight Companion 34",
+    "episode_id": 34,
     "isMMA": false,
     "isFC": true,
     "description": "FC34. Joe is joined by Brendan Schaub & Bryan Callen to watch the fights on May...",
     "date": "May 28, 2017"
   },
   {
-    "title": "#966 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#966 - Tom Papa",
     "episode_id": 966,
     "isMMA": false,
     "isFC": false,
@@ -6129,8 +6129,8 @@ module.exports = [
     "date": "May 26, 2017"
   },
   {
-    "title": "#965 - Robert Sapolsky",
     "guests": ["Robert Sapolsky"],
+    "title": "#965 - Robert Sapolsky",
     "episode_id": 965,
     "isMMA": false,
     "isFC": false,
@@ -6138,8 +6138,8 @@ module.exports = [
     "date": "May 25, 2017"
   },
   {
-    "title": "#964 - Everlast",
     "guests": ["Everlast"],
+    "title": "#964 - Everlast",
     "episode_id": 964,
     "isMMA": false,
     "isFC": false,
@@ -6147,8 +6147,8 @@ module.exports = [
     "date": "May 24, 2017"
   },
   {
-    "title": "#963 - Michael Malice",
     "guests": ["Michael Malice"],
+    "title": "#963 - Michael Malice",
     "episode_id": 963,
     "isMMA": false,
     "isFC": false,
@@ -6156,8 +6156,8 @@ module.exports = [
     "date": "May 23, 2017"
   },
   {
-    "title": "#962 - Jocko Willink",
     "guests": ["Jocko Willink"],
+    "title": "#962 - Jocko Willink",
     "episode_id": 962,
     "isMMA": false,
     "isFC": false,
@@ -6165,8 +6165,8 @@ module.exports = [
     "date": "May 18, 2017"
   },
   {
-    "title": "#961 - Graham Hancock, Randall Carlson & Michael Shermer",
     "guests": ["Graham Hancock", "Randall Carlson", "Michael Shermer"],
+    "title": "#961 - Graham Hancock, Randall Carlson & Michael Shermer",
     "episode_id": 961,
     "isMMA": false,
     "isFC": false,
@@ -6174,8 +6174,8 @@ module.exports = [
     "date": "May 16, 2017"
   },
   {
-    "title": "#960 - Steve-O",
     "guests": ["Steve-O"],
+    "title": "#960 - Steve-O",
     "episode_id": 960,
     "isMMA": false,
     "isFC": false,
@@ -6183,8 +6183,8 @@ module.exports = [
     "date": "May 15, 2017"
   },
   {
-    "title": "# - Podcast On A Plane UFC 211 Recap",
     "guests": ["Podcast On A Plane UFC 211 Recap"],
+    "title": "# - Podcast On A Plane UFC 211 Recap",
     "episode_id": 0,
     "isMMA": false,
     "isFC": false,
@@ -6192,8 +6192,8 @@ module.exports = [
     "date": "May 15, 2017"
   },
   {
-    "title": "#959 - Mick West",
     "guests": ["Mick West"],
+    "title": "#959 - Mick West",
     "episode_id": 959,
     "isMMA": false,
     "isFC": false,
@@ -6201,8 +6201,8 @@ module.exports = [
     "date": "May 10, 2017"
   },
   {
-    "title": "#958 - Jordan Peterson",
     "guests": ["Jordan Peterson"],
+    "title": "#958 - Jordan Peterson",
     "episode_id": 958,
     "isMMA": false,
     "isFC": false,
@@ -6210,8 +6210,8 @@ module.exports = [
     "date": "May 9, 2017"
   },
   {
-    "title": "#957 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#957 - Cameron Hanes",
     "episode_id": 957,
     "isMMA": false,
     "isFC": false,
@@ -6219,8 +6219,8 @@ module.exports = [
     "date": "May 9, 2017"
   },
   {
-    "title": "#956 - Guy Ritchie",
     "guests": ["Guy Ritchie"],
+    "title": "#956 - Guy Ritchie",
     "episode_id": 956,
     "isMMA": false,
     "isFC": false,
@@ -6228,8 +6228,8 @@ module.exports = [
     "date": "May 5, 2017"
   },
   {
-    "title": "#955 - Al Madrigal",
     "guests": ["Al Madrigal"],
+    "title": "#955 - Al Madrigal",
     "episode_id": 955,
     "isMMA": false,
     "isFC": false,
@@ -6237,8 +6237,8 @@ module.exports = [
     "date": "May 4, 2017"
   },
   {
-    "title": "#954 - Justin Brown",
     "guests": ["Justin Brown"],
+    "title": "#954 - Justin Brown",
     "episode_id": 954,
     "isMMA": false,
     "isFC": false,
@@ -6246,8 +6246,8 @@ module.exports = [
     "date": "May 3, 2017"
   },
   {
-    "title": "#953 - Shirley Manson",
     "guests": ["Shirley Manson"],
+    "title": "#953 - Shirley Manson",
     "episode_id": 953,
     "isMMA": false,
     "isFC": false,
@@ -6255,8 +6255,8 @@ module.exports = [
     "date": "May 2, 2017"
   },
   {
-    "title": "#952 - Thaddeus Russell",
     "guests": ["Thaddeus Russell"],
+    "title": "#952 - Thaddeus Russell",
     "episode_id": 952,
     "isMMA": false,
     "isFC": false,
@@ -6264,8 +6264,8 @@ module.exports = [
     "date": "April 27, 2017"
   },
   {
-    "title": "#951 - Dan Doty",
     "guests": ["Dan Doty"],
+    "title": "#951 - Dan Doty",
     "episode_id": 951,
     "isMMA": false,
     "isFC": false,
@@ -6273,8 +6273,8 @@ module.exports = [
     "date": "April 26, 2017"
   },
   {
-    "title": "#950 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#950 - Abby Martin",
     "episode_id": 950,
     "isMMA": false,
     "isFC": false,
@@ -6282,8 +6282,8 @@ module.exports = [
     "date": "April 25, 2017"
   },
   {
-    "title": "#949 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#949 - Josh Zepps",
     "episode_id": 949,
     "isMMA": false,
     "isFC": false,
@@ -6291,8 +6291,8 @@ module.exports = [
     "date": "April 19, 2017"
   },
   {
-    "title": "#948 - Brendan Schaub & Eddie Bravo",
     "guests": ["Brendan Schaub", "Eddie Bravo"],
+    "title": "#948 - Brendan Schaub & Eddie Bravo",
     "episode_id": 948,
     "isMMA": false,
     "isFC": false,
@@ -6300,8 +6300,8 @@ module.exports = [
     "date": "April 18, 2017"
   },
   {
-    "title": "#947 - Ron Miscavige",
     "guests": ["Ron Miscavige"],
+    "title": "#947 - Ron Miscavige",
     "episode_id": 947,
     "isMMA": false,
     "isFC": false,
@@ -6309,8 +6309,8 @@ module.exports = [
     "date": "April 18, 2017"
   },
   {
-    "title": "#946 - Dennis McKenna",
     "guests": ["Dennis McKenna"],
+    "title": "#946 - Dennis McKenna",
     "episode_id": 946,
     "isMMA": false,
     "isFC": false,
@@ -6318,8 +6318,8 @@ module.exports = [
     "date": "April 17, 2017"
   },
   {
-    "title": "#945 - Dr. Roddy McGee",
     "guests": ["Dr. Roddy McGee"],
+    "title": "#945 - Dr. Roddy McGee",
     "episode_id": 945,
     "isMMA": false,
     "isFC": false,
@@ -6327,8 +6327,8 @@ module.exports = [
     "date": "April 12, 2017"
   },
   {
-    "title": "#944 - Scott Eastwood & Cameron Hanes",
     "guests": ["Scott Eastwood", "Cameron Hanes"],
+    "title": "#944 - Scott Eastwood & Cameron Hanes",
     "episode_id": 944,
     "isMMA": false,
     "isFC": false,
@@ -6336,8 +6336,8 @@ module.exports = [
     "date": "April 11, 2017"
   },
   {
-    "title": "#943 - Moshe Kasher",
     "guests": ["Moshe Kasher"],
+    "title": "#943 - Moshe Kasher",
     "episode_id": 943,
     "isMMA": false,
     "isFC": false,
@@ -6345,8 +6345,8 @@ module.exports = [
     "date": "April 10, 2017"
   },
   {
-    "title": "#942 - Dan Flores",
     "guests": ["Dan Flores"],
+    "title": "#942 - Dan Flores",
     "episode_id": 942,
     "isMMA": false,
     "isFC": false,
@@ -6354,8 +6354,8 @@ module.exports = [
     "date": "April 5, 2017"
   },
   {
-    "title": "#941 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#941 - Greg Fitzsimmons",
     "episode_id": 941,
     "isMMA": false,
     "isFC": false,
@@ -6363,8 +6363,8 @@ module.exports = [
     "date": "April 4, 2017"
   },
   {
-    "title": "#940 - Sam Harris & Dan Harris",
     "guests": ["Sam Harris", "Dan Harris"],
+    "title": "#940 - Sam Harris & Dan Harris",
     "episode_id": 940,
     "isMMA": false,
     "isFC": false,
@@ -6372,8 +6372,8 @@ module.exports = [
     "date": "April 4, 2017"
   },
   {
-    "title": "#939 - Chris Cage",
     "guests": ["Chris Cage"],
+    "title": "#939 - Chris Cage",
     "episode_id": 939,
     "isMMA": false,
     "isFC": false,
@@ -6381,8 +6381,8 @@ module.exports = [
     "date": "April 3, 2017"
   },
   {
-    "title": "#938 - Lawrence Krauss",
     "guests": ["Lawrence Krauss"],
+    "title": "#938 - Lawrence Krauss",
     "episode_id": 938,
     "isMMA": false,
     "isFC": false,
@@ -6390,8 +6390,8 @@ module.exports = [
     "date": "March 27, 2017"
   },
   {
-    "title": "#937 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#937 - Justin Wren",
     "episode_id": 937,
     "isMMA": false,
     "isFC": false,
@@ -6399,8 +6399,8 @@ module.exports = [
     "date": "March 24, 2017"
   },
   {
-    "title": "#936 - Colin Moriarty",
     "guests": ["Colin Moriarty"],
+    "title": "#936 - Colin Moriarty",
     "episode_id": 936,
     "isMMA": false,
     "isFC": false,
@@ -6408,8 +6408,8 @@ module.exports = [
     "date": "March 24, 2017"
   },
   {
-    "title": "#935 - Robb Wolf",
     "guests": ["Robb Wolf"],
+    "title": "#935 - Robb Wolf",
     "episode_id": 935,
     "isMMA": false,
     "isFC": false,
@@ -6417,8 +6417,8 @@ module.exports = [
     "date": "March 23, 2017"
   },
   {
-    "title": "#934 - John Dudley",
     "guests": ["John Dudley"],
+    "title": "#934 - John Dudley",
     "episode_id": 934,
     "isMMA": false,
     "isFC": false,
@@ -6426,8 +6426,8 @@ module.exports = [
     "date": "March 22, 2017"
   },
   {
-    "title": "#933 - Julie Kedzie",
     "guests": ["Julie Kedzie"],
+    "title": "#933 - Julie Kedzie",
     "episode_id": 933,
     "isMMA": false,
     "isFC": false,
@@ -6435,8 +6435,8 @@ module.exports = [
     "date": "March 16, 2017"
   },
   {
-    "title": "#932 - TJ Kirk",
     "guests": ["TJ Kirk"],
+    "title": "#932 - TJ Kirk",
     "episode_id": 932,
     "isMMA": false,
     "isFC": false,
@@ -6444,8 +6444,8 @@ module.exports = [
     "date": "March 15, 2017"
   },
   {
-    "title": "#931 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#931 - Jim Norton",
     "episode_id": 931,
     "isMMA": false,
     "isFC": false,
@@ -6453,8 +6453,8 @@ module.exports = [
     "date": "March 14, 2017"
   },
   {
-    "title": "#930 - Will MacAskill",
     "guests": ["Will MacAskill"],
+    "title": "#930 - Will MacAskill",
     "episode_id": 930,
     "isMMA": false,
     "isFC": false,
@@ -6462,17 +6462,17 @@ module.exports = [
     "date": "March 13, 2017"
   },
   {
-    "title": "#FC33 - Fight Companion 33",
     "guests": ["FC33"],
-    "episode_id": null,
+    "title": "#FC33 - Fight Companion 33",
+    "episode_id": 33,
     "isMMA": false,
     "isFC": true,
     "description": "FC33. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "March 12, 2017"
   },
   {
-    "title": "#929 - Dan Peña",
     "guests": ["Dan Peña"],
+    "title": "#929 - Dan Peña",
     "episode_id": 929,
     "isMMA": false,
     "isFC": false,
@@ -6480,8 +6480,8 @@ module.exports = [
     "date": "March 10, 2017"
   },
   {
-    "title": "#928 - Arian Foster",
     "guests": ["Arian Foster"],
+    "title": "#928 - Arian Foster",
     "episode_id": 928,
     "isMMA": false,
     "isFC": false,
@@ -6489,8 +6489,8 @@ module.exports = [
     "date": "March 8, 2017"
   },
   {
-    "title": "#927 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#927 - Tom Papa",
     "episode_id": 927,
     "isMMA": false,
     "isFC": false,
@@ -6498,8 +6498,8 @@ module.exports = [
     "date": "March 7, 2017"
   },
   {
-    "title": "#926 - Joey Diaz & Alberto Gallazzi",
     "guests": ["Joey Diaz", "Alberto Gallazzi"],
+    "title": "#926 - Joey Diaz & Alberto Gallazzi",
     "episode_id": 926,
     "isMMA": false,
     "isFC": false,
@@ -6507,8 +6507,8 @@ module.exports = [
     "date": "March 6, 2017"
   },
   {
-    "title": "#925 - Theo Von",
     "guests": ["Theo Von"],
+    "title": "#925 - Theo Von",
     "episode_id": 925,
     "isMMA": false,
     "isFC": false,
@@ -6516,8 +6516,8 @@ module.exports = [
     "date": "February 28, 2017"
   },
   {
-    "title": "#924 - Rory Albanese",
     "guests": ["Rory Albanese"],
+    "title": "#924 - Rory Albanese",
     "episode_id": 924,
     "isMMA": false,
     "isFC": false,
@@ -6525,8 +6525,8 @@ module.exports = [
     "date": "February 28, 2017"
   },
   {
-    "title": "#923 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#923 - Whitney Cummings",
     "episode_id": 923,
     "isMMA": false,
     "isFC": false,
@@ -6534,8 +6534,8 @@ module.exports = [
     "date": "February 27, 2017"
   },
   {
-    "title": "#922 - Philip DeFranco",
     "guests": ["Philip DeFranco"],
+    "title": "#922 - Philip DeFranco",
     "episode_id": 922,
     "isMMA": false,
     "isFC": false,
@@ -6543,8 +6543,8 @@ module.exports = [
     "date": "February 24, 2017"
   },
   {
-    "title": "#921 - Dominick Cruz",
     "guests": ["Dominick Cruz"],
+    "title": "#921 - Dominick Cruz",
     "episode_id": 921,
     "isMMA": false,
     "isFC": false,
@@ -6552,8 +6552,8 @@ module.exports = [
     "date": "February 23, 2017"
   },
   {
-    "title": "#920 - Gavin McInnes",
     "guests": ["Gavin McInnes"],
+    "title": "#920 - Gavin McInnes",
     "episode_id": 920,
     "isMMA": false,
     "isFC": false,
@@ -6561,8 +6561,8 @@ module.exports = [
     "date": "February 22, 2017"
   },
   {
-    "title": "#919 - Neil deGrasse Tyson",
     "guests": ["Neil deGrasse Tyson"],
+    "title": "#919 - Neil deGrasse Tyson",
     "episode_id": 919,
     "isMMA": false,
     "isFC": false,
@@ -6570,17 +6570,17 @@ module.exports = [
     "date": "February 21, 2017"
   },
   {
-    "title": "#FC32 - Fight Companion 32",
     "guests": ["FC32"],
-    "episode_id": null,
+    "title": "#FC32 - Fight Companion 32",
+    "episode_id": 32,
     "isMMA": false,
     "isFC": true,
     "description": "FC32. Joe sits down with Ian McCall & Eddie Bravo to watch fights from February 19, 2017.",
     "date": "February 19, 2017"
   },
   {
-    "title": "#918 - Frank Castillo",
     "guests": ["Frank Castillo"],
+    "title": "#918 - Frank Castillo",
     "episode_id": 918,
     "isMMA": false,
     "isFC": false,
@@ -6588,8 +6588,8 @@ module.exports = [
     "date": "February 17, 2017"
   },
   {
-    "title": "#917 - Steven Crowder",
     "guests": ["Steven Crowder"],
+    "title": "#917 - Steven Crowder",
     "episode_id": 917,
     "isMMA": false,
     "isFC": false,
@@ -6597,8 +6597,8 @@ module.exports = [
     "date": "February 15, 2017"
   },
   {
-    "title": "#916 - Fight Recap",
     "guests": ["Fight Recap"],
+    "title": "#916 - Fight Recap",
     "episode_id": 916,
     "isMMA": false,
     "isFC": false,
@@ -6606,8 +6606,8 @@ module.exports = [
     "date": "February 14, 2017"
   },
   {
-    "title": "#915 - Nick DiPaolo",
     "guests": ["Nick DiPaolo"],
+    "title": "#915 - Nick DiPaolo",
     "episode_id": 915,
     "isMMA": false,
     "isFC": false,
@@ -6615,8 +6615,8 @@ module.exports = [
     "date": "February 13, 2017"
   },
   {
-    "title": "#914 - Ryan Callaghan & Kenton Carruth",
     "guests": ["Ryan Callaghan", "Kenton Carruth"],
+    "title": "#914 - Ryan Callaghan & Kenton Carruth",
     "episode_id": 914,
     "isMMA": false,
     "isFC": false,
@@ -6624,8 +6624,8 @@ module.exports = [
     "date": "February 8, 2017"
   },
   {
-    "title": "#913 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#913 - Christopher Ryan",
     "episode_id": 913,
     "isMMA": false,
     "isFC": false,
@@ -6633,8 +6633,8 @@ module.exports = [
     "date": "February 7, 2017"
   },
   {
-    "title": "#912 - Pete Holmes",
     "guests": ["Pete Holmes"],
+    "title": "#912 - Pete Holmes",
     "episode_id": 912,
     "isMMA": false,
     "isFC": false,
@@ -6642,8 +6642,8 @@ module.exports = [
     "date": "February 6, 2017"
   },
   {
-    "title": "#911 - Alex Jones & Eddie Bravo",
     "guests": ["Alex Jones", "Eddie Bravo"],
+    "title": "#911 - Alex Jones & Eddie Bravo",
     "episode_id": 911,
     "isMMA": false,
     "isFC": false,
@@ -6651,8 +6651,8 @@ module.exports = [
     "date": "February 1, 2017"
   },
   {
-    "title": "#910 - Gary Vaynerchuk",
     "guests": ["Gary Vaynerchuk"],
+    "title": "#910 - Gary Vaynerchuk",
     "episode_id": 910,
     "isMMA": false,
     "isFC": false,
@@ -6660,8 +6660,8 @@ module.exports = [
     "date": "January 31, 2017"
   },
   {
-    "title": "#909 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#909 - Bill Burr",
     "episode_id": 909,
     "isMMA": false,
     "isFC": false,
@@ -6669,8 +6669,8 @@ module.exports = [
     "date": "January 31, 2017"
   },
   {
-    "title": "#908 - Leah Remini",
     "guests": ["Leah Remini"],
+    "title": "#908 - Leah Remini",
     "episode_id": 908,
     "isMMA": false,
     "isFC": false,
@@ -6678,17 +6678,17 @@ module.exports = [
     "date": "January 30, 2017"
   },
   {
-    "title": "#FC31 - Fight Companion 31",
     "guests": ["FC31"],
-    "episode_id": null,
+    "title": "#FC31 - Fight Companion 31",
+    "episode_id": 31,
     "isMMA": false,
     "isFC": true,
     "description": "FC31. Joe sits down with Brendan Schaub, Bryan Callen, Eddie Bravo & Robin Black to watch fights...",
     "date": "January 29, 2017"
   },
   {
-    "title": "#907 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#907 - Mike Baker",
     "episode_id": 907,
     "isMMA": false,
     "isFC": false,
@@ -6696,8 +6696,8 @@ module.exports = [
     "date": "January 27, 2017"
   },
   {
-    "title": "#906 - Henry Rollins",
     "guests": ["Henry Rollins"],
+    "title": "#906 - Henry Rollins",
     "episode_id": 906,
     "isMMA": false,
     "isFC": false,
@@ -6705,8 +6705,8 @@ module.exports = [
     "date": "January 26, 2017"
   },
   {
-    "title": "#905 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#905 - Shane Smith",
     "episode_id": 905,
     "isMMA": false,
     "isFC": false,
@@ -6714,8 +6714,8 @@ module.exports = [
     "date": "January 25, 2017"
   },
   {
-    "title": "#904 - Gary Taubes",
     "guests": ["Gary Taubes"],
+    "title": "#904 - Gary Taubes",
     "episode_id": 904,
     "isMMA": false,
     "isFC": false,
@@ -6723,8 +6723,8 @@ module.exports = [
     "date": "January 24, 2017"
   },
   {
-    "title": "#903 - Tony Hinchcliffe & Brian Redban",
     "guests": ["Tony Hinchcliffe", "Brian Redban"],
+    "title": "#903 - Tony Hinchcliffe & Brian Redban",
     "episode_id": 903,
     "isMMA": false,
     "isFC": false,
@@ -6732,8 +6732,8 @@ module.exports = [
     "date": "January 24, 2017"
   },
   {
-    "title": "#902 - Live Underground from The Comedy Store",
     "guests": ["Live Underground from The Comedy Store"],
+    "title": "#902 - Live Underground from The Comedy Store",
     "episode_id": 902,
     "isMMA": false,
     "isFC": false,
@@ -6741,8 +6741,8 @@ module.exports = [
     "date": "January 20, 2017"
   },
   {
-    "title": "#901 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#901 - Dr. Rhonda Patrick",
     "episode_id": 901,
     "isMMA": false,
     "isFC": false,
@@ -6750,8 +6750,8 @@ module.exports = [
     "date": "January 19, 2017"
   },
   {
-    "title": "#900 - Joseph Valtellini",
     "guests": ["Joseph Valtellini"],
+    "title": "#900 - Joseph Valtellini",
     "episode_id": 900,
     "isMMA": false,
     "isFC": false,
@@ -6759,17 +6759,17 @@ module.exports = [
     "date": "January 18, 2017"
   },
   {
-    "title": "#FC30 - Fight Companion 30",
     "guests": ["FC30"],
-    "episode_id": null,
+    "title": "#FC30 - Fight Companion 30",
+    "episode_id": 30,
     "isMMA": false,
     "isFC": true,
     "description": "FC30. Joe is joined by Brendan Schaub & Bryan Callen, to watch the fights on January 15,...",
     "date": "January 15, 2017"
   },
   {
-    "title": "#899 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#899 - Bryan Callen",
     "episode_id": 899,
     "isMMA": false,
     "isFC": false,
@@ -6777,8 +6777,8 @@ module.exports = [
     "date": "January 12, 2017"
   },
   {
-    "title": "#898 - Bas Rutten & Mauro Ranallo",
     "guests": ["Bas Rutten", "Mauro Ranallo"],
+    "title": "#898 - Bas Rutten & Mauro Ranallo",
     "episode_id": 898,
     "isMMA": false,
     "isFC": false,
@@ -6786,8 +6786,8 @@ module.exports = [
     "date": "January 11, 2017"
   },
   {
-    "title": "#897 - Hunter Maats",
     "guests": ["Hunter Maats"],
+    "title": "#897 - Hunter Maats",
     "episode_id": 897,
     "isMMA": false,
     "isFC": false,
@@ -6795,8 +6795,8 @@ module.exports = [
     "date": "January 10, 2017"
   },
   {
-    "title": "#896 - CES Review with Young Jamie",
     "guests": ["CES Review with Young Jamie"],
+    "title": "#896 - CES Review with Young Jamie",
     "episode_id": 896,
     "isMMA": false,
     "isFC": false,
@@ -6804,8 +6804,8 @@ module.exports = [
     "date": "January 10, 2017"
   },
   {
-    "title": "#895 - WhoIsFat – Day 2",
     "guests": ["WhoIsFat – Day 2"],
+    "title": "#895 - WhoIsFat – Day 2",
     "episode_id": 895,
     "isMMA": false,
     "isFC": false,
@@ -6813,8 +6813,8 @@ module.exports = [
     "date": "January 3, 2017"
   },
   {
-    "title": "#894 - WhoIsFat – Day 1",
     "guests": ["WhoIsFat – Day 1"],
+    "title": "#894 - WhoIsFat – Day 1",
     "episode_id": 894,
     "isMMA": false,
     "isFC": false,
@@ -6822,8 +6822,8 @@ module.exports = [
     "date": "January 2, 2017"
   },
   {
-    "title": "#893 - Fight Recap",
     "guests": ["Fight Recap"],
+    "title": "#893 - Fight Recap",
     "episode_id": 893,
     "isMMA": false,
     "isFC": false,
@@ -6831,8 +6831,8 @@ module.exports = [
     "date": "January 1, 2017"
   },
   {
-    "title": "#892 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#892 - Greg Fitzsimmons",
     "episode_id": 892,
     "isMMA": false,
     "isFC": false,
@@ -6840,8 +6840,8 @@ module.exports = [
     "date": "December 28, 2016"
   },
   {
-    "title": "#891 - Zach Leary",
     "guests": ["Zach Leary"],
+    "title": "#891 - Zach Leary",
     "episode_id": 891,
     "isMMA": false,
     "isFC": false,
@@ -6849,8 +6849,8 @@ module.exports = [
     "date": "December 27, 2016"
   },
   {
-    "title": "#890 - Fight Breakdown",
     "guests": ["Fight Breakdown"],
+    "title": "#890 - Fight Breakdown",
     "episode_id": 890,
     "isMMA": false,
     "isFC": false,
@@ -6858,8 +6858,8 @@ module.exports = [
     "date": "December 26, 2016"
   },
   {
-    "title": "#889 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#889 - Brian Redban",
     "episode_id": 889,
     "isMMA": false,
     "isFC": false,
@@ -6867,8 +6867,8 @@ module.exports = [
     "date": "December 23, 2016"
   },
   {
-    "title": "#888 - Ron White",
     "guests": ["Ron White"],
+    "title": "#888 - Ron White",
     "episode_id": 888,
     "isMMA": false,
     "isFC": false,
@@ -6876,8 +6876,8 @@ module.exports = [
     "date": "December 22, 2016"
   },
   {
-    "title": "#887 - James Hetfield",
     "guests": ["James Hetfield"],
+    "title": "#887 - James Hetfield",
     "episode_id": 887,
     "isMMA": false,
     "isFC": false,
@@ -6885,8 +6885,8 @@ module.exports = [
     "date": "December 16, 2016"
   },
   {
-    "title": "#886 - Hank Shaw",
     "guests": ["Hank Shaw"],
+    "title": "#886 - Hank Shaw",
     "episode_id": 886,
     "isMMA": false,
     "isFC": false,
@@ -6894,8 +6894,8 @@ module.exports = [
     "date": "December 15, 2016"
   },
   {
-    "title": "#885 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#885 - Tom Segura",
     "episode_id": 885,
     "isMMA": false,
     "isFC": false,
@@ -6903,8 +6903,8 @@ module.exports = [
     "date": "December 13, 2016"
   },
   {
-    "title": "#884 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#884 - Joey “CoCo” Diaz",
     "episode_id": 884,
     "isMMA": false,
     "isFC": false,
@@ -6912,8 +6912,8 @@ module.exports = [
     "date": "December 7, 2016"
   },
   {
-    "title": "#883 - Kevin Smith",
     "guests": ["Kevin Smith"],
+    "title": "#883 - Kevin Smith",
     "episode_id": 883,
     "isMMA": false,
     "isFC": false,
@@ -6921,8 +6921,8 @@ module.exports = [
     "date": "December 6, 2016"
   },
   {
-    "title": "#882 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#882 - Tom Papa",
     "episode_id": 882,
     "isMMA": false,
     "isFC": false,
@@ -6930,17 +6930,17 @@ module.exports = [
     "date": "December 5, 2016"
   },
   {
-    "title": "#FC29 - Fight Companion 29",
     "guests": ["FC29"],
-    "episode_id": null,
+    "title": "#FC29 - Fight Companion 29",
+    "episode_id": 29,
     "isMMA": false,
     "isFC": true,
     "description": "FC29. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "December 3, 2016"
   },
   {
-    "title": "#881 - Lee Camp",
     "guests": ["Lee Camp"],
+    "title": "#881 - Lee Camp",
     "episode_id": 881,
     "isMMA": false,
     "isFC": false,
@@ -6948,8 +6948,8 @@ module.exports = [
     "date": "December 2, 2016"
   },
   {
-    "title": "#880 - Jon Jones",
     "guests": ["Jon Jones"],
+    "title": "#880 - Jon Jones",
     "episode_id": 880,
     "isMMA": false,
     "isFC": false,
@@ -6957,8 +6957,8 @@ module.exports = [
     "date": "December 1, 2016"
   },
   {
-    "title": "#879 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#879 - Steven Rinella",
     "episode_id": 879,
     "isMMA": false,
     "isFC": false,
@@ -6966,8 +6966,8 @@ module.exports = [
     "date": "November 30, 2016"
   },
   {
-    "title": "#878 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#878 - Aubrey Marcus",
     "episode_id": 878,
     "isMMA": false,
     "isFC": false,
@@ -6975,8 +6975,8 @@ module.exports = [
     "date": "November 29, 2016"
   },
   {
-    "title": "#877 - Jordan Peterson",
     "guests": ["Jordan Peterson"],
+    "title": "#877 - Jordan Peterson",
     "episode_id": 877,
     "isMMA": false,
     "isFC": false,
@@ -6984,8 +6984,8 @@ module.exports = [
     "date": "November 28, 2016"
   },
   {
-    "title": "#876 - Chris Bell",
     "guests": ["Chris Bell"],
+    "title": "#876 - Chris Bell",
     "episode_id": 876,
     "isMMA": false,
     "isFC": false,
@@ -6993,8 +6993,8 @@ module.exports = [
     "date": "November 21, 2016"
   },
   {
-    "title": "#875 - Shannon Briggs",
     "guests": ["Shannon Briggs"],
+    "title": "#875 - Shannon Briggs",
     "episode_id": 875,
     "isMMA": false,
     "isFC": false,
@@ -7002,8 +7002,8 @@ module.exports = [
     "date": "November 21, 2016"
   },
   {
-    "title": "#874 - Scott Adams",
     "guests": ["Scott Adams"],
+    "title": "#874 - Scott Adams",
     "episode_id": 874,
     "isMMA": false,
     "isFC": false,
@@ -7011,8 +7011,8 @@ module.exports = [
     "date": "November 17, 2016"
   },
   {
-    "title": "#873 - Steven Kotler",
     "guests": ["Steven Kotler"],
+    "title": "#873 - Steven Kotler",
     "episode_id": 873,
     "isMMA": false,
     "isFC": false,
@@ -7020,8 +7020,8 @@ module.exports = [
     "date": "November 16, 2016"
   },
   {
-    "title": "#872 - Graham Hancock & Randall Carlson",
     "guests": ["Graham Hancock", "Randall Carlson"],
+    "title": "#872 - Graham Hancock & Randall Carlson",
     "episode_id": 872,
     "isMMA": false,
     "isFC": false,
@@ -7029,8 +7029,8 @@ module.exports = [
     "date": "November 15, 2016"
   },
   {
-    "title": "#871 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#871 - Brendan Schaub",
     "episode_id": 871,
     "isMMA": false,
     "isFC": false,
@@ -7038,8 +7038,8 @@ module.exports = [
     "date": "November 14, 2016"
   },
   {
-    "title": "#870 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#870 - Bert Kreischer",
     "episode_id": 870,
     "isMMA": false,
     "isFC": false,
@@ -7047,8 +7047,8 @@ module.exports = [
     "date": "November 9, 2016"
   },
   {
-    "title": "#End01 - End01",
     "guests": ["End01"],
+    "title": "#End01 - End01",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -7056,8 +7056,8 @@ module.exports = [
     "date": "November 9, 2016"
   },
   {
-    "title": "#869 - Dave Rubin",
     "guests": ["Dave Rubin"],
+    "title": "#869 - Dave Rubin",
     "episode_id": 869,
     "isMMA": false,
     "isFC": false,
@@ -7065,8 +7065,8 @@ module.exports = [
     "date": "November 7, 2016"
   },
   {
-    "title": "#868 - John Dudley",
     "guests": ["John Dudley"],
+    "title": "#868 - John Dudley",
     "episode_id": 868,
     "isMMA": false,
     "isFC": false,
@@ -7074,8 +7074,8 @@ module.exports = [
     "date": "November 4, 2016"
   },
   {
-    "title": "#867 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#867 - Joey Diaz",
     "episode_id": 867,
     "isMMA": false,
     "isFC": false,
@@ -7083,8 +7083,8 @@ module.exports = [
     "date": "October 31, 2016"
   },
   {
-    "title": "#866 - Christine Hassler",
     "guests": ["Christine Hassler"],
+    "title": "#866 - Christine Hassler",
     "episode_id": 866,
     "isMMA": false,
     "isFC": false,
@@ -7092,8 +7092,8 @@ module.exports = [
     "date": "October 25, 2016"
   },
   {
-    "title": "#865 - Wim Hof",
     "guests": ["Wim Hof"],
+    "title": "#865 - Wim Hof",
     "episode_id": 865,
     "isMMA": false,
     "isFC": false,
@@ -7101,8 +7101,8 @@ module.exports = [
     "date": "October 24, 2016"
   },
   {
-    "title": "#864 - Kevin Ross & Gaston Bolanos",
     "guests": ["Kevin Ross", "Gaston Bolanos"],
+    "title": "#864 - Kevin Ross & Gaston Bolanos",
     "episode_id": 864,
     "isMMA": false,
     "isFC": false,
@@ -7110,17 +7110,17 @@ module.exports = [
     "date": "October 24, 2016"
   },
   {
-    "title": "#FC28 - Fight Companion 28",
     "guests": ["FC28"],
-    "episode_id": null,
+    "title": "#FC28 - Fight Companion 28",
+    "episode_id": 28,
     "isMMA": false,
     "isFC": true,
     "description": "FC28. Joe is joined by Yves Edwards & Joe Schilling to watch the fights on October 21,...",
     "date": "October 22, 2016"
   },
   {
-    "title": "#863 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#863 - Duncan Trussell",
     "episode_id": 863,
     "isMMA": false,
     "isFC": false,
@@ -7128,8 +7128,8 @@ module.exports = [
     "date": "October 20, 2016"
   },
   {
-    "title": "#862 - Trevor Valle",
     "guests": ["Trevor Valle"],
+    "title": "#862 - Trevor Valle",
     "episode_id": 862,
     "isMMA": false,
     "isFC": false,
@@ -7137,8 +7137,8 @@ module.exports = [
     "date": "October 19, 2016"
   },
   {
-    "title": "#861 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#861 - Bryan Callen",
     "episode_id": 861,
     "isMMA": false,
     "isFC": false,
@@ -7146,8 +7146,8 @@ module.exports = [
     "date": "October 18, 2016"
   },
   {
-    "title": "#860 - Russell Peters",
     "guests": ["Russell Peters"],
+    "title": "#860 - Russell Peters",
     "episode_id": 860,
     "isMMA": false,
     "isFC": false,
@@ -7155,8 +7155,8 @@ module.exports = [
     "date": "October 14, 2016"
   },
   {
-    "title": "#859 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#859 - Brian Redban",
     "episode_id": 859,
     "isMMA": false,
     "isFC": false,
@@ -7164,8 +7164,8 @@ module.exports = [
     "date": "October 13, 2016"
   },
   {
-    "title": "#858 - Jesse Ventura",
     "guests": ["Jesse Ventura"],
+    "title": "#858 - Jesse Ventura",
     "episode_id": 858,
     "isMMA": false,
     "isFC": false,
@@ -7173,8 +7173,8 @@ module.exports = [
     "date": "October 13, 2016"
   },
   {
-    "title": "#857 - Dan Bilzerian",
     "guests": ["Dan Bilzerian"],
+    "title": "#857 - Dan Bilzerian",
     "episode_id": 857,
     "isMMA": false,
     "isFC": false,
@@ -7182,17 +7182,17 @@ module.exports = [
     "date": "October 12, 2016"
   },
   {
-    "title": "#FC27 - Fight Companion 27",
     "guests": ["FC27"],
-    "episode_id": null,
+    "title": "#FC27 - Fight Companion 27",
+    "episode_id": 27,
     "isMMA": false,
     "isFC": true,
     "description": "FC27. Joe is joined by Brendan Schaub, Cameron Hanes, and Eddie Bravo to watch the fights...",
     "date": "October 9, 2016"
   },
   {
-    "title": "#856 - Tony Hinchcliffe & Young Jamie",
     "guests": ["Tony Hinchcliffe", "Young Jamie"],
+    "title": "#856 - Tony Hinchcliffe & Young Jamie",
     "episode_id": 856,
     "isMMA": false,
     "isFC": false,
@@ -7200,8 +7200,8 @@ module.exports = [
     "date": "October 5, 2016"
   },
   {
-    "title": "#855 - Tom Segura & Christina Pazsitzky",
     "guests": ["Tom Segura", "Christina Pazsitzky"],
+    "title": "#855 - Tom Segura & Christina Pazsitzky",
     "episode_id": 855,
     "isMMA": false,
     "isFC": false,
@@ -7209,8 +7209,8 @@ module.exports = [
     "date": "October 3, 2016"
   },
   {
-    "title": "#854 - Louie Simmons",
     "guests": ["Louie Simmons"],
+    "title": "#854 - Louie Simmons",
     "episode_id": 854,
     "isMMA": false,
     "isFC": false,
@@ -7218,8 +7218,8 @@ module.exports = [
     "date": "September 30, 2016"
   },
   {
-    "title": "#853 - Adam Greentree",
     "guests": ["Adam Greentree"],
+    "title": "#853 - Adam Greentree",
     "episode_id": 853,
     "isMMA": false,
     "isFC": false,
@@ -7227,8 +7227,8 @@ module.exports = [
     "date": "September 28, 2016"
   },
   {
-    "title": "#852 - John Anthony West",
     "guests": ["John Anthony West"],
+    "title": "#852 - John Anthony West",
     "episode_id": 852,
     "isMMA": false,
     "isFC": false,
@@ -7236,8 +7236,8 @@ module.exports = [
     "date": "September 27, 2016"
   },
   {
-    "title": "#851 - Shane Mauss",
     "guests": ["Shane Mauss"],
+    "title": "#851 - Shane Mauss",
     "episode_id": 851,
     "isMMA": false,
     "isFC": false,
@@ -7245,8 +7245,8 @@ module.exports = [
     "date": "September 26, 2016"
   },
   {
-    "title": "#850 - George Perez",
     "guests": ["George Perez"],
+    "title": "#850 - George Perez",
     "episode_id": 850,
     "isMMA": false,
     "isFC": false,
@@ -7254,8 +7254,8 @@ module.exports = [
     "date": "September 22, 2016"
   },
   {
-    "title": "#849 - James Kingston",
     "guests": ["James Kingston"],
+    "title": "#849 - James Kingston",
     "episode_id": 849,
     "isMMA": false,
     "isFC": false,
@@ -7263,8 +7263,8 @@ module.exports = [
     "date": "September 20, 2016"
   },
   {
-    "title": "#848 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#848 - Bryan Callen",
     "episode_id": 848,
     "isMMA": false,
     "isFC": false,
@@ -7272,17 +7272,17 @@ module.exports = [
     "date": "September 20, 2016"
   },
   {
-    "title": "#FC26 - Fight Companion 26",
     "guests": ["FC26"],
-    "episode_id": null,
+    "title": "#FC26 - Fight Companion 26",
+    "episode_id": 26,
     "isMMA": false,
     "isFC": true,
     "description": "FC26. Joe is joined by Brendan Schaub, Joe Schilling, and Eddie Bravo to watch the fights...",
     "date": "September 17, 2016"
   },
   {
-    "title": "#847 - Dan Carlin",
     "guests": ["Dan Carlin"],
+    "title": "#847 - Dan Carlin",
     "episode_id": 847,
     "isMMA": false,
     "isFC": false,
@@ -7290,8 +7290,8 @@ module.exports = [
     "date": "September 15, 2016"
   },
   {
-    "title": "#846 - Michael Shermer",
     "guests": ["Michael Shermer"],
+    "title": "#846 - Michael Shermer",
     "episode_id": 846,
     "isMMA": false,
     "isFC": false,
@@ -7299,8 +7299,8 @@ module.exports = [
     "date": "September 14, 2016"
   },
   {
-    "title": "#845 - TJ Dillashaw, Duane Ludwig & Bas Rutten",
     "guests": ["TJ Dillashaw", "Duane Ludwig", "Bas Rutten"],
+    "title": "#845 - TJ Dillashaw, Duane Ludwig & Bas Rutten",
     "episode_id": 845,
     "isMMA": false,
     "isFC": false,
@@ -7308,8 +7308,8 @@ module.exports = [
     "date": "September 12, 2016"
   },
   {
-    "title": "#844 - Andreas Antonopoulos",
     "guests": ["Andreas Antonopoulos"],
+    "title": "#844 - Andreas Antonopoulos",
     "episode_id": 844,
     "isMMA": false,
     "isFC": false,
@@ -7317,8 +7317,8 @@ module.exports = [
     "date": "September 7, 2016"
   },
   {
-    "title": "#843 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#843 - Tony Hinchcliffe",
     "episode_id": 843,
     "isMMA": false,
     "isFC": false,
@@ -7326,8 +7326,8 @@ module.exports = [
     "date": "September 6, 2016"
   },
   {
-    "title": "#842 - Chris Kresser",
     "guests": ["Chris Kresser"],
+    "title": "#842 - Chris Kresser",
     "episode_id": 842,
     "isMMA": false,
     "isFC": false,
@@ -7335,17 +7335,17 @@ module.exports = [
     "date": "September 5, 2016"
   },
   {
-    "title": "#FC25 - Fight Companion 25",
     "guests": ["FC25"],
-    "episode_id": null,
+    "title": "#FC25 - Fight Companion 25",
+    "episode_id": 25,
     "isMMA": false,
     "isFC": true,
     "description": "FC25. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "September 3, 2016"
   },
   {
-    "title": "#841 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#841 - Greg Fitzsimmons",
     "episode_id": 841,
     "isMMA": false,
     "isFC": false,
@@ -7353,8 +7353,8 @@ module.exports = [
     "date": "August 31, 2016"
   },
   {
-    "title": "#840 - Donald Cerrone",
     "guests": ["Donald Cerrone"],
+    "title": "#840 - Donald Cerrone",
     "episode_id": 840,
     "isMMA": false,
     "isFC": false,
@@ -7362,8 +7362,8 @@ module.exports = [
     "date": "August 30, 2016"
   },
   {
-    "title": "#839 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#839 - Tom Papa",
     "episode_id": 839,
     "isMMA": false,
     "isFC": false,
@@ -7371,17 +7371,17 @@ module.exports = [
     "date": "August 29, 2016"
   },
   {
-    "title": "#FC24 - Fight Companion 24",
     "guests": ["FC24"],
-    "episode_id": null,
+    "title": "#FC24 - Fight Companion 24",
+    "episode_id": 24,
     "isMMA": false,
     "isFC": true,
     "description": "FC24. Joe is joined by Eddie Bravo to watch the fights on August 27, 2016.",
     "date": "August 27, 2016"
   },
   {
-    "title": "#838 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#838 - Josh Zepps",
     "episode_id": 838,
     "isMMA": false,
     "isFC": false,
@@ -7389,8 +7389,8 @@ module.exports = [
     "date": "August 23, 2016"
   },
   {
-    "title": "#837 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#837 - Gad Saad",
     "episode_id": 837,
     "isMMA": false,
     "isFC": false,
@@ -7398,8 +7398,8 @@ module.exports = [
     "date": "August 23, 2016"
   },
   {
-    "title": "#836 - Hannibal Buress",
     "guests": ["Hannibal Buress"],
+    "title": "#836 - Hannibal Buress",
     "episode_id": 836,
     "isMMA": false,
     "isFC": false,
@@ -7407,8 +7407,8 @@ module.exports = [
     "date": "August 22, 2016"
   },
   {
-    "title": "#835 - Louis Theroux",
     "guests": ["Louis Theroux"],
+    "title": "#835 - Louis Theroux",
     "episode_id": 835,
     "isMMA": false,
     "isFC": false,
@@ -7416,8 +7416,8 @@ module.exports = [
     "date": "August 22, 2016"
   },
   {
-    "title": "#834 - Dan Doty",
     "guests": ["Dan Doty"],
+    "title": "#834 - Dan Doty",
     "episode_id": 834,
     "isMMA": false,
     "isFC": false,
@@ -7425,8 +7425,8 @@ module.exports = [
     "date": "August 18, 2016"
   },
   {
-    "title": "#833 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#833 - Brian Redban",
     "episode_id": 833,
     "isMMA": false,
     "isFC": false,
@@ -7434,8 +7434,8 @@ module.exports = [
     "date": "August 11, 2016"
   },
   {
-    "title": "#832 - Vinny Shoreman",
     "guests": ["Vinny Shoreman"],
+    "title": "#832 - Vinny Shoreman",
     "episode_id": 832,
     "isMMA": false,
     "isFC": false,
@@ -7443,8 +7443,8 @@ module.exports = [
     "date": "August 10, 2016"
   },
   {
-    "title": "#831 - Byron Bowers",
     "guests": ["Byron Bowers"],
+    "title": "#831 - Byron Bowers",
     "episode_id": 831,
     "isMMA": false,
     "isFC": false,
@@ -7452,17 +7452,17 @@ module.exports = [
     "date": "August 9, 2016"
   },
   {
-    "title": "#FC23 - Fight Companion 23",
     "guests": ["FC23"],
-    "episode_id": null,
+    "title": "#FC23 - Fight Companion 23",
+    "episode_id": 23,
     "isMMA": false,
     "isFC": true,
     "description": "FC23. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "August 6, 2016"
   },
   {
-    "title": "#830 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#830 - Neal Brennan",
     "episode_id": 830,
     "isMMA": false,
     "isFC": false,
@@ -7470,8 +7470,8 @@ module.exports = [
     "date": "August 3, 2016"
   },
   {
-    "title": "#829 - Wayne Federman",
     "guests": ["Wayne Federman"],
+    "title": "#829 - Wayne Federman",
     "episode_id": 829,
     "isMMA": false,
     "isFC": false,
@@ -7479,8 +7479,8 @@ module.exports = [
     "date": "August 2, 2016"
   },
   {
-    "title": "#828 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#828 - Duncan Trussell",
     "episode_id": 828,
     "isMMA": false,
     "isFC": false,
@@ -7488,8 +7488,8 @@ module.exports = [
     "date": "August 1, 2016"
   },
   {
-    "title": "#827 - Twitter Q&A with Joe",
     "guests": ["Twitter Q&A with Joe"],
+    "title": "#827 - Twitter Q&A with Joe",
     "episode_id": 827,
     "isMMA": false,
     "isFC": false,
@@ -7497,8 +7497,8 @@ module.exports = [
     "date": "July 29, 2016"
   },
   {
-    "title": "#826 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#826 - Justin Wren",
     "episode_id": 826,
     "isMMA": false,
     "isFC": false,
@@ -7506,8 +7506,8 @@ module.exports = [
     "date": "July 27, 2016"
   },
   {
-    "title": "#825 - Jeremy Stephens",
     "guests": ["Jeremy Stephens"],
+    "title": "#825 - Jeremy Stephens",
     "episode_id": 825,
     "isMMA": false,
     "isFC": false,
@@ -7515,8 +7515,8 @@ module.exports = [
     "date": "July 26, 2016"
   },
   {
-    "title": "#824 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#824 - Bryan Callen",
     "episode_id": 824,
     "isMMA": false,
     "isFC": false,
@@ -7524,8 +7524,8 @@ module.exports = [
     "date": "July 21, 2016"
   },
   {
-    "title": "#823 - Eleanor Kerrigan",
     "guests": ["Eleanor Kerrigan"],
+    "title": "#823 - Eleanor Kerrigan",
     "episode_id": 823,
     "isMMA": false,
     "isFC": false,
@@ -7533,8 +7533,8 @@ module.exports = [
     "date": "July 11, 2016"
   },
   {
-    "title": "#822 - Chael Sonnen",
     "guests": ["Chael Sonnen"],
+    "title": "#822 - Chael Sonnen",
     "episode_id": 822,
     "isMMA": false,
     "isFC": false,
@@ -7542,8 +7542,8 @@ module.exports = [
     "date": "July 11, 2016"
   },
   {
-    "title": "#821 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#821 - Joey Diaz",
     "episode_id": 821,
     "isMMA": false,
     "isFC": false,
@@ -7551,8 +7551,8 @@ module.exports = [
     "date": "July 7, 2016"
   },
   {
-    "title": "#820 - Milo Yiannopoulos",
     "guests": ["Milo Yiannopoulos"],
+    "title": "#820 - Milo Yiannopoulos",
     "episode_id": 820,
     "isMMA": false,
     "isFC": false,
@@ -7560,8 +7560,8 @@ module.exports = [
     "date": "July 6, 2016"
   },
   {
-    "title": "#819 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#819 - Brendan Schaub",
     "episode_id": 819,
     "isMMA": false,
     "isFC": false,
@@ -7569,8 +7569,8 @@ module.exports = [
     "date": "July 5, 2016"
   },
   {
-    "title": "#818 - Mike Schmidt",
     "guests": ["Mike Schmidt"],
+    "title": "#818 - Mike Schmidt",
     "episode_id": 818,
     "isMMA": false,
     "isFC": false,
@@ -7578,8 +7578,8 @@ module.exports = [
     "date": "July 4, 2016"
   },
   {
-    "title": "#817 - Jason Hairston & Brendan Burns",
     "guests": ["Jason Hairston", "Brendan Burns"],
+    "title": "#817 - Jason Hairston & Brendan Burns",
     "episode_id": 817,
     "isMMA": false,
     "isFC": false,
@@ -7587,8 +7587,8 @@ module.exports = [
     "date": "June 30, 2016"
   },
   {
-    "title": "#816 - Joe Schilling",
     "guests": ["Joe Schilling"],
+    "title": "#816 - Joe Schilling",
     "episode_id": 816,
     "isMMA": false,
     "isFC": false,
@@ -7596,8 +7596,8 @@ module.exports = [
     "date": "June 29, 2016"
   },
   {
-    "title": "#815 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#815 - Cameron Hanes",
     "episode_id": 815,
     "isMMA": false,
     "isFC": false,
@@ -7605,8 +7605,8 @@ module.exports = [
     "date": "June 28, 2016"
   },
   {
-    "title": "#814 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#814 - Ari Shaffir",
     "episode_id": 814,
     "isMMA": false,
     "isFC": false,
@@ -7614,8 +7614,8 @@ module.exports = [
     "date": "June 22, 2016"
   },
   {
-    "title": "#813 - Shane Dorian",
     "guests": ["Shane Dorian"],
+    "title": "#813 - Shane Dorian",
     "episode_id": 813,
     "isMMA": false,
     "isFC": false,
@@ -7623,8 +7623,8 @@ module.exports = [
     "date": "June 22, 2016"
   },
   {
-    "title": "#812 - Russell Brand & Jim Breuer",
     "guests": ["Russell Brand", "Jim Breuer"],
+    "title": "#812 - Russell Brand & Jim Breuer",
     "episode_id": 812,
     "isMMA": false,
     "isFC": false,
@@ -7632,8 +7632,8 @@ module.exports = [
     "date": "June 21, 2016"
   },
   {
-    "title": "#811 - Jim Breuer",
     "guests": ["Jim Breuer"],
+    "title": "#811 - Jim Breuer",
     "episode_id": 811,
     "isMMA": false,
     "isFC": false,
@@ -7641,17 +7641,17 @@ module.exports = [
     "date": "June 21, 2016"
   },
   {
-    "title": "#FC22 - Fight Companion 22",
     "guests": ["FC22"],
-    "episode_id": null,
+    "title": "#FC22 - Fight Companion 22",
+    "episode_id": 22,
     "isMMA": false,
     "isFC": true,
     "description": "FC22. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "June 19, 2016"
   },
   {
-    "title": "#810 - Big Jay Oakerson",
     "guests": ["Big Jay Oakerson"],
+    "title": "#810 - Big Jay Oakerson",
     "episode_id": 810,
     "isMMA": false,
     "isFC": false,
@@ -7659,8 +7659,8 @@ module.exports = [
     "date": "June 15, 2016"
   },
   {
-    "title": "#809 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#809 - Aubrey Marcus",
     "episode_id": 809,
     "isMMA": false,
     "isFC": false,
@@ -7668,8 +7668,8 @@ module.exports = [
     "date": "June 14, 2016"
   },
   {
-    "title": "#808 - Michael Wood, Jr.",
     "guests": ["Michael Wood, Jr."],
+    "title": "#808 - Michael Wood, Jr.",
     "episode_id": 808,
     "isMMA": false,
     "isFC": false,
@@ -7677,8 +7677,8 @@ module.exports = [
     "date": "June 13, 2016"
   },
   {
-    "title": "#807 - Gino & AJ, from Speedweed",
     "guests": ["Gino & AJ, from Speedweed"],
+    "title": "#807 - Gino & AJ, from Speedweed",
     "episode_id": 807,
     "isMMA": false,
     "isFC": false,
@@ -7686,8 +7686,8 @@ module.exports = [
     "date": "June 7, 2016"
   },
   {
-    "title": "#806 - Dave Smith",
     "guests": ["Dave Smith"],
+    "title": "#806 - Dave Smith",
     "episode_id": 806,
     "isMMA": false,
     "isFC": false,
@@ -7695,8 +7695,8 @@ module.exports = [
     "date": "June 6, 2016"
   },
   {
-    "title": "#805 - Steve Hofstetter",
     "guests": ["Steve Hofstetter"],
+    "title": "#805 - Steve Hofstetter",
     "episode_id": 805,
     "isMMA": false,
     "isFC": false,
@@ -7704,8 +7704,8 @@ module.exports = [
     "date": "June 2, 2016"
   },
   {
-    "title": "#804 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#804 - Sam Harris",
     "episode_id": 804,
     "isMMA": false,
     "isFC": false,
@@ -7713,8 +7713,8 @@ module.exports = [
     "date": "June 1, 2016"
   },
   {
-    "title": "#803 - Joey Diaz & Lee Syatt",
     "guests": ["Joey Diaz", "Lee Syatt"],
+    "title": "#803 - Joey Diaz & Lee Syatt",
     "episode_id": 803,
     "isMMA": false,
     "isFC": false,
@@ -7722,17 +7722,17 @@ module.exports = [
     "date": "May 31, 2016"
   },
   {
-    "title": "#FC21 - Fight Companion 21",
     "guests": ["FC21"],
-    "episode_id": null,
+    "title": "#FC21 - Fight Companion 21",
+    "episode_id": 21,
     "isMMA": false,
     "isFC": true,
     "description": "FC21. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
     "date": "May 30, 2016"
   },
   {
-    "title": "#802 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#802 - Tom Papa",
     "episode_id": 802,
     "isMMA": false,
     "isFC": false,
@@ -7740,8 +7740,8 @@ module.exports = [
     "date": "May 19, 2016"
   },
   {
-    "title": "#801 - Gary Johnson",
     "guests": ["Gary Johnson"],
+    "title": "#801 - Gary Johnson",
     "episode_id": 801,
     "isMMA": false,
     "isFC": false,
@@ -7749,8 +7749,8 @@ module.exports = [
     "date": "May 17, 2016"
   },
   {
-    "title": "#800 - Bobcat Goldthwait",
     "guests": ["Bobcat Goldthwait"],
+    "title": "#800 - Bobcat Goldthwait",
     "episode_id": 800,
     "isMMA": false,
     "isFC": false,
@@ -7758,8 +7758,8 @@ module.exports = [
     "date": "May 17, 2016"
   },
   {
-    "title": "#799 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#799 - Brendan Schaub & Bryan Callen",
     "episode_id": 799,
     "isMMA": false,
     "isFC": false,
@@ -7767,8 +7767,8 @@ module.exports = [
     "date": "May 16, 2016"
   },
   {
-    "title": "#798 - Alison Rosen",
     "guests": ["Alison Rosen"],
+    "title": "#798 - Alison Rosen",
     "episode_id": 798,
     "isMMA": false,
     "isFC": false,
@@ -7776,8 +7776,8 @@ module.exports = [
     "date": "May 11, 2016"
   },
   {
-    "title": "#797 - Alex & Allyson Grey",
     "guests": ["Alex", "Allyson Grey"],
+    "title": "#797 - Alex & Allyson Grey",
     "episode_id": 797,
     "isMMA": false,
     "isFC": false,
@@ -7785,8 +7785,8 @@ module.exports = [
     "date": "May 10, 2016"
   },
   {
-    "title": "#796 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#796 - Josh Zepps",
     "episode_id": 796,
     "isMMA": false,
     "isFC": false,
@@ -7794,8 +7794,8 @@ module.exports = [
     "date": "May 9, 2016"
   },
   {
-    "title": "#795 - Ian Edwards",
     "guests": ["Ian Edwards"],
+    "title": "#795 - Ian Edwards",
     "episode_id": 795,
     "isMMA": false,
     "isFC": false,
@@ -7803,8 +7803,8 @@ module.exports = [
     "date": "May 6, 2016"
   },
   {
-    "title": "#794 - Miesha Tate",
     "guests": ["Miesha Tate"],
+    "title": "#794 - Miesha Tate",
     "episode_id": 794,
     "isMMA": false,
     "isFC": false,
@@ -7812,8 +7812,8 @@ module.exports = [
     "date": "May 5, 2016"
   },
   {
-    "title": "#793 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#793 - Whitney Cummings",
     "episode_id": 793,
     "isMMA": false,
     "isFC": false,
@@ -7821,8 +7821,8 @@ module.exports = [
     "date": "May 4, 2016"
   },
   {
-    "title": "#792 - Lewis, from Unbox Therapy",
     "guests": ["Lewis, from Unbox Therapy"],
+    "title": "#792 - Lewis, from Unbox Therapy",
     "episode_id": 792,
     "isMMA": false,
     "isFC": false,
@@ -7830,8 +7830,8 @@ module.exports = [
     "date": "April 30, 2016"
   },
   {
-    "title": "#791 - Steve Schirripa",
     "guests": ["Steve Schirripa"],
+    "title": "#791 - Steve Schirripa",
     "episode_id": 791,
     "isMMA": false,
     "isFC": false,
@@ -7839,8 +7839,8 @@ module.exports = [
     "date": "April 26, 2016"
   },
   {
-    "title": "#790 - Steve Maxwell",
     "guests": ["Steve Maxwell"],
+    "title": "#790 - Steve Maxwell",
     "episode_id": 790,
     "isMMA": false,
     "isFC": false,
@@ -7848,8 +7848,8 @@ module.exports = [
     "date": "April 25, 2016"
   },
   {
-    "title": "#789 - Dan Auerbach",
     "guests": ["Dan Auerbach"],
+    "title": "#789 - Dan Auerbach",
     "episode_id": 789,
     "isMMA": false,
     "isFC": false,
@@ -7857,8 +7857,8 @@ module.exports = [
     "date": "April 21, 2016"
   },
   {
-    "title": "#788 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#788 - Brendan Schaub",
     "episode_id": 788,
     "isMMA": false,
     "isFC": false,
@@ -7866,8 +7866,8 @@ module.exports = [
     "date": "April 21, 2016"
   },
   {
-    "title": "#787 - Eddie Huang",
     "guests": ["Eddie Huang"],
+    "title": "#787 - Eddie Huang",
     "episode_id": 787,
     "isMMA": false,
     "isFC": false,
@@ -7875,8 +7875,8 @@ module.exports = [
     "date": "April 19, 2016"
   },
   {
-    "title": "#786 - Wheeler Walker, Jr.",
     "guests": ["Wheeler Walker, Jr."],
+    "title": "#786 - Wheeler Walker, Jr.",
     "episode_id": 786,
     "isMMA": false,
     "isFC": false,
@@ -7884,8 +7884,8 @@ module.exports = [
     "date": "April 18, 2016"
   },
   {
-    "title": "#785 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#785 - Dom Irrera",
     "episode_id": 785,
     "isMMA": false,
     "isFC": false,
@@ -7893,8 +7893,8 @@ module.exports = [
     "date": "April 13, 2016"
   },
   {
-    "title": "#784 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#784 - Brian Redban",
     "episode_id": 784,
     "isMMA": false,
     "isFC": false,
@@ -7902,8 +7902,8 @@ module.exports = [
     "date": "April 13, 2016"
   },
   {
-    "title": "#783 - John Dudley",
     "guests": ["John Dudley"],
+    "title": "#783 - John Dudley",
     "episode_id": 783,
     "isMMA": false,
     "isFC": false,
@@ -7911,8 +7911,8 @@ module.exports = [
     "date": "April 12, 2016"
   },
   {
-    "title": "#782 - Rick Doblin",
     "guests": ["Rick Doblin"],
+    "title": "#782 - Rick Doblin",
     "episode_id": 782,
     "isMMA": false,
     "isFC": false,
@@ -7920,8 +7920,8 @@ module.exports = [
     "date": "April 7, 2016"
   },
   {
-    "title": "#781 - Kevin Rose",
     "guests": ["Kevin Rose"],
+    "title": "#781 - Kevin Rose",
     "episode_id": 781,
     "isMMA": false,
     "isFC": false,
@@ -7929,8 +7929,8 @@ module.exports = [
     "date": "April 5, 2016"
   },
   {
-    "title": "#780 - Sturgill Simpson",
     "guests": ["Sturgill Simpson"],
+    "title": "#780 - Sturgill Simpson",
     "episode_id": 780,
     "isMMA": false,
     "isFC": false,
@@ -7938,8 +7938,8 @@ module.exports = [
     "date": "April 4, 2016"
   },
   {
-    "title": "#779 - Andrew Dice Clay & Joey Diaz",
     "guests": ["Andrew Dice Clay", "Joey Diaz"],
+    "title": "#779 - Andrew Dice Clay & Joey Diaz",
     "episode_id": 779,
     "isMMA": false,
     "isFC": false,
@@ -7947,8 +7947,8 @@ module.exports = [
     "date": "March 29, 2016"
   },
   {
-    "title": "#778 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#778 - Ari Shaffir",
     "episode_id": 778,
     "isMMA": false,
     "isFC": false,
@@ -7956,8 +7956,8 @@ module.exports = [
     "date": "March 28, 2016"
   },
   {
-    "title": "#777 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#777 - Brian Redban",
     "episode_id": 777,
     "isMMA": false,
     "isFC": false,
@@ -7965,8 +7965,8 @@ module.exports = [
     "date": "March 25, 2016"
   },
   {
-    "title": "#776 - Adam Cropp",
     "guests": ["Adam Cropp"],
+    "title": "#776 - Adam Cropp",
     "episode_id": 776,
     "isMMA": false,
     "isFC": false,
@@ -7974,8 +7974,8 @@ module.exports = [
     "date": "March 18, 2016"
   },
   {
-    "title": "#775 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#775 - Greg Fitzsimmons",
     "episode_id": 775,
     "isMMA": false,
     "isFC": false,
@@ -7983,8 +7983,8 @@ module.exports = [
     "date": "March 16, 2016"
   },
   {
-    "title": "#774 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#774 - Brendan Schaub & Bryan Callen",
     "episode_id": 774,
     "isMMA": false,
     "isFC": false,
@@ -7992,8 +7992,8 @@ module.exports = [
     "date": "March 15, 2016"
   },
   {
-    "title": "#773 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#773 - Dr. Rhonda Patrick",
     "episode_id": 773,
     "isMMA": false,
     "isFC": false,
@@ -8001,8 +8001,8 @@ module.exports = [
     "date": "March 10, 2016"
   },
   {
-    "title": "#772 - Mark & Chris Bell",
     "guests": ["Mark", "Chris Bell"],
+    "title": "#772 - Mark & Chris Bell",
     "episode_id": 772,
     "isMMA": false,
     "isFC": false,
@@ -8010,8 +8010,8 @@ module.exports = [
     "date": "March 8, 2016"
   },
   {
-    "title": "#771 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#771 - Eddie Bravo",
     "episode_id": 771,
     "isMMA": false,
     "isFC": false,
@@ -8019,8 +8019,8 @@ module.exports = [
     "date": "March 7, 2016"
   },
   {
-    "title": "#770 - Michael Shermer",
     "guests": ["Michael Shermer"],
+    "title": "#770 - Michael Shermer",
     "episode_id": 770,
     "isMMA": false,
     "isFC": false,
@@ -8028,8 +8028,8 @@ module.exports = [
     "date": "March 7, 2016"
   },
   {
-    "title": "#769 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#769 - Bert Kreischer",
     "episode_id": 769,
     "isMMA": false,
     "isFC": false,
@@ -8037,8 +8037,8 @@ module.exports = [
     "date": "March 3, 2016"
   },
   {
-    "title": "#768 - Ian McCall, Brendan Schaub & Bryan Callen",
     "guests": ["Ian McCall", "Brendan Schaub", "Bryan Callen"],
+    "title": "#768 - Ian McCall, Brendan Schaub & Bryan Callen",
     "episode_id": 768,
     "isMMA": false,
     "isFC": false,
@@ -8046,8 +8046,8 @@ module.exports = [
     "date": "March 2, 2016"
   },
   {
-    "title": "#767 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#767 - Mike Baker",
     "episode_id": 767,
     "isMMA": false,
     "isFC": false,
@@ -8055,8 +8055,8 @@ module.exports = [
     "date": "March 1, 2016"
   },
   {
-    "title": "#766 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#766 - Gad Saad",
     "episode_id": 766,
     "isMMA": false,
     "isFC": false,
@@ -8064,8 +8064,8 @@ module.exports = [
     "date": "February 25, 2016"
   },
   {
-    "title": "#765 - Tovar Cerulli",
     "guests": ["Tovar Cerulli"],
+    "title": "#765 - Tovar Cerulli",
     "episode_id": 765,
     "isMMA": false,
     "isFC": false,
@@ -8073,8 +8073,8 @@ module.exports = [
     "date": "February 24, 2016"
   },
   {
-    "title": "#764 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#764 - Duncan Trussell",
     "episode_id": 764,
     "isMMA": false,
     "isFC": false,
@@ -8082,8 +8082,8 @@ module.exports = [
     "date": "February 23, 2016"
   },
   {
-    "title": "#763 - Action Bronson",
     "guests": ["Action Bronson"],
+    "title": "#763 - Action Bronson",
     "episode_id": 763,
     "isMMA": false,
     "isFC": false,
@@ -8091,17 +8091,17 @@ module.exports = [
     "date": "February 23, 2016"
   },
   {
-    "title": "#FC20 - Fight Companion 20",
     "guests": ["FC20"],
-    "episode_id": null,
+    "title": "#FC20 - Fight Companion 20",
+    "episode_id": 20,
     "isMMA": false,
     "isFC": true,
     "description": "FC20. Joe is joined by Brendan Schaub, Ian McCall & Eddie Bravo to watch the fights...",
     "date": "February 21, 2016"
   },
   {
-    "title": "#762 - Robin Black",
     "guests": ["Robin Black"],
+    "title": "#762 - Robin Black",
     "episode_id": 762,
     "isMMA": false,
     "isFC": false,
@@ -8109,8 +8109,8 @@ module.exports = [
     "date": "February 19, 2016"
   },
   {
-    "title": "#761 - Bas Rutten",
     "guests": ["Bas Rutten"],
+    "title": "#761 - Bas Rutten",
     "episode_id": 761,
     "isMMA": false,
     "isFC": false,
@@ -8118,8 +8118,8 @@ module.exports = [
     "date": "February 17, 2016"
   },
   {
-    "title": "#760 - Doug Duren & Nathan Ihde",
     "guests": ["Doug Duren", "Nathan Ihde"],
+    "title": "#760 - Doug Duren & Nathan Ihde",
     "episode_id": 760,
     "isMMA": false,
     "isFC": false,
@@ -8127,8 +8127,8 @@ module.exports = [
     "date": "February 16, 2016"
   },
   {
-    "title": "#759 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#759 - Cameron Hanes",
     "episode_id": 759,
     "isMMA": false,
     "isFC": false,
@@ -8136,8 +8136,8 @@ module.exports = [
     "date": "February 15, 2016"
   },
   {
-    "title": "#758 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#758 - Tom Papa",
     "episode_id": 758,
     "isMMA": false,
     "isFC": false,
@@ -8145,8 +8145,8 @@ module.exports = [
     "date": "February 9, 2016"
   },
   {
-    "title": "#757 - Gary Clark, Jr.",
     "guests": ["Gary Clark, Jr."],
+    "title": "#757 - Gary Clark, Jr.",
     "episode_id": 757,
     "isMMA": false,
     "isFC": false,
@@ -8154,17 +8154,17 @@ module.exports = [
     "date": "February 8, 2016"
   },
   {
-    "title": "#FC19 - Fight Companion 19",
     "guests": ["FC19"],
-    "episode_id": null,
+    "title": "#FC19 - Fight Companion 19",
+    "episode_id": 19,
     "isMMA": false,
     "isFC": true,
     "description": "FC19. Joe is joined by Brendan Schaub, Bryan Callen & Eddie Bravo to watch the fights on February...",
     "date": "February 6, 2016"
   },
   {
-    "title": "#756 - Kyle Kingsbury",
     "guests": ["Kyle Kingsbury"],
+    "title": "#756 - Kyle Kingsbury",
     "episode_id": 756,
     "isMMA": false,
     "isFC": false,
@@ -8172,8 +8172,8 @@ module.exports = [
     "date": "February 4, 2016"
   },
   {
-    "title": "#755 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#755 - Daniele Bolelli",
     "episode_id": 755,
     "isMMA": false,
     "isFC": false,
@@ -8181,8 +8181,8 @@ module.exports = [
     "date": "February 3, 2016"
   },
   {
-    "title": "#754 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#754 - Brian Redban",
     "episode_id": 754,
     "isMMA": false,
     "isFC": false,
@@ -8190,8 +8190,8 @@ module.exports = [
     "date": "February 2, 2016"
   },
   {
-    "title": "#753 - Hannibal Buress",
     "guests": ["Hannibal Buress"],
+    "title": "#753 - Hannibal Buress",
     "episode_id": 753,
     "isMMA": false,
     "isFC": false,
@@ -8199,8 +8199,8 @@ module.exports = [
     "date": "January 27, 2016"
   },
   {
-    "title": "#752 - Mark Sisson",
     "guests": ["Mark Sisson"],
+    "title": "#752 - Mark Sisson",
     "episode_id": 752,
     "isMMA": false,
     "isFC": false,
@@ -8208,8 +8208,8 @@ module.exports = [
     "date": "January 26, 2016"
   },
   {
-    "title": "#751 - Doug Stanhope",
     "guests": ["Doug Stanhope"],
+    "title": "#751 - Doug Stanhope",
     "episode_id": 751,
     "isMMA": false,
     "isFC": false,
@@ -8217,8 +8217,8 @@ module.exports = [
     "date": "January 26, 2016"
   },
   {
-    "title": "#750 - Kip Andersen & Keegan Kuhn",
     "guests": ["Kip Andersen", "Keegan Kuhn"],
+    "title": "#750 - Kip Andersen & Keegan Kuhn",
     "episode_id": 750,
     "isMMA": false,
     "isFC": false,
@@ -8226,8 +8226,8 @@ module.exports = [
     "date": "January 21, 2016"
   },
   {
-    "title": "#749 - Carlos Condit & Erwan Le Corre",
     "guests": ["Carlos Condit", "Erwan Le Corre"],
+    "title": "#749 - Carlos Condit & Erwan Le Corre",
     "episode_id": 749,
     "isMMA": false,
     "isFC": false,
@@ -8235,8 +8235,8 @@ module.exports = [
     "date": "January 20, 2016"
   },
   {
-    "title": "#748 - Jenny Johnson",
     "guests": ["Jenny Johnson"],
+    "title": "#748 - Jenny Johnson",
     "episode_id": 748,
     "isMMA": false,
     "isFC": false,
@@ -8244,8 +8244,8 @@ module.exports = [
     "date": "January 19, 2016"
   },
   {
-    "title": "#747 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#747 - Tony Hinchcliffe",
     "episode_id": 747,
     "isMMA": false,
     "isFC": false,
@@ -8253,8 +8253,8 @@ module.exports = [
     "date": "January 13, 2016"
   },
   {
-    "title": "#746 - TJ Kirk",
     "guests": ["TJ Kirk"],
+    "title": "#746 - TJ Kirk",
     "episode_id": 746,
     "isMMA": false,
     "isFC": false,
@@ -8262,8 +8262,8 @@ module.exports = [
     "date": "January 12, 2016"
   },
   {
-    "title": "#745 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#745 - Ari Shaffir",
     "episode_id": 745,
     "isMMA": false,
     "isFC": false,
@@ -8271,8 +8271,8 @@ module.exports = [
     "date": "January 11, 2016"
   },
   {
-    "title": "#744 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#744 - Tom Segura",
     "episode_id": 744,
     "isMMA": false,
     "isFC": false,
@@ -8280,8 +8280,8 @@ module.exports = [
     "date": "January 6, 2016"
   },
   {
-    "title": "#743 - Phil Demers",
     "guests": ["Phil Demers"],
+    "title": "#743 - Phil Demers",
     "episode_id": 743,
     "isMMA": false,
     "isFC": false,
@@ -8289,8 +8289,8 @@ module.exports = [
     "date": "January 5, 2016"
   },
   {
-    "title": "#742 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#742 - Aubrey Marcus",
     "episode_id": 742,
     "isMMA": false,
     "isFC": false,
@@ -8298,8 +8298,8 @@ module.exports = [
     "date": "January 4, 2016"
   },
   {
-    "title": "#741 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#741 - Joey “CoCo” Diaz",
     "episode_id": 741,
     "isMMA": false,
     "isFC": false,
@@ -8307,8 +8307,8 @@ module.exports = [
     "date": "December 24, 2015"
   },
   {
-    "title": "#740 - Thaddeus Russell",
     "guests": ["Thaddeus Russell"],
+    "title": "#740 - Thaddeus Russell",
     "episode_id": 740,
     "isMMA": false,
     "isFC": false,
@@ -8316,8 +8316,8 @@ module.exports = [
     "date": "December 23, 2015"
   },
   {
-    "title": "#739 - Duncan Trussell & Christopher Ryan",
     "guests": ["Duncan Trussell", "Christopher Ryan"],
+    "title": "#739 - Duncan Trussell & Christopher Ryan",
     "episode_id": 739,
     "isMMA": false,
     "isFC": false,
@@ -8325,8 +8325,8 @@ module.exports = [
     "date": "December 22, 2015"
   },
   {
-    "title": "# - UFC Recap – Brendan Schaub & Eddie Bravo",
     "guests": ["UFC Recap – Brendan Schaub", "Eddie Bravo"],
+    "title": "# - UFC Recap – Brendan Schaub & Eddie Bravo",
     "episode_id": 0,
     "isMMA": false,
     "isFC": false,
@@ -8334,8 +8334,8 @@ module.exports = [
     "date": "December 22, 2015"
   },
   {
-    "title": "#738 - Molly Crabapple",
     "guests": ["Molly Crabapple"],
+    "title": "#738 - Molly Crabapple",
     "episode_id": 738,
     "isMMA": false,
     "isFC": false,
@@ -8343,8 +8343,8 @@ module.exports = [
     "date": "December 16, 2015"
   },
   {
-    "title": "#737 - Lance Armstrong",
     "guests": ["Lance Armstrong"],
+    "title": "#737 - Lance Armstrong",
     "episode_id": 737,
     "isMMA": false,
     "isFC": false,
@@ -8352,8 +8352,8 @@ module.exports = [
     "date": "December 15, 2015"
   },
   {
-    "title": "#736 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#736 - Brendan Schaub & Bryan Callen",
     "episode_id": 736,
     "isMMA": false,
     "isFC": false,
@@ -8361,8 +8361,8 @@ module.exports = [
     "date": "December 14, 2015"
   },
   {
-    "title": "#735 - Peter Boghossian",
     "guests": ["Peter Boghossian"],
+    "title": "#735 - Peter Boghossian",
     "episode_id": 735,
     "isMMA": false,
     "isFC": false,
@@ -8370,8 +8370,8 @@ module.exports = [
     "date": "December 14, 2015"
   },
   {
-    "title": "#734 - Brendan Schaub",
     "guests": ["Brendan Schaub"],
+    "title": "#734 - Brendan Schaub",
     "episode_id": 734,
     "isMMA": false,
     "isFC": false,
@@ -8379,8 +8379,8 @@ module.exports = [
     "date": "December 10, 2015"
   },
   {
-    "title": "#733 - Judah Friedlander",
     "guests": ["Judah Friedlander"],
+    "title": "#733 - Judah Friedlander",
     "episode_id": 733,
     "isMMA": false,
     "isFC": false,
@@ -8388,8 +8388,8 @@ module.exports = [
     "date": "December 9, 2015"
   },
   {
-    "title": "#732 - Whitney Cummings",
     "guests": ["Whitney Cummings"],
+    "title": "#732 - Whitney Cummings",
     "episode_id": 732,
     "isMMA": false,
     "isFC": false,
@@ -8397,8 +8397,8 @@ module.exports = [
     "date": "December 8, 2015"
   },
   {
-    "title": "#731 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#731 - Bert Kreischer",
     "episode_id": 731,
     "isMMA": false,
     "isFC": false,
@@ -8406,8 +8406,8 @@ module.exports = [
     "date": "December 3, 2015"
   },
   {
-    "title": "#730 - Demetrious Johnson",
     "guests": ["Demetrious Johnson"],
+    "title": "#730 - Demetrious Johnson",
     "episode_id": 730,
     "isMMA": false,
     "isFC": false,
@@ -8415,8 +8415,8 @@ module.exports = [
     "date": "December 2, 2015"
   },
   {
-    "title": "#729 - Jocko Willink",
     "guests": ["Jocko Willink"],
+    "title": "#729 - Jocko Willink",
     "episode_id": 729,
     "isMMA": false,
     "isFC": false,
@@ -8424,17 +8424,17 @@ module.exports = [
     "date": "December 1, 2015"
   },
   {
-    "title": "#FC18 - Fight Companion 18",
     "guests": ["FC18"],
-    "episode_id": null,
+    "title": "#FC18 - Fight Companion 18",
+    "episode_id": 18,
     "isMMA": false,
     "isFC": true,
     "description": "FC18. Joe is joined by Brendan Schaub, Ben Saunders & Eddie Bravo to watch the fights...",
     "date": "November 28, 2015"
   },
   {
-    "title": "#728 - Ceara Lynch",
     "guests": ["Ceara Lynch"],
+    "title": "#728 - Ceara Lynch",
     "episode_id": 728,
     "isMMA": false,
     "isFC": false,
@@ -8442,8 +8442,8 @@ module.exports = [
     "date": "November 27, 2015"
   },
   {
-    "title": "#727 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#727 - Bill Burr",
     "episode_id": 727,
     "isMMA": false,
     "isFC": false,
@@ -8451,8 +8451,8 @@ module.exports = [
     "date": "November 24, 2015"
   },
   {
-    "title": "#726 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#726 - Josh Zepps",
     "episode_id": 726,
     "isMMA": false,
     "isFC": false,
@@ -8460,8 +8460,8 @@ module.exports = [
     "date": "November 23, 2015"
   },
   {
-    "title": "#725 - Graham Hancock & Randall Carlson",
     "guests": ["Graham Hancock", "Randall Carlson"],
+    "title": "#725 - Graham Hancock & Randall Carlson",
     "episode_id": 725,
     "isMMA": false,
     "isFC": false,
@@ -8469,8 +8469,8 @@ module.exports = [
     "date": "November 19, 2015"
   },
   {
-    "title": "#724 - Christina Sommers",
     "guests": ["Christina Sommers"],
+    "title": "#724 - Christina Sommers",
     "episode_id": 724,
     "isMMA": false,
     "isFC": false,
@@ -8478,8 +8478,8 @@ module.exports = [
     "date": "November 18, 2015"
   },
   {
-    "title": "#723 - Dana White & Tony Hinchcliffe",
     "guests": ["Dana White", "Tony Hinchcliffe"],
+    "title": "#723 - Dana White & Tony Hinchcliffe",
     "episode_id": 723,
     "isMMA": false,
     "isFC": false,
@@ -8487,8 +8487,8 @@ module.exports = [
     "date": "November 16, 2015"
   },
   {
-    "title": "#722 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#722 - Tony Hinchcliffe",
     "episode_id": 722,
     "isMMA": false,
     "isFC": false,
@@ -8496,8 +8496,8 @@ module.exports = [
     "date": "November 13, 2015"
   },
   {
-    "title": "#721 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#721 - Eddie Bravo",
     "episode_id": 721,
     "isMMA": false,
     "isFC": false,
@@ -8505,8 +8505,8 @@ module.exports = [
     "date": "November 11, 2015"
   },
   {
-    "title": "#720 - Tait Fletcher & Andy Stumpf",
     "guests": ["Tait Fletcher", "Andy Stumpf"],
+    "title": "#720 - Tait Fletcher & Andy Stumpf",
     "episode_id": 720,
     "isMMA": false,
     "isFC": false,
@@ -8514,8 +8514,8 @@ module.exports = [
     "date": "November 10, 2015"
   },
   {
-    "title": "#719 - Josh Olin",
     "guests": ["Josh Olin"],
+    "title": "#719 - Josh Olin",
     "episode_id": 719,
     "isMMA": false,
     "isFC": false,
@@ -8523,8 +8523,8 @@ module.exports = [
     "date": "November 4, 2015"
   },
   {
-    "title": "#718 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#718 - Christopher Ryan",
     "episode_id": 718,
     "isMMA": false,
     "isFC": false,
@@ -8532,8 +8532,8 @@ module.exports = [
     "date": "November 3, 2015"
   },
   {
-    "title": "#717 - Steve-O",
     "guests": ["Steve-O"],
+    "title": "#717 - Steve-O",
     "episode_id": 717,
     "isMMA": false,
     "isFC": false,
@@ -8541,8 +8541,8 @@ module.exports = [
     "date": "November 3, 2015"
   },
   {
-    "title": "#716 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#716 - Daniele Bolelli",
     "episode_id": 716,
     "isMMA": false,
     "isFC": false,
@@ -8550,8 +8550,8 @@ module.exports = [
     "date": "October 30, 2015"
   },
   {
-    "title": "#715 - Remi Warren",
     "guests": ["Remi Warren"],
+    "title": "#715 - Remi Warren",
     "episode_id": 715,
     "isMMA": false,
     "isFC": false,
@@ -8559,8 +8559,8 @@ module.exports = [
     "date": "October 29, 2015"
   },
   {
-    "title": "#714 - John Wayne Parr",
     "guests": ["John Wayne Parr"],
+    "title": "#714 - John Wayne Parr",
     "episode_id": 714,
     "isMMA": false,
     "isFC": false,
@@ -8568,8 +8568,8 @@ module.exports = [
     "date": "October 28, 2015"
   },
   {
-    "title": "#713 - Dave Rubin",
     "guests": ["Dave Rubin"],
+    "title": "#713 - Dave Rubin",
     "episode_id": 713,
     "isMMA": false,
     "isFC": false,
@@ -8577,8 +8577,8 @@ module.exports = [
     "date": "October 26, 2015"
   },
   {
-    "title": "#712 - Wim Hof",
     "guests": ["Wim Hof"],
+    "title": "#712 - Wim Hof",
     "episode_id": 712,
     "isMMA": false,
     "isFC": false,
@@ -8586,8 +8586,8 @@ module.exports = [
     "date": "October 21, 2015"
   },
   {
-    "title": "#711 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#711 - Brian Redban",
     "episode_id": 711,
     "isMMA": false,
     "isFC": false,
@@ -8595,8 +8595,8 @@ module.exports = [
     "date": "October 20, 2015"
   },
   {
-    "title": "#710 - Gavin McInnes",
     "guests": ["Gavin McInnes"],
+    "title": "#710 - Gavin McInnes",
     "episode_id": 710,
     "isMMA": false,
     "isFC": false,
@@ -8604,8 +8604,8 @@ module.exports = [
     "date": "October 19, 2015"
   },
   {
-    "title": "#709 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#709 - Steven Rinella",
     "episode_id": 709,
     "isMMA": false,
     "isFC": false,
@@ -8613,8 +8613,8 @@ module.exports = [
     "date": "October 15, 2015"
   },
   {
-    "title": "#708 - Steven Crowder",
     "guests": ["Steven Crowder"],
+    "title": "#708 - Steven Crowder",
     "episode_id": 708,
     "isMMA": false,
     "isFC": false,
@@ -8622,8 +8622,8 @@ module.exports = [
     "date": "October 14, 2015"
   },
   {
-    "title": "#707 - Michael Dowd",
     "guests": ["Michael Dowd"],
+    "title": "#707 - Michael Dowd",
     "episode_id": 707,
     "isMMA": false,
     "isFC": false,
@@ -8631,26 +8631,26 @@ module.exports = [
     "date": "October 13, 2015"
   },
   {
+    "guests": ["Brendan Schaub"],
     "title": "#706 - Brendan Schaub & Fight Companion ? (Part 2)",
-    "guests": ["Brendan Schaub", "Fight Companion ? (Part 2)"],
     "episode_id": 706,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
     "date": "October 9, 2015"
   },
   {
+    "guests": ["Brendan Schaub"],
     "title": "#706 - Brendan Schaub & Fight Companion ? (Part 1)",
-    "guests": ["Brendan Schaub", "Fight Companion ? (Part 1)"],
     "episode_id": 706,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
     "date": "October 9, 2015"
   },
   {
-    "title": "#705 - Tait Fletcher",
     "guests": ["Tait Fletcher"],
+    "title": "#705 - Tait Fletcher",
     "episode_id": 705,
     "isMMA": false,
     "isFC": false,
@@ -8658,8 +8658,8 @@ module.exports = [
     "date": "October 6, 2015"
   },
   {
-    "title": "#704 - Alonzo Bodden",
     "guests": ["Alonzo Bodden"],
+    "title": "#704 - Alonzo Bodden",
     "episode_id": 704,
     "isMMA": false,
     "isFC": false,
@@ -8667,8 +8667,8 @@ module.exports = [
     "date": "October 5, 2015"
   },
   {
-    "title": "#703 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#703 - Brian Redban",
     "episode_id": 703,
     "isMMA": false,
     "isFC": false,
@@ -8676,8 +8676,8 @@ module.exports = [
     "date": "October 1, 2015"
   },
   {
-    "title": "#702 - Milo Yiannopoulos",
     "guests": ["Milo Yiannopoulos"],
+    "title": "#702 - Milo Yiannopoulos",
     "episode_id": 702,
     "isMMA": false,
     "isFC": false,
@@ -8685,8 +8685,8 @@ module.exports = [
     "date": "September 30, 2015"
   },
   {
-    "title": "#701b - Honey Honey (Part 2)",
     "guests": ["Honey Honey (Part 2)"],
+    "title": "#701b - Honey Honey (Part 2)",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -8694,8 +8694,8 @@ module.exports = [
     "date": "September 28, 2015"
   },
   {
-    "title": "#701 - Honey Honey (Part 1)",
     "guests": ["Honey Honey (Part 1)"],
+    "title": "#701 - Honey Honey (Part 1)",
     "episode_id": 701,
     "isMMA": false,
     "isFC": false,
@@ -8703,17 +8703,17 @@ module.exports = [
     "date": "September 28, 2015"
   },
   {
-    "title": "#FC17 - Fight Companion 17",
     "guests": ["FC17"],
-    "episode_id": null,
+    "title": "#FC17 - Fight Companion 17",
+    "episode_id": 17,
     "isMMA": false,
     "isFC": true,
     "description": "FC17. Joe is joined by Brendan Schaub & Eddie Bravo to watch the fights on Sept....",
     "date": "September 26, 2015"
   },
   {
-    "title": "#700 - Dr. Mark Gordon & Andrew Marr",
     "guests": ["Dr. Mark Gordon", "Andrew Marr"],
+    "title": "#700 - Dr. Mark Gordon & Andrew Marr",
     "episode_id": 700,
     "isMMA": false,
     "isFC": false,
@@ -8721,8 +8721,8 @@ module.exports = [
     "date": "September 25, 2015"
   },
   {
-    "title": "#699 - Donald Cerrone",
     "guests": ["Donald Cerrone"],
+    "title": "#699 - Donald Cerrone",
     "episode_id": 699,
     "isMMA": false,
     "isFC": false,
@@ -8730,8 +8730,8 @@ module.exports = [
     "date": "September 22, 2015"
   },
   {
-    "title": "#698 - Dr. Carl Hart",
     "guests": ["Dr. Carl Hart"],
+    "title": "#698 - Dr. Carl Hart",
     "episode_id": 698,
     "isMMA": false,
     "isFC": false,
@@ -8739,8 +8739,8 @@ module.exports = [
     "date": "September 21, 2015"
   },
   {
-    "title": "#697 - Christopher Ryan, PhD",
     "guests": ["Christopher Ryan, PhD"],
+    "title": "#697 - Christopher Ryan, PhD",
     "episode_id": 697,
     "isMMA": false,
     "isFC": false,
@@ -8748,8 +8748,8 @@ module.exports = [
     "date": "September 17, 2015"
   },
   {
-    "title": "#696 - Lewis, from Unbox Therapy",
     "guests": ["Lewis, from Unbox Therapy"],
+    "title": "#696 - Lewis, from Unbox Therapy",
     "episode_id": 696,
     "isMMA": false,
     "isFC": false,
@@ -8757,8 +8757,8 @@ module.exports = [
     "date": "September 17, 2015"
   },
   {
-    "title": "#695 - Sebastian Maniscalco",
     "guests": ["Sebastian Maniscalco"],
+    "title": "#695 - Sebastian Maniscalco",
     "episode_id": 695,
     "isMMA": false,
     "isFC": false,
@@ -8766,8 +8766,8 @@ module.exports = [
     "date": "September 9, 2015"
   },
   {
-    "title": "#694 - Jane McGonigal",
     "guests": ["Jane McGonigal"],
+    "title": "#694 - Jane McGonigal",
     "episode_id": 694,
     "isMMA": false,
     "isFC": false,
@@ -8775,8 +8775,8 @@ module.exports = [
     "date": "September 8, 2015"
   },
   {
-    "title": "#693 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#693 - Tom Segura",
     "episode_id": 693,
     "isMMA": false,
     "isFC": false,
@@ -8784,8 +8784,8 @@ module.exports = [
     "date": "September 7, 2015"
   },
   {
-    "title": "#692 - Jay Leno",
     "guests": ["Jay Leno"],
+    "title": "#692 - Jay Leno",
     "episode_id": 692,
     "isMMA": false,
     "isFC": false,
@@ -8793,8 +8793,8 @@ module.exports = [
     "date": "September 3, 2015"
   },
   {
-    "title": "#691 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#691 - Bryan Callen",
     "episode_id": 691,
     "isMMA": false,
     "isFC": false,
@@ -8802,8 +8802,8 @@ module.exports = [
     "date": "September 1, 2015"
   },
   {
-    "title": "#690 - Ronda Rousey & Edmond Tarverdyan",
     "guests": ["Ronda Rousey", "Edmond Tarverdyan"],
+    "title": "#690 - Ronda Rousey & Edmond Tarverdyan",
     "episode_id": 690,
     "isMMA": false,
     "isFC": false,
@@ -8811,8 +8811,8 @@ module.exports = [
     "date": "August 31, 2015"
   },
   {
-    "title": "#689 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#689 - Abby Martin",
     "episode_id": 689,
     "isMMA": false,
     "isFC": false,
@@ -8820,8 +8820,8 @@ module.exports = [
     "date": "August 25, 2015"
   },
   {
-    "title": "#688 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#688 - Brian Redban",
     "episode_id": 688,
     "isMMA": false,
     "isFC": false,
@@ -8829,8 +8829,8 @@ module.exports = [
     "date": "August 25, 2015"
   },
   {
-    "title": "#687 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#687 - Justin Wren",
     "episode_id": 687,
     "isMMA": false,
     "isFC": false,
@@ -8838,17 +8838,17 @@ module.exports = [
     "date": "August 24, 2015"
   },
   {
-    "title": "#FC16 - Fight Companion 16",
     "guests": ["FC16"],
-    "episode_id": null,
+    "title": "#FC16 - Fight Companion 16",
+    "episode_id": 16,
     "isMMA": false,
     "isFC": true,
     "description": "FC16. Joe is joined by Aubrey Marcus, Brendan Schaub, Bryan Callen, Eddie Bravo, and Tait Fletcher...",
     "date": "August 23, 2015"
   },
   {
-    "title": "#686 - Jeff Ross",
     "guests": ["Jeff Ross"],
+    "title": "#686 - Jeff Ross",
     "episode_id": 686,
     "isMMA": false,
     "isFC": false,
@@ -8856,8 +8856,8 @@ module.exports = [
     "date": "August 19, 2015"
   },
   {
-    "title": "#685 - Jeff Novitzky",
     "guests": ["Jeff Novitzky"],
+    "title": "#685 - Jeff Novitzky",
     "episode_id": 685,
     "isMMA": false,
     "isFC": false,
@@ -8865,8 +8865,8 @@ module.exports = [
     "date": "August 18, 2015"
   },
   {
-    "title": "#684 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#684 - Brian Redban",
     "episode_id": 684,
     "isMMA": false,
     "isFC": false,
@@ -8874,8 +8874,8 @@ module.exports = [
     "date": "August 17, 2015"
   },
   {
-    "title": "#683 - Ethan Nadelmann",
     "guests": ["Ethan Nadelmann"],
+    "title": "#683 - Ethan Nadelmann",
     "episode_id": 683,
     "isMMA": false,
     "isFC": false,
@@ -8883,8 +8883,8 @@ module.exports = [
     "date": "August 13, 2015"
   },
   {
-    "title": "#682 - Mark & Chris Bell",
     "guests": ["Mark", "Chris Bell"],
+    "title": "#682 - Mark & Chris Bell",
     "episode_id": 682,
     "isMMA": false,
     "isFC": false,
@@ -8892,8 +8892,8 @@ module.exports = [
     "date": "August 12, 2015"
   },
   {
-    "title": "#681 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#681 - Gad Saad",
     "episode_id": 681,
     "isMMA": false,
     "isFC": false,
@@ -8901,17 +8901,17 @@ module.exports = [
     "date": "August 11, 2015"
   },
   {
-    "title": "#FC15 - Fight Companion 15",
     "guests": ["FC15"],
-    "episode_id": null,
+    "title": "#FC15 - Fight Companion 15",
+    "episode_id": 15,
     "isMMA": false,
     "isFC": true,
     "description": "FC15. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights on...",
     "date": "August 8, 2015"
   },
   {
-    "title": "#680 - Steven Hassan",
     "guests": ["Steven Hassan"],
+    "title": "#680 - Steven Hassan",
     "episode_id": 680,
     "isMMA": false,
     "isFC": false,
@@ -8919,8 +8919,8 @@ module.exports = [
     "date": "August 7, 2015"
   },
   {
-    "title": "#679 - Barry Crimmins & Bobcat Goldthwait",
     "guests": ["Barry Crimmins", "Bobcat Goldthwait"],
+    "title": "#679 - Barry Crimmins & Bobcat Goldthwait",
     "episode_id": 679,
     "isMMA": false,
     "isFC": false,
@@ -8928,8 +8928,8 @@ module.exports = [
     "date": "August 6, 2015"
   },
   {
-    "title": "#678 - Jonathan Ward",
     "guests": ["Jonathan Ward"],
+    "title": "#678 - Jonathan Ward",
     "episode_id": 678,
     "isMMA": false,
     "isFC": false,
@@ -8937,8 +8937,8 @@ module.exports = [
     "date": "August 6, 2015"
   },
   {
-    "title": "#77 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#77 - Josh Zepps",
     "episode_id": 77,
     "isMMA": false,
     "isFC": false,
@@ -8946,8 +8946,8 @@ module.exports = [
     "date": "August 3, 2015"
   },
   {
-    "title": "#676 - Esther Ku",
     "guests": ["Esther Ku"],
+    "title": "#676 - Esther Ku",
     "episode_id": 676,
     "isMMA": false,
     "isFC": false,
@@ -8955,8 +8955,8 @@ module.exports = [
     "date": "July 29, 2015"
   },
   {
-    "title": "#675 - Kirik Jenness & Chris Palmquist",
     "guests": ["Kirik Jenness", "Chris Palmquist"],
+    "title": "#675 - Kirik Jenness & Chris Palmquist",
     "episode_id": 675,
     "isMMA": false,
     "isFC": false,
@@ -8964,8 +8964,8 @@ module.exports = [
     "date": "July 28, 2015"
   },
   {
-    "title": "#674 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#674 - Brian Redban",
     "episode_id": 674,
     "isMMA": false,
     "isFC": false,
@@ -8973,8 +8973,8 @@ module.exports = [
     "date": "July 27, 2015"
   },
   {
-    "title": "#673 - Nick DiPaolo & Adam Lowery",
     "guests": ["Nick DiPaolo", "Adam Lowery"],
+    "title": "#673 - Nick DiPaolo & Adam Lowery",
     "episode_id": 673,
     "isMMA": false,
     "isFC": false,
@@ -8982,8 +8982,8 @@ module.exports = [
     "date": "July 22, 2015"
   },
   {
-    "title": "#672 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#672 - Dr. Rhonda Patrick",
     "episode_id": 672,
     "isMMA": false,
     "isFC": false,
@@ -8991,8 +8991,8 @@ module.exports = [
     "date": "July 21, 2015"
   },
   {
-    "title": "#671 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#671 - Brendan Schaub & Bryan Callen",
     "episode_id": 671,
     "isMMA": false,
     "isFC": false,
@@ -9000,8 +9000,8 @@ module.exports = [
     "date": "July 9, 2015"
   },
   {
-    "title": "#670 - Michael A. Wood, Jr.",
     "guests": ["Michael A. Wood, Jr."],
+    "title": "#670 - Michael A. Wood, Jr.",
     "episode_id": 670,
     "isMMA": false,
     "isFC": false,
@@ -9009,8 +9009,8 @@ module.exports = [
     "date": "July 8, 2015"
   },
   {
-    "title": "#669 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#669 - Joey Diaz",
     "episode_id": 669,
     "isMMA": false,
     "isFC": false,
@@ -9018,8 +9018,8 @@ module.exports = [
     "date": "July 7, 2015"
   },
   {
-    "title": "#668 - Jon Ronson",
     "guests": ["Jon Ronson"],
+    "title": "#668 - Jon Ronson",
     "episode_id": 668,
     "isMMA": false,
     "isFC": false,
@@ -9027,8 +9027,8 @@ module.exports = [
     "date": "July 6, 2015"
   },
   {
-    "title": "#667 - Kurt Metzger",
     "guests": ["Kurt Metzger"],
+    "title": "#667 - Kurt Metzger",
     "episode_id": 667,
     "isMMA": false,
     "isFC": false,
@@ -9036,8 +9036,8 @@ module.exports = [
     "date": "July 1, 2015"
   },
   {
-    "title": "#666 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#666 - Duncan Trussell",
     "episode_id": 666,
     "isMMA": false,
     "isFC": false,
@@ -9045,8 +9045,8 @@ module.exports = [
     "date": "June 29, 2015"
   },
   {
-    "title": "#665 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#665 - Neal Brennan",
     "episode_id": 665,
     "isMMA": false,
     "isFC": false,
@@ -9054,8 +9054,8 @@ module.exports = [
     "date": "June 25, 2015"
   },
   {
-    "title": "#664 - Tom Segura & Christina Pazsitzky",
     "guests": ["Tom Segura", "Christina Pazsitzky"],
+    "title": "#664 - Tom Segura & Christina Pazsitzky",
     "episode_id": 664,
     "isMMA": false,
     "isFC": false,
@@ -9063,8 +9063,8 @@ module.exports = [
     "date": "June 23, 2015"
   },
   {
-    "title": "#663 - Dominic Monaghan",
     "guests": ["Dominic Monaghan"],
+    "title": "#663 - Dominic Monaghan",
     "episode_id": 663,
     "isMMA": false,
     "isFC": false,
@@ -9072,17 +9072,17 @@ module.exports = [
     "date": "June 22, 2015"
   },
   {
-    "title": "#FC13 - Fight Companion 13",
     "guests": ["FC13"],
-    "episode_id": null,
+    "title": "#FC13 - Fight Companion 13",
+    "episode_id": 13,
     "isMMA": false,
     "isFC": true,
     "description": "FC13. Joe is joined by Brendan Schaub, Bryan Callen, and Tony Hinchcliffe to watch the fights...",
     "date": "June 20, 2015"
   },
   {
-    "title": "#662 - Vinny Shoreman",
     "guests": ["Vinny Shoreman"],
+    "title": "#662 - Vinny Shoreman",
     "episode_id": 662,
     "isMMA": false,
     "isFC": false,
@@ -9090,8 +9090,8 @@ module.exports = [
     "date": "June 18, 2015"
   },
   {
-    "title": "#661 - Rutledge Wood",
     "guests": ["Rutledge Wood"],
+    "title": "#661 - Rutledge Wood",
     "episode_id": 661,
     "isMMA": false,
     "isFC": false,
@@ -9099,8 +9099,8 @@ module.exports = [
     "date": "June 17, 2015"
   },
   {
-    "title": "#660 - Jim Florentine",
     "guests": ["Jim Florentine"],
+    "title": "#660 - Jim Florentine",
     "episode_id": 660,
     "isMMA": false,
     "isFC": false,
@@ -9108,8 +9108,8 @@ module.exports = [
     "date": "June 15, 2015"
   },
   {
-    "title": "#659 - Dean Delray",
     "guests": ["Dean Delray"],
+    "title": "#659 - Dean Delray",
     "episode_id": 659,
     "isMMA": false,
     "isFC": false,
@@ -9117,8 +9117,8 @@ module.exports = [
     "date": "June 11, 2015"
   },
   {
-    "title": "#658 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#658 - Greg Fitzsimmons",
     "episode_id": 658,
     "isMMA": false,
     "isFC": false,
@@ -9126,8 +9126,8 @@ module.exports = [
     "date": "June 10, 2015"
   },
   {
-    "title": "#657 - Corey Knowlton",
     "guests": ["Corey Knowlton"],
+    "title": "#657 - Corey Knowlton",
     "episode_id": 657,
     "isMMA": false,
     "isFC": false,
@@ -9135,8 +9135,8 @@ module.exports = [
     "date": "June 8, 2015"
   },
   {
-    "title": "#CAR2 - CAR2",
     "guests": ["CAR2"],
+    "title": "#CAR2 - CAR2",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -9144,8 +9144,8 @@ module.exports = [
     "date": "June 7, 2015"
   },
   {
-    "title": "#656 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#656 - Bryan Callen",
     "episode_id": 656,
     "isMMA": false,
     "isFC": false,
@@ -9153,8 +9153,8 @@ module.exports = [
     "date": "June 6, 2015"
   },
   {
-    "title": "#655 - Kevin Folta",
     "guests": ["Kevin Folta"],
+    "title": "#655 - Kevin Folta",
     "episode_id": 655,
     "isMMA": false,
     "isFC": false,
@@ -9162,8 +9162,8 @@ module.exports = [
     "date": "June 4, 2015"
   },
   {
-    "title": "#654 - Rich Vos",
     "guests": ["Rich Vos"],
+    "title": "#654 - Rich Vos",
     "episode_id": 654,
     "isMMA": false,
     "isFC": false,
@@ -9171,8 +9171,8 @@ module.exports = [
     "date": "May 28, 2015"
   },
   {
-    "title": "#653 - Natasha Leggero",
     "guests": ["Natasha Leggero"],
+    "title": "#653 - Natasha Leggero",
     "episode_id": 653,
     "isMMA": false,
     "isFC": false,
@@ -9180,8 +9180,8 @@ module.exports = [
     "date": "May 27, 2015"
   },
   {
-    "title": "#652 - Ricky Schroder",
     "guests": ["Ricky Schroder"],
+    "title": "#652 - Ricky Schroder",
     "episode_id": 652,
     "isMMA": false,
     "isFC": false,
@@ -9189,8 +9189,8 @@ module.exports = [
     "date": "May 25, 2015"
   },
   {
-    "title": "#651 - Jordan Gilbert (c9n0thing)",
     "guests": ["Jordan Gilbert (c9n0thing)"],
+    "title": "#651 - Jordan Gilbert (c9n0thing)",
     "episode_id": 651,
     "isMMA": false,
     "isFC": false,
@@ -9198,8 +9198,8 @@ module.exports = [
     "date": "May 21, 2015"
   },
   {
-    "title": "#650 - Nick Curson",
     "guests": ["Nick Curson"],
+    "title": "#650 - Nick Curson",
     "episode_id": 650,
     "isMMA": false,
     "isFC": false,
@@ -9207,8 +9207,8 @@ module.exports = [
     "date": "May 20, 2015"
   },
   {
-    "title": "#649 - Jonathan Gottschall",
     "guests": ["Jonathan Gottschall"],
+    "title": "#649 - Jonathan Gottschall",
     "episode_id": 649,
     "isMMA": false,
     "isFC": false,
@@ -9216,17 +9216,17 @@ module.exports = [
     "date": "May 18, 2015"
   },
   {
-    "title": "#FC12 - Fight Companion 12",
     "guests": ["FC12"],
-    "episode_id": null,
+    "title": "#FC12 - Fight Companion 12",
+    "episode_id": 12,
     "isMMA": false,
     "isFC": true,
     "description": "FC12.  Joe is joined by Aubrey Marcus, Eddie Bravo & Brendan Schaub to watch the fights on...",
     "date": "May 16, 2015"
   },
   {
-    "title": "#648 - Adam Scorgie",
     "guests": ["Adam Scorgie"],
+    "title": "#648 - Adam Scorgie",
     "episode_id": 648,
     "isMMA": false,
     "isFC": false,
@@ -9234,8 +9234,8 @@ module.exports = [
     "date": "May 14, 2015"
   },
   {
-    "title": "#647 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#647 - Dom Irrera",
     "episode_id": 647,
     "isMMA": false,
     "isFC": false,
@@ -9243,8 +9243,8 @@ module.exports = [
     "date": "May 13, 2015"
   },
   {
-    "title": "#646 - Dr. Dan Engle & Aubrey Marcus",
     "guests": ["Dr. Dan Engle", "Aubrey Marcus"],
+    "title": "#646 - Dr. Dan Engle & Aubrey Marcus",
     "episode_id": 646,
     "isMMA": false,
     "isFC": false,
@@ -9252,8 +9252,8 @@ module.exports = [
     "date": "May 11, 2015"
   },
   {
-    "title": "#645 - Joe Schilling",
     "guests": ["Joe Schilling"],
+    "title": "#645 - Joe Schilling",
     "episode_id": 645,
     "isMMA": false,
     "isFC": false,
@@ -9261,8 +9261,8 @@ module.exports = [
     "date": "May 7, 2015"
   },
   {
-    "title": "#644 - Brad Williams",
     "guests": ["Brad Williams"],
+    "title": "#644 - Brad Williams",
     "episode_id": 644,
     "isMMA": false,
     "isFC": false,
@@ -9270,8 +9270,8 @@ module.exports = [
     "date": "May 6, 2015"
   },
   {
-    "title": "#643 - Big” Jay Oakerson",
     "guests": ["Big” Jay Oakerson"],
+    "title": "#643 - Big” Jay Oakerson",
     "episode_id": 643,
     "isMMA": false,
     "isFC": false,
@@ -9279,8 +9279,8 @@ module.exports = [
     "date": "May 4, 2015"
   },
   {
-    "title": "#642 - Rich Roll",
     "guests": ["Rich Roll"],
+    "title": "#642 - Rich Roll",
     "episode_id": 642,
     "isMMA": false,
     "isFC": false,
@@ -9288,8 +9288,8 @@ module.exports = [
     "date": "May 1, 2015"
   },
   {
-    "title": "#641 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#641 - Sam Harris",
     "episode_id": 641,
     "isMMA": false,
     "isFC": false,
@@ -9297,8 +9297,8 @@ module.exports = [
     "date": "April 29, 2015"
   },
   {
-    "title": "#640 - Charles C. Johnson",
     "guests": ["Charles C. Johnson"],
+    "title": "#640 - Charles C. Johnson",
     "episode_id": 640,
     "isMMA": false,
     "isFC": false,
@@ -9306,8 +9306,8 @@ module.exports = [
     "date": "April 28, 2015"
   },
   {
-    "title": "#639 - Greg Proops",
     "guests": ["Greg Proops"],
+    "title": "#639 - Greg Proops",
     "episode_id": 639,
     "isMMA": false,
     "isFC": false,
@@ -9315,8 +9315,8 @@ module.exports = [
     "date": "April 27, 2015"
   },
   {
-    "title": "#638 - Aubrey de Grey",
     "guests": ["Aubrey de Grey"],
+    "title": "#638 - Aubrey de Grey",
     "episode_id": 638,
     "isMMA": false,
     "isFC": false,
@@ -9324,8 +9324,8 @@ module.exports = [
     "date": "April 22, 2015"
   },
   {
-    "title": "#637 - Remi Warren",
     "guests": ["Remi Warren"],
+    "title": "#637 - Remi Warren",
     "episode_id": 637,
     "isMMA": false,
     "isFC": false,
@@ -9333,8 +9333,8 @@ module.exports = [
     "date": "April 22, 2015"
   },
   {
-    "title": "#636 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#636 - Bryan Callen",
     "episode_id": 636,
     "isMMA": false,
     "isFC": false,
@@ -9342,8 +9342,8 @@ module.exports = [
     "date": "April 20, 2015"
   },
   {
-    "title": "#635 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#635 - Jim Norton",
     "episode_id": 635,
     "isMMA": false,
     "isFC": false,
@@ -9351,8 +9351,8 @@ module.exports = [
     "date": "April 15, 2015"
   },
   {
-    "title": "#634 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#634 - Abby Martin",
     "episode_id": 634,
     "isMMA": false,
     "isFC": false,
@@ -9360,8 +9360,8 @@ module.exports = [
     "date": "April 15, 2015"
   },
   {
-    "title": "#633 - Alex Winter",
     "guests": ["Alex Winter"],
+    "title": "#633 - Alex Winter",
     "episode_id": 633,
     "isMMA": false,
     "isFC": false,
@@ -9369,17 +9369,17 @@ module.exports = [
     "date": "April 13, 2015"
   },
   {
-    "title": "#FC11 - Fight Companion 11",
     "guests": ["FC11"],
-    "episode_id": null,
+    "title": "#FC11 - Fight Companion 11",
+    "episode_id": 11,
     "isMMA": false,
     "isFC": true,
     "description": "FC11. Joe is joined by Eddie Bravo & Brendan Schaub to watch the fights on April 11,...",
     "date": "April 11, 2015"
   },
   {
-    "title": "#Car - Car",
     "guests": ["Car"],
+    "title": "#Car - Car",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -9387,8 +9387,8 @@ module.exports = [
     "date": "April 10, 2015"
   },
   {
-    "title": "#632 - Les Stroud",
     "guests": ["Les Stroud"],
+    "title": "#632 - Les Stroud",
     "episode_id": 632,
     "isMMA": false,
     "isFC": false,
@@ -9396,8 +9396,8 @@ module.exports = [
     "date": "April 3, 2015"
   },
   {
-    "title": "#Sweden - Sweden",
     "guests": ["Sweden"],
+    "title": "#Sweden - Sweden",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -9405,8 +9405,8 @@ module.exports = [
     "date": "April 2, 2015"
   },
   {
-    "title": "#631 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#631 - Josh Barnett",
     "episode_id": 631,
     "isMMA": false,
     "isFC": false,
@@ -9414,8 +9414,8 @@ module.exports = [
     "date": "March 27, 2015"
   },
   {
-    "title": "#630 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#630 - Duncan Trussell",
     "episode_id": 630,
     "isMMA": false,
     "isFC": false,
@@ -9423,8 +9423,8 @@ module.exports = [
     "date": "March 24, 2015"
   },
   {
-    "title": "#629 - Andrew Hill",
     "guests": ["Andrew Hill"],
+    "title": "#629 - Andrew Hill",
     "episode_id": 629,
     "isMMA": false,
     "isFC": false,
@@ -9432,8 +9432,8 @@ module.exports = [
     "date": "March 24, 2015"
   },
   {
-    "title": "#628 - Garry Tonon & Eddie Bravo",
     "guests": ["Garry Tonon", "Eddie Bravo"],
+    "title": "#628 - Garry Tonon & Eddie Bravo",
     "episode_id": 628,
     "isMMA": false,
     "isFC": false,
@@ -9441,8 +9441,8 @@ module.exports = [
     "date": "March 21, 2015"
   },
   {
-    "title": "#627 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#627 - Joey Diaz",
     "episode_id": 627,
     "isMMA": false,
     "isFC": false,
@@ -9450,8 +9450,8 @@ module.exports = [
     "date": "March 18, 2015"
   },
   {
-    "title": "#626 - Trevor Moore",
     "guests": ["Trevor Moore"],
+    "title": "#626 - Trevor Moore",
     "episode_id": 626,
     "isMMA": false,
     "isFC": false,
@@ -9459,8 +9459,8 @@ module.exports = [
     "date": "March 17, 2015"
   },
   {
-    "title": "#625 - Steve Maxwell",
     "guests": ["Steve Maxwell"],
+    "title": "#625 - Steve Maxwell",
     "episode_id": 625,
     "isMMA": false,
     "isFC": false,
@@ -9468,8 +9468,8 @@ module.exports = [
     "date": "March 16, 2015"
   },
   {
-    "title": "#624 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#624 - Tom Segura",
     "episode_id": 624,
     "isMMA": false,
     "isFC": false,
@@ -9477,8 +9477,8 @@ module.exports = [
     "date": "March 10, 2015"
   },
   {
-    "title": "#623 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#623 - Ari Shaffir",
     "episode_id": 623,
     "isMMA": false,
     "isFC": false,
@@ -9486,8 +9486,8 @@ module.exports = [
     "date": "March 9, 2015"
   },
   {
-    "title": "#622 - Adam Carolla",
     "guests": ["Adam Carolla"],
+    "title": "#622 - Adam Carolla",
     "episode_id": 622,
     "isMMA": false,
     "isFC": false,
@@ -9495,8 +9495,8 @@ module.exports = [
     "date": "March 9, 2015"
   },
   {
-    "title": "#621 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#621 - Aubrey Marcus",
     "episode_id": 621,
     "isMMA": false,
     "isFC": false,
@@ -9504,8 +9504,8 @@ module.exports = [
     "date": "March 7, 2015"
   },
   {
-    "title": "#620 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#620 - Bert Kreischer",
     "episode_id": 620,
     "isMMA": false,
     "isFC": false,
@@ -9513,8 +9513,8 @@ module.exports = [
     "date": "March 4, 2015"
   },
   {
-    "title": "#619 - Bryan Callen & Brendan Schaub",
     "guests": ["Bryan Callen", "Brendan Schaub"],
+    "title": "#619 - Bryan Callen & Brendan Schaub",
     "episode_id": 619,
     "isMMA": false,
     "isFC": false,
@@ -9522,8 +9522,8 @@ module.exports = [
     "date": "March 3, 2015"
   },
   {
-    "title": "#618 - Artie Lange",
     "guests": ["Artie Lange"],
+    "title": "#618 - Artie Lange",
     "episode_id": 618,
     "isMMA": false,
     "isFC": false,
@@ -9531,8 +9531,8 @@ module.exports = [
     "date": "February 25, 2015"
   },
   {
-    "title": "#617 - Brian Regan",
     "guests": ["Brian Regan"],
+    "title": "#617 - Brian Regan",
     "episode_id": 617,
     "isMMA": false,
     "isFC": false,
@@ -9540,8 +9540,8 @@ module.exports = [
     "date": "February 25, 2015"
   },
   {
-    "title": "#616 - John Wayne Parr",
     "guests": ["John Wayne Parr"],
+    "title": "#616 - John Wayne Parr",
     "episode_id": 616,
     "isMMA": false,
     "isFC": false,
@@ -9549,17 +9549,17 @@ module.exports = [
     "date": "February 23, 2015"
   },
   {
-    "title": "#FC10 - Fight Companion 10",
     "guests": ["FC10"],
-    "episode_id": null,
+    "title": "#FC10 - Fight Companion 10",
+    "episode_id": 10,
     "isMMA": false,
     "isFC": true,
     "description": "FC10. Joe is joined by Eddie Bravo, John Wayne Parr, Brendan Schaub & Bryan Callen to...",
     "date": "February 22, 2015"
   },
   {
-    "title": "#615 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#615 - Greg Fitzsimmons",
     "episode_id": 615,
     "isMMA": false,
     "isFC": false,
@@ -9567,8 +9567,8 @@ module.exports = [
     "date": "February 19, 2015"
   },
   {
-    "title": "#614 - Christopher Ryan, PhD",
     "guests": ["Christopher Ryan, PhD"],
+    "title": "#614 - Christopher Ryan, PhD",
     "episode_id": 614,
     "isMMA": false,
     "isFC": false,
@@ -9576,8 +9576,8 @@ module.exports = [
     "date": "February 19, 2015"
   },
   {
-    "title": "#613 - Ms. Pat",
     "guests": ["Ms. Pat"],
+    "title": "#613 - Ms. Pat",
     "episode_id": 613,
     "isMMA": false,
     "isFC": false,
@@ -9585,17 +9585,17 @@ module.exports = [
     "date": "February 16, 2015"
   },
   {
-    "title": "#FC8 - Fight Companion 8",
     "guests": ["FC8"],
-    "episode_id": null,
+    "title": "#FC9 - Fight Companion 9",
+    "episode_id": 9,
     "isMMA": false,
     "isFC": true,
     "description": "FC9. Joe is joined by Eddie Bravo, Brendan Schaub, Tait Fletcher, Ben Saunders, and Justin Milos to...",
     "date": "February 15, 2015"
   },
   {
-    "title": "#612 - Billy Corben",
     "guests": ["Billy Corben"],
+    "title": "#612 - Billy Corben",
     "episode_id": 612,
     "isMMA": false,
     "isFC": false,
@@ -9603,8 +9603,8 @@ module.exports = [
     "date": "February 11, 2015"
   },
   {
-    "title": "#611 - Josh McDermitt",
     "guests": ["Josh McDermitt"],
+    "title": "#611 - Josh McDermitt",
     "episode_id": 611,
     "isMMA": false,
     "isFC": false,
@@ -9612,8 +9612,8 @@ module.exports = [
     "date": "February 10, 2015"
   },
   {
-    "title": "#610 - Brian Cox",
     "guests": ["Brian Cox"],
+    "title": "#610 - Brian Cox",
     "episode_id": 610,
     "isMMA": false,
     "isFC": false,
@@ -9621,8 +9621,8 @@ module.exports = [
     "date": "February 9, 2015"
   },
   {
-    "title": "#609 - Tom Papa",
     "guests": ["Tom Papa"],
+    "title": "#609 - Tom Papa",
     "episode_id": 609,
     "isMMA": false,
     "isFC": false,
@@ -9630,8 +9630,8 @@ module.exports = [
     "date": "February 4, 2015"
   },
   {
-    "title": "#608 - Ali Rizvi",
     "guests": ["Ali Rizvi"],
+    "title": "#608 - Ali Rizvi",
     "episode_id": 608,
     "isMMA": false,
     "isFC": false,
@@ -9639,8 +9639,8 @@ module.exports = [
     "date": "February 4, 2015"
   },
   {
-    "title": "#607 - Joe Schilling",
     "guests": ["Joe Schilling"],
+    "title": "#607 - Joe Schilling",
     "episode_id": 607,
     "isMMA": false,
     "isFC": false,
@@ -9648,8 +9648,8 @@ module.exports = [
     "date": "February 3, 2015"
   },
   {
-    "title": "#606 - Randall Carlson",
     "guests": ["Randall Carlson"],
+    "title": "#606 - Randall Carlson",
     "episode_id": 606,
     "isMMA": false,
     "isFC": false,
@@ -9657,8 +9657,8 @@ module.exports = [
     "date": "February 2, 2015"
   },
   {
-    "title": "#605 - Barry Rothbart",
     "guests": ["Barry Rothbart"],
+    "title": "#605 - Barry Rothbart",
     "episode_id": 605,
     "isMMA": false,
     "isFC": false,
@@ -9666,8 +9666,8 @@ module.exports = [
     "date": "January 28, 2015"
   },
   {
-    "title": "#604 - Eddie Huang & Randall Park",
     "guests": ["Eddie Huang", "Randall Park"],
+    "title": "#604 - Eddie Huang & Randall Park",
     "episode_id": 604,
     "isMMA": false,
     "isFC": false,
@@ -9675,8 +9675,8 @@ module.exports = [
     "date": "January 26, 2015"
   },
   {
-    "title": "#603 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#603 - Justin Wren",
     "episode_id": 603,
     "isMMA": false,
     "isFC": false,
@@ -9684,8 +9684,8 @@ module.exports = [
     "date": "January 26, 2015"
   },
   {
-    "title": "#602 - Ari Shaffir & Duncan Trussell",
     "guests": ["Ari Shaffir", "Duncan Trussell"],
+    "title": "#602 - Ari Shaffir & Duncan Trussell",
     "episode_id": 602,
     "isMMA": false,
     "isFC": false,
@@ -9693,8 +9693,8 @@ module.exports = [
     "date": "January 20, 2015"
   },
   {
-    "title": "#601 - Katy Bowman",
     "guests": ["Katy Bowman"],
+    "title": "#601 - Katy Bowman",
     "episode_id": 601,
     "isMMA": false,
     "isFC": false,
@@ -9702,8 +9702,8 @@ module.exports = [
     "date": "January 14, 2015"
   },
   {
-    "title": "#600 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#600 - Ari Shaffir",
     "episode_id": 600,
     "isMMA": false,
     "isFC": false,
@@ -9711,8 +9711,8 @@ module.exports = [
     "date": "January 13, 2015"
   },
   {
-    "title": "#599 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#599 - Shane Smith",
     "episode_id": 599,
     "isMMA": false,
     "isFC": false,
@@ -9720,8 +9720,8 @@ module.exports = [
     "date": "January 13, 2015"
   },
   {
-    "title": "#598 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#598 - Joey “CoCo” Diaz",
     "episode_id": 598,
     "isMMA": false,
     "isFC": false,
@@ -9729,8 +9729,8 @@ module.exports = [
     "date": "January 12, 2015"
   },
   {
-    "title": "#597 - Magnus Walker & Alex Ross",
     "guests": ["Magnus Walker", "Alex Ross"],
+    "title": "#597 - Magnus Walker & Alex Ross",
     "episode_id": 597,
     "isMMA": false,
     "isFC": false,
@@ -9738,8 +9738,8 @@ module.exports = [
     "date": "January 10, 2015"
   },
   {
-    "title": "#596 - Brian Stann",
     "guests": ["Brian Stann"],
+    "title": "#596 - Brian Stann",
     "episode_id": 596,
     "isMMA": false,
     "isFC": false,
@@ -9747,8 +9747,8 @@ module.exports = [
     "date": "January 8, 2015"
   },
   {
-    "title": "#595 - Nick DiPaolo",
     "guests": ["Nick DiPaolo"],
+    "title": "#595 - Nick DiPaolo",
     "episode_id": 595,
     "isMMA": false,
     "isFC": false,
@@ -9756,8 +9756,8 @@ module.exports = [
     "date": "January 6, 2015"
   },
   {
-    "title": "#594 - Russell Peters",
     "guests": ["Russell Peters"],
+    "title": "#594 - Russell Peters",
     "episode_id": 594,
     "isMMA": false,
     "isFC": false,
@@ -9765,8 +9765,8 @@ module.exports = [
     "date": "December 30, 2014"
   },
   {
-    "title": "#593 - Josh Fox",
     "guests": ["Josh Fox"],
+    "title": "#593 - Josh Fox",
     "episode_id": 593,
     "isMMA": false,
     "isFC": false,
@@ -9774,8 +9774,8 @@ module.exports = [
     "date": "December 29, 2014"
   },
   {
-    "title": "#592 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#592 - Bert Kreischer",
     "episode_id": 592,
     "isMMA": false,
     "isFC": false,
@@ -9783,8 +9783,8 @@ module.exports = [
     "date": "December 23, 2014"
   },
   {
-    "title": "#591 - Kevin Pereira",
     "guests": ["Kevin Pereira"],
+    "title": "#591 - Kevin Pereira",
     "episode_id": 591,
     "isMMA": false,
     "isFC": false,
@@ -9792,8 +9792,8 @@ module.exports = [
     "date": "December 22, 2014"
   },
   {
-    "title": "#590 - Ana Kasparian",
     "guests": ["Ana Kasparian"],
+    "title": "#590 - Ana Kasparian",
     "episode_id": 590,
     "isMMA": false,
     "isFC": false,
@@ -9801,8 +9801,8 @@ module.exports = [
     "date": "December 19, 2014"
   },
   {
-    "title": "#589 - Chris Harris",
     "guests": ["Chris Harris"],
+    "title": "#589 - Chris Harris",
     "episode_id": 589,
     "isMMA": false,
     "isFC": false,
@@ -9810,8 +9810,8 @@ module.exports = [
     "date": "December 18, 2014"
   },
   {
-    "title": "#588 - Philip DeFranco",
     "guests": ["Philip DeFranco"],
+    "title": "#588 - Philip DeFranco",
     "episode_id": 588,
     "isMMA": false,
     "isFC": false,
@@ -9819,8 +9819,8 @@ module.exports = [
     "date": "December 18, 2014"
   },
   {
-    "title": "#587 - Ron Finely",
     "guests": ["Ron Finely"],
+    "title": "#587 - Ron Finely",
     "episode_id": 587,
     "isMMA": false,
     "isFC": false,
@@ -9828,21 +9828,21 @@ module.exports = [
     "date": "December 17, 2014"
   },
   {
-    "title": "#FC8 - Fight Companion 8",
     "guests": ["FC8"],
-    "episode_id": null,
+    "title": "#FC8 - Fight Companion 8",
+    "episode_id": 8,
     "isMMA": false,
     "isFC": true,
     "description": "FC8. Joe is joined by Eddie Bravo, Brendan Schaub & Bryan Callen to watch a...",
     "date": "December 16, 2014"
   },
   {
-    "title": "#586 - Kill Tony Cast – Tony Hinchcliffe, Sara Weinshenk & Kimberly Congdon",
     "guests": [
       "Kill Tony Cast – Tony Hinchcliffe",
       "Sara Weinshenk",
       "Kimberly Congdon"
     ],
+    "title": "#586 - Kill Tony Cast – Tony Hinchcliffe, Sara Weinshenk & Kimberly Congdon",
     "episode_id": 586,
     "isMMA": false,
     "isFC": false,
@@ -9850,8 +9850,8 @@ module.exports = [
     "date": "December 11, 2014"
   },
   {
-    "title": "#585 - John Heffron",
     "guests": ["John Heffron"],
+    "title": "#585 - John Heffron",
     "episode_id": 585,
     "isMMA": false,
     "isFC": false,
@@ -9859,8 +9859,8 @@ module.exports = [
     "date": "December 9, 2014"
   },
   {
-    "title": "#584 - Zoltan Istvan",
     "guests": ["Zoltan Istvan"],
+    "title": "#584 - Zoltan Istvan",
     "episode_id": 584,
     "isMMA": false,
     "isFC": false,
@@ -9868,8 +9868,8 @@ module.exports = [
     "date": "December 8, 2014"
   },
   {
-    "title": "#583 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#583 - Bill Burr",
     "episode_id": 583,
     "isMMA": false,
     "isFC": false,
@@ -9877,8 +9877,8 @@ module.exports = [
     "date": "December 3, 2014"
   },
   {
-    "title": "#582 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#582 - David Seaman",
     "episode_id": 582,
     "isMMA": false,
     "isFC": false,
@@ -9886,8 +9886,8 @@ module.exports = [
     "date": "December 2, 2014"
   },
   {
-    "title": "#581 - Andreas Antonopoulos",
     "guests": ["Andreas Antonopoulos"],
+    "title": "#581 - Andreas Antonopoulos",
     "episode_id": 581,
     "isMMA": false,
     "isFC": false,
@@ -9895,8 +9895,8 @@ module.exports = [
     "date": "December 1, 2014"
   },
   {
-    "title": "#580 - Lewis, from Unbox Therapy",
     "guests": ["Lewis, from Unbox Therapy"],
+    "title": "#580 - Lewis, from Unbox Therapy",
     "episode_id": 580,
     "isMMA": false,
     "isFC": false,
@@ -9904,8 +9904,8 @@ module.exports = [
     "date": "November 26, 2014"
   },
   {
-    "title": "#579 - Rory MacDonald",
     "guests": ["Rory MacDonald"],
+    "title": "#579 - Rory MacDonald",
     "episode_id": 579,
     "isMMA": false,
     "isFC": false,
@@ -9913,8 +9913,8 @@ module.exports = [
     "date": "November 25, 2014"
   },
   {
-    "title": "#578 - Peter McGraw",
     "guests": ["Peter McGraw"],
+    "title": "#578 - Peter McGraw",
     "episode_id": 578,
     "isMMA": false,
     "isFC": false,
@@ -9922,8 +9922,8 @@ module.exports = [
     "date": "November 21, 2014"
   },
   {
-    "title": "#577 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#577 - Duncan Trussell",
     "episode_id": 577,
     "isMMA": false,
     "isFC": false,
@@ -9931,8 +9931,8 @@ module.exports = [
     "date": "November 18, 2014"
   },
   {
-    "title": "#576 - Jim Shockey",
     "guests": ["Jim Shockey"],
+    "title": "#576 - Jim Shockey",
     "episode_id": 576,
     "isMMA": false,
     "isFC": false,
@@ -9940,8 +9940,8 @@ module.exports = [
     "date": "November 17, 2014"
   },
   {
-    "title": "#575 - Matt Fulchiron",
     "guests": ["Matt Fulchiron"],
+    "title": "#575 - Matt Fulchiron",
     "episode_id": 575,
     "isMMA": false,
     "isFC": false,
@@ -9949,8 +9949,8 @@ module.exports = [
     "date": "November 13, 2014"
   },
   {
-    "title": "#574 - Dr. Mark Gordon, Matthew Gosney & Jason Hall",
     "guests": ["Dr. Mark Gordon", "Matthew Gosney", "Jason Hall"],
+    "title": "#574 - Dr. Mark Gordon, Matthew Gosney & Jason Hall",
     "episode_id": 574,
     "isMMA": false,
     "isFC": false,
@@ -9958,8 +9958,8 @@ module.exports = [
     "date": "November 12, 2014"
   },
   {
-    "title": "#573 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#573 - Daniele Bolelli",
     "episode_id": 573,
     "isMMA": false,
     "isFC": false,
@@ -9967,8 +9967,8 @@ module.exports = [
     "date": "November 11, 2014"
   },
   {
-    "title": "#572 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#572 - Dom Irrera",
     "episode_id": 572,
     "isMMA": false,
     "isFC": false,
@@ -9976,8 +9976,8 @@ module.exports = [
     "date": "November 10, 2014"
   },
   {
-    "title": "#571 - Josh Zepps",
     "guests": ["Josh Zepps"],
+    "title": "#571 - Josh Zepps",
     "episode_id": 571,
     "isMMA": false,
     "isFC": false,
@@ -9985,8 +9985,8 @@ module.exports = [
     "date": "November 10, 2014"
   },
   {
-    "title": "#570 - Ryan Parsons",
     "guests": ["Ryan Parsons"],
+    "title": "#570 - Ryan Parsons",
     "episode_id": 570,
     "isMMA": false,
     "isFC": false,
@@ -9994,8 +9994,8 @@ module.exports = [
     "date": "October 30, 2014"
   },
   {
-    "title": "#569 - Joe Perry",
     "guests": ["Joe Perry"],
+    "title": "#569 - Joe Perry",
     "episode_id": 569,
     "isMMA": false,
     "isFC": false,
@@ -10003,8 +10003,8 @@ module.exports = [
     "date": "October 28, 2014"
   },
   {
-    "title": "#568 - DR. RHONDA PATRICK",
     "guests": ["DR. RHONDA PATRICK"],
+    "title": "#568 - DR. RHONDA PATRICK",
     "episode_id": 568,
     "isMMA": false,
     "isFC": false,
@@ -10012,17 +10012,17 @@ module.exports = [
     "date": "October 27, 2014"
   },
   {
-    "title": "#FC7 - Fight Companion 7",
     "guests": ["FC7"],
-    "episode_id": null,
+    "title": "#FC7 - Fight Companion 7",
+    "episode_id": 7,
     "isMMA": false,
     "isFC": true,
     "description": "FC7. Joe is joined by Eddie Bravo, Brendan Schaub, Ian McCall, Kareem Masarani, Aubrey Marcus, and...",
     "date": "October 25, 2014"
   },
   {
-    "title": "#567 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#567 - Cameron Hanes",
     "episode_id": 567,
     "isMMA": false,
     "isFC": false,
@@ -10030,8 +10030,8 @@ module.exports = [
     "date": "October 24, 2014"
   },
   {
-    "title": "#566 - Sue Aikens",
     "guests": ["Sue Aikens"],
+    "title": "#566 - Sue Aikens",
     "episode_id": 566,
     "isMMA": false,
     "isFC": false,
@@ -10039,8 +10039,8 @@ module.exports = [
     "date": "October 23, 2014"
   },
   {
-    "title": "#565 - Trevor Valle",
     "guests": ["Trevor Valle"],
+    "title": "#565 - Trevor Valle",
     "episode_id": 565,
     "isMMA": false,
     "isFC": false,
@@ -10048,8 +10048,8 @@ module.exports = [
     "date": "October 23, 2014"
   },
   {
-    "title": "#564 - Sturgill Simpson",
     "guests": ["Sturgill Simpson"],
+    "title": "#564 - Sturgill Simpson",
     "episode_id": 564,
     "isMMA": false,
     "isFC": false,
@@ -10057,8 +10057,8 @@ module.exports = [
     "date": "October 20, 2014"
   },
   {
-    "title": "#563 - David Choe",
     "guests": ["David Choe"],
+    "title": "#563 - David Choe",
     "episode_id": 563,
     "isMMA": false,
     "isFC": false,
@@ -10066,8 +10066,8 @@ module.exports = [
     "date": "October 16, 2014"
   },
   {
-    "title": "#562 - Paul Stanley",
     "guests": ["Paul Stanley"],
+    "title": "#562 - Paul Stanley",
     "episode_id": 562,
     "isMMA": false,
     "isFC": false,
@@ -10075,8 +10075,8 @@ module.exports = [
     "date": "October 15, 2014"
   },
   {
-    "title": "#561 - Bruce Damer",
     "guests": ["Bruce Damer"],
+    "title": "#561 - Bruce Damer",
     "episode_id": 561,
     "isMMA": false,
     "isFC": false,
@@ -10084,8 +10084,8 @@ module.exports = [
     "date": "October 14, 2014"
   },
   {
-    "title": "#560 - Anthony Cumia",
     "guests": ["Anthony Cumia"],
+    "title": "#560 - Anthony Cumia",
     "episode_id": 560,
     "isMMA": false,
     "isFC": false,
@@ -10093,8 +10093,8 @@ module.exports = [
     "date": "October 10, 2014"
   },
   {
-    "title": "#559 - Keith Weber",
     "guests": ["Keith Weber"],
+    "title": "#559 - Keith Weber",
     "episode_id": 559,
     "isMMA": false,
     "isFC": false,
@@ -10102,8 +10102,8 @@ module.exports = [
     "date": "October 10, 2014"
   },
   {
-    "title": "#558 - Honey Honey",
     "guests": ["Honey Honey"],
+    "title": "#558 - Honey Honey",
     "episode_id": 558,
     "isMMA": false,
     "isFC": false,
@@ -10111,8 +10111,8 @@ module.exports = [
     "date": "October 10, 2014"
   },
   {
-    "title": "#557 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#557 - Bryan Callen",
     "episode_id": 557,
     "isMMA": false,
     "isFC": false,
@@ -10120,8 +10120,8 @@ module.exports = [
     "date": "October 7, 2014"
   },
   {
-    "title": "#556 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#556 - Bryan Callen",
     "episode_id": 556,
     "isMMA": false,
     "isFC": false,
@@ -10129,8 +10129,8 @@ module.exports = [
     "date": "September 30, 2014"
   },
   {
-    "title": "#555 - Rory Albanese",
     "guests": ["Rory Albanese"],
+    "title": "#555 - Rory Albanese",
     "episode_id": 555,
     "isMMA": false,
     "isFC": false,
@@ -10138,8 +10138,8 @@ module.exports = [
     "date": "September 29, 2014"
   },
   {
-    "title": "#554 - W. Kamau Bell",
     "guests": ["W. Kamau Bell"],
+    "title": "#554 - W. Kamau Bell",
     "episode_id": 554,
     "isMMA": false,
     "isFC": false,
@@ -10147,8 +10147,8 @@ module.exports = [
     "date": "September 24, 2014"
   },
   {
-    "title": "#553 - Thaddeus Russell",
     "guests": ["Thaddeus Russell"],
+    "title": "#553 - Thaddeus Russell",
     "episode_id": 553,
     "isMMA": false,
     "isFC": false,
@@ -10156,8 +10156,8 @@ module.exports = [
     "date": "September 23, 2014"
   },
   {
-    "title": "#552 - Kid Cudi",
     "guests": ["Kid Cudi"],
+    "title": "#552 - Kid Cudi",
     "episode_id": 552,
     "isMMA": false,
     "isFC": false,
@@ -10165,17 +10165,17 @@ module.exports = [
     "date": "September 22, 2014"
   },
   {
-    "title": "#FC6 - Fight Companion 6",
     "guests": ["FC6"],
-    "episode_id": null,
+    "title": "#FC6 - Fight Companion 6",
+    "episode_id": 6,
     "isMMA": false,
     "isFC": true,
     "description": "FC6. Joe is joined by Eddie Bravo and the hosts from “The Fighter & The Kid”...",
     "date": "September 20, 2014"
   },
   {
-    "title": "#551 - Graham Hancock",
     "guests": ["Graham Hancock"],
+    "title": "#551 - Graham Hancock",
     "episode_id": 551,
     "isMMA": false,
     "isFC": false,
@@ -10183,8 +10183,8 @@ module.exports = [
     "date": "September 18, 2014"
   },
   {
-    "title": "#550 - Rupert Sheldrake",
     "guests": ["Rupert Sheldrake"],
+    "title": "#550 - Rupert Sheldrake",
     "episode_id": 550,
     "isMMA": false,
     "isFC": false,
@@ -10192,8 +10192,8 @@ module.exports = [
     "date": "September 16, 2014"
   },
   {
-    "title": "#549 - Big Jay Oakerson",
     "guests": ["Big Jay Oakerson"],
+    "title": "#549 - Big Jay Oakerson",
     "episode_id": 549,
     "isMMA": false,
     "isFC": false,
@@ -10201,8 +10201,8 @@ module.exports = [
     "date": "September 15, 2014"
   },
   {
-    "title": "#548 - Tim Burnett",
     "guests": ["Tim Burnett"],
+    "title": "#548 - Tim Burnett",
     "episode_id": 548,
     "isMMA": false,
     "isFC": false,
@@ -10210,8 +10210,8 @@ module.exports = [
     "date": "September 11, 2014"
   },
   {
-    "title": "#547 - Joe DeRosa",
     "guests": ["Joe DeRosa"],
+    "title": "#547 - Joe DeRosa",
     "episode_id": 547,
     "isMMA": false,
     "isFC": false,
@@ -10219,8 +10219,8 @@ module.exports = [
     "date": "September 10, 2014"
   },
   {
-    "title": "#546 - Mike Dolce",
     "guests": ["Mike Dolce"],
+    "title": "#546 - Mike Dolce",
     "episode_id": 546,
     "isMMA": false,
     "isFC": false,
@@ -10228,8 +10228,8 @@ module.exports = [
     "date": "September 8, 2014"
   },
   {
-    "title": "#545 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#545 - Tony Hinchcliffe",
     "episode_id": 545,
     "isMMA": false,
     "isFC": false,
@@ -10237,8 +10237,8 @@ module.exports = [
     "date": "September 4, 2014"
   },
   {
-    "title": "#544 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#544 - Dom Irrera",
     "episode_id": 544,
     "isMMA": false,
     "isFC": false,
@@ -10246,8 +10246,8 @@ module.exports = [
     "date": "September 3, 2014"
   },
   {
-    "title": "#543 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#543 - Sam Harris",
     "episode_id": 543,
     "isMMA": false,
     "isFC": false,
@@ -10255,8 +10255,8 @@ module.exports = [
     "date": "September 2, 2014"
   },
   {
-    "title": "#542 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#542 - Greg Fitzsimmons",
     "episode_id": 542,
     "isMMA": false,
     "isFC": false,
@@ -10264,8 +10264,8 @@ module.exports = [
     "date": "August 28, 2014"
   },
   {
-    "title": "#541 - Mike Baker",
     "guests": ["Mike Baker"],
+    "title": "#541 - Mike Baker",
     "episode_id": 541,
     "isMMA": false,
     "isFC": false,
@@ -10273,8 +10273,8 @@ module.exports = [
     "date": "August 27, 2014"
   },
   {
-    "title": "#540 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#540 - Steven Rinella",
     "episode_id": 540,
     "isMMA": false,
     "isFC": false,
@@ -10282,8 +10282,8 @@ module.exports = [
     "date": "August 26, 2014"
   },
   {
-    "title": "#539 - Cara Santa Maria",
     "guests": ["Cara Santa Maria"],
+    "title": "#539 - Cara Santa Maria",
     "episode_id": 539,
     "isMMA": false,
     "isFC": false,
@@ -10291,8 +10291,8 @@ module.exports = [
     "date": "August 25, 2014"
   },
   {
-    "title": "#538 - Stefan Molyneux",
     "guests": ["Stefan Molyneux"],
+    "title": "#538 - Stefan Molyneux",
     "episode_id": 538,
     "isMMA": false,
     "isFC": false,
@@ -10300,8 +10300,8 @@ module.exports = [
     "date": "August 21, 2014"
   },
   {
-    "title": "#537 - Rich Vos",
     "guests": ["Rich Vos"],
+    "title": "#537 - Rich Vos",
     "episode_id": 537,
     "isMMA": false,
     "isFC": false,
@@ -10309,8 +10309,8 @@ module.exports = [
     "date": "August 20, 2014"
   },
   {
-    "title": "#536 - Joe Quirk",
     "guests": ["Joe Quirk"],
+    "title": "#536 - Joe Quirk",
     "episode_id": 536,
     "isMMA": false,
     "isFC": false,
@@ -10318,8 +10318,8 @@ module.exports = [
     "date": "August 18, 2014"
   },
   {
-    "title": "#535 - Scroobius Pip",
     "guests": ["Scroobius Pip"],
+    "title": "#535 - Scroobius Pip",
     "episode_id": 535,
     "isMMA": false,
     "isFC": false,
@@ -10327,8 +10327,8 @@ module.exports = [
     "date": "August 13, 2014"
   },
   {
-    "title": "#534 - Robin Black",
     "guests": ["Robin Black"],
+    "title": "#534 - Robin Black",
     "episode_id": 534,
     "isMMA": false,
     "isFC": false,
@@ -10336,8 +10336,8 @@ module.exports = [
     "date": "August 13, 2014"
   },
   {
-    "title": "#533 - Chris D’Elia",
     "guests": ["Chris D’Elia"],
+    "title": "#533 - Chris D’Elia",
     "episode_id": 533,
     "isMMA": false,
     "isFC": false,
@@ -10345,8 +10345,8 @@ module.exports = [
     "date": "August 11, 2014"
   },
   {
-    "title": "#532 - Shooter Jennings",
     "guests": ["Shooter Jennings"],
+    "title": "#532 - Shooter Jennings",
     "episode_id": 532,
     "isMMA": false,
     "isFC": false,
@@ -10354,8 +10354,8 @@ module.exports = [
     "date": "August 6, 2014"
   },
   {
-    "title": "#531 - Nick Youssef",
     "guests": ["Nick Youssef"],
+    "title": "#531 - Nick Youssef",
     "episode_id": 531,
     "isMMA": false,
     "isFC": false,
@@ -10363,8 +10363,8 @@ module.exports = [
     "date": "August 5, 2014"
   },
   {
-    "title": "#530 - Vince & Emily Horn, from Buddhist Geeks",
     "guests": ["Vince & Emily Horn, from Buddhist Geeks"],
+    "title": "#530 - Vince & Emily Horn, from Buddhist Geeks",
     "episode_id": 530,
     "isMMA": false,
     "isFC": false,
@@ -10372,8 +10372,8 @@ module.exports = [
     "date": "August 4, 2014"
   },
   {
-    "title": "#529 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#529 - Abby Martin",
     "episode_id": 529,
     "isMMA": false,
     "isFC": false,
@@ -10381,8 +10381,8 @@ module.exports = [
     "date": "August 2, 2014"
   },
   {
-    "title": "#528 - Michael Stevens, from VSauce",
     "guests": ["Michael Stevens, from VSauce"],
+    "title": "#528 - Michael Stevens, from VSauce",
     "episode_id": 528,
     "isMMA": false,
     "isFC": false,
@@ -10390,8 +10390,8 @@ module.exports = [
     "date": "July 30, 2014"
   },
   {
-    "title": "#527 - Ms. Pat",
     "guests": ["Ms. Pat"],
+    "title": "#527 - Ms. Pat",
     "episode_id": 527,
     "isMMA": false,
     "isFC": false,
@@ -10399,8 +10399,8 @@ module.exports = [
     "date": "July 29, 2014"
   },
   {
-    "title": "#526 - Isaac Haxton",
     "guests": ["Isaac Haxton"],
+    "title": "#526 - Isaac Haxton",
     "episode_id": 526,
     "isMMA": false,
     "isFC": false,
@@ -10408,8 +10408,8 @@ module.exports = [
     "date": "July 22, 2014"
   },
   {
-    "title": "#525 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#525 - Bert Kreischer",
     "episode_id": 525,
     "isMMA": false,
     "isFC": false,
@@ -10417,8 +10417,8 @@ module.exports = [
     "date": "July 21, 2014"
   },
   {
-    "title": "#524 - Rickson Gracie & Eddie Bravo",
     "guests": ["Rickson Gracie", "Eddie Bravo"],
+    "title": "#524 - Rickson Gracie & Eddie Bravo",
     "episode_id": 524,
     "isMMA": false,
     "isFC": false,
@@ -10426,8 +10426,8 @@ module.exports = [
     "date": "July 21, 2014"
   },
   {
-    "title": "#523 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#523 - Jim Norton",
     "episode_id": 523,
     "isMMA": false,
     "isFC": false,
@@ -10435,17 +10435,17 @@ module.exports = [
     "date": "July 17, 2014"
   },
   {
-    "title": "#FC5 - Fight Companion 5",
     "guests": ["FC5"],
-    "episode_id": null,
+    "title": "#FC5 - Fight Companion 5",
+    "episode_id": 5,
     "isMMA": false,
     "isFC": true,
     "description": "JREFC5. Joe is joined by Joey Diaz and the hosts from “The Fighter & The...",
     "date": "July 16, 2014"
   },
   {
-    "title": "#522 - CJ Werleman",
     "guests": ["CJ Werleman"],
+    "title": "#522 - CJ Werleman",
     "episode_id": 522,
     "isMMA": false,
     "isFC": false,
@@ -10453,8 +10453,8 @@ module.exports = [
     "date": "July 16, 2014"
   },
   {
-    "title": "#521 - Lewis, from Unbox Therapy",
     "guests": ["Lewis, from Unbox Therapy"],
+    "title": "#521 - Lewis, from Unbox Therapy",
     "episode_id": 521,
     "isMMA": false,
     "isFC": false,
@@ -10462,8 +10462,8 @@ module.exports = [
     "date": "July 15, 2014"
   },
   {
-    "title": "#520 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#520 - David Seaman",
     "episode_id": 520,
     "isMMA": false,
     "isFC": false,
@@ -10471,8 +10471,8 @@ module.exports = [
     "date": "July 7, 2014"
   },
   {
-    "title": "#519 - Gad Saad",
     "guests": ["Gad Saad"],
+    "title": "#519 - Gad Saad",
     "episode_id": 519,
     "isMMA": false,
     "isFC": false,
@@ -10480,17 +10480,17 @@ module.exports = [
     "date": "July 7, 2014"
   },
   {
-    "title": "#FC4 - Fight Companion 4",
     "guests": ["FC4"],
-    "episode_id": null,
+    "title": "#FC4 - Fight Companion 4",
+    "episode_id": 4,
     "isMMA": false,
     "isFC": true,
     "description": "FC4. Brendan Schaub and Bryan Callen, of The Fighter & The Kid podcast, join Joe to...",
     "date": "July 6, 2014"
   },
   {
-    "title": "#518 - Matt Fulchiron",
     "guests": ["Matt Fulchiron"],
+    "title": "#518 - Matt Fulchiron",
     "episode_id": 518,
     "isMMA": false,
     "isFC": false,
@@ -10498,8 +10498,8 @@ module.exports = [
     "date": "July 1, 2014"
   },
   {
-    "title": "#517 - Crash, from Float Lab",
     "guests": ["Crash, from Float Lab"],
+    "title": "#517 - Crash, from Float Lab",
     "episode_id": 517,
     "isMMA": false,
     "isFC": false,
@@ -10507,17 +10507,17 @@ module.exports = [
     "date": "June 30, 2014"
   },
   {
-    "title": "#JREFC3 - JREFC3",
-    "guests": ["JREFC3"],
-    "episode_id": null,
+    "guests": ["Jimmy Smith", "Ian McCall"],
+    "title": "#FC3 - Fight Companion 3",
+    "episode_id": 3,
     "isMMA": false,
     "isFC": true,
-    "description": "JREFC3. Jimmy Smith and Ian “Uncle Creepy” McCall join Joe to watch the fight on...",
+    "description": "Jimmy Smith and Ian “Uncle Creepy” McCall join Joe to watch the fight on the evening of June 28, 2014.",
     "date": "June 29, 2014"
   },
   {
-    "title": "#516 - Lewis, from Unbox Therapy",
     "guests": ["Lewis, from Unbox Therapy"],
+    "title": "#516 - Lewis, from Unbox Therapy",
     "episode_id": 516,
     "isMMA": false,
     "isFC": false,
@@ -10525,8 +10525,8 @@ module.exports = [
     "date": "June 27, 2014"
   },
   {
-    "title": "#515a - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#515a - Ari Shaffir",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -10534,8 +10534,8 @@ module.exports = [
     "date": "June 27, 2014"
   },
   {
-    "title": "#515 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#515 - Ari Shaffir",
     "episode_id": 515,
     "isMMA": false,
     "isFC": false,
@@ -10543,8 +10543,8 @@ module.exports = [
     "date": "June 27, 2014"
   },
   {
-    "title": "#514 - Duke Roufus",
     "guests": ["Duke Roufus"],
+    "title": "#514 - Duke Roufus",
     "episode_id": 514,
     "isMMA": false,
     "isFC": false,
@@ -10552,8 +10552,8 @@ module.exports = [
     "date": "June 19, 2014"
   },
   {
-    "title": "#513 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#513 - Joey “CoCo” Diaz",
     "episode_id": 513,
     "isMMA": false,
     "isFC": false,
@@ -10561,8 +10561,8 @@ module.exports = [
     "date": "June 18, 2014"
   },
   {
-    "title": "#512 - Dan Savage",
     "guests": ["Dan Savage"],
+    "title": "#512 - Dan Savage",
     "episode_id": 512,
     "isMMA": false,
     "isFC": false,
@@ -10570,8 +10570,8 @@ module.exports = [
     "date": "June 16, 2014"
   },
   {
-    "title": "#JRQE6 - JRQE6",
     "guests": ["JRQE6"],
+    "title": "#JRQE6 - JRQE6",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -10579,8 +10579,8 @@ module.exports = [
     "date": "June 12, 2014"
   },
   {
-    "title": "#511 - Enson Inoue",
     "guests": ["Enson Inoue"],
+    "title": "#511 - Enson Inoue",
     "episode_id": 511,
     "isMMA": false,
     "isFC": false,
@@ -10588,8 +10588,8 @@ module.exports = [
     "date": "June 11, 2014"
   },
   {
-    "title": "#510 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#510 - Tony Hinchcliffe",
     "episode_id": 510,
     "isMMA": false,
     "isFC": false,
@@ -10597,8 +10597,8 @@ module.exports = [
     "date": "June 10, 2014"
   },
   {
-    "title": "#509 - Steve Hilton",
     "guests": ["Steve Hilton"],
+    "title": "#509 - Steve Hilton",
     "episode_id": 509,
     "isMMA": false,
     "isFC": false,
@@ -10606,8 +10606,8 @@ module.exports = [
     "date": "June 3, 2014"
   },
   {
-    "title": "#508 - TJ Dillashaw & Duane “Bang” Ludwig",
     "guests": ["TJ Dillashaw", "Duane “Bang” Ludwig"],
+    "title": "#508 - TJ Dillashaw & Duane “Bang” Ludwig",
     "episode_id": 508,
     "isMMA": false,
     "isFC": false,
@@ -10615,8 +10615,8 @@ module.exports = [
     "date": "June 2, 2014"
   },
   {
-    "title": "#02 - Fight",
     "guests": ["Fight"],
+    "title": "#02 - Fight",
     "episode_id": 2,
     "isMMA": false,
     "isFC": false,
@@ -10624,8 +10624,8 @@ module.exports = [
     "date": "May 31, 2014"
   },
   {
-    "title": "#507 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#507 - Bert Kreischer",
     "episode_id": 507,
     "isMMA": false,
     "isFC": false,
@@ -10633,8 +10633,8 @@ module.exports = [
     "date": "May 27, 2014"
   },
   {
-    "title": "#506 - Moshe Kasher",
     "guests": ["Moshe Kasher"],
+    "title": "#506 - Moshe Kasher",
     "episode_id": 506,
     "isMMA": false,
     "isFC": false,
@@ -10642,8 +10642,8 @@ module.exports = [
     "date": "May 26, 2014"
   },
   {
-    "title": "#505 - Matt Farah & Alex Ross",
     "guests": ["Matt Farah", "Alex Ross"],
+    "title": "#505 - Matt Farah & Alex Ross",
     "episode_id": 505,
     "isMMA": false,
     "isFC": false,
@@ -10651,8 +10651,8 @@ module.exports = [
     "date": "May 22, 2014"
   },
   {
-    "title": "#504 - Steve Maxwell",
     "guests": ["Steve Maxwell"],
+    "title": "#504 - Steve Maxwell",
     "episode_id": 504,
     "isMMA": false,
     "isFC": false,
@@ -10660,8 +10660,8 @@ module.exports = [
     "date": "May 21, 2014"
   },
   {
-    "title": "#503 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#503 - Sam Tripoli",
     "episode_id": 503,
     "isMMA": false,
     "isFC": false,
@@ -10669,8 +10669,8 @@ module.exports = [
     "date": "May 20, 2014"
   },
   {
-    "title": "#502 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#502 - Dr. Rhonda Patrick",
     "episode_id": 502,
     "isMMA": false,
     "isFC": false,
@@ -10678,8 +10678,8 @@ module.exports = [
     "date": "May 16, 2014"
   },
   {
-    "title": "#501 - Randall Carlson",
     "guests": ["Randall Carlson"],
+    "title": "#501 - Randall Carlson",
     "episode_id": 501,
     "isMMA": false,
     "isFC": false,
@@ -10687,8 +10687,8 @@ module.exports = [
     "date": "May 15, 2014"
   },
   {
-    "title": "#500 - Doug Stanhope & Tom Rhodes",
     "guests": ["Doug Stanhope", "Tom Rhodes"],
+    "title": "#500 - Doug Stanhope & Tom Rhodes",
     "episode_id": 500,
     "isMMA": false,
     "isFC": false,
@@ -10696,8 +10696,8 @@ module.exports = [
     "date": "May 14, 2014"
   },
   {
-    "title": "#499 - Cenk Uygur",
     "guests": ["Cenk Uygur"],
+    "title": "#499 - Cenk Uygur",
     "episode_id": 499,
     "isMMA": false,
     "isFC": false,
@@ -10705,8 +10705,8 @@ module.exports = [
     "date": "May 12, 2014"
   },
   {
-    "title": "#498 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#498 - Aubrey Marcus",
     "episode_id": 498,
     "isMMA": false,
     "isFC": false,
@@ -10714,8 +10714,8 @@ module.exports = [
     "date": "May 11, 2014"
   },
   {
-    "title": "#01 - Fight",
     "guests": ["Fight"],
+    "title": "#01 - Fight",
     "episode_id": 1,
     "isMMA": false,
     "isFC": false,
@@ -10723,8 +10723,8 @@ module.exports = [
     "date": "May 10, 2014"
   },
   {
-    "title": "#497 - Tim Kennedy",
     "guests": ["Tim Kennedy"],
+    "title": "#497 - Tim Kennedy",
     "episode_id": 497,
     "isMMA": false,
     "isFC": false,
@@ -10732,8 +10732,8 @@ module.exports = [
     "date": "May 7, 2014"
   },
   {
-    "title": "#496 - Nick Cutter",
     "guests": ["Nick Cutter"],
+    "title": "#496 - Nick Cutter",
     "episode_id": 496,
     "isMMA": false,
     "isFC": false,
@@ -10741,8 +10741,8 @@ module.exports = [
     "date": "May 6, 2014"
   },
   {
-    "title": "#495 - Ian Edwards",
     "guests": ["Ian Edwards"],
+    "title": "#495 - Ian Edwards",
     "episode_id": 495,
     "isMMA": false,
     "isFC": false,
@@ -10750,8 +10750,8 @@ module.exports = [
     "date": "May 5, 2014"
   },
   {
-    "title": "#494 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#494 - Brendan Schaub & Bryan Callen",
     "episode_id": 494,
     "isMMA": false,
     "isFC": false,
@@ -10759,8 +10759,8 @@ module.exports = [
     "date": "May 1, 2014"
   },
   {
-    "title": "#493 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#493 - Greg Fitzsimmons",
     "episode_id": 493,
     "isMMA": false,
     "isFC": false,
@@ -10768,8 +10768,8 @@ module.exports = [
     "date": "May 1, 2014"
   },
   {
-    "title": "#492 - Dave Attell",
     "guests": ["Dave Attell"],
+    "title": "#492 - Dave Attell",
     "episode_id": 492,
     "isMMA": false,
     "isFC": false,
@@ -10777,8 +10777,8 @@ module.exports = [
     "date": "April 29, 2014"
   },
   {
-    "title": "#491 - Steve Maxwell",
     "guests": ["Steve Maxwell"],
+    "title": "#491 - Steve Maxwell",
     "episode_id": 491,
     "isMMA": false,
     "isFC": false,
@@ -10786,8 +10786,8 @@ module.exports = [
     "date": "April 28, 2014"
   },
   {
-    "title": "#490 - Andreas Antonopoulos",
     "guests": ["Andreas Antonopoulos"],
+    "title": "#490 - Andreas Antonopoulos",
     "episode_id": 490,
     "isMMA": false,
     "isFC": false,
@@ -10795,8 +10795,8 @@ module.exports = [
     "date": "April 22, 2014"
   },
   {
-    "title": "#489 - Liam & Dylan Resnekov",
     "guests": ["Liam", "Dylan Resnekov"],
+    "title": "#489 - Liam & Dylan Resnekov",
     "episode_id": 489,
     "isMMA": false,
     "isFC": false,
@@ -10804,8 +10804,8 @@ module.exports = [
     "date": "April 21, 2014"
   },
   {
-    "title": "#488 - Iliza Shlesinger",
     "guests": ["Iliza Shlesinger"],
+    "title": "#488 - Iliza Shlesinger",
     "episode_id": 488,
     "isMMA": false,
     "isFC": false,
@@ -10813,8 +10813,8 @@ module.exports = [
     "date": "April 21, 2014"
   },
   {
-    "title": "#487 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#487 - David Seaman",
     "episode_id": 487,
     "isMMA": false,
     "isFC": false,
@@ -10822,8 +10822,8 @@ module.exports = [
     "date": "April 16, 2014"
   },
   {
-    "title": "#486 - Brendan Schaub & Bryan Callen",
     "guests": ["Brendan Schaub", "Bryan Callen"],
+    "title": "#486 - Brendan Schaub & Bryan Callen",
     "episode_id": 486,
     "isMMA": false,
     "isFC": false,
@@ -10831,8 +10831,8 @@ module.exports = [
     "date": "April 15, 2014"
   },
   {
-    "title": "#485 - Amy Schumer",
     "guests": ["Amy Schumer"],
+    "title": "#485 - Amy Schumer",
     "episode_id": 485,
     "isMMA": false,
     "isFC": false,
@@ -10840,8 +10840,8 @@ module.exports = [
     "date": "April 14, 2014"
   },
   {
-    "title": "#484 - Alexis Ohanian",
     "guests": ["Alexis Ohanian"],
+    "title": "#484 - Alexis Ohanian",
     "episode_id": 484,
     "isMMA": false,
     "isFC": false,
@@ -10849,8 +10849,8 @@ module.exports = [
     "date": "April 11, 2014"
   },
   {
-    "title": "#483 - Mark Kendall",
     "guests": ["Mark Kendall"],
+    "title": "#483 - Mark Kendall",
     "episode_id": 483,
     "isMMA": false,
     "isFC": false,
@@ -10858,8 +10858,8 @@ module.exports = [
     "date": "April 10, 2014"
   },
   {
-    "title": "#482 - Rob MacCachren & Bud Brutsman",
     "guests": ["Rob MacCachren", "Bud Brutsman"],
+    "title": "#482 - Rob MacCachren & Bud Brutsman",
     "episode_id": 482,
     "isMMA": false,
     "isFC": false,
@@ -10867,8 +10867,8 @@ module.exports = [
     "date": "April 9, 2014"
   },
   {
-    "title": "#481 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#481 - Ari Shaffir",
     "episode_id": 481,
     "isMMA": false,
     "isFC": false,
@@ -10876,8 +10876,8 @@ module.exports = [
     "date": "April 7, 2014"
   },
   {
-    "title": "#480 - Duncan Trussell & DJ Douggpound",
     "guests": ["Duncan Trussell", "DJ Douggpound"],
+    "title": "#480 - Duncan Trussell & DJ Douggpound",
     "episode_id": 480,
     "isMMA": false,
     "isFC": false,
@@ -10885,8 +10885,8 @@ module.exports = [
     "date": "April 2, 2014"
   },
   {
-    "title": "#479 - Joel Salatin",
     "guests": ["Joel Salatin"],
+    "title": "#479 - Joel Salatin",
     "episode_id": 479,
     "isMMA": false,
     "isFC": false,
@@ -10894,8 +10894,8 @@ module.exports = [
     "date": "April 1, 2014"
   },
   {
-    "title": "#478 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#478 - Eddie Bravo",
     "episode_id": 478,
     "isMMA": false,
     "isFC": false,
@@ -10903,8 +10903,8 @@ module.exports = [
     "date": "March 31, 2014"
   },
   {
-    "title": "#477 - Dennis McKenna & Joshua Wickerham",
     "guests": ["Dennis McKenna", "Joshua Wickerham"],
+    "title": "#477 - Dennis McKenna & Joshua Wickerham",
     "episode_id": 477,
     "isMMA": false,
     "isFC": false,
@@ -10912,8 +10912,8 @@ module.exports = [
     "date": "March 28, 2014"
   },
   {
-    "title": "#476 - Honey Honey",
     "guests": ["Honey Honey"],
+    "title": "#476 - Honey Honey",
     "episode_id": 476,
     "isMMA": false,
     "isFC": false,
@@ -10921,8 +10921,8 @@ module.exports = [
     "date": "March 26, 2014"
   },
   {
-    "title": "#475 - Adam Carolla",
     "guests": ["Adam Carolla"],
+    "title": "#475 - Adam Carolla",
     "episode_id": 475,
     "isMMA": false,
     "isFC": false,
@@ -10930,8 +10930,8 @@ module.exports = [
     "date": "March 26, 2014"
   },
   {
-    "title": "#474 - Hannibal Buress",
     "guests": ["Hannibal Buress"],
+    "title": "#474 - Hannibal Buress",
     "episode_id": 474,
     "isMMA": false,
     "isFC": false,
@@ -10939,8 +10939,8 @@ module.exports = [
     "date": "March 25, 2014"
   },
   {
-    "title": "#473 - Jim Jefferies",
     "guests": ["Jim Jefferies"],
+    "title": "#473 - Jim Jefferies",
     "episode_id": 473,
     "isMMA": false,
     "isFC": false,
@@ -10948,8 +10948,8 @@ module.exports = [
     "date": "March 24, 2014"
   },
   {
-    "title": "#472 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#472 - Shane Smith",
     "episode_id": 472,
     "isMMA": false,
     "isFC": false,
@@ -10957,8 +10957,8 @@ module.exports = [
     "date": "March 20, 2014"
   },
   {
-    "title": "#471 - Matt Serra",
     "guests": ["Matt Serra"],
+    "title": "#471 - Matt Serra",
     "episode_id": 471,
     "isMMA": false,
     "isFC": false,
@@ -10966,8 +10966,8 @@ module.exports = [
     "date": "March 18, 2014"
   },
   {
-    "title": "#470 - Amber Lyon",
     "guests": ["Amber Lyon"],
+    "title": "#470 - Amber Lyon",
     "episode_id": 470,
     "isMMA": false,
     "isFC": false,
@@ -10975,8 +10975,8 @@ module.exports = [
     "date": "March 18, 2014"
   },
   {
-    "title": "#469 - Dr. Carl Hart",
     "guests": ["Dr. Carl Hart"],
+    "title": "#469 - Dr. Carl Hart",
     "episode_id": 469,
     "isMMA": false,
     "isFC": false,
@@ -10984,8 +10984,8 @@ module.exports = [
     "date": "March 17, 2014"
   },
   {
-    "title": "#468 - Duncan Trussell, Christopher Ryan",
     "guests": ["Duncan Trussell, Christopher Ryan"],
+    "title": "#468 - Duncan Trussell, Christopher Ryan",
     "episode_id": 468,
     "isMMA": false,
     "isFC": false,
@@ -10993,8 +10993,8 @@ module.exports = [
     "date": "March 11, 2014"
   },
   {
-    "title": "#467 - Peter Giuliano",
     "guests": ["Peter Giuliano"],
+    "title": "#467 - Peter Giuliano",
     "episode_id": 467,
     "isMMA": false,
     "isFC": false,
@@ -11002,8 +11002,8 @@ module.exports = [
     "date": "March 10, 2014"
   },
   {
-    "title": "#466 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#466 - Greg Fitzsimmons",
     "episode_id": 466,
     "isMMA": false,
     "isFC": false,
@@ -11011,8 +11011,8 @@ module.exports = [
     "date": "March 10, 2014"
   },
   {
-    "title": "#465 - Greg Proops",
     "guests": ["Greg Proops"],
+    "title": "#465 - Greg Proops",
     "episode_id": 465,
     "isMMA": false,
     "isFC": false,
@@ -11020,8 +11020,8 @@ module.exports = [
     "date": "March 5, 2014"
   },
   {
-    "title": "#464 - Robert Greene, Aubrey Marcus",
     "guests": ["Robert Greene, Aubrey Marcus"],
+    "title": "#464 - Robert Greene, Aubrey Marcus",
     "episode_id": 464,
     "isMMA": false,
     "isFC": false,
@@ -11029,8 +11029,8 @@ module.exports = [
     "date": "March 4, 2014"
   },
   {
-    "title": "#463 - Louis Theroux",
     "guests": ["Louis Theroux"],
+    "title": "#463 - Louis Theroux",
     "episode_id": 463,
     "isMMA": false,
     "isFC": false,
@@ -11038,8 +11038,8 @@ module.exports = [
     "date": "March 3, 2014"
   },
   {
-    "title": "#462 - Steven Rinella, Doug Duren, Bryan Callen",
     "guests": ["Steven Rinella, Doug Duren, Bryan Callen"],
+    "title": "#462 - Steven Rinella, Doug Duren, Bryan Callen",
     "episode_id": 462,
     "isMMA": false,
     "isFC": false,
@@ -11047,8 +11047,8 @@ module.exports = [
     "date": "February 26, 2014"
   },
   {
-    "title": "#461 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#461 - David Seaman",
     "episode_id": 461,
     "isMMA": false,
     "isFC": false,
@@ -11056,8 +11056,8 @@ module.exports = [
     "date": "February 25, 2014"
   },
   {
-    "title": "#460 - Kron Gracie",
     "guests": ["Kron Gracie"],
+    "title": "#460 - Kron Gracie",
     "episode_id": 460,
     "isMMA": false,
     "isFC": false,
@@ -11065,8 +11065,8 @@ module.exports = [
     "date": "February 24, 2014"
   },
   {
-    "title": "#459 - Dr. Rhonda Patrick",
     "guests": ["Dr. Rhonda Patrick"],
+    "title": "#459 - Dr. Rhonda Patrick",
     "episode_id": 459,
     "isMMA": false,
     "isFC": false,
@@ -11074,8 +11074,8 @@ module.exports = [
     "date": "February 20, 2014"
   },
   {
-    "title": "#458 - Campbell McLaren",
     "guests": ["Campbell McLaren"],
+    "title": "#458 - Campbell McLaren",
     "episode_id": 458,
     "isMMA": false,
     "isFC": false,
@@ -11083,8 +11083,8 @@ module.exports = [
     "date": "February 19, 2014"
   },
   {
-    "title": "#457 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#457 - Ari Shaffir",
     "episode_id": 457,
     "isMMA": false,
     "isFC": false,
@@ -11092,8 +11092,8 @@ module.exports = [
     "date": "February 18, 2014"
   },
   {
-    "title": "#456 - Everlast",
     "guests": ["Everlast"],
+    "title": "#456 - Everlast",
     "episode_id": 456,
     "isMMA": false,
     "isFC": false,
@@ -11101,8 +11101,8 @@ module.exports = [
     "date": "February 17, 2014"
   },
   {
-    "title": "#455 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#455 - Joey “CoCo” Diaz",
     "episode_id": 455,
     "isMMA": false,
     "isFC": false,
@@ -11110,8 +11110,8 @@ module.exports = [
     "date": "February 13, 2014"
   },
   {
-    "title": "#454 - War Machine",
     "guests": ["War Machine"],
+    "title": "#454 - War Machine",
     "episode_id": 454,
     "isMMA": false,
     "isFC": false,
@@ -11119,8 +11119,8 @@ module.exports = [
     "date": "February 12, 2014"
   },
   {
-    "title": "#453 - Molly Crabapple",
     "guests": ["Molly Crabapple"],
+    "title": "#453 - Molly Crabapple",
     "episode_id": 453,
     "isMMA": false,
     "isFC": false,
@@ -11128,8 +11128,8 @@ module.exports = [
     "date": "February 11, 2014"
   },
   {
-    "title": "#452 - Immortal Technique & Chino XL",
     "guests": ["Immortal Technique", "Chino XL"],
+    "title": "#452 - Immortal Technique & Chino XL",
     "episode_id": 452,
     "isMMA": false,
     "isFC": false,
@@ -11137,8 +11137,8 @@ module.exports = [
     "date": "February 10, 2014"
   },
   {
-    "title": "#451 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#451 - Aubrey Marcus",
     "episode_id": 451,
     "isMMA": false,
     "isFC": false,
@@ -11146,8 +11146,8 @@ module.exports = [
     "date": "February 8, 2014"
   },
   {
-    "title": "#450 - Cameron Hanes",
     "guests": ["Cameron Hanes"],
+    "title": "#450 - Cameron Hanes",
     "episode_id": 450,
     "isMMA": false,
     "isFC": false,
@@ -11155,8 +11155,8 @@ module.exports = [
     "date": "February 7, 2014"
   },
   {
-    "title": "#449 - Justin Martindale",
     "guests": ["Justin Martindale"],
+    "title": "#449 - Justin Martindale",
     "episode_id": 449,
     "isMMA": false,
     "isFC": false,
@@ -11164,8 +11164,8 @@ module.exports = [
     "date": "February 4, 2014"
   },
   {
-    "title": "#448 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#448 - Tom Segura",
     "episode_id": 448,
     "isMMA": false,
     "isFC": false,
@@ -11173,8 +11173,8 @@ module.exports = [
     "date": "February 3, 2014"
   },
   {
-    "title": "#447 - Cara Santa Maria",
     "guests": ["Cara Santa Maria"],
+    "title": "#447 - Cara Santa Maria",
     "episode_id": 447,
     "isMMA": false,
     "isFC": false,
@@ -11182,8 +11182,8 @@ module.exports = [
     "date": "January 28, 2014"
   },
   {
-    "title": "#446 - Andreas Antonopoulos",
     "guests": ["Andreas Antonopoulos"],
+    "title": "#446 - Andreas Antonopoulos",
     "episode_id": 446,
     "isMMA": false,
     "isFC": false,
@@ -11191,8 +11191,8 @@ module.exports = [
     "date": "January 27, 2014"
   },
   {
-    "title": "#JRQE5 - JRQE5",
     "guests": ["JRQE5"],
+    "title": "#JRQE5 - JRQE5",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -11200,8 +11200,8 @@ module.exports = [
     "date": "January 23, 2014"
   },
   {
-    "title": "#445 - Peter Schiff",
     "guests": ["Peter Schiff"],
+    "title": "#445 - Peter Schiff",
     "episode_id": 445,
     "isMMA": false,
     "isFC": false,
@@ -11209,8 +11209,8 @@ module.exports = [
     "date": "January 22, 2014"
   },
   {
-    "title": "#444 - John Hackleman",
     "guests": ["John Hackleman"],
+    "title": "#444 - John Hackleman",
     "episode_id": 444,
     "isMMA": false,
     "isFC": false,
@@ -11218,8 +11218,8 @@ module.exports = [
     "date": "January 21, 2014"
   },
   {
-    "title": "#443 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#443 - Neal Brennan",
     "episode_id": 443,
     "isMMA": false,
     "isFC": false,
@@ -11227,8 +11227,8 @@ module.exports = [
     "date": "January 20, 2014"
   },
   {
-    "title": "#442 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#442 - Steven Rinella",
     "episode_id": 442,
     "isMMA": false,
     "isFC": false,
@@ -11236,8 +11236,8 @@ module.exports = [
     "date": "January 17, 2014"
   },
   {
-    "title": "#441 - Brian Dunning",
     "guests": ["Brian Dunning"],
+    "title": "#441 - Brian Dunning",
     "episode_id": 441,
     "isMMA": false,
     "isFC": false,
@@ -11245,8 +11245,8 @@ module.exports = [
     "date": "January 14, 2014"
   },
   {
-    "title": "#440 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#440 - Dom Irrera",
     "episode_id": 440,
     "isMMA": false,
     "isFC": false,
@@ -11254,8 +11254,8 @@ module.exports = [
     "date": "January 14, 2014"
   },
   {
-    "title": "#439 - Remi Warren, Dan Doty",
     "guests": ["Remi Warren, Dan Doty"],
+    "title": "#439 - Remi Warren, Dan Doty",
     "episode_id": 439,
     "isMMA": false,
     "isFC": false,
@@ -11263,8 +11263,8 @@ module.exports = [
     "date": "January 13, 2014"
   },
   {
-    "title": "#438 - Dr. Mark Gordon",
     "guests": ["Dr. Mark Gordon"],
+    "title": "#438 - Dr. Mark Gordon",
     "episode_id": 438,
     "isMMA": false,
     "isFC": false,
@@ -11272,8 +11272,8 @@ module.exports = [
     "date": "January 8, 2014"
   },
   {
-    "title": "#437 - Scott Sigler",
     "guests": ["Scott Sigler"],
+    "title": "#437 - Scott Sigler",
     "episode_id": 437,
     "isMMA": false,
     "isFC": false,
@@ -11281,8 +11281,8 @@ module.exports = [
     "date": "January 7, 2014"
   },
   {
-    "title": "#436 - Stefan Molyneux",
     "guests": ["Stefan Molyneux"],
+    "title": "#436 - Stefan Molyneux",
     "episode_id": 436,
     "isMMA": false,
     "isFC": false,
@@ -11290,8 +11290,8 @@ module.exports = [
     "date": "January 6, 2014"
   },
   {
-    "title": "#435 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#435 - Aubrey Marcus",
     "episode_id": 435,
     "isMMA": false,
     "isFC": false,
@@ -11299,8 +11299,8 @@ module.exports = [
     "date": "December 31, 2013"
   },
   {
-    "title": "#434 - Roseanne Barr",
     "guests": ["Roseanne Barr"],
+    "title": "#434 - Roseanne Barr",
     "episode_id": 434,
     "isMMA": false,
     "isFC": false,
@@ -11308,8 +11308,8 @@ module.exports = [
     "date": "December 30, 2013"
   },
   {
-    "title": "#433 - Duncan Trussell, Christopher Ryan",
     "guests": ["Duncan Trussell, Christopher Ryan"],
+    "title": "#433 - Duncan Trussell, Christopher Ryan",
     "episode_id": 433,
     "isMMA": false,
     "isFC": false,
@@ -11317,8 +11317,8 @@ module.exports = [
     "date": "December 24, 2013"
   },
   {
-    "title": "#432 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#432 - Joey “CoCo” Diaz",
     "episode_id": 432,
     "isMMA": false,
     "isFC": false,
@@ -11326,8 +11326,8 @@ module.exports = [
     "date": "December 23, 2013"
   },
   {
-    "title": "#431 - Matt Fulchiron",
     "guests": ["Matt Fulchiron"],
+    "title": "#431 - Matt Fulchiron",
     "episode_id": 431,
     "isMMA": false,
     "isFC": false,
@@ -11335,8 +11335,8 @@ module.exports = [
     "date": "December 19, 2013"
   },
   {
-    "title": "#430 - Shane Smith, Eddie Huang",
     "guests": ["Shane Smith, Eddie Huang"],
+    "title": "#430 - Shane Smith, Eddie Huang",
     "episode_id": 430,
     "isMMA": false,
     "isFC": false,
@@ -11344,8 +11344,8 @@ module.exports = [
     "date": "December 18, 2013"
   },
   {
-    "title": "#429 - Lee Camp",
     "guests": ["Lee Camp"],
+    "title": "#429 - Lee Camp",
     "episode_id": 429,
     "isMMA": false,
     "isFC": false,
@@ -11353,8 +11353,8 @@ module.exports = [
     "date": "December 16, 2013"
   },
   {
-    "title": "#428 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#428 - Tom Segura",
     "episode_id": 428,
     "isMMA": false,
     "isFC": false,
@@ -11362,8 +11362,8 @@ module.exports = [
     "date": "December 10, 2013"
   },
   {
-    "title": "#427 - Cliffy B",
     "guests": ["Cliffy B"],
+    "title": "#427 - Cliffy B",
     "episode_id": 427,
     "isMMA": false,
     "isFC": false,
@@ -11371,8 +11371,8 @@ module.exports = [
     "date": "December 9, 2013"
   },
   {
-    "title": "#426 - Mike Birbiglia",
     "guests": ["Mike Birbiglia"],
+    "title": "#426 - Mike Birbiglia",
     "episode_id": 426,
     "isMMA": false,
     "isFC": false,
@@ -11380,8 +11380,8 @@ module.exports = [
     "date": "December 9, 2013"
   },
   {
-    "title": "#425 - Phil Demers",
     "guests": ["Phil Demers"],
+    "title": "#425 - Phil Demers",
     "episode_id": 425,
     "isMMA": false,
     "isFC": false,
@@ -11389,8 +11389,8 @@ module.exports = [
     "date": "December 4, 2013"
   },
   {
-    "title": "#424 - Brody Stevens",
     "guests": ["Brody Stevens"],
+    "title": "#424 - Brody Stevens",
     "episode_id": 424,
     "isMMA": false,
     "isFC": false,
@@ -11398,8 +11398,8 @@ module.exports = [
     "date": "December 3, 2013"
   },
   {
-    "title": "#423 - Gene LeBell",
     "guests": ["Gene LeBell"],
+    "title": "#423 - Gene LeBell",
     "episode_id": 423,
     "isMMA": false,
     "isFC": false,
@@ -11407,8 +11407,8 @@ module.exports = [
     "date": "December 2, 2013"
   },
   {
-    "title": "#422 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#422 - Greg Fitzsimmons",
     "episode_id": 422,
     "isMMA": false,
     "isFC": false,
@@ -11416,8 +11416,8 @@ module.exports = [
     "date": "November 29, 2013"
   },
   {
-    "title": "#421 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#421 - Christopher Ryan",
     "episode_id": 421,
     "isMMA": false,
     "isFC": false,
@@ -11425,8 +11425,8 @@ module.exports = [
     "date": "November 27, 2013"
   },
   {
-    "title": "#420 - Tom Rhodes, Bryan Callen",
     "guests": ["Tom Rhodes, Bryan Callen"],
+    "title": "#420 - Tom Rhodes, Bryan Callen",
     "episode_id": 420,
     "isMMA": false,
     "isFC": false,
@@ -11434,8 +11434,8 @@ module.exports = [
     "date": "November 20, 2013"
   },
   {
-    "title": "#419 - Lorenzo Hagerty",
     "guests": ["Lorenzo Hagerty"],
+    "title": "#419 - Lorenzo Hagerty",
     "episode_id": 419,
     "isMMA": false,
     "isFC": false,
@@ -11443,8 +11443,8 @@ module.exports = [
     "date": "November 19, 2013"
   },
   {
-    "title": "#418 - Jeremy Stephens, Eddie Bravo",
     "guests": ["Jeremy Stephens, Eddie Bravo"],
+    "title": "#418 - Jeremy Stephens, Eddie Bravo",
     "episode_id": 418,
     "isMMA": false,
     "isFC": false,
@@ -11452,8 +11452,8 @@ module.exports = [
     "date": "November 18, 2013"
   },
   {
-    "title": "#417 - Graham Hancock",
     "guests": ["Graham Hancock"],
+    "title": "#417 - Graham Hancock",
     "episode_id": 417,
     "isMMA": false,
     "isFC": false,
@@ -11461,8 +11461,8 @@ module.exports = [
     "date": "November 13, 2013"
   },
   {
-    "title": "#416 - Ana Kasparian",
     "guests": ["Ana Kasparian"],
+    "title": "#416 - Ana Kasparian",
     "episode_id": 416,
     "isMMA": false,
     "isFC": false,
@@ -11470,8 +11470,8 @@ module.exports = [
     "date": "November 12, 2013"
   },
   {
-    "title": "#415 - Justin Foster",
     "guests": ["Justin Foster"],
+    "title": "#415 - Justin Foster",
     "episode_id": 415,
     "isMMA": false,
     "isFC": false,
@@ -11479,8 +11479,8 @@ module.exports = [
     "date": "November 11, 2013"
   },
   {
-    "title": "#414 - Chris Hadfield",
     "guests": ["Chris Hadfield"],
+    "title": "#414 - Chris Hadfield",
     "episode_id": 414,
     "isMMA": false,
     "isFC": false,
@@ -11488,8 +11488,8 @@ module.exports = [
     "date": "November 11, 2013"
   },
   {
-    "title": "#JRQE4 - JRQE4",
     "guests": ["JRQE4"],
+    "title": "#JRQE4 - JRQE4",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -11497,8 +11497,8 @@ module.exports = [
     "date": "November 9, 2013"
   },
   {
-    "title": "#413 - Dan Carlin, Daniele Bolelli",
     "guests": ["Dan Carlin, Daniele Bolelli"],
+    "title": "#413 - Dan Carlin, Daniele Bolelli",
     "episode_id": 413,
     "isMMA": false,
     "isFC": false,
@@ -11506,8 +11506,8 @@ module.exports = [
     "date": "November 8, 2013"
   },
   {
-    "title": "#412 - Maynard James Keenan",
     "guests": ["Maynard James Keenan"],
+    "title": "#412 - Maynard James Keenan",
     "episode_id": 412,
     "isMMA": false,
     "isFC": false,
@@ -11515,8 +11515,8 @@ module.exports = [
     "date": "November 5, 2013"
   },
   {
-    "title": "#411 - Dave Asprey",
     "guests": ["Dave Asprey"],
+    "title": "#411 - Dave Asprey",
     "episode_id": 411,
     "isMMA": false,
     "isFC": false,
@@ -11524,8 +11524,8 @@ module.exports = [
     "date": "November 4, 2013"
   },
   {
-    "title": "#JRQE3 - JRQE3",
     "guests": ["JRQE3"],
+    "title": "#JRQE3 - JRQE3",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -11533,8 +11533,8 @@ module.exports = [
     "date": "October 31, 2013"
   },
   {
-    "title": "#410 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#410 - Sam Harris",
     "episode_id": 410,
     "isMMA": false,
     "isFC": false,
@@ -11542,8 +11542,8 @@ module.exports = [
     "date": "October 30, 2013"
   },
   {
-    "title": "#409 - Patrick Magee",
     "guests": ["Patrick Magee"],
+    "title": "#409 - Patrick Magee",
     "episode_id": 409,
     "isMMA": false,
     "isFC": false,
@@ -11551,8 +11551,8 @@ module.exports = [
     "date": "October 29, 2013"
   },
   {
-    "title": "#408 - Todd Glass",
     "guests": ["Todd Glass"],
+    "title": "#408 - Todd Glass",
     "episode_id": 408,
     "isMMA": false,
     "isFC": false,
@@ -11560,8 +11560,8 @@ module.exports = [
     "date": "October 28, 2013"
   },
   {
-    "title": "#JRQE2 - JRQE2",
     "guests": ["JRQE2"],
+    "title": "#JRQE2 - JRQE2",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -11569,8 +11569,8 @@ module.exports = [
     "date": "October 23, 2013"
   },
   {
-    "title": "#407 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#407 - Eddie Bravo",
     "episode_id": 407,
     "isMMA": false,
     "isFC": false,
@@ -11578,8 +11578,8 @@ module.exports = [
     "date": "October 22, 2013"
   },
   {
-    "title": "#406 - Tom Segura, Christina Pazsitzky",
     "guests": ["Tom Segura, Christina Pazsitzky"],
+    "title": "#406 - Tom Segura, Christina Pazsitzky",
     "episode_id": 406,
     "isMMA": false,
     "isFC": false,
@@ -11587,8 +11587,8 @@ module.exports = [
     "date": "October 21, 2013"
   },
   {
-    "title": "#JRQE1 - JRQE1",
     "guests": ["JRQE1"],
+    "title": "#JRQE1 - JRQE1",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -11596,8 +11596,8 @@ module.exports = [
     "date": "October 16, 2013"
   },
   {
-    "title": "#405 - Steven Pressfield, Aubrey Marcus",
     "guests": ["Steven Pressfield, Aubrey Marcus"],
+    "title": "#405 - Steven Pressfield, Aubrey Marcus",
     "episode_id": 405,
     "isMMA": false,
     "isFC": false,
@@ -11605,8 +11605,8 @@ module.exports = [
     "date": "October 15, 2013"
   },
   {
-    "title": "#404 - Greg Proops",
     "guests": ["Greg Proops"],
+    "title": "#404 - Greg Proops",
     "episode_id": 404,
     "isMMA": false,
     "isFC": false,
@@ -11614,8 +11614,8 @@ module.exports = [
     "date": "October 14, 2013"
   },
   {
-    "title": "#403 - Justin Collett",
     "guests": ["Justin Collett"],
+    "title": "#403 - Justin Collett",
     "episode_id": 403,
     "isMMA": false,
     "isFC": false,
@@ -11623,8 +11623,8 @@ module.exports = [
     "date": "October 11, 2013"
   },
   {
-    "title": "#402 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#402 - Bryan Callen",
     "episode_id": 402,
     "isMMA": false,
     "isFC": false,
@@ -11632,8 +11632,8 @@ module.exports = [
     "date": "October 9, 2013"
   },
   {
-    "title": "#401 - Doug Benson",
     "guests": ["Doug Benson"],
+    "title": "#401 - Doug Benson",
     "episode_id": 401,
     "isMMA": false,
     "isFC": false,
@@ -11641,8 +11641,8 @@ module.exports = [
     "date": "October 8, 2013"
   },
   {
-    "title": "#400 - Joey “CoCo” Diaz, Duncan Trussell",
     "guests": ["Joey “CoCo” Diaz, Duncan Trussell"],
+    "title": "#400 - Joey “CoCo” Diaz, Duncan Trussell",
     "episode_id": 400,
     "isMMA": false,
     "isFC": false,
@@ -11650,8 +11650,8 @@ module.exports = [
     "date": "October 4, 2013"
   },
   {
-    "title": "#399 - Buck Angel",
     "guests": ["Buck Angel"],
+    "title": "#399 - Buck Angel",
     "episode_id": 399,
     "isMMA": false,
     "isFC": false,
@@ -11659,8 +11659,8 @@ module.exports = [
     "date": "September 30, 2013"
   },
   {
-    "title": "#398 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#398 - Sam Tripoli",
     "episode_id": 398,
     "isMMA": false,
     "isFC": false,
@@ -11668,8 +11668,8 @@ module.exports = [
     "date": "September 26, 2013"
   },
   {
-    "title": "#397 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#397 - Josh Barnett",
     "episode_id": 397,
     "isMMA": false,
     "isFC": false,
@@ -11677,8 +11677,8 @@ module.exports = [
     "date": "September 24, 2013"
   },
   {
-    "title": "#396 - Stefan Molyneux",
     "guests": ["Stefan Molyneux"],
+    "title": "#396 - Stefan Molyneux",
     "episode_id": 396,
     "isMMA": false,
     "isFC": false,
@@ -11686,8 +11686,8 @@ module.exports = [
     "date": "September 23, 2013"
   },
   {
-    "title": "#395 - Kathleen Madigan",
     "guests": ["Kathleen Madigan"],
+    "title": "#395 - Kathleen Madigan",
     "episode_id": 395,
     "isMMA": false,
     "isFC": false,
@@ -11695,8 +11695,8 @@ module.exports = [
     "date": "September 18, 2013"
   },
   {
-    "title": "#394 - Matt Fulchiron",
     "guests": ["Matt Fulchiron"],
+    "title": "#394 - Matt Fulchiron",
     "episode_id": 394,
     "isMMA": false,
     "isFC": false,
@@ -11704,8 +11704,8 @@ module.exports = [
     "date": "September 17, 2013"
   },
   {
-    "title": "#393 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#393 - Tom Segura",
     "episode_id": 393,
     "isMMA": false,
     "isFC": false,
@@ -11713,8 +11713,8 @@ module.exports = [
     "date": "September 16, 2013"
   },
   {
-    "title": "#392 - David Choe",
     "guests": ["David Choe"],
+    "title": "#392 - David Choe",
     "episode_id": 392,
     "isMMA": false,
     "isFC": false,
@@ -11722,8 +11722,8 @@ module.exports = [
     "date": "September 13, 2013"
   },
   {
-    "title": "#391 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#391 - Duncan Trussell",
     "episode_id": 391,
     "isMMA": false,
     "isFC": false,
@@ -11731,8 +11731,8 @@ module.exports = [
     "date": "September 10, 2013"
   },
   {
-    "title": "#390 - Mac Lethal",
     "guests": ["Mac Lethal"],
+    "title": "#390 - Mac Lethal",
     "episode_id": 390,
     "isMMA": false,
     "isFC": false,
@@ -11740,8 +11740,8 @@ module.exports = [
     "date": "September 9, 2013"
   },
   {
-    "title": "#389 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#389 - Brian Redban",
     "episode_id": 389,
     "isMMA": false,
     "isFC": false,
@@ -11749,8 +11749,8 @@ module.exports = [
     "date": "September 3, 2013"
   },
   {
-    "title": "#388 - Mick West, Bryan Callen",
     "guests": ["Mick West, Bryan Callen"],
+    "title": "#388 - Mick West, Bryan Callen",
     "episode_id": 388,
     "isMMA": false,
     "isFC": false,
@@ -11758,8 +11758,8 @@ module.exports = [
     "date": "September 2, 2013"
   },
   {
-    "title": "#387 - Everlast",
     "guests": ["Everlast"],
+    "title": "#387 - Everlast",
     "episode_id": 387,
     "isMMA": false,
     "isFC": false,
@@ -11767,8 +11767,8 @@ module.exports = [
     "date": "August 28, 2013"
   },
   {
-    "title": "#386 - Joey “CoCo” Diaz",
     "guests": ["Joey “CoCo” Diaz"],
+    "title": "#386 - Joey “CoCo” Diaz",
     "episode_id": 386,
     "isMMA": false,
     "isFC": false,
@@ -11776,8 +11776,8 @@ module.exports = [
     "date": "August 27, 2013"
   },
   {
-    "title": "#385 - Duane Ludwig, TJ Dillashaw",
     "guests": ["Duane Ludwig, TJ Dillashaw"],
+    "title": "#385 - Duane Ludwig, TJ Dillashaw",
     "episode_id": 385,
     "isMMA": false,
     "isFC": false,
@@ -11785,8 +11785,8 @@ module.exports = [
     "date": "August 26, 2013"
   },
   {
-    "title": "#384 - Ian McCall",
     "guests": ["Ian McCall"],
+    "title": "#384 - Ian McCall",
     "episode_id": 384,
     "isMMA": false,
     "isFC": false,
@@ -11794,8 +11794,8 @@ module.exports = [
     "date": "August 13, 2013"
   },
   {
-    "title": "#383 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#383 - Jim Norton",
     "episode_id": 383,
     "isMMA": false,
     "isFC": false,
@@ -11803,8 +11803,8 @@ module.exports = [
     "date": "August 12, 2013"
   },
   {
-    "title": "#382 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#382 - Greg Fitzsimmons",
     "episode_id": 382,
     "isMMA": false,
     "isFC": false,
@@ -11812,8 +11812,8 @@ module.exports = [
     "date": "August 8, 2013"
   },
   {
-    "title": "#381 - Abby Martin",
     "guests": ["Abby Martin"],
+    "title": "#381 - Abby Martin",
     "episode_id": 381,
     "isMMA": false,
     "isFC": false,
@@ -11821,8 +11821,8 @@ module.exports = [
     "date": "August 5, 2013"
   },
   {
-    "title": "#380 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#380 - Tony Hinchcliffe",
     "episode_id": 380,
     "isMMA": false,
     "isFC": false,
@@ -11830,8 +11830,8 @@ module.exports = [
     "date": "August 2, 2013"
   },
   {
-    "title": "#379 - Matt Farah, Tod Mesirow",
     "guests": ["Matt Farah, Tod Mesirow"],
+    "title": "#379 - Matt Farah, Tod Mesirow",
     "episode_id": 379,
     "isMMA": false,
     "isFC": false,
@@ -11839,8 +11839,8 @@ module.exports = [
     "date": "July 30, 2013"
   },
   {
-    "title": "#378 - Dan Carlin",
     "guests": ["Dan Carlin"],
+    "title": "#378 - Dan Carlin",
     "episode_id": 378,
     "isMMA": false,
     "isFC": false,
@@ -11848,8 +11848,8 @@ module.exports = [
     "date": "July 29, 2013"
   },
   {
-    "title": "#377 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#377 - Duncan Trussell",
     "episode_id": 377,
     "isMMA": false,
     "isFC": false,
@@ -11857,8 +11857,8 @@ module.exports = [
     "date": "July 24, 2013"
   },
   {
-    "title": "#376 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#376 - Bryan Callen",
     "episode_id": 376,
     "isMMA": false,
     "isFC": false,
@@ -11866,8 +11866,8 @@ module.exports = [
     "date": "July 23, 2013"
   },
   {
-    "title": "#375 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#375 - Shane Smith",
     "episode_id": 375,
     "isMMA": false,
     "isFC": false,
@@ -11875,8 +11875,8 @@ module.exports = [
     "date": "July 16, 2013"
   },
   {
-    "title": "#374 - Marc Maron",
     "guests": ["Marc Maron"],
+    "title": "#374 - Marc Maron",
     "episode_id": 374,
     "isMMA": false,
     "isFC": false,
@@ -11884,8 +11884,8 @@ module.exports = [
     "date": "July 15, 2013"
   },
   {
-    "title": "#373 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#373 - Joey Diaz",
     "episode_id": 373,
     "isMMA": false,
     "isFC": false,
@@ -11893,8 +11893,8 @@ module.exports = [
     "date": "July 9, 2013"
   },
   {
-    "title": "#372 - Mariana van Zeller",
     "guests": ["Mariana van Zeller"],
+    "title": "#372 - Mariana van Zeller",
     "episode_id": 372,
     "isMMA": false,
     "isFC": false,
@@ -11902,8 +11902,8 @@ module.exports = [
     "date": "July 8, 2013"
   },
   {
-    "title": "#371 - Rick Doblin",
     "guests": ["Rick Doblin"],
+    "title": "#371 - Rick Doblin",
     "episode_id": 371,
     "isMMA": false,
     "isFC": false,
@@ -11911,8 +11911,8 @@ module.exports = [
     "date": "July 1, 2013"
   },
   {
-    "title": "#370 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#370 - Ari Shaffir",
     "episode_id": 370,
     "isMMA": false,
     "isFC": false,
@@ -11920,8 +11920,8 @@ module.exports = [
     "date": "June 29, 2013"
   },
   {
-    "title": "#369 - Jason Silva, Duncan Trussell, Ari Shaffir",
     "guests": ["Jason Silva, Duncan Trussell, Ari Shaffir"],
+    "title": "#369 - Jason Silva, Duncan Trussell, Ari Shaffir",
     "episode_id": 369,
     "isMMA": false,
     "isFC": false,
@@ -11929,8 +11929,8 @@ module.exports = [
     "date": "June 21, 2013"
   },
   {
-    "title": "#368 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#368 - David Seaman",
     "episode_id": 368,
     "isMMA": false,
     "isFC": false,
@@ -11938,8 +11938,8 @@ module.exports = [
     "date": "June 19, 2013"
   },
   {
-    "title": "#367 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#367 - Aubrey Marcus",
     "episode_id": 367,
     "isMMA": false,
     "isFC": false,
@@ -11947,8 +11947,8 @@ module.exports = [
     "date": "June 12, 2013"
   },
   {
-    "title": "#366 - Bobcat Goldthwait",
     "guests": ["Bobcat Goldthwait"],
+    "title": "#366 - Bobcat Goldthwait",
     "episode_id": 366,
     "isMMA": false,
     "isFC": false,
@@ -11956,8 +11956,8 @@ module.exports = [
     "date": "June 11, 2013"
   },
   {
-    "title": "#365 - Kelly Starrett, Glen Cordoza",
     "guests": ["Kelly Starrett, Glen Cordoza"],
+    "title": "#365 - Kelly Starrett, Glen Cordoza",
     "episode_id": 365,
     "isMMA": false,
     "isFC": false,
@@ -11965,8 +11965,8 @@ module.exports = [
     "date": "June 7, 2013"
   },
   {
-    "title": "#364 - Tom Rhodes",
     "guests": ["Tom Rhodes"],
+    "title": "#364 - Tom Rhodes",
     "episode_id": 364,
     "isMMA": false,
     "isFC": false,
@@ -11974,8 +11974,8 @@ module.exports = [
     "date": "June 4, 2013"
   },
   {
-    "title": "#363 - Everlast",
     "guests": ["Everlast"],
+    "title": "#363 - Everlast",
     "episode_id": 363,
     "isMMA": false,
     "isFC": false,
@@ -11983,8 +11983,8 @@ module.exports = [
     "date": "June 3, 2013"
   },
   {
-    "title": "#362 - Eddie Ifft",
     "guests": ["Eddie Ifft"],
+    "title": "#362 - Eddie Ifft",
     "episode_id": 362,
     "isMMA": false,
     "isFC": false,
@@ -11992,8 +11992,8 @@ module.exports = [
     "date": "May 28, 2013"
   },
   {
-    "title": "#361 - Dave Asprey, Tait Fletcher",
     "guests": ["Dave Asprey, Tait Fletcher"],
+    "title": "#361 - Dave Asprey, Tait Fletcher",
     "episode_id": 361,
     "isMMA": false,
     "isFC": false,
@@ -12001,8 +12001,8 @@ module.exports = [
     "date": "May 27, 2013"
   },
   {
-    "title": "#360 - Graham Hancock",
     "guests": ["Graham Hancock"],
+    "title": "#360 - Graham Hancock",
     "episode_id": 360,
     "isMMA": false,
     "isFC": false,
@@ -12010,8 +12010,8 @@ module.exports = [
     "date": "May 23, 2013"
   },
   {
-    "title": "#359 - Alex Grey",
     "guests": ["Alex Grey"],
+    "title": "#359 - Alex Grey",
     "episode_id": 359,
     "isMMA": false,
     "isFC": false,
@@ -12019,8 +12019,8 @@ module.exports = [
     "date": "May 21, 2013"
   },
   {
-    "title": "#358 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#358 - Bert Kreischer",
     "episode_id": 358,
     "isMMA": false,
     "isFC": false,
@@ -12028,8 +12028,8 @@ module.exports = [
     "date": "May 13, 2013"
   },
   {
-    "title": "#357 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#357 - Daniele Bolelli",
     "episode_id": 357,
     "isMMA": false,
     "isFC": false,
@@ -12037,8 +12037,8 @@ module.exports = [
     "date": "May 9, 2013"
   },
   {
-    "title": "#356 - Dan Hardy",
     "guests": ["Dan Hardy"],
+    "title": "#356 - Dan Hardy",
     "episode_id": 356,
     "isMMA": false,
     "isFC": false,
@@ -12046,8 +12046,8 @@ module.exports = [
     "date": "May 8, 2013"
   },
   {
-    "title": "#355 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#355 - Dom Irrera",
     "episode_id": 355,
     "isMMA": false,
     "isFC": false,
@@ -12055,8 +12055,8 @@ module.exports = [
     "date": "May 7, 2013"
   },
   {
-    "title": "#354 - Ari Shaffir, Amy Schumer",
     "guests": ["Ari Shaffir, Amy Schumer"],
+    "title": "#354 - Ari Shaffir, Amy Schumer",
     "episode_id": 354,
     "isMMA": false,
     "isFC": false,
@@ -12064,8 +12064,8 @@ module.exports = [
     "date": "April 30, 2013"
   },
   {
-    "title": "#353 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#353 - Brian Redban",
     "episode_id": 353,
     "isMMA": false,
     "isFC": false,
@@ -12073,8 +12073,8 @@ module.exports = [
     "date": "April 29, 2013"
   },
   {
-    "title": "#352 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#352 - Tom Segura",
     "episode_id": 352,
     "isMMA": false,
     "isFC": false,
@@ -12082,8 +12082,8 @@ module.exports = [
     "date": "April 24, 2013"
   },
   {
-    "title": "#351 - Georges St. Pierre",
     "guests": ["Georges St. Pierre"],
+    "title": "#351 - Georges St. Pierre",
     "episode_id": 351,
     "isMMA": false,
     "isFC": false,
@@ -12091,8 +12091,8 @@ module.exports = [
     "date": "April 23, 2013"
   },
   {
-    "title": "#350 - Tony Hinchcliffe",
     "guests": ["Tony Hinchcliffe"],
+    "title": "#350 - Tony Hinchcliffe",
     "episode_id": 350,
     "isMMA": false,
     "isFC": false,
@@ -12100,8 +12100,8 @@ module.exports = [
     "date": "April 22, 2013"
   },
   {
-    "title": "#349 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#349 - Greg Fitzsimmons",
     "episode_id": 349,
     "isMMA": false,
     "isFC": false,
@@ -12109,8 +12109,8 @@ module.exports = [
     "date": "April 16, 2013"
   },
   {
-    "title": "#348 - Steven Rinella, Bryan Callen, Cam Edwards",
     "guests": ["Steven Rinella, Bryan Callen, Cam Edwards"],
+    "title": "#348 - Steven Rinella, Bryan Callen, Cam Edwards",
     "episode_id": 348,
     "isMMA": false,
     "isFC": false,
@@ -12118,8 +12118,8 @@ module.exports = [
     "date": "April 15, 2013"
   },
   {
-    "title": "#347 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#347 - Joey Diaz",
     "episode_id": 347,
     "isMMA": false,
     "isFC": false,
@@ -12127,8 +12127,8 @@ module.exports = [
     "date": "April 12, 2013"
   },
   {
-    "title": "#346 - Douglas Rushkoff",
     "guests": ["Douglas Rushkoff"],
+    "title": "#346 - Douglas Rushkoff",
     "episode_id": 346,
     "isMMA": false,
     "isFC": false,
@@ -12136,8 +12136,8 @@ module.exports = [
     "date": "April 2, 2013"
   },
   {
-    "title": "#345 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#345 - Bryan Callen",
     "episode_id": 345,
     "isMMA": false,
     "isFC": false,
@@ -12145,8 +12145,8 @@ module.exports = [
     "date": "April 1, 2013"
   },
   {
-    "title": "#344 - Stanley Krippner, Christopher Ryan",
     "guests": ["Stanley Krippner, Christopher Ryan"],
+    "title": "#344 - Stanley Krippner, Christopher Ryan",
     "episode_id": 344,
     "isMMA": false,
     "isFC": false,
@@ -12154,8 +12154,8 @@ module.exports = [
     "date": "March 30, 2013"
   },
   {
-    "title": "#343 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#343 - Bill Burr",
     "episode_id": 343,
     "isMMA": false,
     "isFC": false,
@@ -12163,8 +12163,8 @@ module.exports = [
     "date": "March 26, 2013"
   },
   {
-    "title": "#342 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#342 - Christopher Ryan",
     "episode_id": 342,
     "isMMA": false,
     "isFC": false,
@@ -12172,8 +12172,8 @@ module.exports = [
     "date": "March 25, 2013"
   },
   {
-    "title": "#341 - Ben Hoffman",
     "guests": ["Ben Hoffman"],
+    "title": "#341 - Ben Hoffman",
     "episode_id": 341,
     "isMMA": false,
     "isFC": false,
@@ -12181,8 +12181,8 @@ module.exports = [
     "date": "March 20, 2013"
   },
   {
-    "title": "#340 - JD Kelley, aka “Wic”",
     "guests": ["JD Kelley, aka “Wic”"],
+    "title": "#340 - JD Kelley, aka “Wic”",
     "episode_id": 340,
     "isMMA": false,
     "isFC": false,
@@ -12190,8 +12190,8 @@ module.exports = [
     "date": "March 19, 2013"
   },
   {
-    "title": "#339 - Jacob Ward",
     "guests": ["Jacob Ward"],
+    "title": "#339 - Jacob Ward",
     "episode_id": 339,
     "isMMA": false,
     "isFC": false,
@@ -12199,8 +12199,8 @@ module.exports = [
     "date": "March 18, 2013"
   },
   {
-    "title": "#338 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#338 - Shane Smith",
     "episode_id": 338,
     "isMMA": false,
     "isFC": false,
@@ -12208,8 +12208,8 @@ module.exports = [
     "date": "March 13, 2013"
   },
   {
-    "title": "#337 - Justin Wren",
     "guests": ["Justin Wren"],
+    "title": "#337 - Justin Wren",
     "episode_id": 337,
     "isMMA": false,
     "isFC": false,
@@ -12217,8 +12217,8 @@ module.exports = [
     "date": "March 12, 2013"
   },
   {
-    "title": "#336 - Scott Sigler",
     "guests": ["Scott Sigler"],
+    "title": "#336 - Scott Sigler",
     "episode_id": 336,
     "isMMA": false,
     "isFC": false,
@@ -12226,8 +12226,8 @@ module.exports = [
     "date": "March 12, 2013"
   },
   {
-    "title": "#335 - Bas Rutten",
     "guests": ["Bas Rutten"],
+    "title": "#335 - Bas Rutten",
     "episode_id": 335,
     "isMMA": false,
     "isFC": false,
@@ -12235,8 +12235,8 @@ module.exports = [
     "date": "March 11, 2013"
   },
   {
-    "title": "#334 - Dr. Amit Goswami",
     "guests": ["Dr. Amit Goswami"],
+    "title": "#334 - Dr. Amit Goswami",
     "episode_id": 334,
     "isMMA": false,
     "isFC": false,
@@ -12244,8 +12244,8 @@ module.exports = [
     "date": "March 8, 2013"
   },
   {
-    "title": "#333 - David Lee Roth",
     "guests": ["David Lee Roth"],
+    "title": "#333 - David Lee Roth",
     "episode_id": 333,
     "isMMA": false,
     "isFC": false,
@@ -12253,8 +12253,8 @@ module.exports = [
     "date": "March 6, 2013"
   },
   {
-    "title": "#332 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#332 - Tom Segura",
     "episode_id": 332,
     "isMMA": false,
     "isFC": false,
@@ -12262,8 +12262,8 @@ module.exports = [
     "date": "March 5, 2013"
   },
   {
-    "title": "#331 - Dr. Steven Greer",
     "guests": ["Dr. Steven Greer"],
+    "title": "#331 - Dr. Steven Greer",
     "episode_id": 331,
     "isMMA": false,
     "isFC": false,
@@ -12271,8 +12271,8 @@ module.exports = [
     "date": "March 3, 2013"
   },
   {
-    "title": "#330 - Eddie Huang",
     "guests": ["Eddie Huang"],
+    "title": "#330 - Eddie Huang",
     "episode_id": 330,
     "isMMA": false,
     "isFC": false,
@@ -12280,8 +12280,8 @@ module.exports = [
     "date": "February 27, 2013"
   },
   {
-    "title": "#329 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#329 - Duncan Trussell",
     "episode_id": 329,
     "isMMA": false,
     "isFC": false,
@@ -12289,8 +12289,8 @@ module.exports = [
     "date": "February 26, 2013"
   },
   {
-    "title": "#328 - Dan Carlin",
     "guests": ["Dan Carlin"],
+    "title": "#328 - Dan Carlin",
     "episode_id": 328,
     "isMMA": false,
     "isFC": false,
@@ -12298,8 +12298,8 @@ module.exports = [
     "date": "February 25, 2013"
   },
   {
-    "title": "#327 - Dana White",
     "guests": ["Dana White"],
+    "title": "#327 - Dana White",
     "episode_id": 327,
     "isMMA": false,
     "isFC": false,
@@ -12307,8 +12307,8 @@ module.exports = [
     "date": "February 21, 2013"
   },
   {
-    "title": "#326 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#326 - Bryan Callen",
     "episode_id": 326,
     "isMMA": false,
     "isFC": false,
@@ -12316,8 +12316,8 @@ module.exports = [
     "date": "February 20, 2013"
   },
   {
-    "title": "#325 - James Thompson",
     "guests": ["James Thompson"],
+    "title": "#325 - James Thompson",
     "episode_id": 325,
     "isMMA": false,
     "isFC": false,
@@ -12325,8 +12325,8 @@ module.exports = [
     "date": "February 19, 2013"
   },
   {
-    "title": "#324 - Sam Sheridan",
     "guests": ["Sam Sheridan"],
+    "title": "#324 - Sam Sheridan",
     "episode_id": 324,
     "isMMA": false,
     "isFC": false,
@@ -12334,8 +12334,8 @@ module.exports = [
     "date": "February 18, 2013"
   },
   {
-    "title": "#323 - Freeway” Rick Ross",
     "guests": ["Freeway” Rick Ross"],
+    "title": "#323 - Freeway” Rick Ross",
     "episode_id": 323,
     "isMMA": false,
     "isFC": false,
@@ -12343,8 +12343,8 @@ module.exports = [
     "date": "February 6, 2013"
   },
   {
-    "title": "#322 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#322 - Ari Shaffir",
     "episode_id": 322,
     "isMMA": false,
     "isFC": false,
@@ -12352,8 +12352,8 @@ module.exports = [
     "date": "February 5, 2013"
   },
   {
-    "title": "#321 - Melissa Etheridge",
     "guests": ["Melissa Etheridge"],
+    "title": "#321 - Melissa Etheridge",
     "episode_id": 321,
     "isMMA": false,
     "isFC": false,
@@ -12361,8 +12361,8 @@ module.exports = [
     "date": "February 4, 2013"
   },
   {
-    "title": "#320 - Tim Ferriss",
     "guests": ["Tim Ferriss"],
+    "title": "#320 - Tim Ferriss",
     "episode_id": 320,
     "isMMA": false,
     "isFC": false,
@@ -12370,8 +12370,8 @@ module.exports = [
     "date": "January 29, 2013"
   },
   {
-    "title": "#319 - Alex Honnold",
     "guests": ["Alex Honnold"],
+    "title": "#319 - Alex Honnold",
     "episode_id": 319,
     "isMMA": false,
     "isFC": false,
@@ -12379,8 +12379,8 @@ module.exports = [
     "date": "January 28, 2013"
   },
   {
-    "title": "#318 - Aubrey Marcus, Eddie Brill",
     "guests": ["Aubrey Marcus, Eddie Brill"],
+    "title": "#318 - Aubrey Marcus, Eddie Brill",
     "episode_id": 318,
     "isMMA": false,
     "isFC": false,
@@ -12388,8 +12388,8 @@ module.exports = [
     "date": "January 23, 2013"
   },
   {
-    "title": "#317 - David Choe, Yoshi Obayashi",
     "guests": ["David Choe, Yoshi Obayashi"],
+    "title": "#317 - David Choe, Yoshi Obayashi",
     "episode_id": 317,
     "isMMA": false,
     "isFC": false,
@@ -12397,8 +12397,8 @@ module.exports = [
     "date": "January 22, 2013"
   },
   {
-    "title": "#316 - Enson Inoue, Chuck Lidell",
     "guests": ["Enson Inoue, Chuck Lidell"],
+    "title": "#316 - Enson Inoue, Chuck Lidell",
     "episode_id": 316,
     "isMMA": false,
     "isFC": false,
@@ -12406,8 +12406,8 @@ module.exports = [
     "date": "January 22, 2013"
   },
   {
-    "title": "#315 - Jimmy Smith",
     "guests": ["Jimmy Smith"],
+    "title": "#315 - Jimmy Smith",
     "episode_id": 315,
     "isMMA": false,
     "isFC": false,
@@ -12415,8 +12415,8 @@ module.exports = [
     "date": "January 21, 2013"
   },
   {
-    "title": "#314 - Ian Edwards",
     "guests": ["Ian Edwards"],
+    "title": "#314 - Ian Edwards",
     "episode_id": 314,
     "isMMA": false,
     "isFC": false,
@@ -12424,8 +12424,8 @@ module.exports = [
     "date": "January 16, 2013"
   },
   {
-    "title": "#313 - Opie”",
     "guests": ["Opie”"],
+    "title": "#313 - Opie”",
     "episode_id": 313,
     "isMMA": false,
     "isFC": false,
@@ -12433,8 +12433,8 @@ module.exports = [
     "date": "January 15, 2013"
   },
   {
-    "title": "#312 - Steve Rinella, Bryan Callen",
     "guests": ["Steve Rinella, Bryan Callen"],
+    "title": "#312 - Steve Rinella, Bryan Callen",
     "episode_id": 312,
     "isMMA": false,
     "isFC": false,
@@ -12442,8 +12442,8 @@ module.exports = [
     "date": "January 14, 2013"
   },
   {
-    "title": "#311 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#311 - Ari Shaffir",
     "episode_id": 311,
     "isMMA": false,
     "isFC": false,
@@ -12451,8 +12451,8 @@ module.exports = [
     "date": "January 10, 2013"
   },
   {
-    "title": "#310 - Neil deGrasse Tyson",
     "guests": ["Neil deGrasse Tyson"],
+    "title": "#310 - Neil deGrasse Tyson",
     "episode_id": 310,
     "isMMA": false,
     "isFC": false,
@@ -12460,8 +12460,8 @@ module.exports = [
     "date": "January 9, 2013"
   },
   {
-    "title": "#309 - Adam Hunter",
     "guests": ["Adam Hunter"],
+    "title": "#309 - Adam Hunter",
     "episode_id": 309,
     "isMMA": false,
     "isFC": false,
@@ -12469,8 +12469,8 @@ module.exports = [
     "date": "January 8, 2013"
   },
   {
-    "title": "#308 - Steve Volk",
     "guests": ["Steve Volk"],
+    "title": "#308 - Steve Volk",
     "episode_id": 308,
     "isMMA": false,
     "isFC": false,
@@ -12478,8 +12478,8 @@ module.exports = [
     "date": "January 7, 2013"
   },
   {
-    "title": "#307 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#307 - Bryan Callen",
     "episode_id": 307,
     "isMMA": false,
     "isFC": false,
@@ -12487,8 +12487,8 @@ module.exports = [
     "date": "January 4, 2013"
   },
   {
-    "title": "#306 - Christopher Ryan",
     "guests": ["Christopher Ryan"],
+    "title": "#306 - Christopher Ryan",
     "episode_id": 306,
     "isMMA": false,
     "isFC": false,
@@ -12496,8 +12496,8 @@ module.exports = [
     "date": "January 3, 2013"
   },
   {
-    "title": "#305 - Bert Kreicher",
     "guests": ["Bert Kreicher"],
+    "title": "#305 - Bert Kreicher",
     "episode_id": 305,
     "isMMA": false,
     "isFC": false,
@@ -12505,8 +12505,8 @@ module.exports = [
     "date": "January 2, 2013"
   },
   {
-    "title": "#304 - Andrew Dice Clay",
     "guests": ["Andrew Dice Clay"],
+    "title": "#304 - Andrew Dice Clay",
     "episode_id": 304,
     "isMMA": false,
     "isFC": false,
@@ -12514,8 +12514,8 @@ module.exports = [
     "date": "December 27, 2012"
   },
   {
-    "title": "#303 - Matt Vengrin",
     "guests": ["Matt Vengrin"],
+    "title": "#303 - Matt Vengrin",
     "episode_id": 303,
     "isMMA": false,
     "isFC": false,
@@ -12523,8 +12523,8 @@ module.exports = [
     "date": "December 26, 2012"
   },
   {
-    "title": "#302 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#302 - Josh Barnett",
     "episode_id": 302,
     "isMMA": false,
     "isFC": false,
@@ -12532,8 +12532,8 @@ module.exports = [
     "date": "December 24, 2012"
   },
   {
-    "title": "#301 - Doug Stanhope",
     "guests": ["Doug Stanhope"],
+    "title": "#301 - Doug Stanhope",
     "episode_id": 301,
     "isMMA": false,
     "isFC": false,
@@ -12541,8 +12541,8 @@ module.exports = [
     "date": "December 22, 2012"
   },
   {
-    "title": "#300 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#300 - Joey Diaz",
     "episode_id": 300,
     "isMMA": false,
     "isFC": false,
@@ -12550,8 +12550,8 @@ module.exports = [
     "date": "December 18, 2012"
   },
   {
-    "title": "#299 - HoneyHoney",
     "guests": ["HoneyHoney"],
+    "title": "#299 - HoneyHoney",
     "episode_id": 299,
     "isMMA": false,
     "isFC": false,
@@ -12559,8 +12559,8 @@ module.exports = [
     "date": "December 17, 2012"
   },
   {
-    "title": "#298 - Dennis McKenna",
     "guests": ["Dennis McKenna"],
+    "title": "#298 - Dennis McKenna",
     "episode_id": 298,
     "isMMA": false,
     "isFC": false,
@@ -12568,8 +12568,8 @@ module.exports = [
     "date": "December 16, 2012"
   },
   {
-    "title": "#297 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#297 - Dom Irrera",
     "episode_id": 297,
     "isMMA": false,
     "isFC": false,
@@ -12577,8 +12577,8 @@ module.exports = [
     "date": "December 13, 2012"
   },
   {
-    "title": "#296 - Mix Master Mike, Russell Peters, Mark Rasta",
     "guests": ["Mix Master Mike, Russell Peters, Mark Rasta"],
+    "title": "#296 - Mix Master Mike, Russell Peters, Mark Rasta",
     "episode_id": 296,
     "isMMA": false,
     "isFC": false,
@@ -12586,8 +12586,8 @@ module.exports = [
     "date": "December 12, 2012"
   },
   {
-    "title": "#295 - Tom Segura, Christina Pazsitzky",
     "guests": ["Tom Segura, Christina Pazsitzky"],
+    "title": "#295 - Tom Segura, Christina Pazsitzky",
     "episode_id": 295,
     "isMMA": false,
     "isFC": false,
@@ -12595,8 +12595,8 @@ module.exports = [
     "date": "December 11, 2012"
   },
   {
-    "title": "#294 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#294 - Ari Shaffir",
     "episode_id": 294,
     "isMMA": false,
     "isFC": false,
@@ -12604,8 +12604,8 @@ module.exports = [
     "date": "December 6, 2012"
   },
   {
-    "title": "#293 - Cara Santa Maria",
     "guests": ["Cara Santa Maria"],
+    "title": "#293 - Cara Santa Maria",
     "episode_id": 293,
     "isMMA": false,
     "isFC": false,
@@ -12613,8 +12613,8 @@ module.exports = [
     "date": "December 5, 2012"
   },
   {
-    "title": "#292 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#292 - Eddie Bravo",
     "episode_id": 292,
     "isMMA": false,
     "isFC": false,
@@ -12622,8 +12622,8 @@ module.exports = [
     "date": "November 29, 2012"
   },
   {
-    "title": "#291 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#291 - Duncan Trussell",
     "episode_id": 291,
     "isMMA": false,
     "isFC": false,
@@ -12631,8 +12631,8 @@ module.exports = [
     "date": "November 28, 2012"
   },
   {
-    "title": "#290 - John Mcafee",
     "guests": ["John Mcafee"],
+    "title": "#290 - John Mcafee",
     "episode_id": 290,
     "isMMA": false,
     "isFC": false,
@@ -12640,8 +12640,8 @@ module.exports = [
     "date": "November 27, 2012"
   },
   {
-    "title": "#289 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#289 - Shane Smith",
     "episode_id": 289,
     "isMMA": false,
     "isFC": false,
@@ -12649,8 +12649,8 @@ module.exports = [
     "date": "November 26, 2012"
   },
   {
-    "title": "#288 - Greg Proops",
     "guests": ["Greg Proops"],
+    "title": "#288 - Greg Proops",
     "episode_id": 288,
     "isMMA": false,
     "isFC": false,
@@ -12658,8 +12658,8 @@ module.exports = [
     "date": "November 22, 2012"
   },
   {
-    "title": "#287 - Les Stroud",
     "guests": ["Les Stroud"],
+    "title": "#287 - Les Stroud",
     "episode_id": 287,
     "isMMA": false,
     "isFC": false,
@@ -12667,8 +12667,8 @@ module.exports = [
     "date": "November 20, 2012"
   },
   {
-    "title": "#286 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#286 - Daniele Bolelli",
     "episode_id": 286,
     "isMMA": false,
     "isFC": false,
@@ -12676,8 +12676,8 @@ module.exports = [
     "date": "November 19, 2012"
   },
   {
-    "title": "#285 - Tim Ferriss",
     "guests": ["Tim Ferriss"],
+    "title": "#285 - Tim Ferriss",
     "episode_id": 285,
     "isMMA": false,
     "isFC": false,
@@ -12685,8 +12685,8 @@ module.exports = [
     "date": "November 19, 2012"
   },
   {
-    "title": "#284 - Daniel H. Wilson",
     "guests": ["Daniel H. Wilson"],
+    "title": "#284 - Daniel H. Wilson",
     "episode_id": 284,
     "isMMA": false,
     "isFC": false,
@@ -12694,8 +12694,8 @@ module.exports = [
     "date": "November 14, 2012"
   },
   {
-    "title": "#283 - Dave Attell",
     "guests": ["Dave Attell"],
+    "title": "#283 - Dave Attell",
     "episode_id": 283,
     "isMMA": false,
     "isFC": false,
@@ -12703,8 +12703,8 @@ module.exports = [
     "date": "November 12, 2012"
   },
   {
-    "title": "#282 - Peter Duesberg, Bryan Callen",
     "guests": ["Peter Duesberg, Bryan Callen"],
+    "title": "#282 - Peter Duesberg, Bryan Callen",
     "episode_id": 282,
     "isMMA": false,
     "isFC": false,
@@ -12712,8 +12712,8 @@ module.exports = [
     "date": "November 7, 2012"
   },
   {
-    "title": "#281 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#281 - Bryan Callen",
     "episode_id": 281,
     "isMMA": false,
     "isFC": false,
@@ -12721,8 +12721,8 @@ module.exports = [
     "date": "November 6, 2012"
   },
   {
-    "title": "#280 - Philip Coppens",
     "guests": ["Philip Coppens"],
+    "title": "#280 - Philip Coppens",
     "episode_id": 280,
     "isMMA": false,
     "isFC": false,
@@ -12730,8 +12730,8 @@ module.exports = [
     "date": "November 5, 2012"
   },
   {
-    "title": "#279 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#279 - Duncan Trussell",
     "episode_id": 279,
     "isMMA": false,
     "isFC": false,
@@ -12739,8 +12739,8 @@ module.exports = [
     "date": "October 31, 2012"
   },
   {
-    "title": "#278 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#278 - Ari Shaffir",
     "episode_id": 278,
     "isMMA": false,
     "isFC": false,
@@ -12748,8 +12748,8 @@ module.exports = [
     "date": "October 29, 2012"
   },
   {
-    "title": "#277 - Victor Conte",
     "guests": ["Victor Conte"],
+    "title": "#277 - Victor Conte",
     "episode_id": 277,
     "isMMA": false,
     "isFC": false,
@@ -12757,8 +12757,8 @@ module.exports = [
     "date": "October 18, 2012"
   },
   {
-    "title": "#276 - David Seaman, Abby Martin, Dell Cameron",
     "guests": ["David Seaman, Abby Martin, Dell Cameron"],
+    "title": "#276 - David Seaman, Abby Martin, Dell Cameron",
     "episode_id": 276,
     "isMMA": false,
     "isFC": false,
@@ -12766,8 +12766,8 @@ module.exports = [
     "date": "October 16, 2012"
   },
   {
-    "title": "#275 - Dave Asprey",
     "guests": ["Dave Asprey"],
+    "title": "#275 - Dave Asprey",
     "episode_id": 275,
     "isMMA": false,
     "isFC": false,
@@ -12775,8 +12775,8 @@ module.exports = [
     "date": "October 15, 2012"
   },
   {
-    "title": "#274 - Alex Grey",
     "guests": ["Alex Grey"],
+    "title": "#274 - Alex Grey",
     "episode_id": 274,
     "isMMA": false,
     "isFC": false,
@@ -12784,8 +12784,8 @@ module.exports = [
     "date": "October 10, 2012"
   },
   {
-    "title": "#273 - Amber Lyon",
     "guests": ["Amber Lyon"],
+    "title": "#273 - Amber Lyon",
     "episode_id": 273,
     "isMMA": false,
     "isFC": false,
@@ -12793,8 +12793,8 @@ module.exports = [
     "date": "October 4, 2012"
   },
   {
-    "title": "#272 - Duncan Trussell, Joey Diaz, Ian Edwards",
     "guests": ["Duncan Trussell, Joey Diaz, Ian Edwards"],
+    "title": "#272 - Duncan Trussell, Joey Diaz, Ian Edwards",
     "episode_id": 272,
     "isMMA": false,
     "isFC": false,
@@ -12802,8 +12802,8 @@ module.exports = [
     "date": "October 3, 2012"
   },
   {
-    "title": "#271 - London Real",
     "guests": ["London Real"],
+    "title": "#271 - London Real",
     "episode_id": 271,
     "isMMA": false,
     "isFC": false,
@@ -12811,8 +12811,8 @@ module.exports = [
     "date": "October 2, 2012"
   },
   {
-    "title": "#270 - Kevin Pereira",
     "guests": ["Kevin Pereira"],
+    "title": "#270 - Kevin Pereira",
     "episode_id": 270,
     "isMMA": false,
     "isFC": false,
@@ -12820,8 +12820,8 @@ module.exports = [
     "date": "September 26, 2012"
   },
   {
-    "title": "#269 - Tait Fletcher",
     "guests": ["Tait Fletcher"],
+    "title": "#269 - Tait Fletcher",
     "episode_id": 269,
     "isMMA": false,
     "isFC": false,
@@ -12829,8 +12829,8 @@ module.exports = [
     "date": "September 25, 2012"
   },
   {
-    "title": "#268 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#268 - Joey Diaz",
     "episode_id": 268,
     "isMMA": false,
     "isFC": false,
@@ -12838,8 +12838,8 @@ module.exports = [
     "date": "September 20, 2012"
   },
   {
-    "title": "#267 - Mac Danzig",
     "guests": ["Mac Danzig"],
+    "title": "#267 - Mac Danzig",
     "episode_id": 267,
     "isMMA": false,
     "isFC": false,
@@ -12847,8 +12847,8 @@ module.exports = [
     "date": "September 19, 2012"
   },
   {
-    "title": "#266 - Rich Roll",
     "guests": ["Rich Roll"],
+    "title": "#266 - Rich Roll",
     "episode_id": 266,
     "isMMA": false,
     "isFC": false,
@@ -12856,8 +12856,8 @@ module.exports = [
     "date": "September 18, 2012"
   },
   {
-    "title": "#265 - Sam Tripoli, Shane Smith",
     "guests": ["Sam Tripoli, Shane Smith"],
+    "title": "#265 - Sam Tripoli, Shane Smith",
     "episode_id": 265,
     "isMMA": false,
     "isFC": false,
@@ -12865,8 +12865,8 @@ module.exports = [
     "date": "September 17, 2012"
   },
   {
-    "title": "#264 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#264 - Tom Segura",
     "episode_id": 264,
     "isMMA": false,
     "isFC": false,
@@ -12874,8 +12874,8 @@ module.exports = [
     "date": "September 12, 2012"
   },
   {
-    "title": "#263 - Kat Von D, Eddie Bravo",
     "guests": ["Kat Von D, Eddie Bravo"],
+    "title": "#263 - Kat Von D, Eddie Bravo",
     "episode_id": 263,
     "isMMA": false,
     "isFC": false,
@@ -12883,8 +12883,8 @@ module.exports = [
     "date": "September 10, 2012"
   },
   {
-    "title": "#262 - Rick Ross",
     "guests": ["Rick Ross"],
+    "title": "#262 - Rick Ross",
     "episode_id": 262,
     "isMMA": false,
     "isFC": false,
@@ -12892,8 +12892,8 @@ module.exports = [
     "date": "September 7, 2012"
   },
   {
-    "title": "#261 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#261 - Ari Shaffir",
     "episode_id": 261,
     "isMMA": false,
     "isFC": false,
@@ -12901,8 +12901,8 @@ module.exports = [
     "date": "September 6, 2012"
   },
   {
-    "title": "#260 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#260 - Greg Fitzsimmons",
     "episode_id": 260,
     "isMMA": false,
     "isFC": false,
@@ -12910,8 +12910,8 @@ module.exports = [
     "date": "September 4, 2012"
   },
   {
-    "title": "#259 - Mike Birbiglia",
     "guests": ["Mike Birbiglia"],
+    "title": "#259 - Mike Birbiglia",
     "episode_id": 259,
     "isMMA": false,
     "isFC": false,
@@ -12919,8 +12919,8 @@ module.exports = [
     "date": "August 30, 2012"
   },
   {
-    "title": "#258 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#258 - Bryan Callen",
     "episode_id": 258,
     "isMMA": false,
     "isFC": false,
@@ -12928,8 +12928,8 @@ module.exports = [
     "date": "August 30, 2012"
   },
   {
-    "title": "#257 - Immortal Technique, Swavey Krokett, DJ GIJOE",
     "guests": ["Immortal Technique, Swavey Krokett, DJ GIJOE"],
+    "title": "#257 - Immortal Technique, Swavey Krokett, DJ GIJOE",
     "episode_id": 257,
     "isMMA": false,
     "isFC": false,
@@ -12937,8 +12937,8 @@ module.exports = [
     "date": "August 28, 2012"
   },
   {
-    "title": "#256 - David Seaman",
     "guests": ["David Seaman"],
+    "title": "#256 - David Seaman",
     "episode_id": 256,
     "isMMA": false,
     "isFC": false,
@@ -12946,8 +12946,8 @@ module.exports = [
     "date": "August 27, 2012"
   },
   {
-    "title": "#254 - EVERLAST",
     "guests": ["EVERLAST"],
+    "title": "#254 - EVERLAST",
     "episode_id": 254,
     "isMMA": false,
     "isFC": false,
@@ -12955,8 +12955,8 @@ module.exports = [
     "date": "August 16, 2012"
   },
   {
-    "title": "#255 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#255 - Duncan Trussell",
     "episode_id": 255,
     "isMMA": false,
     "isFC": false,
@@ -12964,8 +12964,8 @@ module.exports = [
     "date": "August 16, 2012"
   },
   {
-    "title": "#253 - Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan",
     "guests": ["Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan"],
+    "title": "#253 - Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan",
     "episode_id": 253,
     "isMMA": false,
     "isFC": false,
@@ -12973,8 +12973,8 @@ module.exports = [
     "date": "August 15, 2012"
   },
   {
-    "title": "#252 - Jamie Kilstein",
     "guests": ["Jamie Kilstein"],
+    "title": "#252 - Jamie Kilstein",
     "episode_id": 252,
     "isMMA": false,
     "isFC": false,
@@ -12982,8 +12982,8 @@ module.exports = [
     "date": "August 14, 2012"
   },
   {
-    "title": "#251 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#251 - Bryan Callen",
     "episode_id": 251,
     "isMMA": false,
     "isFC": false,
@@ -12991,8 +12991,8 @@ module.exports = [
     "date": "August 13, 2012"
   },
   {
-    "title": "#250 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#250 - Joey Diaz",
     "episode_id": 250,
     "isMMA": false,
     "isFC": false,
@@ -13000,8 +13000,8 @@ module.exports = [
     "date": "August 8, 2012"
   },
   {
-    "title": "#249 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#249 - Bert Kreischer",
     "episode_id": 249,
     "isMMA": false,
     "isFC": false,
@@ -13009,8 +13009,8 @@ module.exports = [
     "date": "August 7, 2012"
   },
   {
-    "title": "#248 - Tom Rhodes",
     "guests": ["Tom Rhodes"],
+    "title": "#248 - Tom Rhodes",
     "episode_id": 248,
     "isMMA": false,
     "isFC": false,
@@ -13018,8 +13018,8 @@ module.exports = [
     "date": "August 2, 2012"
   },
   {
-    "title": "#247 - Tito Ortiz",
     "guests": ["Tito Ortiz"],
+    "title": "#247 - Tito Ortiz",
     "episode_id": 247,
     "isMMA": false,
     "isFC": false,
@@ -13027,8 +13027,8 @@ module.exports = [
     "date": "July 31, 2012"
   },
   {
-    "title": "#246 - Maynard J Keenan",
     "guests": ["Maynard J Keenan"],
+    "title": "#246 - Maynard J Keenan",
     "episode_id": 246,
     "isMMA": false,
     "isFC": false,
@@ -13036,8 +13036,8 @@ module.exports = [
     "date": "July 27, 2012"
   },
   {
-    "title": "#245 - Robb Wolf",
     "guests": ["Robb Wolf"],
+    "title": "#245 - Robb Wolf",
     "episode_id": 245,
     "isMMA": false,
     "isFC": false,
@@ -13045,8 +13045,8 @@ module.exports = [
     "date": "July 26, 2012"
   },
   {
-    "title": "#244 - Immortal Technique",
     "guests": ["Immortal Technique"],
+    "title": "#244 - Immortal Technique",
     "episode_id": 244,
     "isMMA": false,
     "isFC": false,
@@ -13054,8 +13054,8 @@ module.exports = [
     "date": "July 25, 2012"
   },
   {
-    "title": "#243 - HoneyHoney",
     "guests": ["HoneyHoney"],
+    "title": "#243 - HoneyHoney",
     "episode_id": 243,
     "isMMA": false,
     "isFC": false,
@@ -13063,8 +13063,8 @@ module.exports = [
     "date": "July 24, 2012"
   },
   {
-    "title": "#242 - Justin Halpern",
     "guests": ["Justin Halpern"],
+    "title": "#242 - Justin Halpern",
     "episode_id": 242,
     "isMMA": false,
     "isFC": false,
@@ -13072,8 +13072,8 @@ module.exports = [
     "date": "July 19, 2012"
   },
   {
-    "title": "#241 - James Bobo Fay",
     "guests": ["James Bobo Fay"],
+    "title": "#241 - James Bobo Fay",
     "episode_id": 241,
     "isMMA": false,
     "isFC": false,
@@ -13081,8 +13081,8 @@ module.exports = [
     "date": "July 17, 2012"
   },
   {
-    "title": "#240 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#240 - Aubrey Marcus",
     "episode_id": 240,
     "isMMA": false,
     "isFC": false,
@@ -13090,8 +13090,8 @@ module.exports = [
     "date": "July 16, 2012"
   },
   {
-    "title": "#239 - Adam Kokesh",
     "guests": ["Adam Kokesh"],
+    "title": "#239 - Adam Kokesh",
     "episode_id": 239,
     "isMMA": false,
     "isFC": false,
@@ -13099,8 +13099,8 @@ module.exports = [
     "date": "July 11, 2012"
   },
   {
-    "title": "#238 - Kevin Pereira",
     "guests": ["Kevin Pereira"],
+    "title": "#238 - Kevin Pereira",
     "episode_id": 238,
     "isMMA": false,
     "isFC": false,
@@ -13108,8 +13108,8 @@ module.exports = [
     "date": "July 10, 2012"
   },
   {
-    "title": "#237 - Tommy Chong",
     "guests": ["Tommy Chong"],
+    "title": "#237 - Tommy Chong",
     "episode_id": 237,
     "isMMA": false,
     "isFC": false,
@@ -13117,8 +13117,8 @@ module.exports = [
     "date": "July 9, 2012"
   },
   {
-    "title": "#236 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#236 - Eddie Bravo",
     "episode_id": 236,
     "isMMA": false,
     "isFC": false,
@@ -13126,8 +13126,8 @@ module.exports = [
     "date": "July 5, 2012"
   },
   {
-    "title": "#235 - Josh Barnett",
     "guests": ["Josh Barnett"],
+    "title": "#235 - Josh Barnett",
     "episode_id": 235,
     "isMMA": false,
     "isFC": false,
@@ -13135,8 +13135,8 @@ module.exports = [
     "date": "July 4, 2012"
   },
   {
-    "title": "#234 - Adam Scorgie",
     "guests": ["Adam Scorgie"],
+    "title": "#234 - Adam Scorgie",
     "episode_id": 234,
     "isMMA": false,
     "isFC": false,
@@ -13144,8 +13144,8 @@ module.exports = [
     "date": "June 30, 2012"
   },
   {
-    "title": "#233 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#233 - Jim Norton",
     "episode_id": 233,
     "isMMA": false,
     "isFC": false,
@@ -13153,8 +13153,8 @@ module.exports = [
     "date": "June 28, 2012"
   },
   {
-    "title": "#232 - Giorgio Tsoukalos",
     "guests": ["Giorgio Tsoukalos"],
+    "title": "#232 - Giorgio Tsoukalos",
     "episode_id": 232,
     "isMMA": false,
     "isFC": false,
@@ -13162,8 +13162,8 @@ module.exports = [
     "date": "June 26, 2012"
   },
   {
-    "title": "#231 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#231 - Dom Irrera",
     "episode_id": 231,
     "isMMA": false,
     "isFC": false,
@@ -13171,8 +13171,8 @@ module.exports = [
     "date": "June 21, 2012"
   },
   {
-    "title": "#230 - Sam Sheridan",
     "guests": ["Sam Sheridan"],
+    "title": "#230 - Sam Sheridan",
     "episode_id": 230,
     "isMMA": false,
     "isFC": false,
@@ -13180,8 +13180,8 @@ module.exports = [
     "date": "June 19, 2012"
   },
   {
-    "title": "#229 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#229 - Ari Shaffir",
     "episode_id": 229,
     "isMMA": false,
     "isFC": false,
@@ -13189,8 +13189,8 @@ module.exports = [
     "date": "June 18, 2012"
   },
   {
-    "title": "#228 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#228 - Bill Burr",
     "episode_id": 228,
     "isMMA": false,
     "isFC": false,
@@ -13198,8 +13198,8 @@ module.exports = [
     "date": "June 13, 2012"
   },
   {
-    "title": "#227 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#227 - Ari Shaffir",
     "episode_id": 227,
     "isMMA": false,
     "isFC": false,
@@ -13207,8 +13207,8 @@ module.exports = [
     "date": "June 11, 2012"
   },
   {
-    "title": "#226 - John Anthony West",
     "guests": ["John Anthony West"],
+    "title": "#226 - John Anthony West",
     "episode_id": 226,
     "isMMA": false,
     "isFC": false,
@@ -13216,8 +13216,8 @@ module.exports = [
     "date": "June 9, 2012"
   },
   {
-    "title": "#225 - Urijah Faber",
     "guests": ["Urijah Faber"],
+    "title": "#225 - Urijah Faber",
     "episode_id": 225,
     "isMMA": false,
     "isFC": false,
@@ -13225,8 +13225,8 @@ module.exports = [
     "date": "June 7, 2012"
   },
   {
-    "title": "#224 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#224 - Brian Redban",
     "episode_id": 224,
     "isMMA": false,
     "isFC": false,
@@ -13234,8 +13234,8 @@ module.exports = [
     "date": "June 6, 2012"
   },
   {
-    "title": "#223 - Bobcat Goldthwait",
     "guests": ["Bobcat Goldthwait"],
+    "title": "#223 - Bobcat Goldthwait",
     "episode_id": 223,
     "isMMA": false,
     "isFC": false,
@@ -13243,8 +13243,8 @@ module.exports = [
     "date": "May 30, 2012"
   },
   {
-    "title": "#222 - Mike Dolce, Joey Diaz",
     "guests": ["Mike Dolce, Joey Diaz"],
+    "title": "#222 - Mike Dolce, Joey Diaz",
     "episode_id": 222,
     "isMMA": false,
     "isFC": false,
@@ -13252,8 +13252,8 @@ module.exports = [
     "date": "May 29, 2012"
   },
   {
-    "title": "#221 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#221 - Shane Smith",
     "episode_id": 221,
     "isMMA": false,
     "isFC": false,
@@ -13261,8 +13261,8 @@ module.exports = [
     "date": "May 28, 2012"
   },
   {
-    "title": "#220 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#220 - Bert Kreischer",
     "episode_id": 220,
     "isMMA": false,
     "isFC": false,
@@ -13270,8 +13270,8 @@ module.exports = [
     "date": "May 24, 2012"
   },
   {
-    "title": "#219 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#219 - Joey Diaz",
     "episode_id": 219,
     "isMMA": false,
     "isFC": false,
@@ -13279,8 +13279,8 @@ module.exports = [
     "date": "May 23, 2012"
   },
   {
-    "title": "#218 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#218 - Dom Irrera",
     "episode_id": 218,
     "isMMA": false,
     "isFC": false,
@@ -13288,8 +13288,8 @@ module.exports = [
     "date": "May 22, 2012"
   },
   {
-    "title": "#217 - Michael Ruppert",
     "guests": ["Michael Ruppert"],
+    "title": "#217 - Michael Ruppert",
     "episode_id": 217,
     "isMMA": false,
     "isFC": false,
@@ -13297,8 +13297,8 @@ module.exports = [
     "date": "May 15, 2012"
   },
   {
-    "title": "#216 - Chael Sonnen",
     "guests": ["Chael Sonnen"],
+    "title": "#216 - Chael Sonnen",
     "episode_id": 216,
     "isMMA": false,
     "isFC": false,
@@ -13306,8 +13306,8 @@ module.exports = [
     "date": "May 14, 2012"
   },
   {
-    "title": "#215 - Andrew Dice Clay, Max Silverstein",
     "guests": ["Andrew Dice Clay, Max Silverstein"],
+    "title": "#215 - Andrew Dice Clay, Max Silverstein",
     "episode_id": 215,
     "isMMA": false,
     "isFC": false,
@@ -13315,8 +13315,8 @@ module.exports = [
     "date": "May 11, 2012"
   },
   {
-    "title": "#214 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#214 - Duncan Trussell",
     "episode_id": 214,
     "isMMA": false,
     "isFC": false,
@@ -13324,8 +13324,8 @@ module.exports = [
     "date": "May 8, 2012"
   },
   {
-    "title": "#212 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#212 - Bryan Callen",
     "episode_id": 212,
     "isMMA": false,
     "isFC": false,
@@ -13333,8 +13333,8 @@ module.exports = [
     "date": "May 1, 2012"
   },
   {
-    "title": "#211 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#211 - Ari Shaffir",
     "episode_id": 211,
     "isMMA": false,
     "isFC": false,
@@ -13342,8 +13342,8 @@ module.exports = [
     "date": "May 1, 2012"
   },
   {
-    "title": "#210 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#210 - Joey Diaz",
     "episode_id": 210,
     "isMMA": false,
     "isFC": false,
@@ -13351,8 +13351,8 @@ module.exports = [
     "date": "April 26, 2012"
   },
   {
-    "title": "#209 - Eddie Ifft",
     "guests": ["Eddie Ifft"],
+    "title": "#209 - Eddie Ifft",
     "episode_id": 209,
     "isMMA": false,
     "isFC": false,
@@ -13360,8 +13360,8 @@ module.exports = [
     "date": "April 25, 2012"
   },
   {
-    "title": "#208 - Freeway” Rick Ross",
     "guests": ["Freeway” Rick Ross"],
+    "title": "#208 - Freeway” Rick Ross",
     "episode_id": 208,
     "isMMA": false,
     "isFC": false,
@@ -13369,8 +13369,8 @@ module.exports = [
     "date": "April 24, 2012"
   },
   {
-    "title": "#207 - Tom Segura, Christina Pazsitzky",
     "guests": ["Tom Segura, Christina Pazsitzky"],
+    "title": "#207 - Tom Segura, Christina Pazsitzky",
     "episode_id": 207,
     "isMMA": false,
     "isFC": false,
@@ -13378,8 +13378,8 @@ module.exports = [
     "date": "April 18, 2012"
   },
   {
-    "title": "#206 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#206 - Eddie Bravo",
     "episode_id": 206,
     "isMMA": false,
     "isFC": false,
@@ -13387,8 +13387,8 @@ module.exports = [
     "date": "April 17, 2012"
   },
   {
-    "title": "#205 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#205 - Neal Brennan",
     "episode_id": 205,
     "isMMA": false,
     "isFC": false,
@@ -13396,8 +13396,8 @@ module.exports = [
     "date": "April 12, 2012"
   },
   {
-    "title": "#204 - Amy Schumer",
     "guests": ["Amy Schumer"],
+    "title": "#204 - Amy Schumer",
     "episode_id": 204,
     "isMMA": false,
     "isFC": false,
@@ -13405,8 +13405,8 @@ module.exports = [
     "date": "April 10, 2012"
   },
   {
-    "title": "#203 - Jim Jefferies",
     "guests": ["Jim Jefferies"],
+    "title": "#203 - Jim Jefferies",
     "episode_id": 203,
     "isMMA": false,
     "isFC": false,
@@ -13414,8 +13414,8 @@ module.exports = [
     "date": "April 7, 2012"
   },
   {
-    "title": "#202 - Dom Irrera",
     "guests": ["Dom Irrera"],
+    "title": "#202 - Dom Irrera",
     "episode_id": 202,
     "isMMA": false,
     "isFC": false,
@@ -13423,8 +13423,8 @@ module.exports = [
     "date": "April 5, 2012"
   },
   {
-    "title": "#201 - EverLast",
     "guests": ["EverLast"],
+    "title": "#201 - EverLast",
     "episode_id": 201,
     "isMMA": false,
     "isFC": false,
@@ -13432,8 +13432,8 @@ module.exports = [
     "date": "April 3, 2012"
   },
   {
-    "title": "#200 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#200 - Duncan Trussell",
     "episode_id": 200,
     "isMMA": false,
     "isFC": false,
@@ -13441,8 +13441,8 @@ module.exports = [
     "date": "March 28, 2012"
   },
   {
-    "title": "#199 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#199 - Joey Diaz",
     "episode_id": 199,
     "isMMA": false,
     "isFC": false,
@@ -13450,8 +13450,8 @@ module.exports = [
     "date": "March 27, 2012"
   },
   {
-    "title": "#198 - Brody Stevens",
     "guests": ["Brody Stevens"],
+    "title": "#198 - Brody Stevens",
     "episode_id": 198,
     "isMMA": false,
     "isFC": false,
@@ -13459,8 +13459,8 @@ module.exports = [
     "date": "March 21, 2012"
   },
   {
-    "title": "#197 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#197 - Ari Shaffir",
     "episode_id": 197,
     "isMMA": false,
     "isFC": false,
@@ -13468,8 +13468,8 @@ module.exports = [
     "date": "March 19, 2012"
   },
   {
-    "title": "#196 - Matt Paxton",
     "guests": ["Matt Paxton"],
+    "title": "#196 - Matt Paxton",
     "episode_id": 196,
     "isMMA": false,
     "isFC": false,
@@ -13477,8 +13477,8 @@ module.exports = [
     "date": "March 14, 2012"
   },
   {
-    "title": "#195 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#195 - Aubrey Marcus",
     "episode_id": 195,
     "isMMA": false,
     "isFC": false,
@@ -13486,8 +13486,8 @@ module.exports = [
     "date": "March 13, 2012"
   },
   {
-    "title": "#194 - Jason Silva",
     "guests": ["Jason Silva"],
+    "title": "#194 - Jason Silva",
     "episode_id": 194,
     "isMMA": false,
     "isFC": false,
@@ -13495,8 +13495,8 @@ module.exports = [
     "date": "March 12, 2012"
   },
   {
-    "title": "#193 - Jim Gaffigan",
     "guests": ["Jim Gaffigan"],
+    "title": "#193 - Jim Gaffigan",
     "episode_id": 193,
     "isMMA": false,
     "isFC": false,
@@ -13504,8 +13504,8 @@ module.exports = [
     "date": "March 11, 2012"
   },
   {
-    "title": "#192 - Sam Harris",
     "guests": ["Sam Harris"],
+    "title": "#192 - Sam Harris",
     "episode_id": 192,
     "isMMA": false,
     "isFC": false,
@@ -13513,8 +13513,8 @@ module.exports = [
     "date": "March 8, 2012"
   },
   {
-    "title": "#191 - Honey Honey",
     "guests": ["Honey Honey"],
+    "title": "#191 - Honey Honey",
     "episode_id": 191,
     "isMMA": false,
     "isFC": false,
@@ -13522,8 +13522,8 @@ module.exports = [
     "date": "March 6, 2012"
   },
   {
-    "title": "#190 - Greg Fitzsimmons",
     "guests": ["Greg Fitzsimmons"],
+    "title": "#190 - Greg Fitzsimmons",
     "episode_id": 190,
     "isMMA": false,
     "isFC": false,
@@ -13531,8 +13531,8 @@ module.exports = [
     "date": "February 29, 2012"
   },
   {
-    "title": "#189 - B-Real",
     "guests": ["B-Real"],
+    "title": "#189 - B-Real",
     "episode_id": 189,
     "isMMA": false,
     "isFC": false,
@@ -13540,8 +13540,8 @@ module.exports = [
     "date": "February 28, 2012"
   },
   {
-    "title": "#188 - Amy Schumer",
     "guests": ["Amy Schumer"],
+    "title": "#188 - Amy Schumer",
     "episode_id": 188,
     "isMMA": false,
     "isFC": false,
@@ -13549,8 +13549,8 @@ module.exports = [
     "date": "February 21, 2012"
   },
   {
-    "title": "#187 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#187 - Daniele Bolelli",
     "episode_id": 187,
     "isMMA": false,
     "isFC": false,
@@ -13558,8 +13558,8 @@ module.exports = [
     "date": "February 20, 2012"
   },
   {
-    "title": "#186 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#186 - Ari Shaffir",
     "episode_id": 186,
     "isMMA": false,
     "isFC": false,
@@ -13567,8 +13567,8 @@ module.exports = [
     "date": "February 16, 2012"
   },
   {
-    "title": "#185 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#185 - Tom Segura",
     "episode_id": 185,
     "isMMA": false,
     "isFC": false,
@@ -13576,8 +13576,8 @@ module.exports = [
     "date": "February 14, 2012"
   },
   {
-    "title": "#184 - DEADMAU5, Russell Peters, Eddie Bravo",
     "guests": ["DEADMAU5, Russell Peters, Eddie Bravo"],
+    "title": "#184 - DEADMAU5, Russell Peters, Eddie Bravo",
     "episode_id": 184,
     "isMMA": false,
     "isFC": false,
@@ -13585,8 +13585,8 @@ module.exports = [
     "date": "February 11, 2012"
   },
   {
-    "title": "#183 - Jason Silva",
     "guests": ["Jason Silva"],
+    "title": "#183 - Jason Silva",
     "episode_id": 183,
     "isMMA": false,
     "isFC": false,
@@ -13594,8 +13594,8 @@ module.exports = [
     "date": "February 9, 2012"
   },
   {
-    "title": "#182 - Bryan Callen, Jimmy Burke",
     "guests": ["Bryan Callen, Jimmy Burke"],
+    "title": "#182 - Bryan Callen, Jimmy Burke",
     "episode_id": 182,
     "isMMA": false,
     "isFC": false,
@@ -13603,8 +13603,8 @@ module.exports = [
     "date": "February 6, 2012"
   },
   {
-    "title": "#181 - Iliza Shlesinger",
     "guests": ["Iliza Shlesinger"],
+    "title": "#181 - Iliza Shlesinger",
     "episode_id": 181,
     "isMMA": false,
     "isFC": false,
@@ -13612,8 +13612,8 @@ module.exports = [
     "date": "February 1, 2012"
   },
   {
-    "title": "#180 - Joey Diaz, Eddie Bravo, Denny Prokopos",
     "guests": ["Joey Diaz, Eddie Bravo, Denny Prokopos"],
+    "title": "#180 - Joey Diaz, Eddie Bravo, Denny Prokopos",
     "episode_id": 180,
     "isMMA": false,
     "isFC": false,
@@ -13621,8 +13621,8 @@ module.exports = [
     "date": "January 31, 2012"
   },
   {
-    "title": "#179 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#179 - Duncan Trussell",
     "episode_id": 179,
     "isMMA": false,
     "isFC": false,
@@ -13630,8 +13630,8 @@ module.exports = [
     "date": "January 25, 2012"
   },
   {
-    "title": "#178 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#178 - Joey Diaz",
     "episode_id": 178,
     "isMMA": false,
     "isFC": false,
@@ -13639,8 +13639,8 @@ module.exports = [
     "date": "January 23, 2012"
   },
   {
-    "title": "#177 - Hamilton Morris",
     "guests": ["Hamilton Morris"],
+    "title": "#177 - Hamilton Morris",
     "episode_id": 177,
     "isMMA": false,
     "isFC": false,
@@ -13648,8 +13648,8 @@ module.exports = [
     "date": "January 18, 2012"
   },
   {
-    "title": "#176 - Steven Rinella",
     "guests": ["Steven Rinella"],
+    "title": "#176 - Steven Rinella",
     "episode_id": 176,
     "isMMA": false,
     "isFC": false,
@@ -13657,8 +13657,8 @@ module.exports = [
     "date": "January 16, 2012"
   },
   {
-    "title": "#175 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#175 - Ari Shaffir",
     "episode_id": 175,
     "isMMA": false,
     "isFC": false,
@@ -13666,8 +13666,8 @@ module.exports = [
     "date": "January 10, 2012"
   },
   {
-    "title": "#174 - Eddie Bravo, Dr. Steve Graham",
     "guests": ["Eddie Bravo, Dr. Steve Graham"],
+    "title": "#174 - Eddie Bravo, Dr. Steve Graham",
     "episode_id": 174,
     "isMMA": false,
     "isFC": false,
@@ -13675,8 +13675,8 @@ module.exports = [
     "date": "January 9, 2012"
   },
   {
-    "title": "#173 - Peter Joseph",
     "guests": ["Peter Joseph"],
+    "title": "#173 - Peter Joseph",
     "episode_id": 173,
     "isMMA": false,
     "isFC": false,
@@ -13684,8 +13684,8 @@ module.exports = [
     "date": "January 6, 2012"
   },
   {
-    "title": "#173 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#173 - Bryan Callen",
     "episode_id": 173,
     "isMMA": false,
     "isFC": false,
@@ -13693,8 +13693,8 @@ module.exports = [
     "date": "January 3, 2012"
   },
   {
-    "title": "#171 - EverLast",
     "guests": ["EverLast"],
+    "title": "#171 - EverLast",
     "episode_id": 171,
     "isMMA": false,
     "isFC": false,
@@ -13702,8 +13702,8 @@ module.exports = [
     "date": "December 28, 2011"
   },
   {
-    "title": "#170 - Michael Ruppert",
     "guests": ["Michael Ruppert"],
+    "title": "#170 - Michael Ruppert",
     "episode_id": 170,
     "isMMA": false,
     "isFC": false,
@@ -13711,10 +13711,10 @@ module.exports = [
     "date": "December 27, 2011"
   },
   {
-    "title": "#169 - Brian Redban, Doug Benson, Bert Kreischer, Ari Shaffir, Jason Gillearn",
     "guests": [
       "Brian Redban, Doug Benson, Bert Kreischer, Ari Shaffir, Jason Gillearn"
     ],
+    "title": "#169 - Brian Redban, Doug Benson, Bert Kreischer, Ari Shaffir, Jason Gillearn",
     "episode_id": 169,
     "isMMA": false,
     "isFC": false,
@@ -13722,8 +13722,8 @@ module.exports = [
     "date": "December 24, 2011"
   },
   {
-    "title": "#168 - Ronda Rousey, Eddie Bravo",
     "guests": ["Ronda Rousey, Eddie Bravo"],
+    "title": "#168 - Ronda Rousey, Eddie Bravo",
     "episode_id": 168,
     "isMMA": false,
     "isFC": false,
@@ -13731,8 +13731,8 @@ module.exports = [
     "date": "December 21, 2011"
   },
   {
-    "title": "#167 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#167 - Aubrey Marcus",
     "episode_id": 167,
     "isMMA": false,
     "isFC": false,
@@ -13740,8 +13740,8 @@ module.exports = [
     "date": "December 20, 2011"
   },
   {
-    "title": "#166 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#166 - Duncan Trussell",
     "episode_id": 166,
     "isMMA": false,
     "isFC": false,
@@ -13749,8 +13749,8 @@ module.exports = [
     "date": "December 14, 2011"
   },
   {
-    "title": "#165 - Bruce Lipton",
     "guests": ["Bruce Lipton"],
+    "title": "#165 - Bruce Lipton",
     "episode_id": 165,
     "isMMA": false,
     "isFC": false,
@@ -13758,8 +13758,8 @@ module.exports = [
     "date": "December 13, 2011"
   },
   {
-    "title": "#164 - Shane Smith",
     "guests": ["Shane Smith"],
+    "title": "#164 - Shane Smith",
     "episode_id": 164,
     "isMMA": false,
     "isFC": false,
@@ -13767,8 +13767,8 @@ module.exports = [
     "date": "December 6, 2011"
   },
   {
-    "title": "#163 - Doug Stanhope, Joey Diaz",
     "guests": ["Doug Stanhope, Joey Diaz"],
+    "title": "#163 - Doug Stanhope, Joey Diaz",
     "episode_id": 163,
     "isMMA": false,
     "isFC": false,
@@ -13776,8 +13776,8 @@ module.exports = [
     "date": "December 1, 2011"
   },
   {
-    "title": "#162 - Daniele Bolelli",
     "guests": ["Daniele Bolelli"],
+    "title": "#162 - Daniele Bolelli",
     "episode_id": 162,
     "isMMA": false,
     "isFC": false,
@@ -13785,8 +13785,8 @@ module.exports = [
     "date": "November 29, 2011"
   },
   {
-    "title": "#161 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#161 - Bert Kreischer",
     "episode_id": 161,
     "isMMA": false,
     "isFC": false,
@@ -13794,8 +13794,8 @@ module.exports = [
     "date": "November 28, 2011"
   },
   {
-    "title": "#160 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#160 - Eddie Bravo",
     "episode_id": 160,
     "isMMA": false,
     "isFC": false,
@@ -13803,8 +13803,8 @@ module.exports = [
     "date": "November 24, 2011"
   },
   {
-    "title": "#159 - Nick Thune",
     "guests": ["Nick Thune"],
+    "title": "#159 - Nick Thune",
     "episode_id": 159,
     "isMMA": false,
     "isFC": false,
@@ -13812,8 +13812,8 @@ module.exports = [
     "date": "November 22, 2011"
   },
   {
-    "title": "#158 - Doug Benson",
     "guests": ["Doug Benson"],
+    "title": "#158 - Doug Benson",
     "episode_id": 158,
     "isMMA": false,
     "isFC": false,
@@ -13821,8 +13821,8 @@ module.exports = [
     "date": "November 16, 2011"
   },
   {
-    "title": "#157 - Tom Segura, Christina Pazsitzky",
     "guests": ["Tom Segura, Christina Pazsitzky"],
+    "title": "#157 - Tom Segura, Christina Pazsitzky",
     "episode_id": 157,
     "isMMA": false,
     "isFC": false,
@@ -13830,8 +13830,8 @@ module.exports = [
     "date": "November 15, 2011"
   },
   {
-    "title": "#156 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#156 - Duncan Trussell",
     "episode_id": 156,
     "isMMA": false,
     "isFC": false,
@@ -13839,8 +13839,8 @@ module.exports = [
     "date": "November 10, 2011"
   },
   {
-    "title": "#155 - Dave Attell",
     "guests": ["Dave Attell"],
+    "title": "#155 - Dave Attell",
     "episode_id": 155,
     "isMMA": false,
     "isFC": false,
@@ -13848,8 +13848,8 @@ module.exports = [
     "date": "November 8, 2011"
   },
   {
-    "title": "#154 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#154 - Sam Tripoli",
     "episode_id": 154,
     "isMMA": false,
     "isFC": false,
@@ -13857,8 +13857,8 @@ module.exports = [
     "date": "November 7, 2011"
   },
   {
-    "title": "#153 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#153 - Joey Diaz",
     "episode_id": 153,
     "isMMA": false,
     "isFC": false,
@@ -13866,8 +13866,8 @@ module.exports = [
     "date": "October 31, 2011"
   },
   {
-    "title": "#152 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#152 - Brian Redban",
     "episode_id": 152,
     "isMMA": false,
     "isFC": false,
@@ -13875,8 +13875,8 @@ module.exports = [
     "date": "October 27, 2011"
   },
   {
-    "title": "#151 - Josh McDermitt",
     "guests": ["Josh McDermitt"],
+    "title": "#151 - Josh McDermitt",
     "episode_id": 151,
     "isMMA": false,
     "isFC": false,
@@ -13884,8 +13884,8 @@ module.exports = [
     "date": "October 25, 2011"
   },
   {
-    "title": "#150 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#150 - Bryan Callen",
     "episode_id": 150,
     "isMMA": false,
     "isFC": false,
@@ -13893,8 +13893,8 @@ module.exports = [
     "date": "October 24, 2011"
   },
   {
-    "title": "#149 - LIVE FROM THE ICEHOUSE (PART ONE)",
     "guests": ["LIVE FROM THE ICEHOUSE (PART ONE)"],
+    "title": "#149 - LIVE FROM THE ICEHOUSE (PART ONE)",
     "episode_id": 149,
     "isMMA": false,
     "isFC": false,
@@ -13902,8 +13902,8 @@ module.exports = [
     "date": "October 22, 2011"
   },
   {
-    "title": "#148 - Kevin Pereira",
     "guests": ["Kevin Pereira"],
+    "title": "#148 - Kevin Pereira",
     "episode_id": 148,
     "isMMA": false,
     "isFC": false,
@@ -13911,8 +13911,8 @@ module.exports = [
     "date": "October 19, 2011"
   },
   {
-    "title": "#147 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#147 - Duncan Trussell",
     "episode_id": 147,
     "isMMA": false,
     "isFC": false,
@@ -13920,8 +13920,8 @@ module.exports = [
     "date": "October 17, 2011"
   },
   {
-    "title": "#146 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#146 - Ari Shaffir",
     "episode_id": 146,
     "isMMA": false,
     "isFC": false,
@@ -13929,8 +13929,8 @@ module.exports = [
     "date": "October 13, 2011"
   },
   {
-    "title": "#145 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#145 - Bert Kreischer",
     "episode_id": 145,
     "isMMA": false,
     "isFC": false,
@@ -13938,8 +13938,8 @@ module.exports = [
     "date": "October 10, 2011"
   },
   {
-    "title": "#144 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#144 - Eddie Bravo",
     "episode_id": 144,
     "isMMA": false,
     "isFC": false,
@@ -13947,8 +13947,8 @@ module.exports = [
     "date": "October 4, 2011"
   },
   {
-    "title": "#143 - Mayhem Miller, Ryan Parsons",
     "guests": ["Mayhem Miller, Ryan Parsons"],
+    "title": "#143 - Mayhem Miller, Ryan Parsons",
     "episode_id": 143,
     "isMMA": false,
     "isFC": false,
@@ -13956,8 +13956,8 @@ module.exports = [
     "date": "September 28, 2011"
   },
   {
-    "title": "#142 - Graham Hancock, Duncan Trussell",
     "guests": ["Graham Hancock, Duncan Trussell"],
+    "title": "#142 - Graham Hancock, Duncan Trussell",
     "episode_id": 142,
     "isMMA": false,
     "isFC": false,
@@ -13965,8 +13965,8 @@ module.exports = [
     "date": "September 25, 2011"
   },
   {
-    "title": "#141 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#141 - Duncan Trussell",
     "episode_id": 141,
     "isMMA": false,
     "isFC": false,
@@ -13974,8 +13974,8 @@ module.exports = [
     "date": "September 25, 2011"
   },
   {
-    "title": "#140 - Brendon Walsh",
     "guests": ["Brendon Walsh"],
+    "title": "#140 - Brendon Walsh",
     "episode_id": 140,
     "isMMA": false,
     "isFC": false,
@@ -13983,8 +13983,8 @@ module.exports = [
     "date": "September 22, 2011"
   },
   {
-    "title": "#139 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#139 - Duncan Trussell",
     "episode_id": 139,
     "isMMA": false,
     "isFC": false,
@@ -13992,8 +13992,8 @@ module.exports = [
     "date": "September 14, 2011"
   },
   {
-    "title": "#138 - Anthony Bourdain",
     "guests": ["Anthony Bourdain"],
+    "title": "#138 - Anthony Bourdain",
     "episode_id": 138,
     "isMMA": false,
     "isFC": false,
@@ -14001,8 +14001,8 @@ module.exports = [
     "date": "September 11, 2011"
   },
   {
-    "title": "#137 - Tim Ferriss",
     "guests": ["Tim Ferriss"],
+    "title": "#137 - Tim Ferriss",
     "episode_id": 137,
     "isMMA": false,
     "isFC": false,
@@ -14010,8 +14010,8 @@ module.exports = [
     "date": "September 10, 2011"
   },
   {
-    "title": "#136 - Daniel Pinchbeck",
     "guests": ["Daniel Pinchbeck"],
+    "title": "#136 - Daniel Pinchbeck",
     "episode_id": 136,
     "isMMA": false,
     "isFC": false,
@@ -14019,8 +14019,8 @@ module.exports = [
     "date": "September 8, 2011"
   },
   {
-    "title": "#135 - John Heffron, Joey Diaz",
     "guests": ["John Heffron, Joey Diaz"],
+    "title": "#135 - John Heffron, Joey Diaz",
     "episode_id": 135,
     "isMMA": false,
     "isFC": false,
@@ -14028,8 +14028,8 @@ module.exports = [
     "date": "September 6, 2011"
   },
   {
-    "title": "#134 - Kevin Smith",
     "guests": ["Kevin Smith"],
+    "title": "#134 - Kevin Smith",
     "episode_id": 134,
     "isMMA": false,
     "isFC": false,
@@ -14037,8 +14037,8 @@ module.exports = [
     "date": "September 1, 2011"
   },
   {
-    "title": "#133 - Charlie Murphy, Freeze Love",
     "guests": ["Charlie Murphy, Freeze Love"],
+    "title": "#133 - Charlie Murphy, Freeze Love",
     "episode_id": 133,
     "isMMA": false,
     "isFC": false,
@@ -14046,8 +14046,8 @@ module.exports = [
     "date": "August 24, 2011"
   },
   {
-    "title": "#132 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#132 - Bert Kreischer",
     "episode_id": 132,
     "isMMA": false,
     "isFC": false,
@@ -14055,8 +14055,8 @@ module.exports = [
     "date": "August 22, 2011"
   },
   {
-    "title": "#131 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#131 - Neal Brennan",
     "episode_id": 131,
     "isMMA": false,
     "isFC": false,
@@ -14064,8 +14064,8 @@ module.exports = [
     "date": "August 17, 2011"
   },
   {
-    "title": "#130 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#130 - Duncan Trussell",
     "episode_id": 130,
     "isMMA": false,
     "isFC": false,
@@ -14073,8 +14073,8 @@ module.exports = [
     "date": "August 16, 2011"
   },
   {
-    "title": "#129 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#129 - Ari Shaffir",
     "episode_id": 129,
     "isMMA": false,
     "isFC": false,
@@ -14082,8 +14082,8 @@ module.exports = [
     "date": "August 11, 2011"
   },
   {
-    "title": "#127 - Aubrey Marcus",
     "guests": ["Aubrey Marcus"],
+    "title": "#127 - Aubrey Marcus",
     "episode_id": 127,
     "isMMA": false,
     "isFC": false,
@@ -14091,8 +14091,8 @@ module.exports = [
     "date": "August 3, 2011"
   },
   {
-    "title": "#126 - Freddy Lockhart",
     "guests": ["Freddy Lockhart"],
+    "title": "#126 - Freddy Lockhart",
     "episode_id": 126,
     "isMMA": false,
     "isFC": false,
@@ -14100,8 +14100,8 @@ module.exports = [
     "date": "July 31, 2011"
   },
   {
-    "title": "#125 - Giorgio Tsoukalos, Eddie Bravo",
     "guests": ["Giorgio Tsoukalos, Eddie Bravo"],
+    "title": "#125 - Giorgio Tsoukalos, Eddie Bravo",
     "episode_id": 125,
     "isMMA": false,
     "isFC": false,
@@ -14109,8 +14109,8 @@ module.exports = [
     "date": "July 27, 2011"
   },
   {
-    "title": "#124 - Michael Schiavello",
     "guests": ["Michael Schiavello"],
+    "title": "#124 - Michael Schiavello",
     "episode_id": 124,
     "isMMA": false,
     "isFC": false,
@@ -14118,8 +14118,8 @@ module.exports = [
     "date": "July 24, 2011"
   },
   {
-    "title": "#123 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#123 - Tom Segura",
     "episode_id": 123,
     "isMMA": false,
     "isFC": false,
@@ -14127,8 +14127,8 @@ module.exports = [
     "date": "July 20, 2011"
   },
   {
-    "title": "#122 - Jamie Kilstein",
     "guests": ["Jamie Kilstein"],
+    "title": "#122 - Jamie Kilstein",
     "episode_id": 122,
     "isMMA": false,
     "isFC": false,
@@ -14136,8 +14136,8 @@ module.exports = [
     "date": "July 19, 2011"
   },
   {
-    "title": "#121 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#121 - Bryan Callen",
     "episode_id": 121,
     "isMMA": false,
     "isFC": false,
@@ -14145,8 +14145,8 @@ module.exports = [
     "date": "July 11, 2011"
   },
   {
-    "title": "#120 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#120 - Duncan Trussell",
     "episode_id": 120,
     "isMMA": false,
     "isFC": false,
@@ -14154,8 +14154,8 @@ module.exports = [
     "date": "July 6, 2011"
   },
   {
-    "title": "#119 - Jan Irvin",
     "guests": ["Jan Irvin"],
+    "title": "#119 - Jan Irvin",
     "episode_id": 119,
     "isMMA": false,
     "isFC": false,
@@ -14163,8 +14163,8 @@ module.exports = [
     "date": "July 5, 2011"
   },
   {
-    "title": "#118 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#118 - Ari Shaffir",
     "episode_id": 118,
     "isMMA": false,
     "isFC": false,
@@ -14172,8 +14172,8 @@ module.exports = [
     "date": "June 29, 2011"
   },
   {
-    "title": "#117 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#117 - Eddie Bravo",
     "episode_id": 117,
     "isMMA": false,
     "isFC": false,
@@ -14181,8 +14181,8 @@ module.exports = [
     "date": "June 28, 2011"
   },
   {
-    "title": "#116 - Russell Peters, Junior Simpson",
     "guests": ["Russell Peters, Junior Simpson"],
+    "title": "#116 - Russell Peters, Junior Simpson",
     "episode_id": 116,
     "isMMA": false,
     "isFC": false,
@@ -14190,8 +14190,8 @@ module.exports = [
     "date": "June 21, 2011"
   },
   {
-    "title": "#115 - Maz Jobrani",
     "guests": ["Maz Jobrani"],
+    "title": "#115 - Maz Jobrani",
     "episode_id": 115,
     "isMMA": false,
     "isFC": false,
@@ -14199,8 +14199,8 @@ module.exports = [
     "date": "June 20, 2011"
   },
   {
-    "title": "#114 - Neal Brennan",
     "guests": ["Neal Brennan"],
+    "title": "#114 - Neal Brennan",
     "episode_id": 114,
     "isMMA": false,
     "isFC": false,
@@ -14208,8 +14208,8 @@ module.exports = [
     "date": "June 14, 2011"
   },
   {
-    "title": "#113 - Brian Posehn",
     "guests": ["Brian Posehn"],
+    "title": "#113 - Brian Posehn",
     "episode_id": 113,
     "isMMA": false,
     "isFC": false,
@@ -14217,8 +14217,8 @@ module.exports = [
     "date": "June 13, 2011"
   },
   {
-    "title": "#112 - Cliffy B, Johnny Cristo",
     "guests": ["Cliffy B, Johnny Cristo"],
+    "title": "#112 - Cliffy B, Johnny Cristo",
     "episode_id": 112,
     "isMMA": false,
     "isFC": false,
@@ -14226,8 +14226,8 @@ module.exports = [
     "date": "June 7, 2011"
   },
   {
-    "title": "#111 - Al Madrigal",
     "guests": ["Al Madrigal"],
+    "title": "#111 - Al Madrigal",
     "episode_id": 111,
     "isMMA": false,
     "isFC": false,
@@ -14235,8 +14235,8 @@ module.exports = [
     "date": "June 6, 2011"
   },
   {
-    "title": "#110 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#110 - Duncan Trussell",
     "episode_id": 110,
     "isMMA": false,
     "isFC": false,
@@ -14244,8 +14244,8 @@ module.exports = [
     "date": "June 1, 2011"
   },
   {
-    "title": "#109 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#109 - Ari Shaffir",
     "episode_id": 109,
     "isMMA": false,
     "isFC": false,
@@ -14253,8 +14253,8 @@ module.exports = [
     "date": "May 31, 2011"
   },
   {
-    "title": "#107 - Doug Benson",
     "guests": ["Doug Benson"],
+    "title": "#107 - Doug Benson",
     "episode_id": 107,
     "isMMA": false,
     "isFC": false,
@@ -14262,8 +14262,8 @@ module.exports = [
     "date": "May 12, 2011"
   },
   {
-    "title": "#106 - Steve Rannazzisi",
     "guests": ["Steve Rannazzisi"],
+    "title": "#106 - Steve Rannazzisi",
     "episode_id": 106,
     "isMMA": false,
     "isFC": false,
@@ -14271,8 +14271,8 @@ module.exports = [
     "date": "May 10, 2011"
   },
   {
-    "title": "#105 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#105 - Bryan Callen",
     "episode_id": 105,
     "isMMA": false,
     "isFC": false,
@@ -14280,8 +14280,8 @@ module.exports = [
     "date": "May 9, 2011"
   },
   {
-    "title": "#104 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#104 - Sam Tripoli",
     "episode_id": 104,
     "isMMA": false,
     "isFC": false,
@@ -14289,8 +14289,8 @@ module.exports = [
     "date": "May 4, 2011"
   },
   {
-    "title": "#103 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#103 - Duncan Trussell",
     "episode_id": 103,
     "isMMA": false,
     "isFC": false,
@@ -14298,8 +14298,8 @@ module.exports = [
     "date": "May 2, 2011"
   },
   {
-    "title": "#102 - John Heffron",
     "guests": ["John Heffron"],
+    "title": "#102 - John Heffron",
     "episode_id": 102,
     "isMMA": false,
     "isFC": false,
@@ -14307,8 +14307,8 @@ module.exports = [
     "date": "April 27, 2011"
   },
   {
-    "title": "#101 - Adam Carolla",
     "guests": ["Adam Carolla"],
+    "title": "#101 - Adam Carolla",
     "episode_id": 101,
     "isMMA": false,
     "isFC": false,
@@ -14316,8 +14316,8 @@ module.exports = [
     "date": "April 26, 2011"
   },
   {
-    "title": "#100 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#100 - Brian Redban",
     "episode_id": 100,
     "isMMA": false,
     "isFC": false,
@@ -14325,8 +14325,8 @@ module.exports = [
     "date": "April 19, 2011"
   },
   {
-    "title": "#99 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#99 - Tom Segura",
     "episode_id": 99,
     "isMMA": false,
     "isFC": false,
@@ -14334,8 +14334,8 @@ module.exports = [
     "date": "April 18, 2011"
   },
   {
-    "title": "#98 - Daryl Wright, Brian Whitaker",
     "guests": ["Daryl Wright, Brian Whitaker"],
+    "title": "#98 - Daryl Wright, Brian Whitaker",
     "episode_id": 98,
     "isMMA": false,
     "isFC": false,
@@ -14343,8 +14343,8 @@ module.exports = [
     "date": "April 13, 2011"
   },
   {
-    "title": "#96 - Kevin Pereira",
     "guests": ["Kevin Pereira"],
+    "title": "#96 - Kevin Pereira",
     "episode_id": 96,
     "isMMA": false,
     "isFC": false,
@@ -14352,8 +14352,8 @@ module.exports = [
     "date": "April 8, 2011"
   },
   {
-    "title": "#95 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#95 - Bert Kreischer",
     "episode_id": 95,
     "isMMA": false,
     "isFC": false,
@@ -14361,8 +14361,8 @@ module.exports = [
     "date": "April 5, 2011"
   },
   {
-    "title": "#94 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#94 - Joey Diaz",
     "episode_id": 94,
     "isMMA": false,
     "isFC": false,
@@ -14370,8 +14370,8 @@ module.exports = [
     "date": "March 31, 2011"
   },
   {
-    "title": "#93 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#93 - Eddie Bravo",
     "episode_id": 93,
     "isMMA": false,
     "isFC": false,
@@ -14379,8 +14379,8 @@ module.exports = [
     "date": "March 28, 2011"
   },
   {
-    "title": "#91 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#91 - Bill Burr",
     "episode_id": 91,
     "isMMA": false,
     "isFC": false,
@@ -14388,8 +14388,8 @@ module.exports = [
     "date": "March 22, 2011"
   },
   {
-    "title": "#92 - Jim Norton",
     "guests": ["Jim Norton"],
+    "title": "#92 - Jim Norton",
     "episode_id": 92,
     "isMMA": false,
     "isFC": false,
@@ -14397,8 +14397,8 @@ module.exports = [
     "date": "March 22, 2011"
   },
   {
-    "title": "#90 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#90 - Joey Diaz",
     "episode_id": 90,
     "isMMA": false,
     "isFC": false,
@@ -14406,8 +14406,8 @@ module.exports = [
     "date": "March 16, 2011"
   },
   {
-    "title": "#89 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#89 - Bryan Callen",
     "episode_id": 89,
     "isMMA": false,
     "isFC": false,
@@ -14415,8 +14415,8 @@ module.exports = [
     "date": "March 15, 2011"
   },
   {
-    "title": "#88 - Andy Dick",
     "guests": ["Andy Dick"],
+    "title": "#88 - Andy Dick",
     "episode_id": 88,
     "isMMA": false,
     "isFC": false,
@@ -14424,8 +14424,8 @@ module.exports = [
     "date": "March 10, 2011"
   },
   {
-    "title": "#87 - Dana Dearmond",
     "guests": ["Dana Dearmond"],
+    "title": "#87 - Dana Dearmond",
     "episode_id": 87,
     "isMMA": false,
     "isFC": false,
@@ -14433,8 +14433,8 @@ module.exports = [
     "date": "March 8, 2011"
   },
   {
-    "title": "#86 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#86 - Tom Segura",
     "episode_id": 86,
     "isMMA": false,
     "isFC": false,
@@ -14442,8 +14442,8 @@ module.exports = [
     "date": "March 4, 2011"
   },
   {
-    "title": "#85 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#85 - Ari Shaffir",
     "episode_id": 85,
     "isMMA": false,
     "isFC": false,
@@ -14451,8 +14451,8 @@ module.exports = [
     "date": "March 1, 2011"
   },
   {
-    "title": "#84 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#84 - Duncan Trussell",
     "episode_id": 84,
     "isMMA": false,
     "isFC": false,
@@ -14460,8 +14460,8 @@ module.exports = [
     "date": "February 28, 2011"
   },
   {
-    "title": "#83 - Bas Rutten",
     "guests": ["Bas Rutten"],
+    "title": "#83 - Bas Rutten",
     "episode_id": 83,
     "isMMA": false,
     "isFC": false,
@@ -14469,8 +14469,8 @@ module.exports = [
     "date": "February 22, 2011"
   },
   {
-    "title": "#82 - Dave Foley",
     "guests": ["Dave Foley"],
+    "title": "#82 - Dave Foley",
     "episode_id": 82,
     "isMMA": false,
     "isFC": false,
@@ -14478,8 +14478,8 @@ module.exports = [
     "date": "February 21, 2011"
   },
   {
-    "title": "#81 - Pete Johansson",
     "guests": ["Pete Johansson"],
+    "title": "#81 - Pete Johansson",
     "episode_id": 81,
     "isMMA": false,
     "isFC": false,
@@ -14487,8 +14487,8 @@ module.exports = [
     "date": "February 16, 2011"
   },
   {
-    "title": "#80 - Joey Diaz, Ari Shaffir",
     "guests": ["Joey Diaz, Ari Shaffir"],
+    "title": "#80 - Joey Diaz, Ari Shaffir",
     "episode_id": 80,
     "isMMA": false,
     "isFC": false,
@@ -14496,8 +14496,8 @@ module.exports = [
     "date": "February 15, 2011"
   },
   {
-    "title": "#79 - Jon Lajoie",
     "guests": ["Jon Lajoie"],
+    "title": "#79 - Jon Lajoie",
     "episode_id": 79,
     "isMMA": false,
     "isFC": false,
@@ -14505,8 +14505,8 @@ module.exports = [
     "date": "February 10, 2011"
   },
   {
-    "title": "#78 - Chris Aubrey Marcus",
     "guests": ["Chris Aubrey Marcus"],
+    "title": "#78 - Chris Aubrey Marcus",
     "episode_id": 78,
     "isMMA": false,
     "isFC": false,
@@ -14514,8 +14514,8 @@ module.exports = [
     "date": "February 8, 2011"
   },
   {
-    "title": "#77 - Eddie Ifft",
     "guests": ["Eddie Ifft"],
+    "title": "#77 - Eddie Ifft",
     "episode_id": 77,
     "isMMA": false,
     "isFC": false,
@@ -14523,8 +14523,8 @@ module.exports = [
     "date": "February 3, 2011"
   },
   {
-    "title": "#76 - Bobby Lee",
     "guests": ["Bobby Lee"],
+    "title": "#76 - Bobby Lee",
     "episode_id": 76,
     "isMMA": false,
     "isFC": false,
@@ -14532,8 +14532,8 @@ module.exports = [
     "date": "February 1, 2011"
   },
   {
-    "title": "#75 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#75 - Sam Tripoli",
     "episode_id": 75,
     "isMMA": false,
     "isFC": false,
@@ -14541,8 +14541,8 @@ module.exports = [
     "date": "January 26, 2011"
   },
   {
-    "title": "#74 - Allison Sciulla",
     "guests": ["Allison Sciulla"],
+    "title": "#74 - Allison Sciulla",
     "episode_id": 74,
     "isMMA": false,
     "isFC": false,
@@ -14550,8 +14550,8 @@ module.exports = [
     "date": "January 25, 2011"
   },
   {
-    "title": "#73 - Bert Kreischer",
     "guests": ["Bert Kreischer"],
+    "title": "#73 - Bert Kreischer",
     "episode_id": 73,
     "isMMA": false,
     "isFC": false,
@@ -14559,8 +14559,8 @@ module.exports = [
     "date": "January 19, 2011"
   },
   {
-    "title": "#72 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#72 - Ari Shaffir",
     "episode_id": 72,
     "isMMA": false,
     "isFC": false,
@@ -14568,8 +14568,8 @@ module.exports = [
     "date": "January 18, 2011"
   },
   {
-    "title": "#71 - Al Madrigal",
     "guests": ["Al Madrigal"],
+    "title": "#71 - Al Madrigal",
     "episode_id": 71,
     "isMMA": false,
     "isFC": false,
@@ -14577,8 +14577,8 @@ module.exports = [
     "date": "January 13, 2011"
   },
   {
-    "title": "#70 - Brendon Walsh",
     "guests": ["Brendon Walsh"],
+    "title": "#70 - Brendon Walsh",
     "episode_id": 70,
     "isMMA": false,
     "isFC": false,
@@ -14586,8 +14586,8 @@ module.exports = [
     "date": "January 11, 2011"
   },
   {
-    "title": "#69 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#69 - Bryan Callen",
     "episode_id": 69,
     "isMMA": false,
     "isFC": false,
@@ -14595,8 +14595,8 @@ module.exports = [
     "date": "January 5, 2011"
   },
   {
-    "title": "#68 - Iliza Schlesinger",
     "guests": ["Iliza Schlesinger"],
+    "title": "#68 - Iliza Schlesinger",
     "episode_id": 68,
     "isMMA": false,
     "isFC": false,
@@ -14604,8 +14604,8 @@ module.exports = [
     "date": "January 4, 2011"
   },
   {
-    "title": "#67 - Hal Sparks",
     "guests": ["Hal Sparks"],
+    "title": "#67 - Hal Sparks",
     "episode_id": 67,
     "isMMA": false,
     "isFC": false,
@@ -14613,8 +14613,8 @@ module.exports = [
     "date": "December 30, 2010"
   },
   {
-    "title": "#66 - Nick Swardson",
     "guests": ["Nick Swardson"],
+    "title": "#66 - Nick Swardson",
     "episode_id": 66,
     "isMMA": false,
     "isFC": false,
@@ -14622,8 +14622,8 @@ module.exports = [
     "date": "December 28, 2010"
   },
   {
-    "title": "#64 - John Heffron",
     "guests": ["John Heffron"],
+    "title": "#64 - John Heffron",
     "episode_id": 64,
     "isMMA": false,
     "isFC": false,
@@ -14631,8 +14631,8 @@ module.exports = [
     "date": "December 21, 2010"
   },
   {
-    "title": "#65 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#65 - Joey Diaz",
     "episode_id": 65,
     "isMMA": false,
     "isFC": false,
@@ -14640,8 +14640,8 @@ module.exports = [
     "date": "December 21, 2010"
   },
   {
-    "title": "#63 - Russell Peters",
     "guests": ["Russell Peters"],
+    "title": "#63 - Russell Peters",
     "episode_id": 63,
     "isMMA": false,
     "isFC": false,
@@ -14649,8 +14649,8 @@ module.exports = [
     "date": "December 17, 2010"
   },
   {
-    "title": "#62 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#62 - Duncan Trussell",
     "episode_id": 62,
     "isMMA": false,
     "isFC": false,
@@ -14658,8 +14658,8 @@ module.exports = [
     "date": "December 15, 2010"
   },
   {
-    "title": "#61 - Cliffy B",
     "guests": ["Cliffy B"],
+    "title": "#61 - Cliffy B",
     "episode_id": 61,
     "isMMA": false,
     "isFC": false,
@@ -14667,8 +14667,8 @@ module.exports = [
     "date": "December 8, 2010"
   },
   {
-    "title": "#60 - Joey Diaz, Ari Shaffir",
     "guests": ["Joey Diaz", "Ari Shaffir"],
+    "title": "#60 - Joey Diaz, Ari Shaffir",
     "episode_id": 60,
     "isMMA": false,
     "isFC": false,
@@ -14676,8 +14676,8 @@ module.exports = [
     "date": "December 7, 2010"
   },
   {
-    "title": "#59 - Ralphie May",
     "guests": ["Ralphie May"],
+    "title": "#59 - Ralphie May",
     "episode_id": 59,
     "isMMA": false,
     "isFC": false,
@@ -14685,8 +14685,8 @@ module.exports = [
     "date": "December 1, 2010"
   },
   {
-    "title": "#58 - Mayhem Miller",
     "guests": ["Mayhem Miller"],
+    "title": "#58 - Mayhem Miller",
     "episode_id": 58,
     "isMMA": false,
     "isFC": false,
@@ -14694,8 +14694,8 @@ module.exports = [
     "date": "November 29, 2010"
   },
   {
-    "title": "#57 - Jayson Thibault",
     "guests": ["Jayson Thibault"],
+    "title": "#57 - Jayson Thibault",
     "episode_id": 57,
     "isMMA": false,
     "isFC": false,
@@ -14703,8 +14703,8 @@ module.exports = [
     "date": "November 26, 2010"
   },
   {
-    "title": "#56 - Johnny Pemberton",
     "guests": ["Johnny Pemberton"],
+    "title": "#56 - Johnny Pemberton",
     "episode_id": 56,
     "isMMA": false,
     "isFC": false,
@@ -14712,8 +14712,8 @@ module.exports = [
     "date": "November 23, 2010"
   },
   {
-    "title": "#55 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#55 - Duncan Trussell",
     "episode_id": 55,
     "isMMA": false,
     "isFC": false,
@@ -14721,8 +14721,8 @@ module.exports = [
     "date": "November 16, 2010"
   },
   {
-    "title": "#54 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#54 - Eddie Bravo",
     "episode_id": 54,
     "isMMA": false,
     "isFC": false,
@@ -14730,8 +14730,8 @@ module.exports = [
     "date": "November 9, 2010"
   },
   {
-    "title": "#53 - Freddy Lockhart",
     "guests": ["Freddy Lockhart"],
+    "title": "#53 - Freddy Lockhart",
     "episode_id": 53,
     "isMMA": false,
     "isFC": false,
@@ -14739,8 +14739,8 @@ module.exports = [
     "date": "November 2, 2010"
   },
   {
-    "title": "#52 - Steve Rannazzisi",
     "guests": ["Steve Rannazzisi"],
+    "title": "#52 - Steve Rannazzisi",
     "episode_id": 52,
     "isMMA": false,
     "isFC": false,
@@ -14748,8 +14748,8 @@ module.exports = [
     "date": "October 28, 2010"
   },
   {
-    "title": "#51 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#51 - Joey Diaz",
     "episode_id": 51,
     "isMMA": false,
     "isFC": false,
@@ -14757,8 +14757,8 @@ module.exports = [
     "date": "October 26, 2010"
   },
   {
-    "title": "#50 - Little Esther",
     "guests": ["Little Esther"],
+    "title": "#50 - Little Esther",
     "episode_id": 50,
     "isMMA": false,
     "isFC": false,
@@ -14766,8 +14766,8 @@ module.exports = [
     "date": "October 21, 2010"
   },
   {
-    "title": "#49 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#49 - Duncan Trussell",
     "episode_id": 49,
     "isMMA": false,
     "isFC": false,
@@ -14775,8 +14775,8 @@ module.exports = [
     "date": "October 19, 2010"
   },
   {
-    "title": "#48 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#48 - Brian Redban",
     "episode_id": 48,
     "isMMA": false,
     "isFC": false,
@@ -14784,8 +14784,8 @@ module.exports = [
     "date": "October 12, 2010"
   },
   {
-    "title": "#47 - Michael Schiavello",
     "guests": ["Michael Schiavello"],
+    "title": "#47 - Michael Schiavello",
     "episode_id": 47,
     "isMMA": false,
     "isFC": false,
@@ -14793,8 +14793,8 @@ module.exports = [
     "date": "October 9, 2010"
   },
   {
-    "title": "#46 - Chris Marcus",
     "guests": ["Chris Marcus"],
+    "title": "#46 - Chris Marcus",
     "episode_id": 46,
     "isMMA": false,
     "isFC": false,
@@ -14802,8 +14802,8 @@ module.exports = [
     "date": "October 5, 2010"
   },
   {
-    "title": "#45 - Tom Green",
     "guests": ["Tom Green"],
+    "title": "#45 - Tom Green",
     "episode_id": 45,
     "isMMA": false,
     "isFC": false,
@@ -14811,8 +14811,8 @@ module.exports = [
     "date": "September 29, 2010"
   },
   {
-    "title": "#44 - Todd McCormick",
     "guests": ["Todd McCormick"],
+    "title": "#44 - Todd McCormick",
     "episode_id": 44,
     "isMMA": false,
     "isFC": false,
@@ -14820,8 +14820,8 @@ module.exports = [
     "date": "September 28, 2010"
   },
   {
-    "title": "#43 - Doug Stanhope",
     "guests": ["Doug Stanhope"],
+    "title": "#43 - Doug Stanhope",
     "episode_id": 43,
     "isMMA": false,
     "isFC": false,
@@ -14829,8 +14829,8 @@ module.exports = [
     "date": "September 23, 2010"
   },
   {
-    "title": "#42 - Duncan Trussell",
     "guests": ["Duncan Trussell"],
+    "title": "#42 - Duncan Trussell",
     "episode_id": 42,
     "isMMA": false,
     "isFC": false,
@@ -14838,8 +14838,8 @@ module.exports = [
     "date": "September 20, 2010"
   },
   {
-    "title": "#41 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#41 - Ari Shaffir",
     "episode_id": 41,
     "isMMA": false,
     "isFC": false,
@@ -14847,8 +14847,8 @@ module.exports = [
     "date": "September 13, 2010"
   },
   {
-    "title": "#40 - Tyler Knight",
     "guests": ["Tyler Knight"],
+    "title": "#40 - Tyler Knight",
     "episode_id": 40,
     "isMMA": false,
     "isFC": false,
@@ -14856,8 +14856,8 @@ module.exports = [
     "date": "September 7, 2010"
   },
   {
-    "title": "#39 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#39 - Joey Diaz",
     "episode_id": 39,
     "isMMA": false,
     "isFC": false,
@@ -14865,8 +14865,8 @@ module.exports = [
     "date": "September 2, 2010"
   },
   {
-    "title": "#38 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#38 - Bryan Callen",
     "episode_id": 38,
     "isMMA": false,
     "isFC": false,
@@ -14874,8 +14874,8 @@ module.exports = [
     "date": "August 31, 2010"
   },
   {
-    "title": "#37 - Ricky Schroder",
     "guests": ["Ricky Schroder"],
+    "title": "#37 - Ricky Schroder",
     "episode_id": 37,
     "isMMA": false,
     "isFC": false,
@@ -14883,8 +14883,8 @@ module.exports = [
     "date": "August 24, 2010"
   },
   {
-    "title": "#36 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#36 - Eddie Bravo",
     "episode_id": 36,
     "isMMA": false,
     "isFC": false,
@@ -14892,8 +14892,8 @@ module.exports = [
     "date": "August 21, 2010"
   },
   {
-    "title": "#35 - Joey Diaz, Eddie Bravo",
     "guests": ["Joey Diaz, Eddie Bravo"],
+    "title": "#35 - Joey Diaz, Eddie Bravo",
     "episode_id": 35,
     "isMMA": false,
     "isFC": false,
@@ -14901,8 +14901,8 @@ module.exports = [
     "date": "August 11, 2010"
   },
   {
-    "title": "#34 - Doug Benson",
     "guests": ["Doug Benson"],
+    "title": "#34 - Doug Benson",
     "episode_id": 34,
     "isMMA": false,
     "isFC": false,
@@ -14910,8 +14910,8 @@ module.exports = [
     "date": "August 10, 2010"
   },
   {
-    "title": "#33 - Dane Cook",
     "guests": ["Dane Cook"],
+    "title": "#33 - Dane Cook",
     "episode_id": 33,
     "isMMA": false,
     "isFC": false,
@@ -14919,8 +14919,8 @@ module.exports = [
     "date": "August 3, 2010"
   },
   {
-    "title": "#32 - Bryan Callen",
     "guests": ["Bryan Callen"],
+    "title": "#32 - Bryan Callen",
     "episode_id": 32,
     "isMMA": false,
     "isFC": false,
@@ -14928,8 +14928,8 @@ module.exports = [
     "date": "July 28, 2010"
   },
   {
-    "title": "#31 - Mayhem Miller",
     "guests": ["Mayhem Miller"],
+    "title": "#31 - Mayhem Miller",
     "episode_id": 31,
     "isMMA": false,
     "isFC": false,
@@ -14937,8 +14937,8 @@ module.exports = [
     "date": "July 20, 2010"
   },
   {
-    "title": "#30 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#30 - Eddie Bravo",
     "episode_id": 30,
     "isMMA": false,
     "isFC": false,
@@ -14946,8 +14946,8 @@ module.exports = [
     "date": "July 14, 2010"
   },
   {
-    "title": "#29 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#29 - Brian Redban",
     "episode_id": 29,
     "isMMA": false,
     "isFC": false,
@@ -14955,8 +14955,8 @@ module.exports = [
     "date": "July 6, 2010"
   },
   {
-    "title": "#28 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#28 - Joey Diaz",
     "episode_id": 28,
     "isMMA": false,
     "isFC": false,
@@ -14964,8 +14964,8 @@ module.exports = [
     "date": "June 29, 2010"
   },
   {
-    "title": "#27 - Sam Tripoli",
     "guests": ["Sam Tripoli"],
+    "title": "#27 - Sam Tripoli",
     "episode_id": 27,
     "isMMA": false,
     "isFC": false,
@@ -14973,8 +14973,8 @@ module.exports = [
     "date": "June 24, 2010"
   },
   {
-    "title": "#26 - Bill Burr",
     "guests": ["Bill Burr"],
+    "title": "#26 - Bill Burr",
     "episode_id": 26,
     "isMMA": false,
     "isFC": false,
@@ -14982,8 +14982,8 @@ module.exports = [
     "date": "June 16, 2010"
   },
   {
-    "title": "#25 - Joey Diaz",
     "guests": ["Joey Diaz"],
+    "title": "#25 - Joey Diaz",
     "episode_id": 25,
     "isMMA": false,
     "isFC": false,
@@ -14991,8 +14991,8 @@ module.exports = [
     "date": "June 15, 2010"
   },
   {
-    "title": "#24 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#24 - Eddie Bravo",
     "episode_id": 24,
     "isMMA": false,
     "isFC": false,
@@ -15000,8 +15000,8 @@ module.exports = [
     "date": "June 8, 2010"
   },
   {
-    "title": "#23 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#23 - Brian Redban",
     "episode_id": 23,
     "isMMA": false,
     "isFC": false,
@@ -15009,8 +15009,8 @@ module.exports = [
     "date": "June 2, 2010"
   },
   {
-    "title": "#22 - John Heffron",
     "guests": ["John Heffron"],
+    "title": "#22 - John Heffron",
     "episode_id": 22,
     "isMMA": false,
     "isFC": false,
@@ -15018,8 +15018,8 @@ module.exports = [
     "date": "May 25, 2010"
   },
   {
-    "title": "#21 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#21 - Brian Redban",
     "episode_id": 21,
     "isMMA": false,
     "isFC": false,
@@ -15027,8 +15027,8 @@ module.exports = [
     "date": "May 18, 2010"
   },
   {
-    "title": "#20 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#20 - Tom Segura",
     "episode_id": 20,
     "isMMA": false,
     "isFC": false,
@@ -15036,8 +15036,8 @@ module.exports = [
     "date": "May 12, 2010"
   },
   {
-    "title": "#19 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#19 - Brian Redban",
     "episode_id": 19,
     "isMMA": false,
     "isFC": false,
@@ -15045,8 +15045,8 @@ module.exports = [
     "date": "May 4, 2010"
   },
   {
-    "title": "#18 - Redban",
     "guests": ["Redban"],
+    "title": "#18 - Redban",
     "episode_id": 18,
     "isMMA": false,
     "isFC": false,
@@ -15054,8 +15054,8 @@ module.exports = [
     "date": "April 27, 2010"
   },
   {
-    "title": "#17 - Ari Shaffir, Eddie Bravo",
     "guests": ["Ari Shaffir, Eddie Bravo"],
+    "title": "#17 - Ari Shaffir, Eddie Bravo",
     "episode_id": 17,
     "isMMA": false,
     "isFC": false,
@@ -15063,8 +15063,8 @@ module.exports = [
     "date": "April 21, 2010"
   },
   {
-    "title": "#16 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#16 - Brian Redban",
     "episode_id": 16,
     "isMMA": false,
     "isFC": false,
@@ -15072,8 +15072,8 @@ module.exports = [
     "date": "April 13, 2010"
   },
   {
-    "title": "#15 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#15 - Brian Redban",
     "episode_id": 15,
     "isMMA": false,
     "isFC": false,
@@ -15081,8 +15081,8 @@ module.exports = [
     "date": "April 7, 2010"
   },
   {
-    "title": "#14 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#14 - Brian Redban",
     "episode_id": 14,
     "isMMA": false,
     "isFC": false,
@@ -15090,8 +15090,8 @@ module.exports = [
     "date": "April 3, 2010"
   },
   {
-    "title": "#13 - Eddie Bravo",
     "guests": ["Eddie Bravo"],
+    "title": "#13 - Eddie Bravo",
     "episode_id": 13,
     "isMMA": false,
     "isFC": false,
@@ -15099,8 +15099,8 @@ module.exports = [
     "date": "March 31, 2010"
   },
   {
-    "title": "#12 - Joe Rogan",
     "guests": ["Joe Rogan"],
+    "title": "#12 - Joe Rogan",
     "episode_id": 12,
     "isMMA": false,
     "isFC": false,
@@ -15108,8 +15108,8 @@ module.exports = [
     "date": "March 20, 2010"
   },
   {
-    "title": "#11 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#11 - Brian Redban",
     "episode_id": 11,
     "isMMA": false,
     "isFC": false,
@@ -15117,8 +15117,8 @@ module.exports = [
     "date": "March 9, 2010"
   },
   {
-    "title": "#10 - Joe Rogan",
     "guests": ["Joe Rogan"],
+    "title": "#10 - Joe Rogan",
     "episode_id": 10,
     "isMMA": false,
     "isFC": false,
@@ -15126,8 +15126,8 @@ module.exports = [
     "date": "March 3, 2010"
   },
   {
-    "title": "#9 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#9 - Brian Redban",
     "episode_id": 9,
     "isMMA": false,
     "isFC": false,
@@ -15135,8 +15135,8 @@ module.exports = [
     "date": "February 24, 2010"
   },
   {
-    "title": "#8 - Tom Segura",
     "guests": ["Tom Segura"],
+    "title": "#8 - Tom Segura",
     "episode_id": 8,
     "isMMA": false,
     "isFC": false,
@@ -15144,8 +15144,8 @@ module.exports = [
     "date": "February 10, 2010"
   },
   {
-    "title": "#7 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#7 - Brian Redban",
     "episode_id": 7,
     "isMMA": false,
     "isFC": false,
@@ -15153,8 +15153,8 @@ module.exports = [
     "date": "February 3, 2010"
   },
   {
-    "title": "#6 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#6 - Brian Redban",
     "episode_id": 6,
     "isMMA": false,
     "isFC": false,
@@ -15162,8 +15162,8 @@ module.exports = [
     "date": "January 28, 2010"
   },
   {
-    "title": "#5 - Ari Shaffir, John Heffron",
     "guests": ["Ari Shaffir, John Heffron"],
+    "title": "#5 - Ari Shaffir, John Heffron",
     "episode_id": 5,
     "isMMA": false,
     "isFC": false,
@@ -15171,8 +15171,8 @@ module.exports = [
     "date": "January 21, 2010"
   },
   {
-    "title": "#4 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#4 - Brian Redban",
     "episode_id": 4,
     "isMMA": false,
     "isFC": false,
@@ -15180,8 +15180,8 @@ module.exports = [
     "date": "January 13, 2010"
   },
   {
-    "title": "#3 - Ari Shaffir",
     "guests": ["Ari Shaffir"],
+    "title": "#3 - Ari Shaffir",
     "episode_id": 3,
     "isMMA": false,
     "isFC": false,
@@ -15189,8 +15189,8 @@ module.exports = [
     "date": "January 6, 2010"
   },
   {
-    "title": "#2 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#2 - Brian Redban",
     "episode_id": 2,
     "isMMA": false,
     "isFC": false,
@@ -15198,13 +15198,21 @@ module.exports = [
     "date": "December 29, 2009"
   },
   {
-    "title": "#1 - Brian Redban",
     "guests": ["Brian Redban"],
+    "title": "#1 - Brian Redban",
     "episode_id": 1,
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
     "date": "December 24, 2009"
+  },
+  {
+    "guests": ["Brendan Schaub", "Bobby Lee", "Bryan Callen"],
+    "title": "Fight Companion – July 11, 2015",
+    "episode_id": null,
+    "isMMA": false,
+    "isFC": true,
+    "description": "The Fighter & The Kid took over the Talking Monkey Studios to watch the fights with comedian Bobby Lee on July 11, 2015. http://www.tfatk.com",
+    "date": "July 11, 2015"
   }
 ]
-
