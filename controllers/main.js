@@ -1,12 +1,14 @@
 const express = require('express')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
+const moment = require('moment')
 
 const main = express.Router()
 
 // Optional seed route for DB
-main.get('/seed', (req, res) => {
-  Episode.insertMany(seed, (error, addedSeed) => {
+main.get('/seed', async (req, res) => {
+  await Episode.deleteMany({})
+  await Episode.insertMany(seed, (error, addedSeed) => {
     return error ? res.send(error) : res.send(addedSeed)
   })
 })
@@ -21,15 +23,15 @@ main.get('/api/all', (req, res) => {
 // Fix the 'null' values on older Fight Companion episodes
 main.get('/api/fixFC', async (req, res) => {
   try {
-    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: null})
+    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({date: 1})
     for (let i = data.length - 1; i >= 0; i--) {
-      const num = Number(data[i].title.match(/[0-9]*$/g)[0])
-      // data[i].episode_id = num
-      await Episode.updateOne({_id: data[i]._id}, {episode_id: num}, (err, changed) => {
+      const readableDate = moment(new Date(data[i].date)).format('MMMM D, YYYY')
+      // console.log(`Fight Companion - ${readableDate}`)
+      await Episode.updateOne({_id: data[i]._id}, {title: `Fight Companion - ${readableDate}`}, (err, changed) => {
         console.log(changed)
       })
     }
-    const afterCheck = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: null})
+    const afterCheck = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({episode_id: 1})
     res.send(afterCheck);
   } catch (error) {
     console.log(error)
@@ -39,7 +41,7 @@ main.get('/api/fixFC', async (req, res) => {
 // All Fight Companion episodes 
 main.get('/api/fc', async (req, res) => {
   try {
-    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$gte: 35}}).sort({episode_id: 1})
+    const data = await Episode.find({$text: {$search: "\"Fight Companion\""}, episode_id: {$lt: 500}}).sort({date: 1})
 
     let test = 1
     for (let i = 0; i < data.length; i++) {
@@ -52,7 +54,7 @@ main.get('/api/fc', async (req, res) => {
         test = thisEpisode + 1
       }
     }
-
+    console.log(data.length, "is the lenght")
     res.json(data)
   } catch (error) {
     console.log(error)
