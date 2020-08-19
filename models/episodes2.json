@@ -181,10 +181,10 @@
   },
   {
     "guests": ["Fight Companion – July 11, 2020"],
-    "title": "#050 - Fight Companion – July 11, 2020",
-    "episode_id": 50,
+    "title": "Fight Companion - July 13, 2020",
+    "episode_id": 53,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Joey Diaz & Tony Hinchcliffe to watch the fights on July 11, 2020.",
     "date": "2020-07-13T04:00:00.000Z"
   },
@@ -487,10 +487,10 @@
   },
   {
     "guests": ["Fight Companion – May 16, 2020"],
-    "title": "#049 - Fight Companion – May 16, 2020",
-    "episode_id": 49,
+    "title": "Fight Companion - May 16, 2020",
+    "episode_id": 52,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on May 16, 2020.",
     "date": "2020-05-16T04:00:00.000Z"
   },
@@ -820,10 +820,10 @@
   },
   {
     "guests": ["Fight Companion – March 14, 2020"],
-    "title": "#048 - Fight Companion – March 14, 2020",
-    "episode_id": 48,
+    "title": "Fight Companion - March 14, 2020",
+    "episode_id": 51,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on March 14, 2020.",
     "date": "2020-03-14T04:00:00.000Z"
   },
@@ -928,10 +928,10 @@
   },
   {
     "guests": ["Fight Companion – February 22, 2020"],
-    "title": "#047 - Fight Companion – February 22, 2020",
-    "episode_id": 47,
+    "title": "Fight Companion - February 22, 2020",
+    "episode_id": 50,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on February 22, 2020.",
     "date": "2020-02-22T05:00:00.000Z"
   },
@@ -1198,10 +1198,10 @@
   },
   {
     "guests": ["Fight Companion – January 9, 2020"],
-    "title": "#046 - Fight Companion – January 9, 2020",
-    "episode_id": 46,
+    "title": "Fight Companion - January 10, 2020",
+    "episode_id": 49,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub.",
     "date": "2020-01-10T05:00:00.000Z"
   },
@@ -1819,10 +1819,10 @@
   },
   {
     "guests": ["Fight Companion – September 7, 2019"],
-    "title": "#045 - Fight Companion – September 7, 2019",
-    "episode_id": 45,
+    "title": "Fight Companion - September 7, 2019",
+    "episode_id": 48,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on September 7, 2019.",
     "date": "2019-09-07T04:00:00.000Z"
   },
@@ -2935,10 +2935,10 @@
   },
   {
     "guests": ["Fight Companion – February 17, 2019"],
-    "title": "#044 - Fight Companion – February 17, 2019",
-    "episode_id": 44,
+    "title": "Fight Companion - February 17, 2019",
+    "episode_id": 47,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on February 17, 2019.",
     "date": "2019-02-17T05:00:00.000Z"
   },
@@ -3079,10 +3079,10 @@
   },
   {
     "guests": ["Fight Companion – January 26, 2019"],
-    "title": "#043 - Fight Companion – January 26, 2019",
-    "episode_id": 43,
+    "title": "Fight Companion - January 26, 2019",
+    "episode_id": 46,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on January 26, 2019.",
     "date": "2019-01-26T05:00:00.000Z"
   },
@@ -3394,10 +3394,10 @@
   },
   {
     "guests": ["Fight Companion – November 24, 2018"],
-    "title": "#042 - Fight Companion – November 24, 2018",
-    "episode_id": 42,
+    "title": "Fight Companion - November 24, 2018",
+    "episode_id": 45,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on November 24, 2018.",
     "date": "2018-11-24T05:00:00.000Z"
   },
@@ -3475,8 +3475,8 @@
   },
   {
     "guests": ["FC41"],
-    "title": "#FC41 - Fight Companion 41",
-    "episode_id": 41,
+    "title": "Fight Companion - November 11, 2018",
+    "episode_id": 44,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on November...",
@@ -4357,10 +4357,10 @@
   },
   {
     "guests": ["Fight Companion – May 27, 2018"],
-    "title": "#040 - Fight Companion – May 27, 2018",
-    "episode_id": 40,
+    "title": "Fight Companion - May 27, 2018",
+    "episode_id": 43,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on May 27, 2018.",
     "date": "2018-05-27T04:00:00.000Z"
   },
@@ -4492,8 +4492,8 @@
   },
   {
     "guests": ["FC39"],
-    "title": "#FC39 - Fight Companion 39",
-    "episode_id": 39,
+    "title": "Fight Companion - April 28, 2018",
+    "episode_id": 42,
     "isMMA": false,
     "isFC": true,
     "description": "FC39. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on April...",
@@ -5059,8 +5059,8 @@
   },
   {
     "guests": ["FC36"],
-    "title": "#FC36 - Fight Companion 36",
-    "episode_id": 36,
+    "title": "Fight Companion - January 14, 2018",
+    "episode_id": 41,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo, Jimmy Smith, and Bryan Callen to discuss the...",
@@ -5420,7 +5420,7 @@
   {
     "guests": ["Brendan Schaub"],
     "title": "Fight Recap w/ Brendan Schaub",
-    "episode_id": null,
+    "episode_id": 40,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017.",
@@ -5509,8 +5509,8 @@
   },
   {
     "guests": ["FC37"],
-    "title": "#FC37 - Fight Companion 37",
-    "episode_id": 37,
+    "title": "Fight Companion - October 21, 2017",
+    "episode_id": 39,
     "isMMA": false,
     "isFC": true,
     "description": "FC37. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on October 21,...",
@@ -5635,8 +5635,8 @@
   },
   {
     "guests": ["FC36"],
-    "title": "#FC36 - Fight Companion 36",
-    "episode_id": 36,
+    "title": "Fight Companion - September 16, 2017",
+    "episode_id": 38,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo & Jim Norton to watch the fights on September...",
@@ -5698,8 +5698,8 @@
   },
   {
     "guests": ["FC35"],
-    "title": "#FC35 - Fight Companion 35",
-    "episode_id": 35,
+    "title": "Fight Companion - September 2, 2017",
+    "episode_id": 37,
     "isMMA": false,
     "isFC": true,
     "description": "FC35. Joe sits down with Brendan Schaub to watch the fights on September 2, 2017.",
@@ -5735,7 +5735,7 @@
   {
     "guests": ["Brendan Schaub"],
     "title": "Mayweather vs. McGregor Recap with Brendan Schaub",
-    "episode_id": null,
+    "episode_id": 36,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Brendan Schaub to discuss the recent fight between Floyd Mayweather & Conor McGregor.",
@@ -6067,7 +6067,7 @@
   },
   {
     "guests": ["FC35"],
-    "title": "#FC35 - Fight Companion 35",
+    "title": "Fight Companion - June 3, 2017",
     "episode_id": 35,
     "isMMA": false,
     "isFC": true,
@@ -6112,7 +6112,7 @@
   },
   {
     "guests": ["FC34"],
-    "title": "#FC34 - Fight Companion 34",
+    "title": "Fight Companion - May 28, 2017",
     "episode_id": 34,
     "isMMA": false,
     "isFC": true,
@@ -6463,7 +6463,7 @@
   },
   {
     "guests": ["FC33"],
-    "title": "#FC33 - Fight Companion 33",
+    "title": "Fight Companion - March 12, 2017",
     "episode_id": 33,
     "isMMA": false,
     "isFC": true,
@@ -6571,7 +6571,7 @@
   },
   {
     "guests": ["FC32"],
-    "title": "#FC32 - Fight Companion 32",
+    "title": "Fight Companion - February 19, 2017",
     "episode_id": 32,
     "isMMA": false,
     "isFC": true,
@@ -6679,7 +6679,7 @@
   },
   {
     "guests": ["FC31"],
-    "title": "#FC31 - Fight Companion 31",
+    "title": "Fight Companion - January 29, 2017",
     "episode_id": 31,
     "isMMA": false,
     "isFC": true,
@@ -6760,7 +6760,7 @@
   },
   {
     "guests": ["FC30"],
-    "title": "#FC30 - Fight Companion 30",
+    "title": "Fight Companion - January 15, 2017",
     "episode_id": 30,
     "isMMA": false,
     "isFC": true,
@@ -6931,7 +6931,7 @@
   },
   {
     "guests": ["FC29"],
-    "title": "#FC29 - Fight Companion 29",
+    "title": "Fight Companion - December 3, 2016",
     "episode_id": 29,
     "isMMA": false,
     "isFC": true,
@@ -7111,7 +7111,7 @@
   },
   {
     "guests": ["FC28"],
-    "title": "#FC28 - Fight Companion 28",
+    "title": "Fight Companion - October 22, 2016",
     "episode_id": 28,
     "isMMA": false,
     "isFC": true,
@@ -7183,7 +7183,7 @@
   },
   {
     "guests": ["FC27"],
-    "title": "#FC27 - Fight Companion 27",
+    "title": "Fight Companion - October 9, 2016",
     "episode_id": 27,
     "isMMA": false,
     "isFC": true,
@@ -7273,7 +7273,7 @@
   },
   {
     "guests": ["FC26"],
-    "title": "#FC26 - Fight Companion 26",
+    "title": "Fight Companion - September 17, 2016",
     "episode_id": 26,
     "isMMA": false,
     "isFC": true,
@@ -7336,7 +7336,7 @@
   },
   {
     "guests": ["FC25"],
-    "title": "#FC25 - Fight Companion 25",
+    "title": "Fight Companion - September 3, 2016",
     "episode_id": 25,
     "isMMA": false,
     "isFC": true,
@@ -7372,7 +7372,7 @@
   },
   {
     "guests": ["FC24"],
-    "title": "#FC24 - Fight Companion 24",
+    "title": "Fight Companion - August 27, 2016",
     "episode_id": 24,
     "isMMA": false,
     "isFC": true,
@@ -7453,7 +7453,7 @@
   },
   {
     "guests": ["FC23"],
-    "title": "#FC23 - Fight Companion 23",
+    "title": "Fight Companion - August 6, 2016",
     "episode_id": 23,
     "isMMA": false,
     "isFC": true,
@@ -7642,7 +7642,7 @@
   },
   {
     "guests": ["FC22"],
-    "title": "#FC22 - Fight Companion 22",
+    "title": "Fight Companion - June 19, 2016",
     "episode_id": 22,
     "isMMA": false,
     "isFC": true,
@@ -7723,7 +7723,7 @@
   },
   {
     "guests": ["FC21"],
-    "title": "#FC21 - Fight Companion 21",
+    "title": "Fight Companion - May 30, 2016",
     "episode_id": 21,
     "isMMA": false,
     "isFC": true,
@@ -8092,7 +8092,7 @@
   },
   {
     "guests": ["FC20"],
-    "title": "#FC20 - Fight Companion 20",
+    "title": "Fight Companion - February 21, 2016",
     "episode_id": 20,
     "isMMA": false,
     "isFC": true,
@@ -8155,7 +8155,7 @@
   },
   {
     "guests": ["FC19"],
-    "title": "#FC19 - Fight Companion 19",
+    "title": "Fight Companion - February 6, 2016",
     "episode_id": 19,
     "isMMA": false,
     "isFC": true,
@@ -8425,7 +8425,7 @@
   },
   {
     "guests": ["FC18"],
-    "title": "#FC18 - Fight Companion 18",
+    "title": "Fight Companion - November 28, 2015",
     "episode_id": 18,
     "isMMA": false,
     "isFC": true,
@@ -8704,7 +8704,7 @@
   },
   {
     "guests": ["FC17"],
-    "title": "#FC17 - Fight Companion 17",
+    "title": "Fight Companion - September 26, 2015",
     "episode_id": 17,
     "isMMA": false,
     "isFC": true,
@@ -8839,7 +8839,7 @@
   },
   {
     "guests": ["FC16"],
-    "title": "#FC16 - Fight Companion 16",
+    "title": "Fight Companion - August 23, 2015",
     "episode_id": 16,
     "isMMA": false,
     "isFC": true,
@@ -8902,7 +8902,7 @@
   },
   {
     "guests": ["FC15"],
-    "title": "#FC15 - Fight Companion 15",
+    "title": "Fight Companion - August 8, 2015",
     "episode_id": 15,
     "isMMA": false,
     "isFC": true,
@@ -8991,6 +8991,15 @@
     "date": "2015-07-21T04:00:00.000Z"
   },
   {
+    "guests": ["Brendan Schaub", "Bobby Lee", "Bryan Callen"],
+    "title": "Fight Companion - July 11, 2015",
+    "episode_id": 14,
+    "isMMA": false,
+    "isFC": true,
+    "description": "The Fighter & The Kid took over the Talking Monkey Studios to watch the fights with comedian Bobby Lee on July 11, 2015. http://www.tfatk.com",
+    "date": "2015-07-11T04:00:00.000Z"
+  },
+  {
     "guests": ["Brendan Schaub", "Bryan Callen"],
     "title": "#671 - Brendan Schaub & Bryan Callen",
     "episode_id": 671,
@@ -9073,7 +9082,7 @@
   },
   {
     "guests": ["FC13"],
-    "title": "#FC13 - Fight Companion 13",
+    "title": "Fight Companion - June 20, 2015",
     "episode_id": 13,
     "isMMA": false,
     "isFC": true,
@@ -9217,7 +9226,7 @@
   },
   {
     "guests": ["FC12"],
-    "title": "#FC12 - Fight Companion 12",
+    "title": "Fight Companion - May 16, 2015",
     "episode_id": 12,
     "isMMA": false,
     "isFC": true,
@@ -9370,7 +9379,7 @@
   },
   {
     "guests": ["FC11"],
-    "title": "#FC11 - Fight Companion 11",
+    "title": "Fight Companion - April 11, 2015",
     "episode_id": 11,
     "isMMA": false,
     "isFC": true,
@@ -9550,7 +9559,7 @@
   },
   {
     "guests": ["FC10"],
-    "title": "#FC10 - Fight Companion 10",
+    "title": "Fight Companion - February 22, 2015",
     "episode_id": 10,
     "isMMA": false,
     "isFC": true,
@@ -9586,7 +9595,7 @@
   },
   {
     "guests": ["FC8"],
-    "title": "#FC9 - Fight Companion 9",
+    "title": "Fight Companion - February 15, 2015",
     "episode_id": 9,
     "isMMA": false,
     "isFC": true,
@@ -9829,7 +9838,7 @@
   },
   {
     "guests": ["FC8"],
-    "title": "#FC8 - Fight Companion 8",
+    "title": "Fight Companion - December 16, 2014",
     "episode_id": 8,
     "isMMA": false,
     "isFC": true,
@@ -10013,7 +10022,7 @@
   },
   {
     "guests": ["FC7"],
-    "title": "#FC7 - Fight Companion 7",
+    "title": "Fight Companion - October 25, 2014",
     "episode_id": 7,
     "isMMA": false,
     "isFC": true,
@@ -10166,7 +10175,7 @@
   },
   {
     "guests": ["FC6"],
-    "title": "#FC6 - Fight Companion 6",
+    "title": "Fight Companion - September 20, 2014",
     "episode_id": 6,
     "isMMA": false,
     "isFC": true,
@@ -10436,7 +10445,7 @@
   },
   {
     "guests": ["FC5"],
-    "title": "#FC5 - Fight Companion 5",
+    "title": "Fight Companion - July 16, 2014",
     "episode_id": 5,
     "isMMA": false,
     "isFC": true,
@@ -10481,7 +10490,7 @@
   },
   {
     "guests": ["FC4"],
-    "title": "#FC4 - Fight Companion 4",
+    "title": "Fight Companion - July 6, 2014",
     "episode_id": 4,
     "isMMA": false,
     "isFC": true,
@@ -10508,7 +10517,7 @@
   },
   {
     "guests": ["Jimmy Smith", "Ian McCall"],
-    "title": "#FC3 - Fight Companion 3",
+    "title": "Fight Companion - June 29, 2014",
     "episode_id": 3,
     "isMMA": false,
     "isFC": true,
@@ -10616,10 +10625,10 @@
   },
   {
     "guests": ["Fight"],
-    "title": "#02 - Fight",
+    "title": "Fight Companion - May 31, 2014",
     "episode_id": 2,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "May 31, 2014 – Fight Companion",
     "date": "2014-05-31T04:00:00.000Z"
   },
@@ -10715,10 +10724,10 @@
   },
   {
     "guests": ["Fight"],
-    "title": "#01 - Fight",
+    "title": "Fight Companion - May 10, 2014",
     "episode_id": 1,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "May 10, 2014 – Fight Companion",
     "date": "2014-05-10T04:00:00.000Z"
   },
@@ -15205,14 +15214,5 @@
     "isFC": false,
     "description": "No description available.",
     "date": "2009-12-24T05:00:00.000Z"
-  },
-  {
-    "guests": ["Brendan Schaub", "Bobby Lee", "Bryan Callen"],
-    "title": "Fight Companion – July 11, 2015",
-    "episode_id": 14,
-    "isMMA": false,
-    "isFC": true,
-    "description": "The Fighter & The Kid took over the Talking Monkey Studios to watch the fights with comedian Bobby Lee on July 11, 2015. http://www.tfatk.com",
-    "date": "2015-07-11T04:00:00.000Z"
   }
 ]

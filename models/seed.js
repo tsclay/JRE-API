@@ -6,7 +6,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ali Macofsky is an actress, writer, and standup comedian. Checkout her podcast \"Resting Bitch\" available on Apple Podcasts.",
-    "date": "August 15, 2020"
+    "date": "2020-08-15T04:00:00.000Z"
   },
   {
     "guests": ["Tim Dillon"],
@@ -15,7 +15,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on YouTube & Apple Podcasts.",
-    "date": "August 14, 2020"
+    "date": "2020-08-14T04:00:00.000Z"
   },
   {
     "guests": ["Ron Funches"],
@@ -24,7 +24,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron Funches is a comedian, actor and writer. His podcast \"Gettin' Better\" is available on Apple Podcasts & Spotify. On September 5 , his live stand up event \"Awakening\" will be streaming on YouTube and tickets are now available here: eventbrite.com/e/ron-funches-awakening-tickets-113410704470",
-    "date": "August 13, 2020"
+    "date": "2020-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz", "Brian Redban"],
@@ -33,7 +33,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now.” Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also look for him on “Kill Tony” available on Apple Podcasts & YouTube.",
-    "date": "August 12, 2020"
+    "date": "2020-08-12T04:00:00.000Z"
   },
   {
     "guests": ["Rob Lowe"],
@@ -42,7 +42,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rob Lowe is an actor, producer, and director. His new podcast \"Literally! with Rob Lowe\" is now available on Apple Podcasts.",
-    "date": "August 7, 2020"
+    "date": "2020-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Josh Dubin", "Jason Flom"],
@@ -51,7 +51,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Dubin is an Innocence Project Ambassador Advisor & President of Dubin Research and Consulting, Inc. He also hosts a podcast called \"Wrongful Conviction: Junk Science\" available on Apple Podcasts and Spotify. https://apple.co/2Q5EtHd Jason Flom is an Innocence Project Board Member, CEO of Lava Media, and host of the \"Wrongful Conviction with Jason Flom\" podcast available on Apple Podcasts and Spotify. https://apple.co/2EJxrF3",
-    "date": "August 6, 2020"
+    "date": "2020-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Debra Soh"],
@@ -60,7 +60,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Debra Soh is a former sex researcher, neuroscientist, columnist, and podcast host. Her new book The End of Gender: Debunking the Myths about Sex and Identity in Our Society is now available.",
-    "date": "August 5, 2020"
+    "date": "2020-08-05T04:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -69,7 +69,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. His new show \"Black Files Declassified\" is now available on the Science Channel.",
-    "date": "August 4, 2020"
+    "date": "2020-08-04T04:00:00.000Z"
   },
   {
     "guests": ["David Choe"],
@@ -78,7 +78,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Choe is an American painter, muralist, explorer, adventurer, podcaster, graffiti artist and graphic novelist from Los Angeles, CA.",
-    "date": "July 31, 2020"
+    "date": "2020-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Nancy Panza"],
@@ -87,7 +87,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nancy Panza, Ph.D, is a Professor of Psychology at Cal State Fullerton. She has also worked within county, state, and federal facilities providing clinical and forensic services for juvenile and adult offenders and has provided services for police departments in New York City, Alabama, and Southern California.",
-    "date": "July 30, 2020"
+    "date": "2020-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Post Malone"],
@@ -96,7 +96,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Post Malone is a singer-songwriter, rapper and record producer.",
-    "date": "July 29, 2020"
+    "date": "2020-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Bradley Garrett"],
@@ -105,7 +105,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Bradley Garrett is an American social and cultural geographer at University College Dublin in Ireland and a writer for The Guardian newspaper in the United Kingdom. His new book Bunker: Building for the End Times is available August 4, 2020.",
-    "date": "July 28, 2020"
+    "date": "2020-07-28T04:00:00.000Z"
   },
   {
     "guests": ["Joe De Sena"],
@@ -114,7 +114,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe De Sena is the CEO and founder of Spartan and the Death Race. He is also a NY Times best selling author of Spartan Up, Spartan Fit and The Spartan Way.",
-    "date": "July 24, 2020"
+    "date": "2020-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Huberman"],
@@ -123,7 +123,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Huberman is a neuroscientist and tenured professor in the Department of Neurobiology at the Stanford University School of Medicine. He has made numerous important contributions to the fields of brain development, brain plasticity, and neural regeneration and repair.",
-    "date": "July 23, 2020"
+    "date": "2020-07-23T04:00:00.000Z"
   },
   {
     "guests": ["Ben Shapiro"],
@@ -132,7 +132,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of “The Ben Shapiro Show” is available on SoundCloud and iTunes. His new book How to Destroy America in Three Easy Steps is available now everywhere.",
-    "date": "July 22, 2020"
+    "date": "2020-07-22T04:00:00.000Z"
   },
   {
     "guests": ["Oliver Stone"],
@@ -141,7 +141,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Oliver Stone is an award-winning director, producer, screenwriter, and author. His memoir Chasing the Light is available on July 21, 2020.",
-    "date": "July 21, 2020"
+    "date": "2020-07-21T04:00:00.000Z"
   },
   {
     "guests": ["George Knapp", "Jeremy Corbell"],
@@ -150,7 +150,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "George Knapp is an author, speaker, and the chief investigative reporter at KLAS TV in Las Vegas, NV. Jeremy Corbell is a contemporary artist and documentary filmmaker.",
-    "date": "July 17, 2020"
+    "date": "2020-07-17T04:00:00.000Z"
   },
   {
     "guests": ["Abigail Shrier"],
@@ -159,7 +159,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abigail Shrier is an author, journalist, and writer for the Wall Street Journal. Her new book \"Irreversible Damage: The Transgender Craze Seducing Our Daughters\" is available now.",
-    "date": "July 16, 2020"
+    "date": "2020-07-16T04:00:00.000Z"
   },
   {
     "guests": ["Peter Schiff"],
@@ -168,7 +168,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Schiff is an American businessman, investment broker, author and financial commentator. Schiff is CEO and chief global strategist of Euro Pacific Capital Inc. He also hosts his own podcast called “The Peter Schiff Podcast” available on iTunes and at SchiffRadio.com",
-    "date": "July 15, 2020"
+    "date": "2020-07-15T04:00:00.000Z"
   },
   {
     "guests": ["Bob Saget"],
@@ -177,16 +177,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bob Saget is a stand-up comedian, actor, television host and director. His new podcast is \"Bob Saget's Here For You\" is available now on Apple Podcasts.",
-    "date": "July 14, 2020"
+    "date": "2020-07-14T04:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – July 11, 2020"],
-    "title": "#050 - Fight Companion – July 11, 2020",
-    "episode_id": 50,
+    "title": "Fight Companion - July 13, 2020",
+    "episode_id": 53,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Joey Diaz & Tony Hinchcliffe to watch the fights on July 11, 2020.",
-    "date": "July 13, 2020"
+    "date": "2020-07-13T04:00:00.000Z"
   },
   {
     "guests": ["James Nestor"],
@@ -195,7 +195,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Nestor is a journalist who has written for Outside magazine, Men's Journal, Scientific American, Dwell magazine, National Public Radio, The New York Times, The Atlantic, the San Francisco Chronicle magazine, and others. His new book Breath: The New Science of a Lost Art is available now: https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615",
-    "date": "July 10, 2020"
+    "date": "2020-07-10T04:00:00.000Z"
   },
   {
     "guests": ["Hannibal Buress"],
@@ -204,7 +204,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his new special \"Miami Nights\" available now on YouTube. https://youtu.be/kVc4-05Agf0",
-    "date": "July 9, 2020"
+    "date": "2020-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Alan Levinovitz"],
@@ -213,7 +213,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Alan Levinovitz is an author and Associate Professor of Religion at James Madison University. His latest book Natural: How Faith in Nature's Goodness Leads to Harmful Fads, Unjust Laws, and Flawed Science is available now. Also look for his podcast SHIFT available at http://shiftpodcast.co/",
-    "date": "July 8, 2020"
+    "date": "2020-07-08T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -222,7 +222,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Barnett is a mixed martial artist and professional wrestler who competes in the Heavyweight division of Bellator.",
-    "date": "July 7, 2020"
+    "date": "2020-07-07T04:00:00.000Z"
   },
   {
     "guests": ["Russell Peters"],
@@ -231,7 +231,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Peters is an actor and stand up comedian. His latest stand up special \"Deported\" is now available on Amazon Prime.",
-    "date": "July 3, 2020"
+    "date": "2020-07-03T04:00:00.000Z"
   },
   {
     "guests": ["James Lindsay"],
@@ -240,7 +240,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Lindsay is an author, mathematician, and political commentator. His latest book, co-authored with Helen Pluckrose, Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity―and Why This Harms Everybody will be available on August 25, 2020.",
-    "date": "July 2, 2020"
+    "date": "2020-07-02T04:00:00.000Z"
   },
   {
     "guests": ["Barbara Freese"],
@@ -249,7 +249,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Barbara Freese is an author, environmental attorney and a former Minnesota assistant attorney general. Her latest book Industrial-Strength Denial is now available: https://www.ucpress.edu/book/9780520296282/industrial-strength-denial",
-    "date": "July 1, 2020"
+    "date": "2020-07-01T04:00:00.000Z"
   },
   {
     "guests": ["Aron Snyder"],
@@ -258,7 +258,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aron Snyder is the President at Kifaru international, and also the host of the KifaruCast podcast available on Apple Podcasts.",
-    "date": "June 30, 2020"
+    "date": "2020-06-30T04:00:00.000Z"
   },
   {
     "guests": ["Jon Stewart"],
@@ -267,7 +267,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jon Stewart is a comedian, director, writer, producer, activist, and television host. He's the director fo the new film \"Irresistible\" that releases on June 26, 2020.",
-    "date": "June 26, 2020"
+    "date": "2020-06-26T04:00:00.000Z"
   },
   {
     "guests": ["Joe Schilling"],
@@ -276,7 +276,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Schilling is an American Muay Thai kickboxer and MMA fighter who competes in the super middleweight and light heavyweight and the Middleweight division of Bellator MMA.",
-    "date": "June 25, 2020"
+    "date": "2020-06-25T04:00:00.000Z"
   },
   {
     "guests": ["Colion Noir"],
@@ -285,7 +285,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colion Noir is a gun rights activist, lawyer, member of the National Rifle Association. Check out more of his content on his YouTube channel: https://www.youtube.com/mrcolionnoir",
-    "date": "June 23, 2020"
+    "date": "2020-06-23T04:00:00.000Z"
   },
   {
     "guests": ["Kyle Dunnigan"],
@@ -294,7 +294,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Dunnigan is a writer, actor and comedian. Check out his hilarious Instagram page: https://www.instagram.com/kyledunnigan1/",
-    "date": "June 19, 2020"
+    "date": "2020-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Bret Weinstein"],
@@ -303,7 +303,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bret Weinstein was a biology professor at Evergreen State College in Olympia, WA. He is now hosting \"Bret Weinstein's Dark Horse Podcast\" available on Apple Podcasts and YouTube.",
-    "date": "June 18, 2020"
+    "date": "2020-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Steve Schirripa", "Michael Imperioli"],
@@ -312,7 +312,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Schirripa & Michael Imperioli were co-stars on the HBO show The Sopranos, and are now together hosting a re-watch podcast called \"Talking Sopranos\" that is available now on Apple Podcasts.",
-    "date": "June 17, 2020"
+    "date": "2020-06-17T04:00:00.000Z"
   },
   {
     "guests": ["Jocko Willink"],
@@ -321,7 +321,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jocko Willink is a decorated retired Navy SEAL officer, author of the book Extreme Ownership: How U.S. Navy SEALs Lead and Win, and co-founder of Echelon Front, where he is a leadership instructor, speaker, and executive coach. His podcast, The Jocko Podcast, is also available for download via Apple Podcasts & Stitcher.",
-    "date": "June 16, 2020"
+    "date": "2020-06-16T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -330,7 +330,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called “The Monday Morning Podcast”. Look for him in the new film \"The King of Staten Island\" available for streaming everywhere, and also on the 4th season of his show \"F Is for Family\" streaming only on Netflix, both available on June 12.",
-    "date": "June 12, 2020"
+    "date": "2020-06-12T04:00:00.000Z"
   },
   {
     "guests": ["Jimmy O. Yang"],
@@ -339,7 +339,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jimmy O. Yang is an actor, stand-up comedian, and writer. Check out his new special \"Jimmy O. Yang: Good Deal\" available to stream now on Amazon Prime.",
-    "date": "June 11, 2020"
+    "date": "2020-06-11T04:00:00.000Z"
   },
   {
     "guests": ["Ronnie Coleman"],
@@ -348,7 +348,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ronnie Coleman is a retired professional bodybuilder. He is a 8-time consecutive winner of Mr.Olympia, and also won a record 26 titles as a IFBB professional.",
-    "date": "June 10, 2020"
+    "date": "2020-06-10T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Schulz"],
@@ -357,7 +357,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Schulz is a stand up comedian, actor, and host. Check out his podcasts \"Flagrant 2\" & \"The Brilliant Idiots\" co-hosted with Charlamagne tha God.",
-    "date": "June 9, 2020"
+    "date": "2020-06-09T04:00:00.000Z"
   },
   {
     "guests": ["Henry Cejudo"],
@@ -366,7 +366,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with the former UFC flyweight champion and UFC bantamweight champion, Henry Cejudo.",
-    "date": "June 8, 2020"
+    "date": "2020-06-08T04:00:00.000Z"
   },
   {
     "guests": ["Janet Zuccarini", "Evan Funke"],
@@ -375,7 +375,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Janet Zuccarini is the CEO & owner of Gusto 54 Restaurant Group. Evan Funke is a master pasta maker and the chef-owner of Felix Trattoria in Venice, CA.",
-    "date": "June 8, 2020"
+    "date": "2020-06-08T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey"],
@@ -384,7 +384,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA.",
-    "date": "June 5, 2020"
+    "date": "2020-06-05T04:00:00.000Z"
   },
   {
     "guests": ["Krystal", "Saagar"],
@@ -393,7 +393,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Krystal & Saagar are the hosts of Rising, an American daily news and opinion web series produced by Washington, D.C. political newspaper The Hill.",
-    "date": "June 3, 2020"
+    "date": "2020-06-03T04:00:00.000Z"
   },
   {
     "guests": ["Reggie Watts"],
@@ -402,7 +402,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Reggie Watts is a musician, singer, beatboxer, actor, and comedian. His improvised musical sets are created using only his voice, a keyboard, and a looping machine. He is also currently the announcer and band leader on The Late Late Show with James Corden.",
-    "date": "June 2, 2020"
+    "date": "2020-06-02T04:00:00.000Z"
   },
   {
     "guests": ["Jesus Trejo"],
@@ -411,7 +411,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jesus Trejo is a comedian, actor and writer. His new special \"Stay At Home Son\" premieres on Showtime on May 29.",
-    "date": "May 29, 2020"
+    "date": "2020-05-29T04:00:00.000Z"
   },
   {
     "guests": ["Jordan Jonas"],
@@ -420,7 +420,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Jonas spent 77 days living alone in the Canadian wilderness to become the winner for the sixth season of the History Channel’s reality television show “Alone.”",
-    "date": "May 28, 2020"
+    "date": "2020-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Justin Gaethje", "Trevor Wittman"],
@@ -429,7 +429,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Interim UFC Lightweight Champion Justin Gaethje & boxing and MMA trainer Trevor Wittman.",
-    "date": "May 27, 2020"
+    "date": "2020-05-27T04:00:00.000Z"
   },
   {
     "guests": ["Adam Eget"],
@@ -438,7 +438,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Eget is the talent coordinator at The Comedy Store and is also the sidekick on Norm MacDonald's show \"Norm MacDonald Has A Show\" on Netflix.",
-    "date": "May 26, 2020"
+    "date": "2020-05-26T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Hart"],
@@ -447,7 +447,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Hart is a comedian, actor and producer. His new audiobook \"The Decision: Overcoming Today's BS for Tomorrow's Success\" is available now on Audible.",
-    "date": "May 25, 2020"
+    "date": "2020-05-25T04:00:00.000Z"
   },
   {
     "guests": ["David Pakman"],
@@ -456,7 +456,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Pakman is a television & radio host, political commentator, and YouTube personality. He is the host of the internationally syndicated political television and talk radio program The David Pakman Show.",
-    "date": "May 22, 2020"
+    "date": "2020-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hawk"],
@@ -465,7 +465,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hawk is a professional skateboarder, actor, stuntman, and the owner of the skateboard company Birdhouse.",
-    "date": "May 20, 2020"
+    "date": "2020-05-20T04:00:00.000Z"
   },
   {
     "guests": ["Joel Salatin"],
@@ -474,7 +474,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joel Salatin is an American farmer, lecturer, and author whose books include Folks, This Ain’t Normal, You Can Farm and Salad Bar Beef. His latest book, co-authored with Dr. Sina McCullough, Beyond Labels: A Doctor and a Farmer Conquer Food Confusion One Bite at a Time is available for preorder now.",
-    "date": "May 20, 2020"
+    "date": "2020-05-20T04:00:00.000Z"
   },
   {
     "guests": ["Patton Oswalt"],
@@ -483,16 +483,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Patton Oswalt is a stand-up comedian, actor, voice actor, and writer. His brand new special \"I Love Everything\" is now streaming on Netflix.",
-    "date": "May 19, 2020"
+    "date": "2020-05-19T04:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – May 16, 2020"],
-    "title": "#049 - Fight Companion – May 16, 2020",
-    "episode_id": 49,
+    "title": "Fight Companion - May 16, 2020",
+    "episode_id": 52,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on May 16, 2020.",
-    "date": "May 16, 2020"
+    "date": "2020-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Bridget Phetasy"],
@@ -501,7 +501,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bridget Phetasy is a writer and comedian. Check out her show on YouTube called “Dumpster Fire” — https://www.youtube.com/channel/UC5SQnm72FspDNUXK4cB2_xg & her podcast called “Walk-Ins Welcome” available on Apple Podcasts & Stitcher.",
-    "date": "May 16, 2020"
+    "date": "2020-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -510,7 +510,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "May 14, 2020"
+    "date": "2020-05-14T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -519,7 +519,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his new book \"You're Doing Great!\" and also his podcast \"Breaking Bread with Tom Papa\" on Apple Podcasts.",
-    "date": "May 13, 2020"
+    "date": "2020-05-13T04:00:00.000Z"
   },
   {
     "guests": ["Michael Yo"],
@@ -528,7 +528,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Yo is a stand up comedian. Look for his podcast \"Michael Yo Show\" available on Apple Podcasts.",
-    "date": "May 12, 2020"
+    "date": "2020-05-12T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -537,7 +537,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss some of the upcoming fights.",
-    "date": "May 8, 2020"
+    "date": "2020-05-08T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -546,7 +546,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcast called “Kill Tony” with Redban, and it’s available on Apple Podcasts & YouTube.",
-    "date": "May 7, 2020"
+    "date": "2020-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Elon Musk"],
@@ -555,7 +555,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Elon Musk is a business magnet, entrepreneur and engineer.",
-    "date": "May 7, 2020"
+    "date": "2020-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Adam Perry Lang"],
@@ -564,7 +564,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Perry Lang is a chef, restaurateur and cookbook author. He is the owner of APL restaurant in Hollywood, CA.",
-    "date": "May 5, 2020"
+    "date": "2020-05-05T04:00:00.000Z"
   },
   {
     "guests": ["Alonzo Bodden"],
@@ -573,7 +573,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alonzo Bodden is a stand up comedian and also the winner of Last Comic Standing Season 3. Check out his podcast called “Who’s Paying Attention” available via Apple Podcasts and Stitcher.",
-    "date": "May 1, 2020"
+    "date": "2020-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Jack Carr"],
@@ -582,7 +582,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jack Carr is a bestselling author and former Navy SEAL. He is the author of The Terminal List, True Believer, and his latest Savage Son is now available. https://www.amazon.com/Savage-Son-Thriller-Jack-Carr/dp/1982123702",
-    "date": "April 30, 2020"
+    "date": "2020-04-30T04:00:00.000Z"
   },
   {
     "guests": ["Jessimae Peluso"],
@@ -591,7 +591,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jessimae Peluso is a stand-up comedian and television personality. Check out her podcast called “Sharp Tongue” available on Apple Podcasts.",
-    "date": "April 29, 2020"
+    "date": "2020-04-29T04:00:00.000Z"
   },
   {
     "guests": ["Tim Pool"],
@@ -600,7 +600,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Pool is an independent journalist. His work can currently be found  at http://timcast.com and on his YouTube channel: https://www.youtube.com/timcast",
-    "date": "April 27, 2020"
+    "date": "2020-04-27T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -609,7 +609,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”. His new show “The Midnight Gospel” is now streaming only on Netflix.",
-    "date": "April 25, 2020"
+    "date": "2020-04-25T04:00:00.000Z"
   },
   {
     "guests": ["Tom Green"],
@@ -618,7 +618,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Green is a comedian, actor, filmmaker, and talk show host. His podcast \"The Tom Green Podcast\" is available via Apple Podcasts and Spotify.",
-    "date": "April 24, 2020"
+    "date": "2020-04-24T04:00:00.000Z"
   },
   {
     "guests": ["Kurt Metzger"],
@@ -627,7 +627,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kurt Metzger is a comedian, actor and writer.  He also has a podcast called “Can't Get Right” that is available via GaS Digital and Apple Podcasts.",
-    "date": "April 23, 2020"
+    "date": "2020-04-23T04:00:00.000Z"
   },
   {
     "guests": ["Owen Smith"],
@@ -636,7 +636,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Smith is a comedian, writer, actor and television producer. Check out his new show \"Notebooks\" available now on YouTube.  https://www.youtube.com/owensmithtv",
-    "date": "April 22, 2020"
+    "date": "2020-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Donnell Rawlings"],
@@ -645,7 +645,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donnell Rawlings is a stand up comedian, actor, and podcaster. His new podcast “The Donnell Rawlings Show” is available on Apple Podcasts & YouTube.",
-    "date": "April 17, 2020"
+    "date": "2020-04-17T04:00:00.000Z"
   },
   {
     "guests": ["Tom O’Neill"],
@@ -654,7 +654,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom O’Neill is an award-winning investigative journalist and entertainment",
-    "date": "April 16, 2020"
+    "date": "2020-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Chris D’Elia"],
@@ -663,7 +663,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris D’Elia is an actor, writer, and comedian. His new special “No Pain” is now streaming on Netflix and his podcast called “Congratulations” available on Apple Podcasts.",
-    "date": "April 15, 2020"
+    "date": "2020-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Tim Dillon"],
@@ -672,7 +672,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on YouTube & Apple Podcasts.",
-    "date": "April 14, 2020"
+    "date": "2020-04-14T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -681,7 +681,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with with Brendan Schaub to discuss the \"upcoming\" fights.",
-    "date": "April 10, 2020"
+    "date": "2020-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Michael Shermer"],
@@ -690,7 +690,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic. His new book “Giving the Devil His Due: Reflections of a Scientific Humanist” is available now.",
-    "date": "April 9, 2020"
+    "date": "2020-04-09T04:00:00.000Z"
   },
   {
     "guests": ["Lex Fridman"],
@@ -699,7 +699,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lex Fridman is a research scientist at MIT working on human-centered artificial intelligence and autonomous vehicles. Check out is podcast “Artificial Intelligence Podcast” available on Apple Podcast & YouTube – https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA",
-    "date": "April 8, 2020"
+    "date": "2020-04-08T04:00:00.000Z"
   },
   {
     "guests": ["Dan Crenshaw"],
@@ -708,7 +708,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Crenshaw is a politician and former United States Navy SEAL officer serving as the U.S. Representative for Texas’s 2nd congressional district since 2019. His new book \"Fortitude: American Resilience in the Outrage Era\" is now available everywhere.",
-    "date": "April 7, 2020"
+    "date": "2020-04-07T04:00:00.000Z"
   },
   {
     "guests": ["Eric Weinstein"],
@@ -717,7 +717,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eric Weinstein is a mathematician and economist, and he is also the managing director at Thiel Capital. His new podcast  “The Portal” is available now on Apple Podcasts & Spotify. https://podcasts.apple.com/us/podcast/the-portal/id1469999563",
-    "date": "April 3, 2020"
+    "date": "2020-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -726,7 +726,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts a podcast with Alison Rosen called “Childish” that is available now on iTunes & Stitcher.",
-    "date": "April 2, 2020"
+    "date": "2020-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Peter Hotez"],
@@ -735,7 +735,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Hotez, M.D., Ph.D. is Dean of the National School of Tropical Medicine and Professor of Pediatrics and Molecular Virology & Microbiology at Baylor College of Medicine where he is also the Director of the Texas Children’s Center for Vaccine Development (CVD) and Texas Children’s Hospital Endowed Chair of Tropical Pediatrics.",
-    "date": "April 1, 2020"
+    "date": "2020-04-01T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -744,7 +744,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also look for him on “Kill Tony” available on Apple Podcasts & YouTube: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "March 31, 2020"
+    "date": "2020-03-31T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -753,7 +753,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast.",
-    "date": "March 27, 2020"
+    "date": "2020-03-27T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -762,7 +762,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "March 26, 2020"
+    "date": "2020-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -771,7 +771,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom’s House. His new special “Ball Hog” is now streaming only on Netflix.  http://tomsegura.com/",
-    "date": "March 25, 2020"
+    "date": "2020-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -780,7 +780,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and podcast host. His new special “Hey Big Boy” is now streaming only on Netflix.",
-    "date": "March 24, 2020"
+    "date": "2020-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Andy Stumpf"],
@@ -789,7 +789,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andy Stumpf is a retired Navy SEAL and was also a two-time wingsuit world record holder. He hosts his own podcast called “Cleared Hot” that can be found on Apple Podcasts & Stitcher.",
-    "date": "March 21, 2020"
+    "date": "2020-03-21T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -798,7 +798,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”. Look for his new show \"The Midnight Gospel\" which starts streaming April 20 on Netflix.",
-    "date": "March 19, 2020"
+    "date": "2020-03-19T04:00:00.000Z"
   },
   {
     "guests": ["Jonathan Ward"],
@@ -807,7 +807,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles.",
-    "date": "March 18, 2020"
+    "date": "2020-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Shannon O’Loughlin"],
@@ -816,16 +816,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shannon O'Loughlin is the Executive Director and attorney for the Association on American Indian Affairs, and she is also a citizen of the Choctaw Nation of Oklahoma.",
-    "date": "March 17, 2020"
+    "date": "2020-03-17T04:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – March 14, 2020"],
-    "title": "#048 - Fight Companion – March 14, 2020",
-    "episode_id": 48,
+    "title": "Fight Companion - March 14, 2020",
+    "episode_id": 51,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on March 14, 2020.",
-    "date": "March 14, 2020"
+    "date": "2020-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Hugo Martin"],
@@ -834,7 +834,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hugo Martin is the creative director of Doom Eternal by id Software. Doom Eternal releases everywhere on all platforms on March 20, 2020.",
-    "date": "March 13, 2020"
+    "date": "2020-03-13T04:00:00.000Z"
   },
   {
     "guests": ["Alexander Volkanovski"],
@@ -843,7 +843,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC Featherweight champion Alexander Volkanovski.",
-    "date": "March 11, 2020"
+    "date": "2020-03-11T04:00:00.000Z"
   },
   {
     "guests": ["Michael Osterholm"],
@@ -852,7 +852,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Osterholm is an internationally recognized expert in infectious disease epidemiology. He is Regents Professor, McKnight Presidential Endowed Chair in Public Health, the director of the Center for Infectious Disease Research and Policy (CIDRAP), Distinguished Teaching Professor in the Division of Environmental Health Sciences, School of Public Health, a professor in the Technological Leadership Institute, College of Science and Engineering, and an adjunct professor in the Medical School, all at the University of Minnesota. Look for his book \"Deadliest Enemy: ...",
-    "date": "March 10, 2020"
+    "date": "2020-03-10T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -861,7 +861,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor.  He will be in the new FXX show \"Dave\" starting on March 4, also available on Hulu. Check out his podcast “Whiskey Ginger” & also look for his new podcast with comedian Bobby Lee called \"Bad Friends\" both available on Apple Podcasts & YouTube.",
-    "date": "March 6, 2020"
+    "date": "2020-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Stephen Dubner"],
@@ -870,7 +870,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Stephen Dubner is an award-winning author, journalist, and podcast and radio host. He is co-author of the popular Freakonomics book series and host of Freakonomics Radio and podcast.",
-    "date": "March 5, 2020"
+    "date": "2020-03-05T05:00:00.000Z"
   },
   {
     "guests": ["Adam Curry"],
@@ -879,7 +879,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Curry is a podcaster, announcer, internet entrepreneur and media personality, known for his stint as VJ on MTV and being one of the first celebrities personally to create and administer Web sites. Check out his podcast \"No Agenda\" with new shows available every Sunday and Thursday. http://www.noagendashow.com/",
-    "date": "March 4, 2020"
+    "date": "2020-03-04T05:00:00.000Z"
   },
   {
     "guests": ["Suzanne Santo", "Gary Clark Jr."],
@@ -888,7 +888,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Suzanne Santo is a singer/songwriter currently touring the world. Her new album releases soon with the single \"Fall For That\" featuring Grammy award winner, Gary Clark Jr.",
-    "date": "March 3, 2020"
+    "date": "2020-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Trevor Thompson"],
@@ -897,7 +897,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Trevor Thompson is a former Navy SEAL, B.A.S.E. jumper, cameraman and photographer.",
-    "date": "February 28, 2020"
+    "date": "2020-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Michael Yo"],
@@ -906,7 +906,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Yo is a stand up comedian. Look for him touring this year including March 6-7 Gotham Comedy Club in New York City. http://michaelyo.com",
-    "date": "February 27, 2020"
+    "date": "2020-02-27T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey de Grey"],
@@ -915,7 +915,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey de Grey is an English author and theoretician in the field of gerontology and the Chief Science Officer of the SENS Research Foundation.",
-    "date": "February 26, 2020"
+    "date": "2020-02-26T05:00:00.000Z"
   },
   {
     "guests": ["Owen Smith"],
@@ -924,16 +924,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Smith is a comedian, writer, actor and television producer.",
-    "date": "February 25, 2020"
+    "date": "2020-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – February 22, 2020"],
-    "title": "#047 - Fight Companion – February 22, 2020",
-    "episode_id": 47,
+    "title": "Fight Companion - February 22, 2020",
+    "episode_id": 50,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on February 22, 2020.",
-    "date": "February 22, 2020"
+    "date": "2020-02-22T05:00:00.000Z"
   },
   {
     "guests": ["Raghunath Cappo"],
@@ -942,7 +942,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Raghunath Cappo was the vocalist for punk bands Youth of Today and Shelter, and after living as a monk is now a yoga teacher and is the host of the \"Wisdom of the Sages\" podcast. https://www.youtube.com/wisdomofthesages",
-    "date": "February 21, 2020"
+    "date": "2020-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Colin O’Brady"],
@@ -951,7 +951,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colin O'Brady is a professional endurance athlete, motivational speaker and adventurer. His new book \"The Impossible First\" documents his adventure as the first person in the world to travel across Antarctica unassisted. https://amzn.to/2u9mXtG",
-    "date": "February 20, 2020"
+    "date": "2020-02-20T05:00:00.000Z"
   },
   {
     "guests": ["Brian Greene"],
@@ -960,7 +960,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Greene is a theoretical physicist, mathematician, and string theorist. He has been a professor at Columbia University since 1996 and chairman of the World Science Festival since co-founding it in 2008. His new book \"Until the End of Time\" is now available: https://amzn.to/2ug680o",
-    "date": "February 19, 2020"
+    "date": "2020-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Angela Hill"],
@@ -969,7 +969,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC strawweight fighter Angela Hill.",
-    "date": "February 18, 2020"
+    "date": "2020-02-18T05:00:00.000Z"
   },
   {
     "guests": ["Melissa Chen"],
@@ -978,7 +978,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Melissa Chen is the NY editor for Spectator USA and the managing director of Ideas Beyond Borders.",
-    "date": "February 14, 2020"
+    "date": "2020-02-14T05:00:00.000Z"
   },
   {
     "guests": ["Radio Rahim"],
@@ -987,7 +987,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with boxing reporter and journalist Radio Rahim.",
-    "date": "February 13, 2020"
+    "date": "2020-02-13T05:00:00.000Z"
   },
   {
     "guests": ["Justin Martindale"],
@@ -996,7 +996,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Martindale is a stand-up comic, writer, producer, and actor.",
-    "date": "February 12, 2020"
+    "date": "2020-02-12T05:00:00.000Z"
   },
   {
     "guests": ["Rashad Evans"],
@@ -1005,7 +1005,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former UFC Light Heavyweight Champion, and a 2019 inductee of the UFC Hall of Fame, Rashad Evans.",
-    "date": "February 11, 2020"
+    "date": "2020-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Garrett Reisman"],
@@ -1014,7 +1014,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Garrett Reisman is a former NASA Astronaut. He is currently a Professor of Astronautical Engineering at USC and a Senior Advisor at SpaceX.",
-    "date": "February 7, 2020"
+    "date": "2020-02-07T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -1023,7 +1023,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his new special \"You're Doing Great!\" now streaming on Netflix.",
-    "date": "February 6, 2020"
+    "date": "2020-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Andrew Doyle"],
@@ -1032,7 +1032,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Doyle is a British comedian, playwright, journalist, political satirist and is creator of the fictitious character Titania McGrath. The new book \"Woke: A Guide to Social Justice\" by Titania McGrath is now available: https://amzn.to/36X2GoG",
-    "date": "February 5, 2020"
+    "date": "2020-02-05T05:00:00.000Z"
   },
   {
     "guests": ["Lex Fridman"],
@@ -1041,7 +1041,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lex Fridman is a research scientist at MIT working on human-centered artificial intelligence and autonomous vehicles. Check out is podcast \"Artificial Intelligence Podcast\" available on Apple Podcast & YouTube - https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA",
-    "date": "February 4, 2020"
+    "date": "2020-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -1050,7 +1050,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is a stand-up comedian, radio personality, author, and actor. Check out his podcast the “Chip Chipperson Podacast” available on iTunes and the Riotcast Podcast Network. Look for Jim on \"The Degenerates - Season 2\" now streaming on Netflix.",
-    "date": "February 4, 2020"
+    "date": "2020-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Mark Normand"],
@@ -1059,7 +1059,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Normand is a stand-up comedian and actor. Check out his podcast “Tuesdays with Stories!” with co-host Joe List available on Apple Podcasts.",
-    "date": "January 31, 2020"
+    "date": "2020-01-31T05:00:00.000Z"
   },
   {
     "guests": ["Daryl Davis"],
@@ -1068,7 +1068,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daryl Davis is an R&B and blues musician, activist, author, actor and bandleader. He also is the author of \"Klan-destine Relationships: A Black Man's Odyssey in the Ku Klux Klan\".",
-    "date": "January 30, 2020"
+    "date": "2020-01-30T05:00:00.000Z"
   },
   {
     "guests": ["Rafael Lovato Jr."],
@@ -1077,7 +1077,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Bellator Middleweight World Champion Rafael Lovato Jr.",
-    "date": "January 29, 2020"
+    "date": "2020-01-29T05:00:00.000Z"
   },
   {
     "guests": ["Frankie Edgar"],
@@ -1086,7 +1086,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former UFC Lightweight Champion Frankie Edgar.",
-    "date": "January 28, 2020"
+    "date": "2020-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Kamaru Usman"],
@@ -1095,7 +1095,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC Welterweight Champion Kamaru Usman.",
-    "date": "January 27, 2020"
+    "date": "2020-01-27T05:00:00.000Z"
   },
   {
     "guests": ["Josh Thomson"],
@@ -1104,7 +1104,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former Strikeforce Lightweight Champion and current Bellator commentator Josh Thomson.",
-    "date": "January 24, 2020"
+    "date": "2020-01-24T05:00:00.000Z"
   },
   {
     "guests": ["Don Gavin"],
@@ -1113,7 +1113,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Don Gavin is a stand-up comedian and actor. His album \"Don Gavin: Live with a Manhattan\" will be available for the first time to stream on January 24.",
-    "date": "January 23, 2020"
+    "date": "2020-01-23T05:00:00.000Z"
   },
   {
     "guests": ["Kevin Ross"],
@@ -1122,7 +1122,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin “The Soul Assassin” Ross is an artist, writer, and American Muay Thai kickboxer fighting with Bellator Kickboxing.",
-    "date": "January 22, 2020"
+    "date": "2020-01-22T05:00:00.000Z"
   },
   {
     "guests": ["Rob Kearney"],
@@ -1131,7 +1131,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rob Kearney is the only openly gay professional strongman. He currently holds the American record for the log press, at 471 lbs. There is also a documentary about his life currently in production: https://www.gofundme.com/f/rob-kearney-world039s-strongest-gay-documentary?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",
-    "date": "January 21, 2020"
+    "date": "2020-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Bari Weiss"],
@@ -1140,7 +1140,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bari Weiss is an American opinion writer and editor. In 2017, Weiss joined The New York Times as a staff editor in the opinion section. Her new book \"How to Fight Anti-Semitism\" is now available. https://amzn.to/2Gh7WIL",
-    "date": "January 20, 2020"
+    "date": "2020-01-20T05:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -1149,7 +1149,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "January 18, 2020"
+    "date": "2020-01-18T05:00:00.000Z"
   },
   {
     "guests": ["Bill Maher"],
@@ -1158,7 +1158,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Maher is a comedian, political commentator, and television host. The new season of his show \"Real Time with Bill Maher\" premieres January 17 on HBO.",
-    "date": "January 17, 2020"
+    "date": "2020-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Jimmy Dore"],
@@ -1167,7 +1167,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jimmy Dore is a stand-up comedian, political commentator, host of “The Jimmy Dore Show” available on YouTube (https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA) and as a podcast available on iTunes.",
-    "date": "January 16, 2020"
+    "date": "2020-01-16T05:00:00.000Z"
   },
   {
     "guests": ["Robert Downey Jr."],
@@ -1176,7 +1176,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robert Downey Jr. is an American actor, producer, and singer. He stars in the new movie \"Dolittle\" which releases in theater on January 17, 2020.",
-    "date": "January 15, 2020"
+    "date": "2020-01-15T05:00:00.000Z"
   },
   {
     "guests": ["Ash Dykes"],
@@ -1185,7 +1185,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ash Dykes is a Welsh adventurer and extreme athlete. He achieved three world-first records, trekking across Mongolia, Madagascar, and the course of the Yangtze River.",
-    "date": "January 14, 2020"
+    "date": "2020-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -1194,16 +1194,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "January 13, 2020"
+    "date": "2020-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – January 9, 2020"],
-    "title": "#046 - Fight Companion – January 9, 2020",
-    "episode_id": 46,
+    "title": "Fight Companion - January 10, 2020",
+    "episode_id": 49,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub.",
-    "date": "January 10, 2020"
+    "date": "2020-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Ed Calderon"],
@@ -1212,7 +1212,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ed Calderon is a security specialist and combatives instructor with over 10 years experience in public safety along the northern border area of Mexico. Follow him online @EdsManifesto http://edsmanifesto.com",
-    "date": "January 8, 2020"
+    "date": "2020-01-08T05:00:00.000Z"
   },
   {
     "guests": ["Michael Malice"],
@@ -1221,7 +1221,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Malice is an author and also hosts a podcast called “Your Welcome with Michael Malice” available on the GaS Digital Network. His new book called  “The New Right” is available now.",
-    "date": "January 7, 2020"
+    "date": "2020-01-07T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -1230,7 +1230,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also look for him on “Kill Tony” available on Apple Podcasts & YouTube: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "January 6, 2020"
+    "date": "2020-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Sober October 3 Recap"],
@@ -1239,7 +1239,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Bert Kreischer & Tom Segura to recap their 3rd annual Sober October challenge.",
-    "date": "December 24, 2019"
+    "date": "2019-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -1248,7 +1248,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast. His stand up special “Complicated Apes” is now available to download on iTunes, Amazon, and various other platforms.",
-    "date": "December 20, 2019"
+    "date": "2019-12-20T05:00:00.000Z"
   },
   {
     "guests": ["Forrest Galante"],
@@ -1257,7 +1257,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Forrest Galante is an international wildlife adventurer and conservationist. He’s also the host of “Extinct of Alive” on The Animal Planet. https://www.instagram.com/forrest.galante",
-    "date": "December 19, 2019"
+    "date": "2019-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Max Holloway"],
@@ -1266,7 +1266,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former UFC Featherweight Champion Max Holloway.",
-    "date": "December 18, 2019"
+    "date": "2019-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Boyan Slat"],
@@ -1275,7 +1275,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Boyan Slat is an inventor, entrepreneur and former aerospace engineering student. He is the founder of The Ocean Cleanup organization: https://www.theoceancleanup.com/",
-    "date": "December 17, 2019"
+    "date": "2019-12-17T05:00:00.000Z"
   },
   {
     "guests": ["Iliza Shlesinger"],
@@ -1284,7 +1284,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Iliza Shlesinger is a comedian, host, and writer. Her new special \"Unveiled\" is now streaming on Netflix.",
-    "date": "December 16, 2019"
+    "date": "2019-12-16T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -1293,7 +1293,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcast called “Kill Tony” with Redban, and it’s available on iTunes and and YouTube at: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "December 13, 2019"
+    "date": "2019-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Pavel Tsatsouline"],
@@ -1302,7 +1302,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Pavel Tsatsouline, is the Chairman of StrongFirst, Inc., a fitness instructor who has introduced SPETSNAZ training techniques from the former Soviet Union to US Navy SEALs, Marines and Army Special Forces, and shortly thereafter to the American public.",
-    "date": "December 12, 2019"
+    "date": "2019-12-12T05:00:00.000Z"
   },
   {
     "guests": ["Lil Duval"],
@@ -1311,7 +1311,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lil Duval is a stand-up comedian and recording artist.",
-    "date": "December 11, 2019"
+    "date": "2019-12-11T05:00:00.000Z"
   },
   {
     "guests": ["S.C. Gwynne"],
@@ -1320,7 +1320,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "S. C. Gwynne is an American nonfiction writer. He is the author of the prize-winning \"Empire of the SUmmer Moon\" and his latest book \"Hymns of the Republic\" is now available.",
-    "date": "December 10, 2019"
+    "date": "2019-12-10T05:00:00.000Z"
   },
   {
     "guests": ["Michelle Wolf"],
@@ -1329,7 +1329,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michelle Wolf is a comedian, writer, producer, and television host. Her new special \"Joke Show\" starts streaming on Netflix on December 10.",
-    "date": "December 9, 2019"
+    "date": "2019-12-09T05:00:00.000Z"
   },
   {
     "guests": ["Glenn Villeneuve"],
@@ -1338,7 +1338,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Glenn Villeneuve is a hunter, fisherman and TV personality, best known for appearing in the show “Life Below Zero”, which showcases the life of the Alaskan hunters particularly during the harsh winters.",
-    "date": "December 7, 2019"
+    "date": "2019-12-07T05:00:00.000Z"
   },
   {
     "guests": ["Matt Farah"],
@@ -1347,7 +1347,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Farah is a car enthusiast and the host of “The Smoking Tire” seen on YouTube and also a podcast available on Apple Podcasts.",
-    "date": "December 6, 2019"
+    "date": "2019-12-06T05:00:00.000Z"
   },
   {
     "guests": ["James Wilks", "Chris Kresser – The Game Changers Debate"],
@@ -1356,7 +1356,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Wilks is a retired mixed martial artist. He was the winner of Spike TV's The Ultimate Fighter: United States vs. United Kingdom. He is also a producer of the documentary \"The Game Changers\" on Netflix. Chris Kresser, M.S., L.Ac is a globally recognized leader in the fields of ancestral health, Paleo nutrition, and functional and integrative medicine. Link to notes from this podcast by Chris Kresser: http://kresser.co/gamechangers",
-    "date": "December 5, 2019"
+    "date": "2019-12-05T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -1365,7 +1365,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss some recent and upcoming fights.",
-    "date": "December 4, 2019"
+    "date": "2019-12-04T05:00:00.000Z"
   },
   {
     "guests": ["Zach Bitter"],
@@ -1374,7 +1374,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Zach Bitter is an endurance athlete, ultramarathon runner and coach. He recently broke 2 world records in running: 100-mile (11:19:18) & the 12-Hour record (104.88 miles).",
-    "date": "December 3, 2019"
+    "date": "2019-12-03T05:00:00.000Z"
   },
   {
     "guests": ["Firas Zahabi"],
@@ -1383,7 +1383,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with the head coach of Tristar Gym, Firas Zahabi.",
-    "date": "November 27, 2019"
+    "date": "2019-11-27T05:00:00.000Z"
   },
   {
     "guests": ["Tulsi Gabbard", "Jocko Willink"],
@@ -1392,7 +1392,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tulsi Gabbard is a 2020 Presidential Candidate of the Democratic Party and is currently serving as the U.S. Representative for Hawaii’s 2nd congressional district since 2013. https://www.tulsi2020.com/ Jocko Willink is a decorated retired Navy SEAL officer, author of the book Extreme Ownership: How U.S. Navy SEALs Lead and Win, and co-founder of Echelon Front, where he is a leadership instructor, speaker, and executive coach. His new book \"Leadership Strategies and Tactics\" will be available in January 2020.",
-    "date": "November 26, 2019"
+    "date": "2019-11-26T05:00:00.000Z"
   },
   {
     "guests": ["Tim Dillon"],
@@ -1401,7 +1401,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Dillon is a comedian, tour guide, and host. His podcast \"The Tim Dillon Show\" is available on YouTube & Apple Podcasts.",
-    "date": "November 22, 2019"
+    "date": "2019-11-22T05:00:00.000Z"
   },
   {
     "guests": ["Chris Kresser Debunks “The Gamechangers” Documentary"],
@@ -1410,7 +1410,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Kresser, M.S., L.Ac is a globally recognized leader in the fields of ancestral health, Paleo nutrition, and functional and integrative medicine. Link to notes from this podcast by Chris Kresser: http://kresser.co/gamechangers",
-    "date": "November 21, 2019"
+    "date": "2019-11-21T05:00:00.000Z"
   },
   {
     "guests": ["Louie Psihoyos"],
@@ -1419,7 +1419,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Louis Psihoyos is a photographer and documentary film director known for his still photography and contributions to National Geographic. His film \"The Cove\" won the Academy Award for Best Documentary Feature in 2010.",
-    "date": "November 20, 2019"
+    "date": "2019-11-20T05:00:00.000Z"
   },
   {
     "guests": ["Josh Homme"],
@@ -1428,7 +1428,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Homme is a singer, songwriter, musician, record producer, and actor. He is the founder and primary songwriter of the rock band Queens of the Stone Age.",
-    "date": "November 19, 2019"
+    "date": "2019-11-19T05:00:00.000Z"
   },
   {
     "guests": ["Matt Taibbi"],
@@ -1437,7 +1437,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Taibbi is a journalist and author. He has reported on politics, media, finance, and sports, and has authored several books including his latest \"Hate, Inc.: Why Today's Media Makes Us Despise One Another\" is available now & look for his podcast \"Useful Idiots\" is available at RollingStone.com",
-    "date": "November 16, 2019"
+    "date": "2019-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Paul Stamets"],
@@ -1446,7 +1446,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Paul Stamets is a mycologist, author and advocate of bioremediation and medicinal fungi. Check out http://www.fungi.com/",
-    "date": "November 15, 2019"
+    "date": "2019-11-15T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -1455,7 +1455,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts “Ari Shaffir’s Skeptic Tank” & “Punch Drunk Sports.”",
-    "date": "November 14, 2019"
+    "date": "2019-11-14T05:00:00.000Z"
   },
   {
     "guests": ["Malcolm Gladwell"],
@@ -1464,7 +1464,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Malcolm Gladwell is a journalist, author, and public speaker. He is the host of the popular podcast \"Revisionist History\" and his new book \"Talking to Strangers: What We Should Know about the People We Don't Know\" is available now.",
-    "date": "November 13, 2019"
+    "date": "2019-11-13T05:00:00.000Z"
   },
   {
     "guests": ["RZA", "Donnell Rawlings"],
@@ -1473,7 +1473,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "RZA is a rapper, record producer, musician, actor, and director. He is the de facto leader of the Wu-Tang Clan. Donnell Rawlings is a stand up comedian, actor, and podcaster. He’s known best for his roles on Chappelle’s Show and The Wire.",
-    "date": "November 12, 2019"
+    "date": "2019-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Donnell Rawlings"],
@@ -1482,7 +1482,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donnell Rawlings is a stand up comedian, actor, and podcaster. He’s known best for his roles on Chappelle’s Show and The Wire. Look for his new podcast \"The Donnell Rawlings Show\" coming soon.",
-    "date": "November 12, 2019"
+    "date": "2019-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Israel Adesanya"],
@@ -1491,7 +1491,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC Middleweight Champion, Israel “The Last Stylebender” Adesanya.",
-    "date": "November 11, 2019"
+    "date": "2019-11-11T05:00:00.000Z"
   },
   {
     "guests": ["Pete Dominick"],
@@ -1500,7 +1500,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Pete Dominick is a stand up comic, speaker, news commentator, host, and moderator. Look for his podcast called \"StandUP! with Pete Dominick\" available on Apple Podcasts.",
-    "date": "November 8, 2019"
+    "date": "2019-11-08T05:00:00.000Z"
   },
   {
     "guests": ["Ben Westhoff"],
@@ -1509,7 +1509,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Westhoff is an award-winning investigative journalist who writes about culture, drugs, and poverty. His new book \"Fentanyl, Inc.: How Rogue Chemists Are Creating the Deadliest Wave of the Opioid Epidemic \" is available now on Amazon.",
-    "date": "November 7, 2019"
+    "date": "2019-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -1518,7 +1518,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts a podcast with Alison Rosen called “Childish” that is available now on iTunes & Stitcher.",
-    "date": "November 6, 2019"
+    "date": "2019-11-06T05:00:00.000Z"
   },
   {
     "guests": ["Rick Baker"],
@@ -1527,7 +1527,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rick Baker is a retired special make-up effects creator and actor, mostly known for his creature effects and designs. He won the Academy Award for Best Makeup seven times from a record of eleven nominations.",
-    "date": "November 5, 2019"
+    "date": "2019-11-05T05:00:00.000Z"
   },
   {
     "guests": ["Artie Lange"],
@@ -1536,7 +1536,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Artie Lange is a stand-up comedian and actor, best known for his tenures on The Howard Stern Show and the sketch comedy series Mad TV.",
-    "date": "November 4, 2019"
+    "date": "2019-11-04T05:00:00.000Z"
   },
   {
     "guests": ["Edward Norton"],
@@ -1545,7 +1545,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Edward Norton is an actor, writer, producer, director, and filmmaker. His new film \"Motherless Brooklyn\" opens in theaters on November 1 .",
-    "date": "October 31, 2019"
+    "date": "2019-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -1554,7 +1554,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter. Justin is currently fighting in the Heavyweight division of Bellator to help raise more awareness for helping the Pygmy people of the Democratic Republic of the Congo. Donate to Fight For The Forgotten at https://fightfortheforgotten.org/heroes",
-    "date": "October 30, 2019"
+    "date": "2019-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Kyle Kulinski"],
@@ -1563,7 +1563,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Kulinski is a political activist, progressive talk radio host, social democratic political commentator, and the co-founder of Justice Democrats. His show “Secular Talk” is available on YouTube: https://www.youtube.com/SecularTalk",
-    "date": "October 30, 2019"
+    "date": "2019-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Smith"],
@@ -1572,7 +1572,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. Look for his movie \"Jay and Silent Bob Reboot\" on tour now with tickets available at https://rebootroadshow.com/",
-    "date": "October 29, 2019"
+    "date": "2019-10-29T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -1581,7 +1581,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. Check out his podcast “Whiskey Ginger” available on Apple Podcasts & YouTube.",
-    "date": "October 29, 2019"
+    "date": "2019-10-29T04:00:00.000Z"
   },
   {
     "guests": ["Dave Leduc"],
@@ -1590,7 +1590,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Dave Leduc, the current openweight Lethwei World Champion and current WLC Cruiserweight World Champion.",
-    "date": "October 28, 2019"
+    "date": "2019-10-28T04:00:00.000Z"
   },
   {
     "guests": ["Brian Grazer"],
@@ -1599,7 +1599,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Grazer is a film and television producer and screenwriter. He co-founded Imagine Entertainment in 1986, with Ron Howard. His new book \"Face to Face: The Art of Human Connection\" is now available: https://www.amazon.com/Eye-Contact-Power-Personal-Connection/dp/1501147722",
-    "date": "October 24, 2019"
+    "date": "2019-10-24T04:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -1608,7 +1608,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking” available on Apple Podcasts & Stitcher. His latest book “Civilized To Death” is available now: https://www.amazon.com/Civilized-Death-What-Lost-Modernity/dp/1451659105",
-    "date": "October 23, 2019"
+    "date": "2019-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Edward Snowden"],
@@ -1617,7 +1617,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Edward Snowden is an American whistleblower who copied and leaked highly classified information from the National Security Agency in 2013 when he was a Central Intelligence Agency employee and subcontractor.",
-    "date": "October 23, 2019"
+    "date": "2019-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Bridget Phetasy"],
@@ -1626,7 +1626,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bridget Phetasy is a writer and comedian. Check out her show on YouTube called \"Dumpster Fire\" -- https://www.youtube.com/channel/UC5SQnm72FspDNUXK4cB2_xg & her podcast called \"Walk-Ins Welcome\" available on Apple Podcasts & Stitcher.",
-    "date": "October 22, 2019"
+    "date": "2019-10-22T04:00:00.000Z"
   },
   {
     "guests": ["Richard Dawkins"],
@@ -1635,7 +1635,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Richard Dawkins, FRS FRSL is an English ethologist, evolutionary biologist, and author. He is an emeritus fellow of New College, Oxford, and was the University of Oxford's Professor for Public Understanding of Science from 1995 until 2008. His latest book \"Outgrowing God: A Beginner's Guide\" is available now.",
-    "date": "October 21, 2019"
+    "date": "2019-10-21T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -1644,7 +1644,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator” and he also has a podcast available on Apple Podcasts called \"Keep Hammering with Cameron Hanes.\"",
-    "date": "October 10, 2019"
+    "date": "2019-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -1653,7 +1653,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also look for him on “Kill Tony” available on Apple Podcasts & YouTube: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "October 9, 2019"
+    "date": "2019-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Dakota Meyer"],
@@ -1662,7 +1662,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dakota Meyer is a United States Marine. A veteran of the War in Afghanistan, he was awarded the Medal of Honor for his actions during the Battle of Ganjgal on 8 September 2009, in Kunar Province, Afghanistan.",
-    "date": "October 8, 2019"
+    "date": "2019-10-08T04:00:00.000Z"
   },
   {
     "guests": ["Evander Holyfield"],
@@ -1671,7 +1671,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former boxer Evander Holyfield, who was the undisputed champion at cruiserweight in the late 1980s and at heavyweight in the early 1990s, and remains the only boxer in history to win the undisputed championship in two weight classes.",
-    "date": "October 7, 2019"
+    "date": "2019-10-07T04:00:00.000Z"
   },
   {
     "guests": ["Lenny Clarke"],
@@ -1680,7 +1680,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lenny Clarke is a legendary Boston comic and actor.",
-    "date": "October 7, 2019"
+    "date": "2019-10-07T04:00:00.000Z"
   },
   {
     "guests": ["Cmdr. David Fravor", "Jeremy Corbell"],
@@ -1689,7 +1689,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Commander David Fravor is a retired US Navy pilot, who has a close encounter in 2004 with the so-called Tic Tac UFO, and Jeremy Corbell is a contemporary artist and documentary filmmaker.",
-    "date": "October 5, 2019"
+    "date": "2019-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Nikki Glaser"],
@@ -1698,7 +1698,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nikki Glaser is a stand-up comedian, podcast host, and television host. Her new stand-up special \"Bangin\" is now streaming on Netflix.",
-    "date": "October 3, 2019"
+    "date": "2019-10-03T04:00:00.000Z"
   },
   {
     "guests": ["Roseanne Barr"],
@@ -1707,7 +1707,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Roseanne Barr is a comedian, actress, writer, television producer, director.",
-    "date": "October 2, 2019"
+    "date": "2019-10-02T04:00:00.000Z"
   },
   {
     "guests": ["Sober October 3"],
@@ -1716,7 +1716,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Bert Kreischer & Tom Segura to discuss their 3rd annual Sober October challenge.",
-    "date": "October 1, 2019"
+    "date": "2019-10-01T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -1725,7 +1725,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts \"Ari Shaffir’s Skeptic Tank\" & \"Punch Drunk Sports.\"",
-    "date": "October 1, 2019"
+    "date": "2019-10-01T04:00:00.000Z"
   },
   {
     "guests": ["Sturgill Simpson", "His Band"],
@@ -1734,7 +1734,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sturgill Simpson is a Grammy Award-winning country music and roots rock singer-songwriter. His new album \"Sound & Fury\" is available now on streaming services everywhere, and the anime visual album \"Sturgill Simpson presents Sound & Fury\" is now streaming on Netflix. He is joined by his band members Miles Miller, Chuck Bartels, Bobby Emmett and by Green Beret Medic Justin Laseck.",
-    "date": "September 30, 2019"
+    "date": "2019-09-30T04:00:00.000Z"
   },
   {
     "guests": ["Mark Normand"],
@@ -1743,7 +1743,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Normand is a stand-up comedian and actor. Check out his podcast \"Tuesdays with Stories!\" with co-host Joe List available on Apple Podcasts.",
-    "date": "September 20, 2019"
+    "date": "2019-09-20T04:00:00.000Z"
   },
   {
     "guests": ["The Black Keys"],
@@ -1752,7 +1752,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "The Black Keys is a rock band formed in Akron, Ohio, in 2001. The group consists of Dan Auerbach and Patrick Carney. Their latest album \"Let's Rock\" is available now everywhere.",
-    "date": "September 19, 2019"
+    "date": "2019-09-19T04:00:00.000Z"
   },
   {
     "guests": ["Vinnie Shoreman", "Liam Harrison"],
@@ -1761,7 +1761,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by mind coach and fight commentator Vinny Shoreman & 8 time kickboxing and Muay Thai world champion, including holding the W.M.C. belt, Liam Harrison.",
-    "date": "September 18, 2019"
+    "date": "2019-09-18T04:00:00.000Z"
   },
   {
     "guests": ["Rob Zombie"],
@@ -1770,7 +1770,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rob Zombie is a musician and filmmaker. His new film \"3 From Hell\" is available in select theaters this week and everywhere in October.",
-    "date": "September 16, 2019"
+    "date": "2019-09-16T04:00:00.000Z"
   },
   {
     "guests": ["Sean Carroll"],
@@ -1779,7 +1779,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sean Carroll is a cosmologist and physics professor specializing in dark energy and general relativity. He is a research professor in the Department of Physics at the California Institute of Technology.His new book \"Something Deeply Hidden\" is now available and also look for “Sean Carroll’s Mindscape Podcast” on Apple Podcasts.",
-    "date": "September 16, 2019"
+    "date": "2019-09-16T04:00:00.000Z"
   },
   {
     "guests": ["Dan Aykroyd"],
@@ -1788,7 +1788,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Aykroyd, CM OOnt is a Canadian-American actor, producer, comedian, musician and filmmaker who was an original member of the \"Not Ready for Prime Time Players\" on Saturday Night Live.",
-    "date": "September 12, 2019"
+    "date": "2019-09-12T04:00:00.000Z"
   },
   {
     "guests": ["Nick Bostrom"],
@@ -1797,7 +1797,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Bostrom is a Swedish philosopher at the University of Oxford known for his work on existential risk, the anthropic principle, human enhancement ethics, superintelligence risks, and the reversal test.",
-    "date": "September 11, 2019"
+    "date": "2019-09-11T04:00:00.000Z"
   },
   {
     "guests": ["David Sinclair"],
@@ -1806,7 +1806,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Sinclair, Ph.D., A.O. is a Professor in the Department of Genetics and co-Director of the Paul F. Glenn Center for the Biology of Aging at Harvard Medical School. His new book \"Lifespan: Why We Age And Why We Don't Have To\" is now available.",
-    "date": "September 10, 2019"
+    "date": "2019-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -1815,16 +1815,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called “The Monday Morning Podcast”. His new special \"Paper Tiger\" is now streaming on Netflix.",
-    "date": "September 9, 2019"
+    "date": "2019-09-09T04:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – September 7, 2019"],
-    "title": "#045 - Fight Companion – September 7, 2019",
-    "episode_id": 45,
+    "title": "Fight Companion - September 7, 2019",
+    "episode_id": 48,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on September 7, 2019.",
-    "date": "September 7, 2019"
+    "date": "2019-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Neil deGrasse Tyson"],
@@ -1833,7 +1833,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator.",
-    "date": "September 5, 2019"
+    "date": "2019-09-05T04:00:00.000Z"
   },
   {
     "guests": ["Zuby"],
@@ -1842,7 +1842,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Zuby is an independent rapper, creative entrepreneur, speaker and podcast host. Check out his podcast called \"Real Talk with Zuby\" available on Apple Podcasts.",
-    "date": "September 5, 2019"
+    "date": "2019-09-05T04:00:00.000Z"
   },
   {
     "guests": ["Steve Aoki"],
@@ -1851,7 +1851,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Aoki is a musician, author, DJ, record producer and music executive. His new book called \"Blue: The Color of Noise\"  is available now.",
-    "date": "September 4, 2019"
+    "date": "2019-09-04T04:00:00.000Z"
   },
   {
     "guests": ["Jospeh Ledoux"],
@@ -1860,7 +1860,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joseph Ledoux is a neuroscientist whose research is primarily focused on survival circuits, including their impacts on emotions such as fear and anxiety. His latest book \"The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains\" is now available.",
-    "date": "September 4, 2019"
+    "date": "2019-09-04T04:00:00.000Z"
   },
   {
     "guests": ["Andre Ward"],
@@ -1869,7 +1869,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former boxer and current ESPN analyst Andre Ward, who retired from professional boxing with an undefeated 32-0 record.",
-    "date": "September 3, 2019"
+    "date": "2019-09-03T04:00:00.000Z"
   },
   {
     "guests": ["Penn Jillette"],
@@ -1878,7 +1878,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Penn Jillette is a magician, actor, musician, inventor, television personality, and best-selling author best known for his work with fellow magician Teller as half of the team Penn & Teller. Check out his podcast called \"Penn's Sunday School\" available on Apple Podcasts and other platforms.",
-    "date": "August 29, 2019"
+    "date": "2019-08-29T04:00:00.000Z"
   },
   {
     "guests": ["John Carmack"],
@@ -1887,7 +1887,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Carmack is a computer programmer, video game developer and engineer. He co-founded id Software and was the lead programmer of its video games Commander Keen, Wolfenstein 3D, Doom, Quake, Rage and their sequels. Currently he is the CTO at Oculus.",
-    "date": "August 28, 2019"
+    "date": "2019-08-28T04:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -1896,7 +1896,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts “MeatEater” on the Sportsman Channel & Netflix, and a podcast also called “MeatEater” available on iTunes & Stitcher.",
-    "date": "August 27, 2019"
+    "date": "2019-08-27T04:00:00.000Z"
   },
   {
     "guests": ["Cedric Doumbe"],
@@ -1905,7 +1905,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by current Glory Kickboxing World champion Cedric Doumbe.",
-    "date": "August 26, 2019"
+    "date": "2019-08-26T04:00:00.000Z"
   },
   {
     "guests": ["John Nores"],
@@ -1914,7 +1914,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Nores has served as a game warden with the California Dept. of Fish and Wildlife. There he co-developed the Marijuana Enforcement Team (MET) and Delta Team, the CDFW's first comprehensive wilderness spec ops tactical and sniper unit, aimed at combatting the marijuana cartel's decimation of California's wildlife resources.",
-    "date": "August 26, 2019"
+    "date": "2019-08-26T04:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -1923,7 +1923,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project “Everlast presents Whitey Ford’s House of Pain” is available now on streaming services and for purchase here: https://fanlink.to/wfhop",
-    "date": "August 21, 2019"
+    "date": "2019-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Roy Wood Jr."],
@@ -1932,7 +1932,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Roy Wood Jr. is a comedian, writer, and actor. He has served as a correspondent for The Daily Show on Comedy Central since 2015.",
-    "date": "August 21, 2019"
+    "date": "2019-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Dan Crenshaw"],
@@ -1941,7 +1941,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Crenshaw is a politician and former United States Navy SEAL officer serving as the U.S. Representative for Texas's 2nd congressional district since 2019.",
-    "date": "August 20, 2019"
+    "date": "2019-08-20T04:00:00.000Z"
   },
   {
     "guests": ["Terence Crawford"],
@@ -1950,7 +1950,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by current WBO Welterweight champion, Terence Crawford and his coach, Brian “Bo-Mack” McIntyre.",
-    "date": "August 19, 2019"
+    "date": "2019-08-19T04:00:00.000Z"
   },
   {
     "guests": ["Legion Of Skanks"],
@@ -1959,7 +1959,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Legion Of Skanks has been called “the most offensive podcast on Earth” and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. https://gasdigitalnetwork.com/gdn-show-channels/legion-of-skanks/",
-    "date": "August 19, 2019"
+    "date": "2019-08-19T04:00:00.000Z"
   },
   {
     "guests": ["Dan Hardy"],
@@ -1968,7 +1968,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by former welterweight fighter and UFC commentator, Dan Hardy.",
-    "date": "August 15, 2019"
+    "date": "2019-08-15T04:00:00.000Z"
   },
   {
     "guests": ["Jim Gaffigan"],
@@ -1977,7 +1977,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Gaffigan is an actor and stand up comedian. His new stand up special \"Quality Time\" will premiere August 16th on Amazon Prime.",
-    "date": "August 14, 2019"
+    "date": "2019-08-14T04:00:00.000Z"
   },
   {
     "guests": ["Fahim Anwar"],
@@ -1986,7 +1986,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Fahim Anwar is an actor and stand up comedian. Check out his special on Amazon called \"Fahim Anwar: There's No Business Like Show Business\".",
-    "date": "August 13, 2019"
+    "date": "2019-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -1995,7 +1995,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his new show with Fortune Feimster called \"What A Joke\" available on SiriusXM.",
-    "date": "August 12, 2019"
+    "date": "2019-08-12T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -2004,7 +2004,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss some recent and upcoming fights.",
-    "date": "August 7, 2019"
+    "date": "2019-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Annie Lederman"],
@@ -2013,7 +2013,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Annie Lederman is a stand up comedian. She is also the host of \"MEANSPIRATION\" podcast on All Things Comedy.",
-    "date": "August 7, 2019"
+    "date": "2019-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Alonzo Bodden"],
@@ -2022,7 +2022,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alonzo Bodden is a stand up comedian and winner of Last Comic Standing Season 3. His new comedy special \"Heavy Lightweight\" premieres on Amazon Prime on August 23.",
-    "date": "August 6, 2019"
+    "date": "2019-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Bernie Sanders"],
@@ -2031,7 +2031,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bernie Sanders is a 2020 Presidential Candidate of the Democratic Party and is currently serving as the U.S. Senator of Vermont. https://berniesanders.com/",
-    "date": "August 6, 2019"
+    "date": "2019-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Jean Jacques Machado"],
@@ -2040,7 +2040,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brazilian Jiu-Jitsu legend, Jean Jacques Machado.",
-    "date": "August 5, 2019"
+    "date": "2019-08-05T04:00:00.000Z"
   },
   {
     "guests": ["Brian Moses"],
@@ -2049,7 +2049,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Moses is a stand up comedian, writer, producer, and host. He is the host of \"Roast Battle\" which can be seen on Comedy Central and every Tuesday night at The Comedy Store in Los Angeles.",
-    "date": "August 1, 2019"
+    "date": "2019-08-01T04:00:00.000Z"
   },
   {
     "guests": ["Andy Ruiz"],
@@ -2058,7 +2058,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Andy Ruiz, the first boxer of Mexican heritage to become World Heavyweight Champion.",
-    "date": "July 31, 2019"
+    "date": "2019-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -2067,7 +2067,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian, actress, writer, and producer. Check out her new stand up special \"Can I Touch It?\" that is now streaming on Netflix.",
-    "date": "July 30, 2019"
+    "date": "2019-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -2076,7 +2076,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "July 30, 2019"
+    "date": "2019-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Maynard James Keenan"],
@@ -2085,7 +2085,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Maynard James Keenan is a singer, songwriter, producer, winemaker, and actor, best known as the vocalist for Grammy Award-winning rock band Tool, Puscifer, and A Perfect Circle. Look for TOOL's catalog coming to streaming services on August 2 and their new album \"FEAR INOCULUM\" releases on August 30.",
-    "date": "July 29, 2019"
+    "date": "2019-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Rico Verhoeven"],
@@ -2094,7 +2094,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Glory Kickboxing Heavyweight Champion Rico Verhoeven.",
-    "date": "July 24, 2019"
+    "date": "2019-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Cornel West"],
@@ -2103,7 +2103,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Cornel West is a philosopher, political activist, social critic, author, and public intellectual. He is Professor of the Practice of Public Philosophy at Harvard University and holds the title of Professor Emeritus at Princeton University. He has also taught at Union Theological Seminary, Yale, Harvard, and the University of Paris.",
-    "date": "July 24, 2019"
+    "date": "2019-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Aljamain Sterling"],
@@ -2112,7 +2112,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Bantamweight fighter Aljamain Sterling.",
-    "date": "July 11, 2019"
+    "date": "2019-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Ian Edwards"],
@@ -2121,7 +2121,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian Edwards is a stand up comedian and also hosts his own podcast called “Soccer Comic Rant” on iTunes/Stitcher. His new special \"Bill Burr presents Ian Talk: Ideas Not Worth Spreading\" premieres July 12 on Comedy Central.",
-    "date": "July 11, 2019"
+    "date": "2019-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Andy Ngo"],
@@ -2130,7 +2130,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andy Ngo is a political journalist best known for covering street protests in Portland, Oregon. He has written columns in The Wall Street Journal, the New York Post and National Review, amongst others, and is an editor for Quillette.",
-    "date": "July 10, 2019"
+    "date": "2019-07-10T04:00:00.000Z"
   },
   {
     "guests": ["Reggie Watts"],
@@ -2139,7 +2139,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Reggie Watts is a musician, singer, beatboxer, actor, and comedian. His improvised musical sets are created using only his voice, a keyboard, and a looping machine. He is also currently the announcer and band leader on The Late Late Show with James Corden.",
-    "date": "July 9, 2019"
+    "date": "2019-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Robert Oberst"],
@@ -2148,7 +2148,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robert Oberst is a professional strongman who competes yearly in The World's Strongest Man competition. He's can also be seen on the History Channel's \"The Strongest Man In History\" premiering July 10 at 10pm ET.",
-    "date": "July 8, 2019"
+    "date": "2019-07-08T04:00:00.000Z"
   },
   {
     "guests": ["Eric Weinstein"],
@@ -2157,7 +2157,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eric Weinstein is a mathematician and economist, and he is also the managing director at Thiel Capital. His new podcast  \"The Portal\" is available now on Apple Podcasts & Spotify. https://podcasts.apple.com/us/podcast/the-portal/id1469999563",
-    "date": "July 3, 2019"
+    "date": "2019-07-03T04:00:00.000Z"
   },
   {
     "guests": ["Yves Edwards"],
@@ -2166,7 +2166,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Lightweight veteran and current PFL commentator, Yves Edwards.",
-    "date": "July 2, 2019"
+    "date": "2019-07-02T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -2175,7 +2175,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”. https://www.youtube.com/channel/UCv695o3i-JmkUB7tPbtwXDA",
-    "date": "July 1, 2019"
+    "date": "2019-07-01T04:00:00.000Z"
   },
   {
     "guests": ["Hotep Jesus"],
@@ -2184,7 +2184,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hotep Jesus is a tech investor, marketer and author. His book \"Dominate Twitter\" is available on http://bryansharpe.co",
-    "date": "June 26, 2019"
+    "date": "2019-06-26T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -2193,7 +2193,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. Check out his podcast “Whiskey Ginger” available on Apple Podcasts & YouTube.",
-    "date": "June 25, 2019"
+    "date": "2019-06-25T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -2202,7 +2202,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is a journalist and host of the “The Empire Files”  — http://theempirefiles.tv The Empire Files documentary \"Gaza Fight For Freedom\" will be available soon. https://www.youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q",
-    "date": "June 25, 2019"
+    "date": "2019-06-25T04:00:00.000Z"
   },
   {
     "guests": ["Will Harris"],
@@ -2211,7 +2211,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by filmmaker Will Harris, who runs the popular YouTube channel/series \"Anatomy Of A Fighter\": https://www.youtube.com/channel/UC47UlrwAYX5HRs5bm2KbEZg",
-    "date": "June 24, 2019"
+    "date": "2019-06-24T04:00:00.000Z"
   },
   {
     "guests": ["Swapcast01"],
@@ -2220,7 +2220,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe and John Dudley sit down on a plane to discuss their recent hunting trip...",
-    "date": "June 21, 2019"
+    "date": "2019-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Bob Lazar", "Jeremy Corbell"],
@@ -2229,7 +2229,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
-    "date": "June 20, 2019"
+    "date": "2019-06-20T04:00:00.000Z"
   },
   {
     "guests": ["Charlamagne tha God", "Andrew Schulz"],
@@ -2238,7 +2238,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Charlamagne tha God is a radio presenter, television personality, and author.  Andrew Schulz is a stand up comedian known for his work on Guy Code. Check out their podcast called \"The Brilliant Idiots\" available on Apple Podcasts & YouTube.",
-    "date": "June 19, 2019"
+    "date": "2019-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -2247,7 +2247,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "June 18, 2019"
+    "date": "2019-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Ms. Pat"],
@@ -2256,7 +2256,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ms. Pat is a comedian, actress, and author. Her new podcast \"The Patdown\" is available now on Apple Podcasts and Google Podcasts.",
-    "date": "June 18, 2019"
+    "date": "2019-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Lee"],
@@ -2265,7 +2265,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Welterweight fighter Kevin Lee.",
-    "date": "June 5, 2019"
+    "date": "2019-06-05T04:00:00.000Z"
   },
   {
     "guests": ["David Pakman"],
@@ -2274,7 +2274,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Pakman is a television & radio host, political commentator, and YouTube personality. He is the host of the internationally syndicated political television and talk radio program The David Pakman Show. https://www.youtube.com/channel/UCvixJtaXuNdMPUGdOPcY8Ag",
-    "date": "June 5, 2019"
+    "date": "2019-06-05T04:00:00.000Z"
   },
   {
     "guests": ["Sober October 2019 Preview"],
@@ -2283,7 +2283,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Tom Segura & Bert Kreischer to discuss this year's Sober October challenge.",
-    "date": "June 4, 2019"
+    "date": "2019-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Naval Ravikant"],
@@ -2292,7 +2292,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Naval Ravikant is an entrepreneur and angel investor, a co-author of Venture Hacks, and a co-maintainer of AngelList. ",
-    "date": "June 4, 2019"
+    "date": "2019-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -2301,7 +2301,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is an American Jiu-Jitsu instructor, musician, former UFC analyst, and is the founder of 10th Planet Jiu-Jitsu.",
-    "date": "June 4, 2019"
+    "date": "2019-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -2310,7 +2310,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts a podcast with Alison Rosen called “Childish” that is available now on iTunes & Stitcher.",
-    "date": "May 31, 2019"
+    "date": "2019-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Wiz Khalifa"],
@@ -2319,7 +2319,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wiz Khalifa is a rapper, singer, songwriter and actor. His new documentary \"Wiz Khalifa: Behind the Cam\" is available now on Apple Music.",
-    "date": "May 30, 2019"
+    "date": "2019-05-30T04:00:00.000Z"
   },
   {
     "guests": ["JD", "John Witherspoon"],
@@ -2328,7 +2328,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Witherspoon is a comedian and actor. JD Witherspoon, John's son, is also a comedian and actor. You can see John on his YouTube cooking show \"Cookin' For Poor People\" (https://www.youtube.com/channel/UCJF-73OaZ-Cr0k9_-lpcaXQ). Also check out JD's YouTube channel \"runJDrun\"  (https://www.youtube.com/runJDrun).",
-    "date": "May 29, 2019"
+    "date": "2019-05-29T04:00:00.000Z"
   },
   {
     "guests": ["Michelle Waterson"],
@@ -2337,7 +2337,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Strawweight fighter Michelle Waterson.",
-    "date": "May 28, 2019"
+    "date": "2019-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -2346,7 +2346,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist, former pro football player, and comedian. He hosts a podcast with Bryan Callen called “The Fighter & The Kid” and \"The King & The Sting\" with Theo Von both available on iTunes. His comedy special \"You'd Be Surprised\" is available now on Showtime.",
-    "date": "May 23, 2019"
+    "date": "2019-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Tommy Chong"],
@@ -2355,7 +2355,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tommy Chong is a Canadian-American actor, writer, director, musician, activist for cannabis-rights and comedian.",
-    "date": "May 23, 2019"
+    "date": "2019-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Ed Calderon"],
@@ -2364,7 +2364,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ed Calderon is a security specialist and combatives instructor with over 10 years experience in public safety along the northern border area of Mexico. Follow him online @EdsManifesto http://edsmanifesto.com",
-    "date": "May 22, 2019"
+    "date": "2019-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Laird Hamilton"],
@@ -2373,7 +2373,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Laird Hamilton is a big-wave surfer, co-inventor of tow-in surfing, and co-founder, with his wife Gabrielle Reece, of XPT Training (Extreme Performance Training).",
-    "date": "May 22, 2019"
+    "date": "2019-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Michael Malice"],
@@ -2382,7 +2382,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Malice is an author and also hosts a podcast called “Your Welcome with Michael Malice” available on the GaS Digital Network. His new book called  \"The New Right\" is available now.",
-    "date": "May 20, 2019"
+    "date": "2019-05-20T04:00:00.000Z"
   },
   {
     "guests": ["Annie Jacobsen"],
@@ -2391,7 +2391,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Annie Jacobsen is an American investigative journalist, author and 2016 Pulitzer Prize finalist in history. Her latest book Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins is available now.",
-    "date": "May 16, 2019"
+    "date": "2019-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -2400,7 +2400,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neal Brennan is a stand-up comedian, actor, writer, director and producer. He is known for co-creating and co-writing “Chappelle’s Show” with Dave Chappelle. Check out his podcast \"How Neal Feel\" available on Apple Podcasts & Stitcher.",
-    "date": "May 15, 2019"
+    "date": "2019-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Phil Demers"],
@@ -2409,7 +2409,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Phil Demers is a former professional marine mammal trainer and employee at Marineland in Canada. http://savesmooshi.com",
-    "date": "May 15, 2019"
+    "date": "2019-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Joe List"],
@@ -2418,7 +2418,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe List is a stand up comedian. He co-hosts a podcast called \"Tuesdays w/Stories\" with Mark Normand. You can also see him on \"The Standups\" Season 2 now streaming on Netflix.",
-    "date": "May 14, 2019"
+    "date": "2019-05-14T04:00:00.000Z"
   },
   {
     "guests": ["Tulsi Gabbard"],
@@ -2427,7 +2427,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tulsi Gabbard is a 2020 Presidential Candidate of the Democratic Party and is currently serving as the U.S. Representative for Hawaii’s 2nd congressional district since 2013. https://www.tulsi2020.com/",
-    "date": "May 13, 2019"
+    "date": "2019-05-13T04:00:00.000Z"
   },
   {
     "guests": ["Jamie Metzl"],
@@ -2436,7 +2436,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jamie Metzl is a technology futurist and geopolitical expert, novelist, entrepreneur, media commentator, and Senior Fellow of the Atlantic Council. His new book \"Hacking Darwin\" is available now at Barnes & Noble and Amazon. https://hackingdarwin.com/",
-    "date": "May 9, 2019"
+    "date": "2019-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -2445,7 +2445,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. Check out his podcast \"Whiskey Ginger\" available on Apple Podcasts & YouTube.",
-    "date": "May 8, 2019"
+    "date": "2019-05-08T04:00:00.000Z"
   },
   {
     "guests": ["Lex Fridman"],
@@ -2454,7 +2454,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lex Fridman is a research scientist at MIT working on human-centered artificial intelligence and autonomous vehicles.",
-    "date": "May 7, 2019"
+    "date": "2019-05-07T04:00:00.000Z"
   },
   {
     "guests": ["C.T. Fletcher"],
@@ -2463,7 +2463,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "C.T. Fletcher is an ex-powerlifter, actor, video-blogger, and owner of Iron Addict Gym. He is a 3-Time World Bench Press Champion and 3-Time World Strict Curl Champion.",
-    "date": "May 6, 2019"
+    "date": "2019-05-06T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -2472,7 +2472,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast. His new stand up special “Complicated Apes” is now available to download on iTunes, Amazon, and various other platforms.",
-    "date": "May 3, 2019"
+    "date": "2019-05-03T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Izzard"],
@@ -2481,7 +2481,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Izzard is a British stand-up comedian, actor, writer and political activist. He's currently on a world tour with his show \"WUNDERBAR\" and can be seen in the US this summer.",
-    "date": "May 2, 2019"
+    "date": "2019-05-02T04:00:00.000Z"
   },
   {
     "guests": ["Jon Reep"],
@@ -2490,7 +2490,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jon Reep is an American stand-up comedian and actor. Check out his podcast \"Fried with Jon Reep\" available on Apple Podcasts and Soundcloud.",
-    "date": "May 1, 2019"
+    "date": "2019-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Rich Benoit"],
@@ -2499,7 +2499,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rich Benoit is a car enthusiast who salvages Tesla vehicles typically by combining several cars which have been totaled. Check out his YouTube channel Rich Rebuilds: https://www.youtube.com/channel/UCfV0_wbjG8KJADuZT2ct4SA",
-    "date": "April 30, 2019"
+    "date": "2019-04-30T04:00:00.000Z"
   },
   {
     "guests": ["Anthony Jeselnik"],
@@ -2508,7 +2508,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Anthony Jeselnik is a comedian, writer, actor, and producer. His new special \"Anthony Jeselnik: Fire in the Maternity Ward\" will be available streaming on Netflix on April 30.",
-    "date": "April 29, 2019"
+    "date": "2019-04-29T04:00:00.000Z"
   },
   {
     "guests": ["Corey Anderson"],
@@ -2517,7 +2517,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Light Heavyweight fighter Corey Anderson.",
-    "date": "April 26, 2019"
+    "date": "2019-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Khalil Rountree Jr."],
@@ -2526,7 +2526,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Light Heavyweight fighter Khalil Rountree Jr.",
-    "date": "April 25, 2019"
+    "date": "2019-04-25T04:00:00.000Z"
   },
   {
     "guests": ["B-Real"],
@@ -2535,7 +2535,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "B-Real is a rapper and actor. He is the lead rapper in the hip hop group Cypress Hill and one of two rappers in the rap rock supergroup Prophets of Rage. Also check out his show \"The Smoke Box\" on BReal.tv & YouTube.",
-    "date": "April 23, 2019"
+    "date": "2019-04-23T04:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock"],
@@ -2544,7 +2544,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as “Fingerprints Of The Gods” & “Magicians of the Gods”. His new book \"America Before\" comes on out April 23.",
-    "date": "April 22, 2019"
+    "date": "2019-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Russell Brand"],
@@ -2553,7 +2553,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Brand is an English comedian, actor, radio host, author, and activist. His new book “Mentors” is available now, and his podcast called “Under The Skin” is available on Luminary.",
-    "date": "April 20, 2019"
+    "date": "2019-04-20T04:00:00.000Z"
   },
   {
     "guests": ["Adam Conover"],
@@ -2562,7 +2562,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Conover is a stand up comedian, writer, and television host. He is the creator and host of the show \"Adam Ruins Everything\" on truTV.",
-    "date": "April 17, 2019"
+    "date": "2019-04-17T04:00:00.000Z"
   },
   {
     "guests": ["Jorge Masvidal"],
@@ -2571,7 +2571,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC welterweight fighter Jorge Masvidal.",
-    "date": "April 16, 2019"
+    "date": "2019-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -2580,7 +2580,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss the fights from UFC 235.",
-    "date": "April 15, 2019"
+    "date": "2019-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -2589,7 +2589,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His podcast “Come To Papa” is available through All Things Comedy on iTunes.",
-    "date": "April 15, 2019"
+    "date": "2019-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Herb Dean"],
@@ -2598,7 +2598,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by former fighter, certified trainer and current MMA referee Herb Dean.",
-    "date": "April 10, 2019"
+    "date": "2019-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Micheal Yo"],
@@ -2607,7 +2607,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Yo is a stand up comedian. His new stand up special \"Blasian\" is available now on Amazon Prime.",
-    "date": "April 9, 2019"
+    "date": "2019-04-09T04:00:00.000Z"
   },
   {
     "guests": ["Jessimae Peluso"],
@@ -2616,7 +2616,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jessimae Peluso is a stand-up comedian and television personality. Checkout her podcast called \"Sharp Tongue\" available on iTunes & Stitcher.",
-    "date": "April 8, 2019"
+    "date": "2019-04-08T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Hart"],
@@ -2625,7 +2625,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Hart is a comedian, actor and producer. His new stand up special \"Kevin Hart: Irresponsible\" is now streaming on Netflix.",
-    "date": "April 6, 2019"
+    "date": "2019-04-06T04:00:00.000Z"
   },
   {
     "guests": ["Gabrielle Reece"],
@@ -2634,7 +2634,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gabrielle Reece is a world-renowned athlete, TV personality, New York Times bestselling author, and model. Together with her husband Laird, they launched a new all-encompassing fitness program called XPT. http://www.xptlife.com",
-    "date": "April 3, 2019"
+    "date": "2019-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Ben Shapiro"],
@@ -2643,7 +2643,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of “The Ben Shapiro Show” is available on SoundCloud and iTunes. His new book \"The Right Side Of History\" is available now everywhere.",
-    "date": "April 3, 2019"
+    "date": "2019-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Forrest Griffin", "Clint Wattenberg", "Dr. Duncan French"],
@@ -2652,7 +2652,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by the Vice President of Performance Duncan French, Vice President of Fighter Relations Forrest Griffin, & the Director of Sports Nutrition Clint Wattenberg at the UFC's Performance Institute.",
-    "date": "April 2, 2019"
+    "date": "2019-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Luis J. Gomez"],
@@ -2661,7 +2661,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Luis J. Gomez is a stand up comedian and producer. He's part of the Legion of Skanks and also co-hosts \"Believe You Me\" podcast with Michael Bisping. His new special \"Luis J. Gomez Presents Luis J. Gomez\" is now available for download.",
-    "date": "April 2, 2019"
+    "date": "2019-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Nicholas Christakis"],
@@ -2670,7 +2670,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nicholas Christakis is a sociologist and physician known for his research on social networks and on the socioeconomic, biosocial, and evolutionary determinants of behavior, health, and longevity. He is the Sterling Professor of Social and Natural Science at Yale University, where he directs the Human Nature Lab. He is also the Co-Director of the Yale Institute for Network Science.",
-    "date": "March 28, 2019"
+    "date": "2019-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Ron Funches"],
@@ -2679,7 +2679,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron Funches is a comedian, actor and writer. His new special \"Giggle Fit\" is available now to download via Comedy Central, Amazon, and iTunes.",
-    "date": "March 26, 2019"
+    "date": "2019-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Lindsey Fitzharris"],
@@ -2688,7 +2688,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Lindsey Fitzharris is an author and medical historian. She is the creator of the popular blog, The Chirurgeon's Apprentice and the host of the YouTube video series Under the Knife. Her book \"The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine\" is available now via Amazon.",
-    "date": "March 26, 2019"
+    "date": "2019-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Billy Corben"],
@@ -2697,7 +2697,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Billy Corben is a documentary producer and director, best known for his films “Cocaine Cowboys ” & “Cocaine Cowboys 2″ and also “Broke” & “The U” for ESPN’s 30 for 30 series. His latest film \"Screwball\" releases in theaters on March 29, and VOD will be available on April 5.",
-    "date": "March 25, 2019"
+    "date": "2019-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Lenny Clarke"],
@@ -2706,7 +2706,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lenny Clarke is a legendary Boston comic and actor.",
-    "date": "March 25, 2019"
+    "date": "2019-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -2715,7 +2715,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast. His new stand up special \"Complicated Apes\" is now available to download on iTunes, Amazon, and various other platforms.",
-    "date": "March 20, 2019"
+    "date": "2019-03-20T04:00:00.000Z"
   },
   {
     "guests": ["Ron White"],
@@ -2724,7 +2724,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron White is a stand up comedian and actor, best known as a charter member of the Blue Collar Comedy Tour. His new special \"If You Quit Listening, I'll Shut Up\" is now streaming on Netflix.",
-    "date": "March 19, 2019"
+    "date": "2019-03-19T04:00:00.000Z"
   },
   {
     "guests": ["Gary Taubes", "Stephan Guyenet"],
@@ -2733,7 +2733,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gary Taubes is a journalist, writer and low-carbohydrate diet advocate. Stephan Guyenet, PhD, is a neuroscientist and is also the founder and director of Red Pen Reviews.",
-    "date": "March 19, 2019"
+    "date": "2019-03-19T04:00:00.000Z"
   },
   {
     "guests": ["MMA Show #59 with Kamaru Usman"],
@@ -2742,7 +2742,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by UFC Welterweight Champion Kamaru Usman.",
-    "date": "March 18, 2019"
+    "date": "2019-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Ben Anderson"],
@@ -2751,7 +2751,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Anderson is a journalist, television reporter, writer and recipient of the Foreign Press Award.",
-    "date": "March 18, 2019"
+    "date": "2019-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Schulz"],
@@ -2760,7 +2760,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Schulz is a stand up comedian known for his work on Guy Code, The Brilliant Idiots podcast and the Amazon original series \"Sneaky Pete.\" https://www.youtube.com/theandrewschulz",
-    "date": "March 14, 2019"
+    "date": "2019-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Timothy Denevi"],
@@ -2769,7 +2769,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Timothy Denevi is a professor in the MFA program at George Mason University and he is the author of \"Freak Kingdom: Hunter S. Thompson's Manic Ten-Year Crusade Against American Fascism.\"",
-    "date": "March 13, 2019"
+    "date": "2019-03-13T04:00:00.000Z"
   },
   {
     "guests": ["Renée DiResta"],
@@ -2778,7 +2778,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Renée DiResta is the Director of Research at New Knowledge and a Mozilla Fellow in Media, Misinformation, and Trust.",
-    "date": "March 12, 2019"
+    "date": "2019-03-12T04:00:00.000Z"
   },
   {
     "guests": ["Pat McNamara"],
@@ -2787,7 +2787,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Pat McNamara spent 22 years in the United States Army in many special operations units. He is currently training people in tactical marksmanship and combat strength.",
-    "date": "March 12, 2019"
+    "date": "2019-03-12T04:00:00.000Z"
   },
   {
     "guests": ["Peter Hotez"],
@@ -2796,7 +2796,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Hotez, M.D., Ph.D. is Dean of the National School of Tropical Medicine and Professor of Pediatrics and Molecular Virology & Microbiology at Baylor College of Medicine where he is also the Director of the Texas Children’s Center for Vaccine Development (CVD) and Texas Children’s Hospital Endowed Chair of Tropical Pediatrics.",
-    "date": "March 11, 2019"
+    "date": "2019-03-11T04:00:00.000Z"
   },
   {
     "guests": ["Lennox Lewis", "Russell Peters"],
@@ -2805,7 +2805,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lennox Lewis is a three-time world heavyweight champion, a two-time lineal champion, and remains the last heavyweight to hold the undisputed title. Russell Peters is an actor and standup comedian, currently touring internationally all over the world.",
-    "date": "March 7, 2019"
+    "date": "2019-03-07T05:00:00.000Z"
   },
   {
     "guests": ["David Wallace-Wells"],
@@ -2814,7 +2814,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Wallace-Wells is Deputy editor and climate columnist for New York magazine.  His book \"The Uninhabitable Earth: Life After Warming\" is available now.",
-    "date": "March 6, 2019"
+    "date": "2019-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Jack Dorsey", "Vijaya Gadde", "Tim Pool"],
@@ -2823,7 +2823,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jack Dorsey is a computer programmer and Internet entrepreneur who is co-founder and CEO of Twitter, and founder and CEO of Square, a mobile payments company. Vijaya Gadde serves as the global lead for legal, policy, and trust and safety at Twitter. Tim Pool is an independent journalist. His work can currently be found  at http://timcast.com",
-    "date": "March 5, 2019"
+    "date": "2019-03-05T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -2832,7 +2832,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss the fights from UFC 235.",
-    "date": "March 4, 2019"
+    "date": "2019-03-04T05:00:00.000Z"
   },
   {
     "guests": ["Steve Sweeney"],
@@ -2841,7 +2841,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Sweeney is a comedian, writer, and actor. His movie \"Sweeney Killing Sweeney\" will be available everywhere this month at : https://sweeneykillingsweeney.com/",
-    "date": "March 4, 2019"
+    "date": "2019-03-04T05:00:00.000Z"
   },
   {
     "guests": ["David Lee Roth"],
@@ -2850,7 +2850,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Lee Roth is the lead singer of multi-platnium hard rock band from Southern California, Van Halen. https://inktheoriginal.com/",
-    "date": "February 28, 2019"
+    "date": "2019-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Alex Jones Returns!"],
@@ -2859,7 +2859,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Jones is a radio show host, filmmaker, and writer. Eddie Bravo is a jiujitsu black belt, music producer, and author.",
-    "date": "February 27, 2019"
+    "date": "2019-02-27T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Phil"],
@@ -2868,7 +2868,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Phil McGraw is an author, psychologist, and the host of the television show \"Dr. Phil.\"",
-    "date": "February 26, 2019"
+    "date": "2019-02-26T05:00:00.000Z"
   },
   {
     "guests": ["Ioan Grillo"],
@@ -2877,7 +2877,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ioan Grillo is journalist who has spent the last 18 years reporting on the drug war in Mexico. His books \"El Narco: Inside Mexico's Criminal Insurgency\" and \"Gangster Warlords\" are available now.",
-    "date": "February 26, 2019"
+    "date": "2019-02-26T05:00:00.000Z"
   },
   {
     "guests": ["Dave Foley", "Paul Greenberg"],
@@ -2886,7 +2886,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Foley is an actor, stand-up comedian, director, producer and writer. Paul Greenberg is an actor, comedian and voice actor. Together they host \"Don't Say.. with Paul & Dave\" available on iTunes.",
-    "date": "February 25, 2019"
+    "date": "2019-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Tim Dillon"],
@@ -2895,7 +2895,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Dillon is a comedian, tour guide, and host. His podcast \"Tim Dillon Is Going To Hell\" is available on the GaS Digital Network.",
-    "date": "February 21, 2019"
+    "date": "2019-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Johann Hari"],
@@ -2904,7 +2904,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Johann Hari is a writer and journalist. His new book “Lost Connections” is available now.",
-    "date": "February 20, 2019"
+    "date": "2019-02-20T05:00:00.000Z"
   },
   {
     "guests": ["Donnell Rawlings"],
@@ -2913,7 +2913,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donnell Rawlings is a stand up comedian, actor, and podcaster. He's known best for his roles on Chappelle's Show and The Wire.",
-    "date": "February 19, 2019"
+    "date": "2019-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Bill Ottman"],
@@ -2922,7 +2922,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Ottman is an Internet entrepreneur and freedom of information activist based, and is also the CEO and co-founder of Minds.",
-    "date": "February 19, 2019"
+    "date": "2019-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Andy Stumpf"],
@@ -2931,16 +2931,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andy Stumpf is a retired Navy SEAL and is also currently a wingsuit world record holder. He hosts his own podcast called “Cleared Hot” that can be found on iTunes & Stitcher.",
-    "date": "February 18, 2019"
+    "date": "2019-02-18T05:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – February 17, 2019"],
-    "title": "#044 - Fight Companion – February 17, 2019",
-    "episode_id": 44,
+    "title": "Fight Companion - February 17, 2019",
+    "episode_id": 47,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on February 17, 2019.",
-    "date": "February 17, 2019"
+    "date": "2019-02-17T05:00:00.000Z"
   },
   {
     "guests": ["Pot Debate – Alex Berenson", "Dr. Michael Hart"],
@@ -2949,7 +2949,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Berenson is a former reporter for The New York Times and the author of several thriller novels and a book on corporate financial filings. His new book \"Tell Your Children: The Truth About Marijuana, Mental Illness, and Violence\" is available now via Amazon. Dr. Michael Hart is the founder and medical director of Readytogo clinic, a medical cannabis clinic in London, Ontario, Canada.",
-    "date": "February 13, 2019"
+    "date": "2019-02-13T05:00:00.000Z"
   },
   {
     "guests": ["Andrew Yang"],
@@ -2958,7 +2958,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Yang is an American entrepreneur, the founder of Venture for America, and a 2020 Democratic presidential candidate.",
-    "date": "February 12, 2019"
+    "date": "2019-02-12T05:00:00.000Z"
   },
   {
     "guests": ["Colin O’Brady"],
@@ -2967,7 +2967,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colin O'Brady is a professional endurance athlete, motivational speaker and adventurer. He is a three-time world record holder, and just became the first person in the world to travel across Antarctica unassisted. In 2016 he set the Explorers Grand Slam and Seven Summits speed records.",
-    "date": "February 11, 2019"
+    "date": "2019-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Rafinha Bastos"],
@@ -2976,7 +2976,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rafinha Bastos is a Brazilian comedian, actor, journalist and television personality.",
-    "date": "February 11, 2019"
+    "date": "2019-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Tim Pool"],
@@ -2985,7 +2985,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Pool is an independent journalist. His work can currently be found  at http://timcast.com and on his YouTube channel: https://www.youtube.com/channel/UCG749Dj4V2fKa143f8sE60Q",
-    "date": "February 8, 2019"
+    "date": "2019-02-08T05:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -2994,7 +2994,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. His podcast called “Making Sense” is available on iTunes & Stitcher.",
-    "date": "February 7, 2019"
+    "date": "2019-02-07T05:00:00.000Z"
   },
   {
     "guests": ["Forrest Galante"],
@@ -3003,7 +3003,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Forrest Galante is an international wildlife adventurer and conservationist. He's also the host of \"Extinct of Alive\" on The Animal Planet. https://www.instagram.com/forrest.galante",
-    "date": "February 6, 2019"
+    "date": "2019-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Travis Barker"],
@@ -3012,7 +3012,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Travis Barker is a musician, songwriter, and record producer, best known as the drummer for the rock band Blink-182.",
-    "date": "February 5, 2019"
+    "date": "2019-02-05T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -3021,7 +3021,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also look for him only \"Kill Tony\" available on iTunes & YouTube: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "February 4, 2019"
+    "date": "2019-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Sebastian Maniscalco"],
@@ -3030,7 +3030,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sebastian Maniscalco is a stand up comedian and he also hosts his own podcast with Pete Correale called “The Pete and Sebastian Show” available on iTunes. His new special \"Stay Hungry\" is now streaming on Netflix.",
-    "date": "February 4, 2019"
+    "date": "2019-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Jack Dorsey"],
@@ -3039,7 +3039,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jack Dorsey is a computer programmer and Internet entrepreneur who is co-founder and CEO of Twitter, and founder and CEO of Square, a mobile payments company.",
-    "date": "February 1, 2019"
+    "date": "2019-02-01T05:00:00.000Z"
   },
   {
     "guests": ["TJ Dillashaw"],
@@ -3048,7 +3048,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by two-time and current UFC Bantamweight Champion, TJ Dillashaw to discuss his most recent fight and more.",
-    "date": "January 31, 2019"
+    "date": "2019-01-31T05:00:00.000Z"
   },
   {
     "guests": ["Ben Greenfield"],
@@ -3057,7 +3057,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Greenfield is a Coach, Author, Speaker, ex-Bodybuilder and Ironman Triathlete. In 2008 he was voted as the Personal Trainer of the Year by the National Strength and Conditioning Association (NSCA) and recognized as the top 100 Most Influential People in Health in 2013.",
-    "date": "January 30, 2019"
+    "date": "2019-01-30T05:00:00.000Z"
   },
   {
     "guests": ["David Sinclair"],
@@ -3066,7 +3066,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Sinclair, Ph.D., A.O. is a Professor in the Department of Genetics and co-Director of the Paul F. Glenn Center for the Biology of Aging at Harvard Medical School. He is best known for his work on understanding why we age and how to slow its effects.",
-    "date": "January 29, 2019"
+    "date": "2019-01-29T05:00:00.000Z"
   },
   {
     "guests": ["Brian Cox"],
@@ -3075,16 +3075,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Professor Brian Cox is an English physicist and Professor of Particle Physics in the School of Physics and Astronomy at the University of Manchester in the UK.",
-    "date": "January 28, 2019"
+    "date": "2019-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – January 26, 2019"],
-    "title": "#043 - Fight Companion – January 26, 2019",
-    "episode_id": 43,
+    "title": "Fight Companion - January 26, 2019",
+    "episode_id": 46,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on January 26, 2019.",
-    "date": "January 26, 2019"
+    "date": "2019-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Nick Di Paolo"],
@@ -3093,7 +3093,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Di Paolo is a writer and stand up comedian. Check out \"The Nick Di Paolo Show\" at http://nickdip.com and on YouTube - https://www.youtube.com/channel/UCghHWRYUpbsUdcsG7PrTgzQ",
-    "date": "January 25, 2019"
+    "date": "2019-01-25T05:00:00.000Z"
   },
   {
     "guests": ["Matt Braunger"],
@@ -3102,7 +3102,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Braunger is an actor, writer, and stand-up comedian. His new special \"Finally Live in Portland\" will be released everywhere on February 5, 2019.",
-    "date": "January 24, 2019"
+    "date": "2019-01-24T05:00:00.000Z"
   },
   {
     "guests": ["Killer Mike"],
@@ -3111,7 +3111,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Killer Mike is a rapper, actor, and activist. He is one half of the group Run The Jewels and has a new show on Netflix called \"Trigger Warning\" available now.",
-    "date": "January 23, 2019"
+    "date": "2019-01-23T05:00:00.000Z"
   },
   {
     "guests": ["Richard Rawlings"],
@@ -3120,7 +3120,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Richard Rawlings is the owner of Gas Monkey Garage. He can be seen on \"Garage Rehab\" & \"Fast N Loud\" on the Discovery Channel.",
-    "date": "January 22, 2019"
+    "date": "2019-01-22T05:00:00.000Z"
   },
   {
     "guests": ["Bari Weiss"],
@@ -3129,7 +3129,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bari Weiss is an American opinion writer and editor. In 2017, Weiss joined The New York Times as a staff editor in the opinion section.",
-    "date": "January 21, 2019"
+    "date": "2019-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Mike Tyson"],
@@ -3138,7 +3138,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Tyson is the former undisputed heavyweight boxing champion of the world. Check out his new podcast called \"Hotboxin' with Mike Tyson\" on YouTube: https://www.youtube.com/channel/UCdtNjOwfQpgVK0FyOeLyzrg",
-    "date": "January 17, 2019"
+    "date": "2019-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -3147,7 +3147,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "January 17, 2019"
+    "date": "2019-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -3156,7 +3156,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss some upcoming fights.",
-    "date": "January 17, 2019"
+    "date": "2019-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Theo Von"],
@@ -3165,7 +3165,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Theo Von is a stand-up comedian, television personality, host, and actor. Check out his podcast called “This Past Weekend”& \"The King & The Sting\" with Brendan Schaub both available on iTunes & YouTube.",
-    "date": "January 15, 2019"
+    "date": "2019-01-15T05:00:00.000Z"
   },
   {
     "guests": ["Adam Greentree"],
@@ -3174,7 +3174,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Greentree is a bowhunter and photographer from Australia. He also hosts his own podcast called “Bowhunter’s Life” available for download via iTunes.",
-    "date": "January 14, 2019"
+    "date": "2019-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -3183,7 +3183,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts a podcast with Alison Rosen called \"Childish\" that is available now on iTunes & Stitcher.",
-    "date": "January 11, 2019"
+    "date": "2019-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Michael Shermer"],
@@ -3192,7 +3192,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic, which is largely devoted to investigating pseudoscientific and supernatural claims.",
-    "date": "January 10, 2019"
+    "date": "2019-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Kelly Pavlik"],
@@ -3201,7 +3201,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by former unified WBC, WBO, Ring magazine and lineal middleweight champion, Kelly Pavlik.",
-    "date": "January 9, 2019"
+    "date": "2019-01-09T05:00:00.000Z"
   },
   {
     "guests": ["Din Thomas"],
@@ -3210,7 +3210,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by co-star of \"Dana White's Looking For A Fight\" and coach at American Top Team, Din Thomas.",
-    "date": "January 8, 2019"
+    "date": "2019-01-08T05:00:00.000Z"
   },
   {
     "guests": ["Jonathan Haidt"],
@@ -3219,7 +3219,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jonathan Haidt is a social psychologist and Professor of Ethical Leadership at New York University's Stern School of Business. He's also the author of books such as \"The Happiness Hypothesis\" and \"The Coddling of the American Mind\".",
-    "date": "January 7, 2019"
+    "date": "2019-01-07T05:00:00.000Z"
   },
   {
     "guests": ["Jeff Novitzky"],
@@ -3228,7 +3228,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Jeff Novitzky is the Vice President of Athlete Health and Performance for the UFC.",
-    "date": "December 27, 2018"
+    "date": "2018-12-27T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -3237,7 +3237,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "December 24, 2018"
+    "date": "2018-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -3246,7 +3246,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called “The Monday Morning Podcast”. Season 3 of his show “F Is For Family” is available now on Netflix.",
-    "date": "December 20, 2018"
+    "date": "2018-12-20T05:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -3255,7 +3255,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of “The Evolutionary Bases of Consumption” and “The Consuming Instinct”. Also check out Gad on Youtube: https://www.youtube.com/channel/UCLH7qUqM0PLieCVaHA7RegA",
-    "date": "December 19, 2018"
+    "date": "2018-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Nimesh Patel"],
@@ -3264,7 +3264,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nimesh Patel is a stand up comedian and writer. In 2017, he became the first Indian American writer on SNL",
-    "date": "December 19, 2018"
+    "date": "2018-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Sir Roger Penrose"],
@@ -3273,7 +3273,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sir Roger Penrose OM FRS is an English mathematical physicist, mathematician and philosopher of science. He is Emeritus Rouse Ball Professor of Mathematics in the University of Oxford and Emeritus Fellow of Wadham College, Oxford.",
-    "date": "December 18, 2018"
+    "date": "2018-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Ben O’Brien"],
@@ -3282,7 +3282,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben O’Brien is a writer, editor, host of The Hunting Collective podcast, a member of the Backcountry Hunters and Anglers Board of Directors and MeatEater’s Editorial Director.",
-    "date": "December 17, 2018"
+    "date": "2018-12-17T05:00:00.000Z"
   },
   {
     "guests": ["Lawrence Lessig"],
@@ -3291,7 +3291,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lawrence Lessig is an academic, attorney, and political activist. He is the Roy L. Furman Professor of Law at Harvard Law School and the former director of the Edmond J. Safra Center for Ethics at Harvard University.",
-    "date": "December 13, 2018"
+    "date": "2018-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Andrew Weil"],
@@ -3300,7 +3300,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Andrew Weil is a physician, author, spokesperson, and broadly described \"guru\" of the alternative medical brands: holistic health and integrative medicine. https://matcha.com/pages/joerogan",
-    "date": "December 12, 2018"
+    "date": "2018-12-12T05:00:00.000Z"
   },
   {
     "guests": ["Michael Bisping"],
@@ -3309,7 +3309,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by retired former UFC Middleweight Champion & commentator/analyst Michael Bisping.",
-    "date": "December 11, 2018"
+    "date": "2018-12-11T05:00:00.000Z"
   },
   {
     "guests": ["Deontay WIlder"],
@@ -3318,7 +3318,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by WBC Heavyweight Champion Deontay Wilder to discuss his recent fight with Tyson Fury and his history & future in boxing.",
-    "date": "December 10, 2018"
+    "date": "2018-12-10T05:00:00.000Z"
   },
   {
     "guests": ["David Goggins"],
@@ -3327,7 +3327,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Goggins is a retired Navy SEAL and former USAF Tactical Air Control Party member who served in Iraq and Afghanistan. He is an ultramarathon runner, ultra-distance cyclist, triathlete and world record holder for the most pull-ups done in 24 hours. His new book \"Can't Hurt Me\" is available now via Amazon. https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287",
-    "date": "December 5, 2018"
+    "date": "2018-12-05T05:00:00.000Z"
   },
   {
     "guests": ["Yves Edwards"],
@@ -3336,7 +3336,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Lightweight veteran and current PFL commentator, Yves Edwards.",
-    "date": "December 5, 2018"
+    "date": "2018-12-05T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Ben Goertzel"],
@@ -3345,7 +3345,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Ben Goertzel is the founder and CEO of SingularityNET, a blockchain-based AI marketplace.",
-    "date": "December 4, 2018"
+    "date": "2018-12-04T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -3354,7 +3354,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His podcast \"Come To Papa\" is available through All Things Comedy on iTunes.",
-    "date": "December 3, 2018"
+    "date": "2018-12-03T05:00:00.000Z"
   },
   {
     "guests": ["Anthony Cumia"],
@@ -3363,7 +3363,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Anthony Cumia is aradio personality and host formerly of The O&A Show, now hosting The Anthony Cumia Show available at CompoundMedia.com",
-    "date": "November 30, 2018"
+    "date": "2018-11-30T05:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson"],
@@ -3372,7 +3372,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
-    "date": "November 29, 2018"
+    "date": "2018-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Miriam Nakamoto"],
@@ -3381,7 +3381,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by World Champion Muay Thai and MMA fighter Miriam Nakamoto.",
-    "date": "November 28, 2018"
+    "date": "2018-11-28T05:00:00.000Z"
   },
   {
     "guests": ["Jeff Ross", "Dave Attell"],
@@ -3390,16 +3390,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeff Ross is a comedian, writer, producer, and director, also known as the “Roastmaster General.” Dave Attell is a stand-up comedian, writer and actor. Their new special \"Bumping Mics \" is streaming now on Netflix.",
-    "date": "November 27, 2018"
+    "date": "2018-11-27T05:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – November 24, 2018"],
-    "title": "#042 - Fight Companion – November 24, 2018",
-    "episode_id": 42,
+    "title": "Fight Companion - November 24, 2018",
+    "episode_id": 45,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on November 24, 2018.",
-    "date": "November 24, 2018"
+    "date": "2018-11-24T05:00:00.000Z"
   },
   {
     "guests": ["Mike Ward", "Pantelis"],
@@ -3408,7 +3408,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Ward is a host and comedian, who performs in both French & English. Pantelis is a comedian, and with Mike they co-host the \"2 Drink Minimum\" show available now on Compound Media.",
-    "date": "November 21, 2018"
+    "date": "2018-11-21T05:00:00.000Z"
   },
   {
     "guests": ["Jake “The Snake” Roberts", "Tony Hinchcliffe"],
@@ -3417,7 +3417,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jake \"The Snake\" Roberts is an actor and semi-retired professional wrestler. Check out the documentary \"The Resurrection of Jake The Snake\" streaming now. Tony Hinchcliffe is a stand-up comedian, writer, and actor. He hosts his own podcast called “Kill Tony” with Redban, and it’s available on YouTube at: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "November 20, 2018"
+    "date": "2018-11-20T05:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -3426,7 +3426,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts “MeatEater” available on Netflix, and a podcast also called “MeatEater” available on iTunes. His new cookbook \"The MeatEater Fish and Game Cookbook\" is available on November 20.",
-    "date": "November 16, 2018"
+    "date": "2018-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Eric Weinstein"],
@@ -3435,7 +3435,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eric Weinstein is a mathematician and economist, and he is also the managing director at Thiel Capital.",
-    "date": "November 15, 2018"
+    "date": "2018-11-15T05:00:00.000Z"
   },
   {
     "guests": ["Fred Morin", "David McMillan"],
@@ -3444,7 +3444,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Fred Morin & David McMillan are James Beard Award–nominated culinary adventurists and proprietors of the beloved restaurant, Joe Beef in Montreal. Their new cookbook/survival guide called \"Joe Beef: Surviving the Apocalypse\" is available on November 27.",
-    "date": "November 14, 2018"
+    "date": "2018-11-14T05:00:00.000Z"
   },
   {
     "guests": ["William von Hippel"],
@@ -3453,7 +3453,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "William von Hippel is a professor of psychology at the University of Queensland. His new book \"The Social Leap\" is available now via Amazon.",
-    "date": "November 13, 2018"
+    "date": "2018-11-13T05:00:00.000Z"
   },
   {
     "guests": ["Ross Edgley"],
@@ -3462,7 +3462,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ross Edgley is a former professional British water polo player who currently works as a model and personal trainer. In November 2018, he became the first person to swim around Great Britain.",
-    "date": "November 12, 2018"
+    "date": "2018-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura", "Sean Anders"],
@@ -3471,16 +3471,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina P called \"Your Mom’s House.\" Sean Anders is a writer and director, and his new movie \"Instant Family\" premieres November 16 in theaters.",
-    "date": "November 12, 2018"
+    "date": "2018-11-12T05:00:00.000Z"
   },
   {
     "guests": ["FC41"],
-    "title": "#FC41 - Fight Companion 41",
-    "episode_id": 41,
+    "title": "Fight Companion - November 11, 2018",
+    "episode_id": 44,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on November...",
-    "date": "November 11, 2018"
+    "date": "2018-11-11T05:00:00.000Z"
   },
   {
     "guests": ["Derren Brown"],
@@ -3489,7 +3489,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Derren Brown is an English mentalist and illusionist. He has a new special called \"Sacrifice\" streaming now on Netflix.",
-    "date": "November 9, 2018"
+    "date": "2018-11-09T05:00:00.000Z"
   },
   {
     "guests": ["Michael Malice"],
@@ -3498,7 +3498,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Malice is the author of \"Dear Reader: The Unauthorized Autobiography of Kim Jong Il\" and also host a podcast called \"Your Welcome with Michael Malice\" available on the GaS Digital Network.",
-    "date": "November 8, 2018"
+    "date": "2018-11-08T05:00:00.000Z"
   },
   {
     "guests": ["Dale Earnhardt Jr."],
@@ -3507,7 +3507,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dale Earnhardt Jr. is a semi-retired American professional stock car racing driver, team owner, and is currently an analyst for NASCAR on NBC. His new book \"Racing to the Finish: My Story\" is available now.",
-    "date": "November 7, 2018"
+    "date": "2018-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Christina P"],
@@ -3516,7 +3516,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christina P is a stand-up comedian and hosts a podcast with her husband, Tom Segura, called “Your Mom’s House.” She's also on the new Netflix Original Stand Up series \"The Degenerates\" streaming now.",
-    "date": "November 6, 2018"
+    "date": "2018-11-06T05:00:00.000Z"
   },
   {
     "guests": ["Sober October 2 Recap"],
@@ -3525,7 +3525,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Bert Kreischer & Tom Segura to recap their 2nd annual Sober October challenge.",
-    "date": "November 5, 2018"
+    "date": "2018-11-05T05:00:00.000Z"
   },
   {
     "guests": ["Shane Dorian"],
@@ -3534,7 +3534,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Dorian is a big wave surfer and bowhunter. He's also part of a new HBO Documentary premiering on December 11 called \"Momentum Generation\".",
-    "date": "November 5, 2018"
+    "date": "2018-11-05T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -3543,7 +3543,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcast called “Kill Tony” with Redban, and it’s available on iTunes and and YouTube at: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "October 31, 2018"
+    "date": "2018-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Henry Cejudo", "Eric Albarracin"],
@@ -3552,7 +3552,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Flyweight Champion & Olympic Gold Medalist Henry Cejudo and his MMA coach Eric Albarracin.",
-    "date": "October 31, 2018"
+    "date": "2018-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Peter Boghossian", "James Lindsay"],
@@ -3561,7 +3561,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Boghossian is a philosophy instructor, activist, author, speaker, and atheism advocate. He is a full-time faculty member at Portland State University. James Lindsay has a Ph.D. in mathematics and a background in physics and is also the author of three books.",
-    "date": "October 30, 2018"
+    "date": "2018-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -3570,7 +3570,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”. He will be featured on the Netflix Stand Up Series \"The Degenerates\" premiering on October 30.",
-    "date": "October 29, 2018"
+    "date": "2018-10-29T04:00:00.000Z"
   },
   {
     "guests": ["Tyson Fury"],
@@ -3579,7 +3579,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Tyson Fury is an undefeated British heavyweight boxer. On Dec. 1, he challenges current undefeated champion Deontay Wilder for the WBC World heavyweight belt.",
-    "date": "October 25, 2018"
+    "date": "2018-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Alex Honnold"],
@@ -3588,7 +3588,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Honnold is a big wall free solo climber. A documentary feature film titled \"Free Solo\" captures his record setting ascent of El Capitan, and it can be seen now in movie theaters all over.",
-    "date": "October 25, 2018"
+    "date": "2018-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Lex Fridman"],
@@ -3597,7 +3597,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lex Fridman is a research scientist at MIT, working on human-centered artificial intelligence.",
-    "date": "October 24, 2018"
+    "date": "2018-10-24T04:00:00.000Z"
   },
   {
     "guests": ["Kyle Kulinski"],
@@ -3606,7 +3606,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Kulinski is a political activist, progressive talk radio host, social democratic political commentator, and the co-founder of Justice Democrats. His show “Secular Talk” is available on YouTube: https://www.youtube.com/SecularTalk",
-    "date": "October 23, 2018"
+    "date": "2018-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Marques Brownlee"],
@@ -3615,7 +3615,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Marques Brownlee, also known as MKBHD, is a YouTuber, best known for his technology-focused videos.",
-    "date": "October 23, 2018"
+    "date": "2018-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Kelly Slater"],
@@ -3624,7 +3624,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kelly Slater is a professional surfer. He is the youngest and the oldest to win the World Surf League men's title, which he's won a record 11 times.",
-    "date": "October 22, 2018"
+    "date": "2018-10-22T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -3633,7 +3633,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by comedian Ari Shaffir to discuss some MMA/UFC history.",
-    "date": "October 21, 2018"
+    "date": "2018-10-21T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren", "Rafael Lovato Jr."],
@@ -3642,7 +3642,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by heavyweight fighter Justin Wren & middleweight fighter Rafael Lovato Jr.",
-    "date": "October 15, 2018"
+    "date": "2018-10-15T04:00:00.000Z"
   },
   {
     "guests": ["Roseanne Barr"],
@@ -3651,7 +3651,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Roseanne Barr is a comedian, actress, writer, television producer, director.",
-    "date": "October 11, 2018"
+    "date": "2018-10-11T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -3660,7 +3660,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. You can also see him on PROPS presented by Yahoo Sports, with episodes every Wednesday - https://bit.ly/2NAfM1j",
-    "date": "October 11, 2018"
+    "date": "2018-10-11T04:00:00.000Z"
   },
   {
     "guests": ["Nick Kroll"],
@@ -3669,7 +3669,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Kroll is an  actor, comedian, writer, and producer. Check out the new season of his animated series \"Big Mouth\" available now on Netflix.",
-    "date": "October 9, 2018"
+    "date": "2018-10-09T04:00:00.000Z"
   },
   {
     "guests": ["John Kavanagh", "George Lockhart"],
@@ -3678,7 +3678,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by MMA coach & Brazilian jiu-jitsu practitioner, John Kavanagh, and performance nutrition specialist George Lockhart.",
-    "date": "October 8, 2018"
+    "date": "2018-10-08T04:00:00.000Z"
   },
   {
     "guests": ["John Dudley"],
@@ -3687,7 +3687,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Dudley is a pro archer and host of “Nock On TV.” Check out his podcast “Nock On” available on iTunes. Also check out https://freerangeamerican.us/ and #DoAwesomeShit",
-    "date": "October 8, 2018"
+    "date": "2018-10-08T04:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -3696,7 +3696,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project \"Everlast presents Whitey Ford's House of Pain\" is available now on streaming services and for purchase here: https://fanlink.to/wfhop",
-    "date": "October 4, 2018"
+    "date": "2018-10-04T04:00:00.000Z"
   },
   {
     "guests": ["Nikki Glaser"],
@@ -3705,7 +3705,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nikki Glaser is an American stand-up comedian, podcast host, and television host. She is currently hosting \"You Up with Nikki Glaser\" on SiriusXM channel 95.",
-    "date": "October 3, 2018"
+    "date": "2018-10-03T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -3714,7 +3714,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "October 2, 2018"
+    "date": "2018-10-02T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -3723,7 +3723,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to preview UFC #229 and some more future fights.",
-    "date": "October 2, 2018"
+    "date": "2018-10-02T04:00:00.000Z"
   },
   {
     "guests": ["Sober October 2"],
@@ -3732,7 +3732,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Bert Kreischer & Tom Segura to discuss the challenge for Sober October 2.",
-    "date": "October 1, 2018"
+    "date": "2018-10-01T04:00:00.000Z"
   },
   {
     "guests": ["Dom D’Agostino", "Layne Norton"],
@@ -3741,7 +3741,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom D’Agostino, Ph.D., is an assistant professor in the Department of Molecular Pharmacology and Physiology at the University of South Florida Morsani College of Medicine, and a senior research scientist at the Institute for Human and Machine Cognition (IHMC). Layne Norton is a renowned prep/physique coach and pro-natural bodybuilder/powerlifter with a PhD in Nutritional Sciences.",
-    "date": "September 28, 2018"
+    "date": "2018-09-28T04:00:00.000Z"
   },
   {
     "guests": ["Chris Kresser", "Dr. Joel Kahn"],
@@ -3750,7 +3750,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Kresser, M.S., L.Ac is a globally recognized leader in the fields of ancestral health, Paleo nutrition, and functional and integrative medicine. Dr. Joel Kahn is one of the world’s top cardiologists and believes that plant-based nutrition is the most powerful source of preventative medicine on the planet.",
-    "date": "September 27, 2018"
+    "date": "2018-09-27T04:00:00.000Z"
   },
   {
     "guests": ["Vinnie Paz"],
@@ -3759,7 +3759,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Vinnie Paz is a rapper and the lyricist behind the Philadelphia underground hip hop group Jedi Mind Tricks. He is also the frontman of the hip hop supergroup Army of the Pharaohs.",
-    "date": "September 26, 2018"
+    "date": "2018-09-26T04:00:00.000Z"
   },
   {
     "guests": ["Geoffrey Miller"],
@@ -3768,7 +3768,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Geoffrey Miller is an evolutionary psychologist, serving as an associate professor of psychology at the University of New Mexico and known for his expertise in sexual selection in human evolution.",
-    "date": "September 25, 2018"
+    "date": "2018-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Teddy Atlas"],
@@ -3777,7 +3777,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by boxing trainer and fight commentator Teddy Atlas.",
-    "date": "September 24, 2018"
+    "date": "2018-09-24T04:00:00.000Z"
   },
   {
     "guests": ["Morgan Fallon"],
@@ -3786,7 +3786,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Morgan Fallon is a DP, director, and producer on the CNN documentary series \"Parts Unknown\"with Anthony Bourdain.",
-    "date": "September 12, 2018"
+    "date": "2018-09-12T04:00:00.000Z"
   },
   {
     "guests": ["MMA Show #41 with TJ Dillashaw", "Duane Ludwig"],
@@ -3795,7 +3795,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is sits down with UFC Bantamweight Champion TJ Dillashaw & Duane \"Bang\" Ludwig.",
-    "date": "September 12, 2018"
+    "date": "2018-09-12T04:00:00.000Z"
   },
   {
     "guests": ["Nick Yarris"],
@@ -3804,7 +3804,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Yarris is a writer and professional speaker who spent 22 years on death row after being wrongly convicted of murder. His books 'The Fear Of 13, Countdown To Execution' as well as 'The Kindness Approach' are available on Amazon and via http://nickyarris.org",
-    "date": "September 11, 2018"
+    "date": "2018-09-11T04:00:00.000Z"
   },
   {
     "guests": ["Tulsi Gabbard"],
@@ -3813,7 +3813,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tulsi Gabbard is an American politician of the Democratic Party serving as the U.S. Representative for Hawaii's 2nd congressional district since 2013.",
-    "date": "September 10, 2018"
+    "date": "2018-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Elon Musk"],
@@ -3822,7 +3822,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Elon Musk is a business magnet, investor and engineer.",
-    "date": "September 7, 2018"
+    "date": "2018-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -3831,7 +3831,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Eddie Bravo to talk about the fight world.",
-    "date": "September 6, 2018"
+    "date": "2018-09-06T04:00:00.000Z"
   },
   {
     "guests": ["Mareko Maumasi"],
@@ -3840,7 +3840,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mareko Maumasi is a bladesmith and custom knife maker.",
-    "date": "September 5, 2018"
+    "date": "2018-09-05T04:00:00.000Z"
   },
   {
     "guests": ["Larry Sharpe"],
@@ -3849,7 +3849,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Larry Sharpe is a business consultant, entrepreneur, and political activist. He is currently a candidate for the Libertarian Party nomination for the Governor of New York. https://www.larrysharpe.com/",
-    "date": "September 5, 2018"
+    "date": "2018-09-05T04:00:00.000Z"
   },
   {
     "guests": ["Diamond Dallas Page"],
@@ -3858,7 +3858,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Diamond Dallas Page is a semi-retired professional wrestler, fitness instructor, motivational speaker and actor. Check out https://ddpyoga.com/ for link to his app DDPYoga.",
-    "date": "September 4, 2018"
+    "date": "2018-09-04T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -3867,7 +3867,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His new show \"Baked\" premieres on The Food Network this Monday, September 3rd at 10PM.",
-    "date": "August 31, 2018"
+    "date": "2018-08-31T04:00:00.000Z"
   },
   {
     "guests": ["Mikhaila Peterson"],
@@ -3876,7 +3876,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mikhaila Peterson is a food blogger tracking her experiences with the Carnivore Diet at \"Don't Eat That\" http://mikhailapeterson.com/",
-    "date": "August 30, 2018"
+    "date": "2018-08-30T04:00:00.000Z"
   },
   {
     "guests": ["Donald “Cowboy” Cerrone"],
@@ -3885,7 +3885,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC fighter Donald \"Cowboy\" Cerrone.",
-    "date": "August 29, 2018"
+    "date": "2018-08-29T04:00:00.000Z"
   },
   {
     "guests": ["Banachek"],
@@ -3894,7 +3894,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Banachek is a mentalist, professional magician, and \"thought reader.\" He performs as an entertainer and tours internationally. http://www.banachek.com/",
-    "date": "August 28, 2018"
+    "date": "2018-08-28T04:00:00.000Z"
   },
   {
     "guests": ["Valentine Thomas"],
@@ -3903,7 +3903,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Valentine Thomas is a former lawyer and financier who quit, to pursue a sustainable quest for happiness as a spearfisherwoman.",
-    "date": "August 27, 2018"
+    "date": "2018-08-27T04:00:00.000Z"
   },
   {
     "guests": ["Jerrod Carmichael", "Jamar Neighbors"],
@@ -3912,7 +3912,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jerrod Carmichael is a stand-up comedian, actor, and writer. Jamar Neighbors is an actor and stand-up comedian.",
-    "date": "August 23, 2018"
+    "date": "2018-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -3921,7 +3921,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. His new special \"Secret Time\" premieres on August 24 only on Netflix.",
-    "date": "August 23, 2018"
+    "date": "2018-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Neil deGrasse Tyson"],
@@ -3930,7 +3930,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator.",
-    "date": "August 22, 2018"
+    "date": "2018-08-22T04:00:00.000Z"
   },
   {
     "guests": ["Chuck Palahniuk"],
@@ -3939,7 +3939,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chuck Palahniuk is a novelist and freelance journalist, who describes his work as \"transgressional\" fiction. He is the author of the award-winning novel Fight Club, Choke, Lullaby, and many others.",
-    "date": "August 22, 2018"
+    "date": "2018-08-22T04:00:00.000Z"
   },
   {
     "guests": ["Shooter Jennings"],
@@ -3948,7 +3948,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shooter Jennings is a musician, radio host, record label president, and is also the son of country music legend Waylon Jennings. His new album \"Shooter\" is available now everywhere.",
-    "date": "August 21, 2018"
+    "date": "2018-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Jimmy Dore"],
@@ -3957,7 +3957,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jimmy Dore is a stand-up comedian, political commentator, host of “The Jimmy Dore Show” available on YouTube (https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA) and as a podcast available on iTunes.",
-    "date": "August 9, 2018"
+    "date": "2018-08-09T04:00:00.000Z"
   },
   {
     "guests": ["Henry Rollins"],
@@ -3966,7 +3966,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Henry Rollins is a musician, actor, writer, television and radio host. He has a special debuting on Showtime called \"Keep Talking, Pal\" on August 10.",
-    "date": "August 9, 2018"
+    "date": "2018-08-09T04:00:00.000Z"
   },
   {
     "guests": ["Doug Duren", "Bryan Richards"],
@@ -3975,7 +3975,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Duren is a passionate hunter, farmer, land manager and conservationist. Bryan Richards is the CWD project leader for the U.S. Geological Survey's National Wildlife Health Center.",
-    "date": "August 8, 2018"
+    "date": "2018-08-08T04:00:00.000Z"
   },
   {
     "guests": ["Macaulay Culkin"],
@@ -3984,7 +3984,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Macaulay Culkin is an actor and musician. He recently started a website called BunnyEars.com - https://bunnyears.com - and also a podcast available on iTunes.",
-    "date": "August 7, 2018"
+    "date": "2018-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Gaston Bolanos", "Kirian Fitzgibbons"],
@@ -3993,7 +3993,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Bellator fight Gaston Bolanos & head coach/owner of CSA Gym, Kirian Fitzgibbons.",
-    "date": "August 6, 2018"
+    "date": "2018-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Mark DellaGrotte"],
@@ -4002,7 +4002,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Mark DellaGrotte, former Muay Thai champion in Thailand and owner and operator of the Sityodtong USA Branch in Somerville, MA.",
-    "date": "August 3, 2018"
+    "date": "2018-08-03T04:00:00.000Z"
   },
   {
     "guests": ["John Joseph"],
@@ -4011,7 +4011,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Joseph is a musician, author and triathlete from New York City, most famous for his work as the lead singer of the Cro-Mags in the 1980s.",
-    "date": "August 2, 2018"
+    "date": "2018-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Sean Carroll"],
@@ -4020,7 +4020,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sean Carroll is a cosmologist and physics professor specializing in dark energy and general relativity. He is a research professor in the Department of Physics at the California Institute of Technology. Check out \"Sean Carroll's Mindscape Podcast\" available on iTunes & Stitcher.",
-    "date": "August 1, 2018"
+    "date": "2018-08-01T04:00:00.000Z"
   },
   {
     "guests": ["Felipe Esparza"],
@@ -4029,7 +4029,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Felipe Esparza is an actor and stand up comedian, who won Last Comic Standing in 2010. Check out his podcast called \"What's Up Fool?\" available on iTunes & SoundCloud: https://felipesworld.com/podcast/",
-    "date": "July 31, 2018"
+    "date": "2018-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Michael Scott Moore"],
@@ -4038,7 +4038,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Scott Moore is a novelist and journalist, who was kidnapped by Somali pirates and spent two and half years in captivity. His book \"The Desert and the Sea: 977 Days Captive on the Somali Pirate Coast\" is available on Amazon now: https://www.amazon.com/Desert-Sea-Captive-Somali-Pirate/dp/0062449176",
-    "date": "July 30, 2018"
+    "date": "2018-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -4047,7 +4047,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. You can also see him the show “I’m Dying Up Here” on SHOWTIME.",
-    "date": "July 27, 2018"
+    "date": "2018-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Debra Soh"],
@@ -4056,7 +4056,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Debra Soh is a former sex researcher, neuroscientist, columnist, and podcast host. She is the co-host with Jonathan Kay of \"Wrongspeak\" available on iTunes & Google Play.",
-    "date": "July 26, 2018"
+    "date": "2018-07-26T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -4065,7 +4065,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub & Bryan Callen to discuss upcoming fights.",
-    "date": "July 25, 2018"
+    "date": "2018-07-25T04:00:00.000Z"
   },
   {
     "guests": ["Jeff Garlin"],
@@ -4074,7 +4074,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeff Garlin is a comedian, actor, producer, director, and writer.",
-    "date": "July 25, 2018"
+    "date": "2018-07-25T04:00:00.000Z"
   },
   {
     "guests": ["Peter Schiff"],
@@ -4083,7 +4083,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Schiff is an American businessman, investment broker, author and financial commentator. Schiff is CEO and chief global strategist of Euro Pacific Capital Inc. He also hosts his own podcast called “The Peter Schiff Podcast” available on iTunes and at SchiffRadio.com",
-    "date": "July 17, 2018"
+    "date": "2018-07-17T04:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope"],
@@ -4092,7 +4092,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Stanhope is a stand-up comedian, writer, and TV host, also currently hosting his own podcast, The Doug Stanhope Podcast. His book This Is Not Fame: A “From What I Re-Memoir” is available on Amazon.",
-    "date": "July 16, 2018"
+    "date": "2018-07-16T04:00:00.000Z"
   },
   {
     "guests": ["Candice Thompson"],
@@ -4101,7 +4101,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Candice Thompson is a comedian, writer, and actor. Check out her podcast called \"The Struggle w/ Candice Thompson\" here: http://www.candicethompsoncomedy.com/the-struggle-podcast",
-    "date": "July 11, 2018"
+    "date": "2018-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Israel Adesanya"],
@@ -4110,7 +4110,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with middleweight MMA fighter & kickboxer Israel \"The Style Bender\" Adesanya.",
-    "date": "July 10, 2018"
+    "date": "2018-07-10T04:00:00.000Z"
   },
   {
     "guests": ["Tony Rock"],
@@ -4119,7 +4119,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Rock is an actor and stand up comedian.",
-    "date": "July 10, 2018"
+    "date": "2018-07-10T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -4128,7 +4128,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with heavyweight fighter Josh Barnett.",
-    "date": "July 9, 2018"
+    "date": "2018-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Theo Von"],
@@ -4137,7 +4137,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Theo Von is a stand-up comedian, television personality, host, and actor. Check out his special on Netflix called \"No Offense\" & his podcast called \"This Past Weekend\" available on iTunes & YouTube. https://www.youtube.com/channel/UC5AQEUAwCh1sGDvkQtkDWUQ",
-    "date": "July 5, 2018"
+    "date": "2018-07-05T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -4146,7 +4146,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "July 4, 2018"
+    "date": "2018-07-04T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -4155,7 +4155,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss upcoming fights.",
-    "date": "July 3, 2018"
+    "date": "2018-07-03T04:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson"],
@@ -4164,7 +4164,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
-    "date": "July 2, 2018"
+    "date": "2018-07-02T04:00:00.000Z"
   },
   {
     "guests": ["Ted Nugent"],
@@ -4173,7 +4173,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ted Nugent is a singer-songwriter, guitarist, hunter and activist.",
-    "date": "June 28, 2018"
+    "date": "2018-06-28T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -4182,7 +4182,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "June 27, 2018"
+    "date": "2018-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Hamilton Morris"],
@@ -4191,7 +4191,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hamilton Morris is a writer, documentarian, psychonaut and scientific researcher. His show \"Hamilton's Pharmacopeia\" is available on VICELAND and iTunes.",
-    "date": "June 26, 2018"
+    "date": "2018-06-26T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -4200,7 +4200,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports. See Ari at this year's Edinburgh Festival Fringe from August 3-27.",
-    "date": "June 25, 2018"
+    "date": "2018-06-25T04:00:00.000Z"
   },
   {
     "guests": ["Kyle Dunnigan"],
@@ -4209,7 +4209,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Dunnigan is a writer, actor and comedian. Check out his hilarious Instagram page: https://www.instagram.com/kyledunnigan1/",
-    "date": "June 22, 2018"
+    "date": "2018-06-22T04:00:00.000Z"
   },
   {
     "guests": ["Dennis McKenna"],
@@ -4218,7 +4218,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dennis McKenna is an ethnopharmacologist, author, and brother to well-known psychedelics proponent Terence McKenna. His new book \"Ethnopharmacologic Search for Psychoactive Drugs: 50 Years of Research (1967-2017)\" is available here: http://www.synergeticpress.com/shop/ethnopharmacologic-search-psychoactive-drugs-50-years-research/",
-    "date": "June 21, 2018"
+    "date": "2018-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Firas Zahabi"],
@@ -4227,7 +4227,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with the head coach of Tristar Gym, Firas Zahabi.",
-    "date": "June 19, 2018"
+    "date": "2018-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Kyle Kingsbury"],
@@ -4236,7 +4236,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Kingsbury is a retired professional mixed martial artist. He is currently the Director of Human Optimization at Onnit.",
-    "date": "June 18, 2018"
+    "date": "2018-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Dave Rubin"],
@@ -4245,7 +4245,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Rubin is a stand-up comedian, talk show host, and television personality. He is the creator and host of political comedy talk show “The Rubin Report” -- https://www.youtube.com/RubinReport",
-    "date": "June 13, 2018"
+    "date": "2018-06-13T04:00:00.000Z"
   },
   {
     "guests": ["Daniel Straus", "Joe Schilling"],
@@ -4254,7 +4254,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by former Bellator Featherweight champion Daniel Straus & kickboxer/MMA fighter Joe Schilling.",
-    "date": "June 12, 2018"
+    "date": "2018-06-12T04:00:00.000Z"
   },
   {
     "guests": ["Adam Frank"],
@@ -4263,7 +4263,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Frank is a physicist, astronomer, and writer. His scientific research has focused on computational astrophysics with an emphasis on star formation and late stages of stellar evolution. His new book \"Light of the Stars: Alien Worlds and the Fate of the Earth\" is available now on Amazon.",
-    "date": "June 12, 2018"
+    "date": "2018-06-12T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -4272,7 +4272,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His new book \"Your Dad Stole My Rake: And Other Family Dilemmas\" is available now on Amazon. https://www.amazon.com/Your-Dad-Stole-My-Rake/dp/1250144388",
-    "date": "June 11, 2018"
+    "date": "2018-06-11T04:00:00.000Z"
   },
   {
     "guests": ["Ryan Sickler"],
@@ -4281,7 +4281,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ryan Sickler is a stand up comedian and co-host of \"The Crabfest Podcast.\" https://www.thecrabfeast.com/",
-    "date": "June 6, 2018"
+    "date": "2018-06-06T04:00:00.000Z"
   },
   {
     "guests": ["Sean O’Malley", "Tim Welch"],
@@ -4290,7 +4290,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Bantamweight fighter \"Sugar\" Sean O'Malley & welterweight fighter & coach Tim Welch.",
-    "date": "June 5, 2018"
+    "date": "2018-06-05T04:00:00.000Z"
   },
   {
     "guests": ["Jesse Itzler"],
@@ -4299,7 +4299,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jesse Itzler is an entrepreneur, author, and founder of The 100 Mile Group. Check out his new book \"Living With The Monks\" available at http://jesseitzler.com",
-    "date": "June 5, 2018"
+    "date": "2018-06-05T04:00:00.000Z"
   },
   {
     "guests": ["Erik Griffin"],
@@ -4308,7 +4308,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Erik Griffin is a stand-up comedian, writer and actor. His new special \"AmERIKan Warrior\" premieres on June 8 on Showtime, and he can be also be seen in the Showtime show \"I'm Dying Up Here.\"",
-    "date": "June 4, 2018"
+    "date": "2018-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Candace Owens"],
@@ -4317,7 +4317,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Candace Owens is the communication director for Turning Point USA, which is an American conservative nonprofit organization whose stated mission is \"to educate students about true free market values.\"",
-    "date": "May 31, 2018"
+    "date": "2018-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Robert Schoch"],
@@ -4326,7 +4326,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robert Schoch is an associate professor of Natural Sciences at the College of General Studies, Boston University. He has been best known as a proponent of the Sphinx water erosion hypothesis. Check out links to more of his work at http://robertschoch.com",
-    "date": "May 31, 2018"
+    "date": "2018-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Smith"],
@@ -4335,7 +4335,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster.",
-    "date": "May 30, 2018"
+    "date": "2018-05-30T04:00:00.000Z"
   },
   {
     "guests": ["Donnie Vincent"],
@@ -4344,7 +4344,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donnie Vincent is a biologist, explorer, conservationist, sportsman, and filmmaker. Links to some of his recent work is available at : https://www.donnievincent.com",
-    "date": "May 29, 2018"
+    "date": "2018-05-29T04:00:00.000Z"
   },
   {
     "guests": ["JRE MMA Show #29"],
@@ -4353,16 +4353,16 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC fighter Cat Zingano.",
-    "date": "May 28, 2018"
+    "date": "2018-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Fight Companion – May 27, 2018"],
-    "title": "#040 - Fight Companion – May 27, 2018",
-    "episode_id": 40,
+    "title": "Fight Companion - May 27, 2018",
+    "episode_id": 43,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on May 27, 2018.",
-    "date": "May 27, 2018"
+    "date": "2018-05-27T04:00:00.000Z"
   },
   {
     "guests": ["Michael Pollan"],
@@ -4371,7 +4371,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Pollan is an author, journalist, activist, and professor of journalism at the UC Berkeley Graduate School of Journalism. His new book \"How To Change Your Mind\" is available now.",
-    "date": "May 24, 2018"
+    "date": "2018-05-24T04:00:00.000Z"
   },
   {
     "guests": ["Georges St-Pierre"],
@@ -4380,7 +4380,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Georges St-Pierre discuss fighting and more.",
-    "date": "May 23, 2018"
+    "date": "2018-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Ben Greenfield"],
@@ -4389,7 +4389,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Greenfield is a Coach, Author, Speaker, ex-Bodybuilder and Ironman Triathlete. In 2008 he was voted as the Personal Trainer of the Year by the National Strength and Conditioning Association (NSCA) and recognized as the top 100 Most Influential People in Health in 2013.",
-    "date": "May 22, 2018"
+    "date": "2018-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Robin Black"],
@@ -4398,7 +4398,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Robin Black to discuss the MMA fight world and breaking down some upcoming fights.",
-    "date": "May 22, 2018"
+    "date": "2018-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Howard Bloom"],
@@ -4407,7 +4407,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Howard Bloom is an author and he was also a publicist in the 1970s and 1980s for singers and bands such as Prince, Billy Joel, and Styx. His latest book \"How I Accidentally Started The Sixties\" is available now on Amazon -- https://www.amazon.com/How-I-Accidentally-Started-Sixties/dp/1945572914/ref=la_B001KIRZ9U_1_6?s=books&ie=UTF8&qid=1526939581&sr=1-6",
-    "date": "May 21, 2018"
+    "date": "2018-05-21T04:00:00.000Z"
   },
   {
     "guests": ["Theo Von"],
@@ -4416,7 +4416,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Theo Von is a stand-up comedian, television personality, host, and actor. Check out his special on Netflix called \"No Offense\" & his podcast called \"This Past Weekend\" available on iTunes & YouTube.",
-    "date": "May 18, 2018"
+    "date": "2018-05-18T04:00:00.000Z"
   },
   {
     "guests": ["Tim Kennedy"],
@@ -4425,7 +4425,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Kennedy is a Ranger, sniper, Special Forces Operator, and recently retired UFC Fighter.",
-    "date": "May 17, 2018"
+    "date": "2018-05-17T04:00:00.000Z"
   },
   {
     "guests": ["Steven Tyler"],
@@ -4434,7 +4434,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Tyler is a singer-songwriter, multi-instrumentalist, best known as the lead-singer of Aerosmith. He is also the subject of new documentary called \"Steven Tyler: Out on a Limb\" available to stream on demand.",
-    "date": "May 16, 2018"
+    "date": "2018-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Big John McCarthy"],
@@ -4443,7 +4443,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Big John McCarthy to discuss MMA history.",
-    "date": "May 16, 2018"
+    "date": "2018-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -4452,7 +4452,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "May 9, 2018"
+    "date": "2018-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Matt Taibbi"],
@@ -4461,7 +4461,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Taibbi is a journalist and author. He has reported on politics, media, finance, and sports, and has authored several books including: Insane Clown President, Griftopia, and The Business Secrets Of Drug Dealing.",
-    "date": "May 9, 2018"
+    "date": "2018-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -4470,7 +4470,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network.",
-    "date": "May 8, 2018"
+    "date": "2018-05-08T04:00:00.000Z"
   },
   {
     "guests": ["Michael Chandler"],
@@ -4479,7 +4479,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former two-time Bellator Lightweight Champion Michael Chandler.",
-    "date": "May 7, 2018"
+    "date": "2018-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -4488,16 +4488,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator” and he also has a podcast available on iTunes called Keep Hammering with Cameron Hanes.",
-    "date": "May 5, 2018"
+    "date": "2018-05-05T04:00:00.000Z"
   },
   {
     "guests": ["FC39"],
-    "title": "#FC39 - Fight Companion 39",
-    "episode_id": 39,
+    "title": "Fight Companion - April 28, 2018",
+    "episode_id": 42,
     "isMMA": false,
     "isFC": true,
     "description": "FC39. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on April...",
-    "date": "April 28, 2018"
+    "date": "2018-04-28T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -4506,7 +4506,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is a journalist and host of the \"The Empire Files\"  -- http://theempirefiles.tv",
-    "date": "April 26, 2018"
+    "date": "2018-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Zach Bitter"],
@@ -4515,7 +4515,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Zach Bitter is an endurance athlete, ultramarathon runner and coach.",
-    "date": "April 26, 2018"
+    "date": "2018-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Matthew Walker"],
@@ -4524,7 +4524,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matthew Walker is Professor of Neuroscience and Psychology at the University of California, Berkeley, and Founder and Director of the Center for Human Sleep Science.",
-    "date": "April 25, 2018"
+    "date": "2018-04-25T04:00:00.000Z"
   },
   {
     "guests": ["Peter Attia"],
@@ -4533,7 +4533,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Attia is is the founder of Attia Medical, PC, a medical practice with offices in San Diego and New York City, focusing on the applied science of longevity.",
-    "date": "April 24, 2018"
+    "date": "2018-04-24T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Lee"],
@@ -4542,7 +4542,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC Lightweight fighter Kevin Lee to discuss his recent fight.",
-    "date": "April 23, 2018"
+    "date": "2018-04-23T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris", "Maajid Nawaz"],
@@ -4551,7 +4551,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Maajid Nawaz is a British activist, author, columnist, radio host and politician.",
-    "date": "April 18, 2018"
+    "date": "2018-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Colion Noir"],
@@ -4560,7 +4560,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colion Noir is a gun rights activist, lawyer, member of the National Rifle Association, and host of the NRA Freestyle web series NOIR.",
-    "date": "April 18, 2018"
+    "date": "2018-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Michael Hunter"],
@@ -4569,7 +4569,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Hunter is the chef and owner of Antler Kitchen in Toronto. http://www.antlerkitchenbar.com/",
-    "date": "April 17, 2018"
+    "date": "2018-04-17T04:00:00.000Z"
   },
   {
     "guests": ["Alexander Gustafsson"],
@@ -4578,7 +4578,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with UFC Light Heavyweight fighter Alexander Gustafsson.",
-    "date": "April 16, 2018"
+    "date": "2018-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Boyan Slat"],
@@ -4587,7 +4587,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Boyan Slat is an inventor, entrepreneur and former aerospace engineering student. He is the founder of The Ocean Cleanup organization: https://www.theoceancleanup.com/",
-    "date": "April 16, 2018"
+    "date": "2018-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -4596,7 +4596,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom’s House. His latest special “Disgraceful” is currently on Netflix.  http://tomsegura.com/",
-    "date": "April 13, 2018"
+    "date": "2018-04-13T04:00:00.000Z"
   },
   {
     "guests": ["Matt Farah"],
@@ -4605,7 +4605,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Farah is a car enthusiast and the host of \"The Smoking Tire\" seen on YouTube and also a podcast available on iTunes & Stitcher.",
-    "date": "April 11, 2018"
+    "date": "2018-04-11T04:00:00.000Z"
   },
   {
     "guests": ["Bas Rutten"],
@@ -4614,7 +4614,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Heavyweight Champion & three-time King of Pancrase world champion, Bas Rutten.",
-    "date": "April 10, 2018"
+    "date": "2018-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Chris", "Mark Bell"],
@@ -4623,7 +4623,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Bell is a writer, director, and filmmaker known for the documentaries “Bigger, Stronger, Faster” and  “Prescription Thugs”. Mark Bell is an elite powerlifter and owner of Team Super Training Gym in Sacramento, CA. Together they are currently working on an untitled new project about food and health.",
-    "date": "April 9, 2018"
+    "date": "2018-04-09T04:00:00.000Z"
   },
   {
     "guests": ["Liz Phair"],
@@ -4632,7 +4632,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Liz Phair is a singer, songwriter, and guitarist. The 25th Anniversary box set celebrating her 7 LP's \"Girly Sound to Guyville\" releases on May 4 and she will also be touring this summer.",
-    "date": "April 4, 2018"
+    "date": "2018-04-04T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -4641,7 +4641,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss upcoming fights.",
-    "date": "April 4, 2018"
+    "date": "2018-04-04T04:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -4650,7 +4650,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking” available on iTunes & Stitcher. His latest book \"Tangentially Reading\" is available now: https://www.amazon.com/Tangentially-Reading-Christopher-Ryan/dp/0995684812",
-    "date": "April 3, 2018"
+    "date": "2018-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -4659,7 +4659,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is an American Jiu-Jitsu instructor, musician, former UFC analyst, and is the founder of 10th Planet Jiu-Jitsu.",
-    "date": "April 2, 2018"
+    "date": "2018-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Yves Edwards"],
@@ -4668,7 +4668,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Lightweight veteran and current Fox Sports analyst, Yves Edwards.",
-    "date": "March 29, 2018"
+    "date": "2018-03-29T04:00:00.000Z"
   },
   {
     "guests": ["Legion of Skanks"],
@@ -4677,7 +4677,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Legion of Skanks has been called \"the most offensive podcast on Earth\" and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. https://gasdigitalnetwork.com/gdn-show-channels/legion-of-skanks/",
-    "date": "March 28, 2018"
+    "date": "2018-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Todd Glass"],
@@ -4686,7 +4686,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Todd Glass is a stand-up comedian and also hosts his own podcast called “The Todd Glass Show”. His latest special \"Act Happy\" is available now on Netflix.",
-    "date": "March 27, 2018"
+    "date": "2018-03-27T04:00:00.000Z"
   },
   {
     "guests": ["T.J. English", "Joey Diaz"],
@@ -4695,7 +4695,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "T.J. English is an author and journalist known primarily for his non-fiction books about the Irish mob, organized crime, criminal justice and the American underworld. His latest book \"The Corporation: An Epic Story of the Cuban American Underworld\" is available now. Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor. Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "March 26, 2018"
+    "date": "2018-03-26T04:00:00.000Z"
   },
   {
     "guests": ["JRE MMA Show #19 with Vinny Shoreman", "Liam Harrison"],
@@ -4704,7 +4704,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by mind coach and fight commentator Vinny Shoreman & 8-time World Muay Thai Champion Liam Harrison.",
-    "date": "March 22, 2018"
+    "date": "2018-03-22T04:00:00.000Z"
   },
   {
     "guests": ["MMA Show #18 with Pat Miletich"],
@@ -4713,7 +4713,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with former UFC Welterweight Champion and current commentator Pat Miletich.",
-    "date": "March 21, 2018"
+    "date": "2018-03-21T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -4722,7 +4722,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network.",
-    "date": "March 20, 2018"
+    "date": "2018-03-20T04:00:00.000Z"
   },
   {
     "guests": ["Owen Benjamin", "Kurt Metzger"],
@@ -4731,7 +4731,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Benjamin is a stand up comedian and actor. His new special \"How Dare Me?\" is out now & check out his podcast called “Why Didn’t They Laugh?” available on iTunes. Kurt Metzger is a comedian, actor and writer.  He also has a podcast called “Race Wars” he co-hosts with comedian Sherrod Small available for download via iTunes.",
-    "date": "March 19, 2018"
+    "date": "2018-03-19T04:00:00.000Z"
   },
   {
     "guests": ["Mary Lynn Rajskub"],
@@ -4740,7 +4740,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mary Lynn Rajskub is a stand up comedian and actress.",
-    "date": "March 14, 2018"
+    "date": "2018-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -4749,7 +4749,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, professor, and martial artist. His podcast called “History on Fire” is available on iTunes, and his most recent book “Not Afraid” is available on Amazon (http://amzn.to/1SYRwpU).",
-    "date": "March 14, 2018"
+    "date": "2018-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -4758,7 +4758,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. You can also see him the show \"I'm Dying Up Here\" on SHOWTIME.",
-    "date": "March 13, 2018"
+    "date": "2018-03-13T04:00:00.000Z"
   },
   {
     "guests": ["MMA Show #17 with Yoel Romero", "Joey Diaz"],
@@ -4767,7 +4767,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Yoel Romero to discuss his history as a fighter and wrestler from Cuba, and Joey Diaz joins to assist with translation from Spanish.",
-    "date": "March 12, 2018"
+    "date": "2018-03-12T04:00:00.000Z"
   },
   {
     "guests": ["John Dudley"],
@@ -4776,7 +4776,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Dudley is a pro archer and host of \"Nock On TV.\" Check out his podcast \"Nock On\" available on iTunes.",
-    "date": "March 7, 2018"
+    "date": "2018-03-07T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -4785,7 +4785,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast.",
-    "date": "March 6, 2018"
+    "date": "2018-03-06T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #16 with Brendan Schaub"],
@@ -4794,7 +4794,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss this past weekend's fights. Also check out his new show \"Below The Belt with Brendan Schaub\" on SHOwtime.",
-    "date": "March 6, 2018"
+    "date": "2018-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Sturgill Simpson"],
@@ -4803,7 +4803,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sturgill Simpson is a Grammy Award-winning country music and roots rock singer-songwriter.",
-    "date": "March 5, 2018"
+    "date": "2018-03-05T05:00:00.000Z"
   },
   {
     "guests": ["Rory Albanese"],
@@ -4812,7 +4812,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rory Albanese is a comedian, comedy writer and television producer. He was an executive producer and writer for The Daily Show with Jon Stewart and also appeared on The Nightly Show with Larry Wilmore.",
-    "date": "February 28, 2018"
+    "date": "2018-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Kyle Kulinski"],
@@ -4821,7 +4821,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Kulinski is a political activist, progressive talk radio host, social democratic political commentator, and the co-founder of Justice Democrats. His show \"Secular Talk\" is available on YouTube: https://www.youtube.com/SecularTalk",
-    "date": "February 27, 2018"
+    "date": "2018-02-27T05:00:00.000Z"
   },
   {
     "guests": ["Douglas Murray"],
@@ -4830,7 +4830,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Douglas Murray is an author, journalist, and political commentator. He is the founder of the Centre for Social Cohesion and is the associate director of the Henry Jackson Society and associate editor of The Spectator, a British magazine discussing culture and politics. His latest book \"The Strange Death of Europe\" is available now.",
-    "date": "February 26, 2018"
+    "date": "2018-02-26T05:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -4839,7 +4839,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called “Dom Irrera Live from The Laugh Factory.”",
-    "date": "February 22, 2018"
+    "date": "2018-02-22T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -4848,7 +4848,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast “FitzDog Radio” available on iTunes.",
-    "date": "February 21, 2018"
+    "date": "2018-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Bret Weinstein", "Heather Heying"],
@@ -4857,7 +4857,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bret Weinstein and Heather Heying are former professors of Evolutionary Biology at Evergreen State College. Watch more of Bret’s work at http://patreon.com/bretweinstein and read Heather’s writing at http://heatherheying.com.",
-    "date": "February 20, 2018"
+    "date": "2018-02-20T05:00:00.000Z"
   },
   {
     "guests": ["David Goggins"],
@@ -4866,7 +4866,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Goggins is a retired Navy SEAL and former USAF Tactical Air Control Party member who served in Iraq and Afghanistan. He is an ultramarathon runner, ultra-distance cyclist, triathlete and world record holder for the most pull-ups done in 24 hours.",
-    "date": "February 19, 2018"
+    "date": "2018-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -4875,7 +4875,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcast called \"Kill Tony\" with Redban, and it's available on iTunes and and YouTube at: https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
-    "date": "February 15, 2018"
+    "date": "2018-02-15T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #15 with Brendan Schaub"],
@@ -4884,7 +4884,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing.",
-    "date": "February 13, 2018"
+    "date": "2018-02-13T05:00:00.000Z"
   },
   {
     "guests": ["Jimmy Dore"],
@@ -4893,7 +4893,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jimmy Dore is a stand-up comedian, political commentator, host of \"The Jimmy Dore Show\" available on YouTube (https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA) and as a podcast available on iTunes.",
-    "date": "February 13, 2018"
+    "date": "2018-02-13T05:00:00.000Z"
   },
   {
     "guests": ["Johann Hari"],
@@ -4902,7 +4902,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Johann Hari is a writer and journalist. He has written for a number of publications including The Independent (London) and The Huffington Post and has written books on the topic of the war on drugs, the monarchy, and depression, in an accessible and non-technical style. His new book \"Lost Connections\" is available now.",
-    "date": "February 12, 2018"
+    "date": "2018-02-12T05:00:00.000Z"
   },
   {
     "guests": ["Phil Demers"],
@@ -4911,7 +4911,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Phil Demers is a former professional marine mammal trainer and employee at Marineland in Canada.",
-    "date": "February 9, 2018"
+    "date": "2018-02-09T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -4920,7 +4920,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "February 8, 2018"
+    "date": "2018-02-08T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #14 with Matt Brown"],
@@ -4929,7 +4929,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with the current UFC Welterweight fighter Matt Brown. http://immortalcombatequipment.co/",
-    "date": "February 7, 2018"
+    "date": "2018-02-07T05:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -4938,7 +4938,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator” and he also has a podcast available on iTunes called Keep Hammering with Cameron Hanes.",
-    "date": "February 6, 2018"
+    "date": "2018-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Steven Pinker"],
@@ -4947,7 +4947,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Pinker is  a cognitive psychologist, linguist, and popular science author. He is Johnstone Family Professor in the Department of Psychology at Harvard University, and is known for his advocacy of evolutionary psychology and the computational theory of mind. His new book \"Enlightenment Now: The Case for Reason, Science, Humanism, and Progress\" will be released in February 2018.",
-    "date": "February 4, 2018"
+    "date": "2018-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -4956,7 +4956,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "February 1, 2018"
+    "date": "2018-02-01T05:00:00.000Z"
   },
   {
     "guests": ["Steven Crowder", "NotGay Jared"],
@@ -4965,7 +4965,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Crowder is an actor, comedian and former contributor for the Fox News Channel. He currently runs his own website and also a podcast along with producer NotGay Jared called “Louder With Crowder”",
-    "date": "January 30, 2018"
+    "date": "2018-01-30T05:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson"],
@@ -4974,7 +4974,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
-    "date": "January 30, 2018"
+    "date": "2018-01-30T05:00:00.000Z"
   },
   {
     "guests": ["Ben Greenfield"],
@@ -4983,7 +4983,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Greenfield is a Coach, Author, Speaker, ex-Bodybuilder and Ironman Triathlete. In 2008 he was voted as the Personal Trainer of the Year by the National Strength and Conditioning Association (NSCA) and recognized as the top 100 Most Influential People in Health in 2013.",
-    "date": "January 29, 2018"
+    "date": "2018-01-29T05:00:00.000Z"
   },
   {
     "guests": ["Michael Shermer"],
@@ -4992,7 +4992,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic. His new book \"Heavens on Earth: The Scientific Search for the Afterlife, Immortality, and Utopia\" is available now.",
-    "date": "January 24, 2018"
+    "date": "2018-01-24T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #13 with Rose Namajunas", "Pat Barry"],
@@ -5001,7 +5001,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry.",
-    "date": "January 23, 2018"
+    "date": "2018-01-23T05:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -5010,7 +5010,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian and actress. Her new movie \"The Female Brain\" premieres in theaters on February 9th.",
-    "date": "January 23, 2018"
+    "date": "2018-01-23T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #12 with Ben Askren"],
@@ -5019,7 +5019,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with the founder the former ONE Welterweight Champion and the former Bellator Welterweight Champion, Ben Askren.",
-    "date": "January 22, 2018"
+    "date": "2018-01-22T05:00:00.000Z"
   },
   {
     "guests": ["Mel Gibson", "Dr. Neil Riordan"],
@@ -5028,7 +5028,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mel Gibson is an actor and filmmaker. Neil Riordan, PA, PhD is one of the early pioneers and experts in applied stem cell research.",
-    "date": "January 17, 2018"
+    "date": "2018-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Danica Patrick"],
@@ -5037,7 +5037,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Danica Patrick is a professional racing driver, model, and advertising spokeswoman. Her new book called \"Pretty Intense\" is available now. https://www.danicapatrick.com/",
-    "date": "January 16, 2018"
+    "date": "2018-01-16T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Huang", "Jessica Rosenworcel"],
@@ -5046,7 +5046,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Huang is a restaurateur, food personality, sandwich hack, former lawyer, and the host of “Huang’s World” on VICELAND. Jessica Rosenworcel is an American lawyer who currently serves as a member of the U.S. Federal Communications Commission.",
-    "date": "January 15, 2018"
+    "date": "2018-01-15T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #11 with John Danaher"],
@@ -5055,16 +5055,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Brazilian jiu-jitsu coach John Danaher.",
-    "date": "January 15, 2018"
+    "date": "2018-01-15T05:00:00.000Z"
   },
   {
     "guests": ["FC36"],
-    "title": "#FC36 - Fight Companion 36",
-    "episode_id": 36,
+    "title": "Fight Companion - January 14, 2018",
+    "episode_id": 41,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo, Jimmy Smith, and Bryan Callen to discuss the...",
-    "date": "January 14, 2018"
+    "date": "2018-01-14T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #10 with Tyron Woodley"],
@@ -5073,7 +5073,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley.",
-    "date": "January 11, 2018"
+    "date": "2018-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -5082,7 +5082,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom’s House. His new special \"Disgraceful\" premieres on Netflix on January 12.  http://tomsegura.com/",
-    "date": "January 11, 2018"
+    "date": "2018-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Dan Harris", "Jeff Warren"],
@@ -5091,7 +5091,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Harris is a correspondent for ABC News, an anchor for Nightline and co-anchor for the weekend edition of Good Morning America. With Jeff Warren, writer & meditator, he has written a new book \"Meditation for Fidgety Skeptics: A 10% Happier How-to Book\"",
-    "date": "January 10, 2018"
+    "date": "2018-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -5100,7 +5100,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His latest special “Human Mule” is available on HULU now, and you can also listen to his podcast “Come To Papa” available on iTunes & Stitcher.",
-    "date": "January 9, 2018"
+    "date": "2018-01-09T05:00:00.000Z"
   },
   {
     "guests": ["Remi Warren"],
@@ -5109,7 +5109,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Remi Warren is a hunter, guide, writer, tv host and solo adventurer. Check out his show \"Apex Predator\" at http://apexpredator.tv",
-    "date": "January 4, 2018"
+    "date": "2018-01-04T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #9 with Jeff Novitzky"],
@@ -5118,7 +5118,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with Jeff Novitzky, who is currently the Vice President of Athlete Health and Performance for UFC.",
-    "date": "January 3, 2018"
+    "date": "2018-01-03T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #8 with Jimmy Smith"],
@@ -5127,7 +5127,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with Jimmy Smith to discuss recent and upcoming fights.",
-    "date": "January 2, 2018"
+    "date": "2018-01-02T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -5136,7 +5136,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his podcast called “What Brian Redban Do” at http://deathsquad.tv & on iTunes",
-    "date": "January 2, 2018"
+    "date": "2018-01-02T05:00:00.000Z"
   },
   {
     "guests": ["Nina Teicholz"],
@@ -5145,7 +5145,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nina Teicholz is an investigative journalist and author of \"The Big Fat Surprise: Why Butter, Meat, & Cheese Belong in a Healthy Diet\"",
-    "date": "December 28, 2017"
+    "date": "2017-12-28T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Pepitone"],
@@ -5154,7 +5154,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Pepitone is an actor and stand up comedian. Check out his podcast called \"Pep Talks with the Bitter Buddha\" available on iTunes.",
-    "date": "December 28, 2017"
+    "date": "2017-12-28T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Mark Gordon", "Andrew Marr"],
@@ -5163,7 +5163,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Mark Gordon is the Medical Director of Education at Access Medical Laboratory and is recognized as a top leader world wide in Interventional Endocrinology (Anti Aging Medicine). Andrew Marr is a former Green Beret and founder of the Warrior Angels Foundation.",
-    "date": "December 27, 2017"
+    "date": "2017-12-27T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #7 with Brendan Schaub", "Bryan Callen"],
@@ -5172,7 +5172,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with the hosts of The Fighter & The Kid podcast, Brendan Schaub & Bryan Callen.",
-    "date": "December 26, 2017"
+    "date": "2017-12-26T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #6 with Eddie Bravo"],
@@ -5181,7 +5181,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with the founder of 10th Planet Jiu-Jitsu, Eddie Bravo.",
-    "date": "December 19, 2017"
+    "date": "2017-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Bret Weinstein"],
@@ -5190,7 +5190,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bret Weinstein was a biology professor at Evergreen State College in Olympia, WA.  Sign up for a free crash course on Evolutionary Thinking at http://bretweinstein.net/early",
-    "date": "December 19, 2017"
+    "date": "2017-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -5199,7 +5199,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "December 18, 2017"
+    "date": "2017-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -5208,7 +5208,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neal Brennan is a stand-up comedian, actor, writer, director and producer. He is known for co-creating and co-writing “Chappelle’s Show” with Dave Chappelle. His recent special \"Neal Brennan: 3 Mics\" is available now on Netflix.",
-    "date": "December 14, 2017"
+    "date": "2017-12-14T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #5 with Stipe Miocic"],
@@ -5217,7 +5217,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with UFC Heavyweight Champion Stipe Miocic.",
-    "date": "December 13, 2017"
+    "date": "2017-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Mick West"],
@@ -5226,7 +5226,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mick West is a game programmer, writer, and debunker. Currently runs a few websites including MetaBunk.org and ContrailScience.com.",
-    "date": "December 12, 2017"
+    "date": "2017-12-12T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell", "Christopher Ryan"],
@@ -5235,7 +5235,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\". Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast \"Tangentially Speaking\"",
-    "date": "December 11, 2017"
+    "date": "2017-12-11T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Shawn Baker"],
@@ -5244,7 +5244,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Shawn Baker is an orthopedic surgeon, weight lifting world record holder, and carnivore diet advocate.",
-    "date": "December 7, 2017"
+    "date": "2017-12-07T05:00:00.000Z"
   },
   {
     "guests": ["Chris Stapleton"],
@@ -5253,7 +5253,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Stapleton is a Grammy Award winning singer-songwriter and guitarist. His new album \"From A Room: Volume 2\" is available now. http://www.chrisstapleton.com/",
-    "date": "December 6, 2017"
+    "date": "2017-12-06T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #4 with Justin Wren"],
@@ -5262,7 +5262,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with Justin Wren to discuss recent fights in UFC and Bellator. Donate to Fight For The Forgotten - http://fightfortheforgotten.org/donate",
-    "date": "December 6, 2017"
+    "date": "2017-12-06T05:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope"],
@@ -5271,7 +5271,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Stanhope is a stand-up comedian, writer, and TV host, also currently hosting his own podcast, The Doug Stanhope Podcast. His new book This Is Not Fame: A \"From What I Re-Memoir\" is available today on Amazon.",
-    "date": "December 5, 2017"
+    "date": "2017-12-05T05:00:00.000Z"
   },
   {
     "guests": ["Andy Stumpf"],
@@ -5280,7 +5280,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andy Stumpf is a retired Navy SEAL and is also currently a wingsuit world record holder. He hosts his own podcast called \"Cleared Hot\" that can be found on iTunes & Stitcher.",
-    "date": "December 4, 2017"
+    "date": "2017-12-04T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #3"],
@@ -5289,7 +5289,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down with Brendan Schaub to discuss UFC218.",
-    "date": "November 29, 2017"
+    "date": "2017-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Owen Smith"],
@@ -5298,7 +5298,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Smith is a comedian, writer, actor and television producer.",
-    "date": "November 29, 2017"
+    "date": "2017-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -5307,7 +5307,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast.",
-    "date": "November 28, 2017"
+    "date": "2017-11-28T05:00:00.000Z"
   },
   {
     "guests": ["C.T. Fletcher"],
@@ -5316,7 +5316,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "C.T. Fletcher is an ex-powerlifter, actor, and video-blogger. He is a 3-Time World Bench Press Champion and 3-Time World Strict Curl Champion.",
-    "date": "November 28, 2017"
+    "date": "2017-11-28T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -5325,7 +5325,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his podcast called “What Brian Redban Do” at http://deathsquad.tv & on iTunes",
-    "date": "November 27, 2017"
+    "date": "2017-11-27T05:00:00.000Z"
   },
   {
     "guests": ["MMA Show #2"],
@@ -5334,7 +5334,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan sits down for an update after the Gastelum/Bisping fight with recent news in MMA.",
-    "date": "November 25, 2017"
+    "date": "2017-11-25T05:00:00.000Z"
   },
   {
     "guests": ["Krystyna Hutchinson", "Corinne Fisher"],
@@ -5343,7 +5343,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Krystyna Hutchinson & Corinne Fisher are both stand up comedians, also known by the comedy duo name of Sorry About Last Night, and they also host a podcast called \"Guys We Fucked\" that is available for download via iTunes.",
-    "date": "November 20, 2017"
+    "date": "2017-11-20T05:00:00.000Z"
   },
   {
     "guests": ["JRE MMA Show #1"],
@@ -5352,7 +5352,7 @@ module.exports = [
     "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down to discuss Pettis/Poirier, Holloway/Aldo, Conor McGregor, Stipe Miocic, Colby Covington, the Bellator Heavyweight Grand Prix, and more.",
-    "date": "November 16, 2017"
+    "date": "2017-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Dan Carlin"],
@@ -5361,7 +5361,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Carlin is an amateur historian and former radio talk show host. He now hosts two popular podcasts available on iTunes, or through his website, to download: Common Sense and Hardcore History.",
-    "date": "November 16, 2017"
+    "date": "2017-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Brian Regan"],
@@ -5370,7 +5370,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Regan is one of the top stand-up comedians working today. His new Netflix special \"Nunchucks and Flamethrowers\" comes out on November 21, and you can find him touring all over the country at BrianRegan.com",
-    "date": "November 15, 2017"
+    "date": "2017-11-15T05:00:00.000Z"
   },
   {
     "guests": ["Iliza Shlesinger"],
@@ -5379,7 +5379,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Iliza Shlesinger is a comedian, host, and writer. She was the 2008 winner of NBC's Last Comic Standing and went on to host the dating show Excused and also Separation Anxiety on TBS. Her new book \"Girl Logic: The Genius and the Absurdity\" is available now on Amazon.",
-    "date": "November 14, 2017"
+    "date": "2017-11-14T05:00:00.000Z"
   },
   {
     "guests": ["Billy Corgan"],
@@ -5388,7 +5388,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Billy Corgan is a musician, songwriter, producer, poet, and entrepreneur. His new album \"Ogilala\" produced by Rick Rubin, is available now.",
-    "date": "November 10, 2017"
+    "date": "2017-11-10T05:00:00.000Z"
   },
   {
     "guests": ["Chris Kresser"],
@@ -5397,7 +5397,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Kresser is a health detective specializing in investigative medicine, blogger, podcaster, teacher and a Paleo diet and lifestyle enthusiast. His new book \"Unconventional Medicine\" is out now, available on Amazon and https://unconventionalmedicinebook.com/",
-    "date": "November 8, 2017"
+    "date": "2017-11-08T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir", "Bert Kreischer", "Tom Segura"],
@@ -5406,7 +5406,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Bert Kreischer & Tom Segura to recap #SoberOctobert and discuss a new challenge.",
-    "date": "November 7, 2017"
+    "date": "2017-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Paul Stamets"],
@@ -5415,16 +5415,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Paul Stamets is a mycologist, author and advocate of bioremediation and medicinal fungi. Check out http://www.fungi.com/",
-    "date": "November 7, 2017"
+    "date": "2017-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
     "title": "Fight Recap w/ Brendan Schaub",
-    "episode_id": null,
+    "episode_id": 40,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017.",
-    "date": "November 6, 2017"
+    "date": "2017-11-06T05:00:00.000Z"
   },
   {
     "guests": ["Sebastian Junger"],
@@ -5433,7 +5433,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sebastian Junger is the author of The Perfect Storm, War, and Tribe. He also is the co-director of the Oscar-nominated documentary “Restrepo.” His latest documentary “Hell On Earth” can been seen on NatGeo.",
-    "date": "November 6, 2017"
+    "date": "2017-11-06T05:00:00.000Z"
   },
   {
     "guests": ["Owen Benjamin"],
@@ -5442,7 +5442,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Benjamin is a stand up comedian and actor. Check out his podcast called “Why Didn’t They Laugh?” available on iTunes.",
-    "date": "November 1, 2017"
+    "date": "2017-11-01T04:00:00.000Z"
   },
   {
     "guests": ["Colin Moriarty"],
@@ -5451,7 +5451,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colin Moriarty is the co-founder of Kinda Funny and creator of Colin’s Last Stand, a series of videos about history and politics.",
-    "date": "October 31, 2017"
+    "date": "2017-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Jamie Kilstein"],
@@ -5460,7 +5460,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jamie Kilstein is a writer, radio host, and stand up comic.",
-    "date": "October 30, 2017"
+    "date": "2017-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -5469,7 +5469,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”.",
-    "date": "October 27, 2017"
+    "date": "2017-10-27T04:00:00.000Z"
   },
   {
     "guests": ["Tom DeLonge"],
@@ -5478,7 +5478,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom DeLonge is a musician, singer, songwriter, record producer, entrepreneur, and film producer. Get more info about To The Stars Academy and read the Offering Circular at https://dpo.tothestarsacademy.com/#offering-circular",
-    "date": "October 26, 2017"
+    "date": "2017-10-26T04:00:00.000Z"
   },
   {
     "guests": ["Adam Greentree"],
@@ -5487,7 +5487,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Greentree is a bowhunter and photographer from Australia. He also hosts his own podcast called \"Bowhunter's Life\" available for download via iTunes.",
-    "date": "October 25, 2017"
+    "date": "2017-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Courtney Dauwalter"],
@@ -5496,7 +5496,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Courtney Dauwalter is an ultra-marathon runner who recently won the MOAB 240 race in Utah in under 58 hours.",
-    "date": "October 24, 2017"
+    "date": "2017-10-24T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -5505,16 +5505,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called “What Brian Redban Do” at http://deathsquad.tv & on iTunes",
-    "date": "October 23, 2017"
+    "date": "2017-10-23T04:00:00.000Z"
   },
   {
     "guests": ["FC37"],
-    "title": "#FC37 - Fight Companion 37",
-    "episode_id": 37,
+    "title": "Fight Companion - October 21, 2017",
+    "episode_id": 39,
     "isMMA": false,
     "isFC": true,
     "description": "FC37. Joe sits down with Eddie Bravo & Brendan Schaub to watch the fights on October 21,...",
-    "date": "October 21, 2017"
+    "date": "2017-10-21T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -5523,7 +5523,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes.",
-    "date": "October 18, 2017"
+    "date": "2017-10-18T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -5532,7 +5532,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his book “Life of the Party” on Amazon and his podcast “The Bertcast” on iTunes.",
-    "date": "October 12, 2017"
+    "date": "2017-10-12T04:00:00.000Z"
   },
   {
     "guests": ["Christina P"],
@@ -5541,7 +5541,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christina P is a stand-up comedian and hosts a podcast with her husband, Tom Segura, called “Your Mom’s House.” Her new special \"Mother Inferior\" is now available on Netflix.",
-    "date": "October 11, 2017"
+    "date": "2017-10-11T04:00:00.000Z"
   },
   {
     "guests": ["Eric Weinstein"],
@@ -5550,7 +5550,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eric Weinstein is a mathematician and economist, and he is also the managing director at Thiel Capital.",
-    "date": "October 10, 2017"
+    "date": "2017-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Russell Brand"],
@@ -5559,7 +5559,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Brand is an English comedian, actor, radio host, author, and activist. His new book \"Recovery: Freedom From Our Addictions\" is available now, and his podcast called \"Under The Skin\" is available on iTunes.",
-    "date": "October 5, 2017"
+    "date": "2017-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Amy Alkon"],
@@ -5568,7 +5568,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Amy Alkon, also known as the Advice Goddess, writes a weekly advice column, Ask the Advice Goddess, which is published in over 100 newspapers within North America. Look for her new book called \"Unf*ckology: A Field Guide to Living with Guts and Confidence\" coming out in 2018.",
-    "date": "October 5, 2017"
+    "date": "2017-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Fogel"],
@@ -5577,7 +5577,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Fogel is an American film director, producer, author and playwright. His documentary \"Icarus\" available now on Netflix, documents the uncovering of the Russian doping scandal. GoFundMe Page for Dr. Grigory Rodchenkov https://www.gofundme.com/how-is-grigory",
-    "date": "October 4, 2017"
+    "date": "2017-10-04T04:00:00.000Z"
   },
   {
     "guests": ["Alonzo Bodden"],
@@ -5586,7 +5586,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alonzo Bodden is a stand up comedian and winner of Last Comic Standing Season 3. He hosts his own podcast called “Who’s Paying Attention” available on iTunes.",
-    "date": "October 3, 2017"
+    "date": "2017-10-03T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -5595,7 +5595,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is a stand-up comedian, radio personality, author, and actor. Tickets to his tour \"Kneeling Room Only\" are available now at http://jimnorton.com and also check out the \"Chip Chipperson Podacast\" available on iTunes and the Riotcast Podcast Network.",
-    "date": "September 28, 2017"
+    "date": "2017-09-28T04:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -5604,7 +5604,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian and actress. She is best known as the creator and star of the NBC sitcom Whitney, as well as the co-creator of the CBS sitcom 2 Broke Girls. Her new book \"I'm Fine.... and Other Lies\" will be released on October 3.",
-    "date": "September 27, 2017"
+    "date": "2017-09-27T04:00:00.000Z"
   },
   {
     "guests": ["Reggie Watts"],
@@ -5613,7 +5613,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Reggie Watts is a musician, singer, beatboxer, actor, and comedian. His improvised musical sets are created using only his voice, a keyboard, and a looping machine.",
-    "date": "September 26, 2017"
+    "date": "2017-09-26T04:00:00.000Z"
   },
   {
     "guests": ["Dave Smith"],
@@ -5622,7 +5622,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Smith is a stand up comedian & host of Part Of The Problem podcast available on iTunes, and he is also one-third of The Legion of Skanks. He recently released his first comedy special called \"Libertas\" available on iTunes.",
-    "date": "September 25, 2017"
+    "date": "2017-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -5631,16 +5631,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator” and he also has a podcast available on iTunes called Keep Hammering with Cameron Hanes.",
-    "date": "September 22, 2017"
+    "date": "2017-09-22T04:00:00.000Z"
   },
   {
     "guests": ["FC36"],
-    "title": "#FC36 - Fight Companion 36",
-    "episode_id": 36,
+    "title": "Fight Companion - September 16, 2017",
+    "episode_id": 38,
     "isMMA": false,
     "isFC": true,
     "description": "FC36. Joe sits down with Eddie Bravo & Jim Norton to watch the fights on September...",
-    "date": "September 16, 2017"
+    "date": "2017-09-16T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -5649,7 +5649,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss the upcoming boxing and UFC fights.",
-    "date": "September 15, 2017"
+    "date": "2017-09-15T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -5658,7 +5658,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His latest special \"Human Mule\" is available on HULU now, and you can also listen to his podcast \"Come To Papa\" available on iTunes & Stitcher.",
-    "date": "September 14, 2017"
+    "date": "2017-09-14T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -5667,7 +5667,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "September 7, 2017"
+    "date": "2017-09-07T04:00:00.000Z"
   },
   {
     "guests": ["James Damore"],
@@ -5676,7 +5676,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Damore is a former Google Senior software engineer, who was recently fired by Google after an internal memo he wrote about its diversity policies was leaked online.",
-    "date": "September 6, 2017"
+    "date": "2017-09-06T04:00:00.000Z"
   },
   {
     "guests": ["Cody Garbrandt", "Urijah Faber"],
@@ -5685,7 +5685,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cody Garbrandt is a mixed martial artist and UFC Bantamweight World Champion. Urijah Faber is a retired mixed martial artist who fought as a bantamweight and featherweight in the UFC.",
-    "date": "September 5, 2017"
+    "date": "2017-09-05T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir", "Bert Kreischer", "Tom Segura"],
@@ -5694,16 +5694,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ari Shaffir, Bert Kreischer & Tom Segura to discuss a new challenge.",
-    "date": "September 4, 2017"
+    "date": "2017-09-04T04:00:00.000Z"
   },
   {
     "guests": ["FC35"],
-    "title": "#FC35 - Fight Companion 35",
-    "episode_id": 35,
+    "title": "Fight Companion - September 2, 2017",
+    "episode_id": 37,
     "isMMA": false,
     "isFC": true,
     "description": "FC35. Joe sits down with Brendan Schaub to watch the fights on September 2, 2017.",
-    "date": "September 2, 2017"
+    "date": "2017-09-02T04:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson", "Bret Weinstein"],
@@ -5712,7 +5712,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. You can check out all Dr. Peterson's self-improvement writing programs at www.selfauthoring.com",
-    "date": "September 1, 2017"
+    "date": "2017-09-01T04:00:00.000Z"
   },
   {
     "guests": ["Hannibal Buress"],
@@ -5721,7 +5721,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hannibal Buress is a stand-up comedian, actor, television writer and host. Check out his podcast called \"The Handsome Rambler\" available on iTunes/Stitcher.",
-    "date": "August 30, 2017"
+    "date": "2017-08-30T04:00:00.000Z"
   },
   {
     "guests": ["W. Kamau Bell"],
@@ -5730,16 +5730,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "W. Kamau Bell is a host, writer, and stand-up comic. Watch is show \"United Shades of America\" on CNN and check out his podcast \"Politically Reactive\" available on iTunes. He also has a recently released book \"The Awkward Thoughts of W. Kamau Bell\" available on Amazon.",
-    "date": "August 29, 2017"
+    "date": "2017-08-29T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
     "title": "Mayweather vs. McGregor Recap with Brendan Schaub",
-    "episode_id": null,
+    "episode_id": 36,
     "isMMA": false,
     "isFC": true,
     "description": "Joe sits down with Brendan Schaub to discuss the recent fight between Floyd Mayweather & Conor McGregor.",
-    "date": "August 28, 2017"
+    "date": "2017-08-28T04:00:00.000Z"
   },
   {
     "guests": ["Sean Carroll"],
@@ -5748,7 +5748,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sean Carroll is a cosmologist and physics professor specializing in dark energy and general relativity. He is a research professor in the Department of Physics at the California Institute of Technology. Check out his books and more of his work at https://www.preposterousuniverse.com/",
-    "date": "August 24, 2017"
+    "date": "2017-08-24T04:00:00.000Z"
   },
   {
     "guests": ["Peter Schiff"],
@@ -5757,7 +5757,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Schiff is an American businessman, investment broker, author and financial commentator. Schiff is CEO and chief global strategist of Euro Pacific Capital Inc. He also hosts his own podcast called \"The Peter Schiff Podcast\" available on iTunes and at SchiffRadio.com",
-    "date": "August 23, 2017"
+    "date": "2017-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -5766,7 +5766,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "August 21, 2017"
+    "date": "2017-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz", "Tom Segura"],
@@ -5775,7 +5775,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”. Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House.",
-    "date": "August 18, 2017"
+    "date": "2017-08-18T04:00:00.000Z"
   },
   {
     "guests": ["Tom Bilyeu"],
@@ -5784,7 +5784,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Bilyeu is the Co-founder of Quest Nutrition and also the Co-founder & CEO of Impact Theory.",
-    "date": "August 16, 2017"
+    "date": "2017-08-16T04:00:00.000Z"
   },
   {
     "guests": ["Fight Breakdown"],
@@ -5793,7 +5793,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss the upcoming fight between Floyd Mayweather &...",
-    "date": "August 16, 2017"
+    "date": "2017-08-16T04:00:00.000Z"
   },
   {
     "guests": ["Owen Benjamin"],
@@ -5802,7 +5802,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Owen Benjamin is a stand up comedian and actor. Check out his podcast called \"Why Didn't They Laugh?\" available on iTunes.",
-    "date": "August 15, 2017"
+    "date": "2017-08-15T04:00:00.000Z"
   },
   {
     "guests": ["Pauly Shore"],
@@ -5811,7 +5811,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Pauly Shore is an actor, comedian, director, writer and producer. Check out his show \"The Pauly Shore Podcast Show\" available on Crackle.",
-    "date": "August 10, 2017"
+    "date": "2017-08-10T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Andy Galpin"],
@@ -5820,7 +5820,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Andy Galpin is a Professor of Kinesiology at the Center for Sport Performance at California State University, Fullerton. He has a Ph.D. in Human Bioenergetics and is the founder and director of the Biochemistry and Molecular Exercise Laboratory.",
-    "date": "August 9, 2017"
+    "date": "2017-08-09T04:00:00.000Z"
   },
   {
     "guests": ["Jon Ronson"],
@@ -5829,7 +5829,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jon Ronson is a writer and documentary filmmaker whose works include the best-selling The Men Who Stare at Goats. Checkout his new special podcast called \"The Butterfly Effect with Jon Ronson\" on Audible.com",
-    "date": "August 8, 2017"
+    "date": "2017-08-08T04:00:00.000Z"
   },
   {
     "guests": ["Dom D’Agostino"],
@@ -5838,7 +5838,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom D'Agostino, Ph.D., is an assistant professor in the Department of Molecular Pharmacology and Physiology at the University of South Florida Morsani College of Medicine, and a senior research scientist at the Institute for Human and Machine Cognition (IHMC). He was also recently a crew member of the NASA NEEMO 22 project.",
-    "date": "August 7, 2017"
+    "date": "2017-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Ben Shapiro"],
@@ -5847,7 +5847,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of \"The Ben Shapiro Show\" is available on SoundCloud and iTunes.",
-    "date": "August 2, 2017"
+    "date": "2017-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Ian Edwards"],
@@ -5856,7 +5856,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian Edwards is a stand up comedian and also hosts his own podcast called \"Soccer Comic Rant\" on iTunes/Stitcher.",
-    "date": "August 1, 2017"
+    "date": "2017-08-01T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -5865,7 +5865,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is an American Jiu-Jitsu instructor, musician, former UFC analyst, and is the founder of 10th Planet Jiu-Jitsu.",
-    "date": "July 31, 2017"
+    "date": "2017-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Jamie Foxx"],
@@ -5874,7 +5874,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jamie Foxx is an Academy Award winning actor, singer, and comedian. He can currently be seen hosting \"Beat Shazam\" on Fox and in the movie \"Baby Driver\" in theaters now.",
-    "date": "July 27, 2017"
+    "date": "2017-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Dorian Yates"],
@@ -5883,7 +5883,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dorian Yates is an English professional bodybuilder. He won the Mr. Olympia title six consecutive times from 1992 to 1997 and is tied for the fourth-highest number of Mr. Olympia awards. He is currently the President of Super League, a new event starting July 29 in Las Vegas and also available on http://superleauge.live",
-    "date": "July 26, 2017"
+    "date": "2017-07-26T04:00:00.000Z"
   },
   {
     "guests": ["Nick Swardson"],
@@ -5892,7 +5892,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Swardson is an actor, stand-up comedian, screenwriter and producer. The second season of his Comedy Central series \"Typical Rick\" is available now on YouTube",
-    "date": "July 25, 2017"
+    "date": "2017-07-25T04:00:00.000Z"
   },
   {
     "guests": ["On A Hike"],
@@ -5901,7 +5901,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "OnAHike Ari Shaffir & Joe do a podcast while hiking to celebrate the release of...",
-    "date": "July 18, 2017"
+    "date": "2017-07-18T04:00:00.000Z"
   },
   {
     "guests": ["Ben O’Brien"],
@@ -5910,7 +5910,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben O'Brien is the hunting marketing manager at YETI Coolers, he was also the executive editor for Petersen's Hunting.",
-    "date": "July 13, 2017"
+    "date": "2017-07-13T04:00:00.000Z"
   },
   {
     "guests": ["Maynard James Keenan"],
@@ -5919,7 +5919,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Maynard James Keenan is a singer, songwriter, producer, winemaker, and actor, best known as the vocalist for Grammy Award-winning rock band Tool, Puscifer, and A Perfect Circle.  His new book \"A Perfect Union of Contrary Things\" is available now.",
-    "date": "July 12, 2017"
+    "date": "2017-07-12T04:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -5928,7 +5928,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of \"The Evolutionary Bases of Consumption\" and \"The Consuming Instinct\"",
-    "date": "July 11, 2017"
+    "date": "2017-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Yvette d’Entremont"],
@@ -5937,7 +5937,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Yvette d'Entremont, also known as SciBabe, is a public speaker, science blogger, and former analytical chemist. She has a background in forensics and toxicology.",
-    "date": "July 6, 2017"
+    "date": "2017-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Natasha Leggero", "Moshe Kasher"],
@@ -5946,7 +5946,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Natasha Leggero & Moshe Kasher are writers, actors, and comedians. Look for them out now on the \"Endless Honeymoon Tour\" where they perform their individual routines, then appear together.",
-    "date": "July 5, 2017"
+    "date": "2017-07-05T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey"],
@@ -5955,7 +5955,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA.",
-    "date": "July 3, 2017"
+    "date": "2017-07-03T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -5964,7 +5964,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Barnett is a mixed martial artist and professional wrestler who competes in the Heavyweight division of the UFC.",
-    "date": "June 28, 2017"
+    "date": "2017-06-28T04:00:00.000Z"
   },
   {
     "guests": ["Chris D’Elia"],
@@ -5973,7 +5973,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris D'Elia is an actor, writer, and comedian. His new special \"Man On Fire\" is available now on Netflix, and he also has a podcast called \"Congratulations\" available to download via iTunes.",
-    "date": "June 27, 2017"
+    "date": "2017-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Sargon of Akkad"],
@@ -5982,7 +5982,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sargon of Akkad is an \"Anti-Identitarian liberal YouTuber\" (https://www.youtube.com/user/SargonofAkkad100).",
-    "date": "June 26, 2017"
+    "date": "2017-06-26T04:00:00.000Z"
   },
   {
     "guests": ["Judd Apatow"],
@@ -5991,7 +5991,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Judd Apatow is a film producer, writer, director, actor, and comedian. Look for him touring all over this summer, and check out his latest film \"The Big Sick\" opening June 23rd in New York & Los Angeles.",
-    "date": "June 22, 2017"
+    "date": "2017-06-22T04:00:00.000Z"
   },
   {
     "guests": ["Jeff Evans", "Bud Brutsman"],
@@ -6000,7 +6000,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeff B. Evans is an adventurer, expedition leader, high-altitude medic, physician assistant, speaker, facilitator and tv personality. Bud Brutsman is a television show creator, executive producer, known for shows such as Overhaulin', Rides, and King of the Cage.",
-    "date": "June 21, 2017"
+    "date": "2017-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Morgan Murphy"],
@@ -6009,7 +6009,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Morgan Murphy is a stand-up comic, comedy writer, and actress.",
-    "date": "June 19, 2017"
+    "date": "2017-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Paradise"],
@@ -6018,7 +6018,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Paradise. Joe does a podcast with friends Ben O’Brien, John Dudley, Sam Soholt and Shane Dorian...",
-    "date": "June 16, 2017"
+    "date": "2017-06-16T04:00:00.000Z"
   },
   {
     "guests": ["Sebastian Junger"],
@@ -6027,7 +6027,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sebastian Junger is the author of The Perfect Storm, War, and Tribe. He also is the co-director of the Oscar-nominated documentary \"Restrepo.\" His latest documentary \"Hell On Earth\" can been seen on NatGeo on June 11.",
-    "date": "June 9, 2017"
+    "date": "2017-06-09T04:00:00.000Z"
   },
   {
     "guests": ["Megan Phelps-Roper"],
@@ -6036,7 +6036,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Megan Phelps-Roper is a social media activist, lobbying to overcome divisions and hatred between religious and political divides. Formerly a prominent member of the Westboro Baptist Church, she left the church with her sister Grace in November 2012.",
-    "date": "June 8, 2017"
+    "date": "2017-06-08T04:00:00.000Z"
   },
   {
     "guests": ["Wheeler Walker, Jr."],
@@ -6045,7 +6045,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wheeler Walker, Jr. is an American country music singer-songwriter. His new album \"Ol' Wheeler\" is out now on iTunes, and he also can be seen on tour later this summer.",
-    "date": "June 8, 2017"
+    "date": "2017-06-08T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -6054,7 +6054,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports. His new 2-part special \"Double Negative\" debuts on Netflix on July 18th.",
-    "date": "June 7, 2017"
+    "date": "2017-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -6063,16 +6063,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts \"MeatEater\" on the Sportsman Channel & Netflix, and a podcast also called \"MeatEater\" available on iTunes & Stitcher.",
-    "date": "June 6, 2017"
+    "date": "2017-06-06T04:00:00.000Z"
   },
   {
     "guests": ["FC35"],
-    "title": "#FC35 - Fight Companion 35",
+    "title": "Fight Companion - June 3, 2017",
     "episode_id": 35,
     "isMMA": false,
     "isFC": true,
     "description": "FC35. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights on June 3, 2017.",
-    "date": "June 3, 2017"
+    "date": "2017-06-03T04:00:00.000Z"
   },
   {
     "guests": ["Bret Weinstein"],
@@ -6081,7 +6081,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bret Weinstein is a biology professor at Evergreen State College in Olympia, WA. Currently he is in the middle of an intense controversy that has been documented by the Wall Street Journal, New York Times, and several other mainstream media outlets.",
-    "date": "June 2, 2017"
+    "date": "2017-06-02T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Santino"],
@@ -6090,7 +6090,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Santino is a stand up comedian and actor. His special \"Home Field Advantage\" premieres on June 2 & he's on the new show \"I'm Dying Up Here\" premiering on June 4, both on SHOWTIME.",
-    "date": "June 1, 2017"
+    "date": "2017-06-01T04:00:00.000Z"
   },
   {
     "guests": ["Kelly Brogan"],
@@ -6099,7 +6099,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kelly Brogan, M.D. is a holistic women’s health psychiatrist and author of the NY Times Bestselling book, A Mind of Your Own.",
-    "date": "May 31, 2017"
+    "date": "2017-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -6108,16 +6108,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called \"The Monday Morning Podcast\". Season 2 of his show \"F Is For Family\" is available now on Netflix.",
-    "date": "May 30, 2017"
+    "date": "2017-05-30T04:00:00.000Z"
   },
   {
     "guests": ["FC34"],
-    "title": "#FC34 - Fight Companion 34",
+    "title": "Fight Companion - May 28, 2017",
     "episode_id": 34,
     "isMMA": false,
     "isFC": true,
     "description": "FC34. Joe is joined by Brendan Schaub & Bryan Callen to watch the fights on May...",
-    "date": "May 28, 2017"
+    "date": "2017-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -6126,7 +6126,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His latest special \"Human Mule\" is available on HULU now, and you can also listen to his podcast \"Come To Papa\" available on iTunes & Stitcher.",
-    "date": "May 26, 2017"
+    "date": "2017-05-26T04:00:00.000Z"
   },
   {
     "guests": ["Robert Sapolsky"],
@@ -6135,7 +6135,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robert Sapolsky is a neuroendocrinologist and author. He is currently a professor of biology, and professor of neurology and neurological sciences and, by courtesy, neurosurgery, at Stanford University. His latest book Behave: The Biology of Humans at Our Best and Worst is available now.",
-    "date": "May 25, 2017"
+    "date": "2017-05-25T04:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -6144,7 +6144,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His latest project Warporn Industries is available for download now at http://www.warpornindustries.com",
-    "date": "May 24, 2017"
+    "date": "2017-05-24T04:00:00.000Z"
   },
   {
     "guests": ["Michael Malice"],
@@ -6153,7 +6153,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Malice is the author of Dear Reader: The Unauthorized Autobiography of Kim Jong Il, and also the co-author of books with D. L. Hughley, Michael Fazio, Matt Hughes, and others.",
-    "date": "May 23, 2017"
+    "date": "2017-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Jocko Willink"],
@@ -6162,7 +6162,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jocko Willink is a decorated retired Navy SEAL officer, author of the book Extreme Ownership: How U.S. Navy SEALs Lead and Win, and co-founder of Echelon Front, where he is a leadership instructor, speaker, and executive coach. His podcast, The Jocko Podcast, is also available for download via iTunes & Stitcher.",
-    "date": "May 18, 2017"
+    "date": "2017-05-18T04:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock", "Randall Carlson", "Michael Shermer"],
@@ -6171,7 +6171,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & his latest book \"Magicians of the Gods\". Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar. Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic.",
-    "date": "May 16, 2017"
+    "date": "2017-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Steve-O"],
@@ -6180,7 +6180,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality.",
-    "date": "May 15, 2017"
+    "date": "2017-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Podcast On A Plane UFC 211 Recap"],
@@ -6189,7 +6189,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Tony Hinchcliffe on a plane to discuss the weekend's events at UFC 211 in Dallas, TX.",
-    "date": "May 15, 2017"
+    "date": "2017-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Mick West"],
@@ -6198,7 +6198,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mick West is a game programmer, writer, and debunker. Currently runs a few websites including MetaBunk.org and ContrailScience.com.",
-    "date": "May 10, 2017"
+    "date": "2017-05-10T04:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson"],
@@ -6207,7 +6207,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
-    "date": "May 9, 2017"
+    "date": "2017-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -6216,7 +6216,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator.”",
-    "date": "May 9, 2017"
+    "date": "2017-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Guy Ritchie"],
@@ -6225,7 +6225,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Guy Ritchie is a writer, director and producer.  His latest film \"King Arthur: Legend of the Sword\" releases on May 12, 2017.",
-    "date": "May 5, 2017"
+    "date": "2017-05-05T04:00:00.000Z"
   },
   {
     "guests": ["Al Madrigal"],
@@ -6234,7 +6234,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Al Madrigal is a comedian and actor. He was a regular correspondent on The Daily Show with Jon Stewart and is a co-founder of the All Things Comedy podcast network, alongside Bill Burr. His new special \"Shrimpin' Ain't Easy\" premieres on Showtime on May 5 at 9pm.",
-    "date": "May 4, 2017"
+    "date": "2017-05-04T04:00:00.000Z"
   },
   {
     "guests": ["Justin Brown"],
@@ -6243,7 +6243,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Brown is a biologist who leads coyote field research for Santa Monica Mountains National Recreation Area.",
-    "date": "May 3, 2017"
+    "date": "2017-05-03T04:00:00.000Z"
   },
   {
     "guests": ["Shirley Manson"],
@@ -6252,7 +6252,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shirley Manson is singer, songwriter, musician and actress from Edinburgh, Scotland. She is the lead singer of the alternative rock band Garbage. This summer Garbage will be touring North America on the \"Rage And Rapture Tour\" with co-headliners Blondie.",
-    "date": "May 2, 2017"
+    "date": "2017-05-02T04:00:00.000Z"
   },
   {
     "guests": ["Thaddeus Russell"],
@@ -6261,7 +6261,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Thaddeus Russell is an author of A Renegade History of The United States. He is currently visiting faculty at Willamette University and the founder of Renegade University. Check out his new podcast called Unregistered available for download via iTunes.",
-    "date": "April 27, 2017"
+    "date": "2017-04-27T04:00:00.000Z"
   },
   {
     "guests": ["Dan Doty"],
@@ -6270,7 +6270,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Doty is a writer, director, producer, educator, and founder of Evryman.co and the Everyman Podcast available on iTunes. https://www.evryman.co/",
-    "date": "April 26, 2017"
+    "date": "2017-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -6279,7 +6279,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is an American journalist and former host of \"Breaking the Set\" for RT America. Check out her interview & documentary series at http://theempirefiles.tv",
-    "date": "April 25, 2017"
+    "date": "2017-04-25T04:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -6288,7 +6288,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of #WeThePeople LIVE available on iTunes (https://t.co/6eWfSu8tRM) and at http://wtplive.com",
-    "date": "April 19, 2017"
+    "date": "2017-04-19T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Eddie Bravo"],
@@ -6297,7 +6297,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a podcaster, comedian, actor, a former professional football player, and a retired mixed martial artist. His new podcast Big Brown Breakdown is available now on iTunes & Stitcher. Eddie Bravo is an American Jiu-Jitsu instructor, musician, former UFC analyst, and is the founder of 10th Planet Jiu-Jitsu.",
-    "date": "April 18, 2017"
+    "date": "2017-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Ron Miscavige"],
@@ -6306,7 +6306,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron Miscavige is the father of the Church of Scientology leader David Miscavige and former member for over 40 years. His book Ruthless: Scientology, My Son David Miscavige, and Me is available now.",
-    "date": "April 18, 2017"
+    "date": "2017-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Dennis McKenna"],
@@ -6315,7 +6315,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dennis McKenna is an ethnopharmacologist, author, and brother to well-known psychedelics proponent Terence McKenna.",
-    "date": "April 17, 2017"
+    "date": "2017-04-17T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Roddy McGee"],
@@ -6324,7 +6324,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Roddy McGee is a Board-Certified Orthopedic Surgeon, fellowship trained in Sports Medicine and is part of the Total Sports Medicine Center in Las Vegas, Nevada.",
-    "date": "April 12, 2017"
+    "date": "2017-04-12T04:00:00.000Z"
   },
   {
     "guests": ["Scott Eastwood", "Cameron Hanes"],
@@ -6333,7 +6333,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scott Eastwood is an actor and model, and is also in \"The Fate of the Furious\" releasing in theaters on April 14. Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator.”",
-    "date": "April 11, 2017"
+    "date": "2017-04-11T04:00:00.000Z"
   },
   {
     "guests": ["Moshe Kasher"],
@@ -6342,7 +6342,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Moshe Kasher is a stand-up comedian, writer and actor. His new show \"Problematic\" premieres on Comedy Central, Tuesday, April 18th at 10pm.",
-    "date": "April 10, 2017"
+    "date": "2017-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Dan Flores"],
@@ -6351,7 +6351,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Flores is a writer and historian who specializes in cultural and environmental studies of the American West. His recent books \"Coyote America: A Natural & Supernatural History\" and \"American Serengeti: The Last Big Animals of the Great Plains\" are both available now via Amazon - https://www.amazon.com/American-Serengeti-Animals-Great-Plains/dp/0700622276/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9VRNEM68AF50K4W4WFHJ",
-    "date": "April 5, 2017"
+    "date": "2017-04-05T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -6360,7 +6360,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes.",
-    "date": "April 4, 2017"
+    "date": "2017-04-04T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris", "Dan Harris"],
@@ -6369,7 +6369,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Dan Harris is a correspondent for ABC News, an anchor for Nightline and co-anchor for the weekend edition of Good Morning America.Dan is also the founder, author, and host of the book/app/podcast called \"10% Happier\" - http://www.10percenthappier.com/",
-    "date": "April 4, 2017"
+    "date": "2017-04-04T04:00:00.000Z"
   },
   {
     "guests": ["Chris Cage"],
@@ -6378,7 +6378,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Cage is the founder of Greenbelly Meals and also the author of How To Hike The Appalachian Trail: A Comprehensive Guide to Plan and Prepare for a Successful Thru-Hike.",
-    "date": "April 3, 2017"
+    "date": "2017-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Lawrence Krauss"],
@@ -6387,7 +6387,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lawrence Krauss is a theoretical physicist, cosmologist, best-selling author, producer, actor, and science and public policy advocate. His latest book The Greatest Story Ever Told So-Far is available now -- http://krauss.faculty.asu.edu/",
-    "date": "March 27, 2017"
+    "date": "2017-03-27T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -6396,7 +6396,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter. Justin is currently fighting in the Heavyweight division of Bellator to help raise more awareness for helping the Pygmy people of the Democratic Republic of the Congo.",
-    "date": "March 24, 2017"
+    "date": "2017-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Colin Moriarty"],
@@ -6405,7 +6405,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Colin Moriarty is the co-founder of Kinda Funny and creator of Colin's Last Stand, a new series of videos about history and politics.",
-    "date": "March 24, 2017"
+    "date": "2017-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Robb Wolf"],
@@ -6414,7 +6414,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robb Wolf is a former research biochemist, health expert, and author of the New York Times bestselling The Paleo Solution. His new book Wired To Eat is available now.",
-    "date": "March 23, 2017"
+    "date": "2017-03-23T04:00:00.000Z"
   },
   {
     "guests": ["John Dudley"],
@@ -6423,7 +6423,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Dudley is a pro archer and host of \"Nock On TV.\" Check out his podcast \"Nock On\" available on iTunes.",
-    "date": "March 22, 2017"
+    "date": "2017-03-22T04:00:00.000Z"
   },
   {
     "guests": ["Julie Kedzie"],
@@ -6432,7 +6432,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Julie Kedzie is a retired mixed martial artist, and is currently doing commentary for Invicta Fighting Championships.",
-    "date": "March 16, 2017"
+    "date": "2017-03-16T04:00:00.000Z"
   },
   {
     "guests": ["TJ Kirk"],
@@ -6441,7 +6441,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "TJ Kirk is a professional ranter, author, and the creator of the YouTube channel, The Amazing Atheist. He is also a co-host of The Drunken Peasants Podcast which is available for download via iTunes.",
-    "date": "March 15, 2017"
+    "date": "2017-03-15T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -6450,7 +6450,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is a stand-up comedian, radio personality, author, and actor. His latest special \"Mouthful of Shame\" is available now on Netflix.",
-    "date": "March 14, 2017"
+    "date": "2017-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Will MacAskill"],
@@ -6459,16 +6459,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Will MacAskill is a  philosopher and notable figure within the effective altruism movement. He is a tutorial fellow in philosophy at Lincoln College, Oxford.",
-    "date": "March 13, 2017"
+    "date": "2017-03-13T04:00:00.000Z"
   },
   {
     "guests": ["FC33"],
-    "title": "#FC33 - Fight Companion 33",
+    "title": "Fight Companion - March 12, 2017",
     "episode_id": 33,
     "isMMA": false,
     "isFC": true,
     "description": "FC33. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "March 12, 2017"
+    "date": "2017-03-12T05:00:00.000Z"
   },
   {
     "guests": ["Dan Peña"],
@@ -6477,7 +6477,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Peña is a businessman and high-performance business coach.",
-    "date": "March 10, 2017"
+    "date": "2017-03-10T05:00:00.000Z"
   },
   {
     "guests": ["Arian Foster"],
@@ -6486,7 +6486,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Arian Foster is a former NFL running back. He played college football at Tennessee, and was signed by the Houston Texans as an undrafted free agent in 2009.",
-    "date": "March 8, 2017"
+    "date": "2017-03-08T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -6495,7 +6495,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. His latest special \"Human Mule\" is coming to HULU beginning on March 8, and you can also listen to his podcast \"Come To Papa\" available on iTunes & Stitcher.",
-    "date": "March 7, 2017"
+    "date": "2017-03-07T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz", "Alberto Gallazzi"],
@@ -6504,7 +6504,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now” Alberto Gallazzi is a world-renowned strength and conditioning coach.",
-    "date": "March 6, 2017"
+    "date": "2017-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Theo Von"],
@@ -6513,7 +6513,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Theo Von is a stand-up comedian, television personality, host, and actor. Check out his special on Netflix called No Offense & the podcast he co-hosts called Allegedly available on iTunes & Stitcher.",
-    "date": "February 28, 2017"
+    "date": "2017-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Rory Albanese"],
@@ -6522,7 +6522,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rory Albanese is a comedian, comedy writer and television producer. He was an executive producer and writer for The Daily Show with Jon Stewart and also appeared on The Nightly Show with Larry Wilmore.",
-    "date": "February 28, 2017"
+    "date": "2017-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -6531,7 +6531,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian and actress. She is best known as the creator and star of the NBC sitcom Whitney, as well as the co-creator of the CBS sitcom 2 Broke Girls.",
-    "date": "February 27, 2017"
+    "date": "2017-02-27T05:00:00.000Z"
   },
   {
     "guests": ["Philip DeFranco"],
@@ -6540,7 +6540,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Philip DeFranco is a popular YouTube and internet personality. He hosts \"The Philip DeFranco Show\" where news stories are discussed every Monday-Thursday @ https://www.youtube.com/PhilipDeFranco",
-    "date": "February 24, 2017"
+    "date": "2017-02-24T05:00:00.000Z"
   },
   {
     "guests": ["Dominick Cruz"],
@@ -6549,7 +6549,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dominick Cruz is a mixed martial artist and former two-time UFC Bantamweight Champion. He also is a UFC Color Commentator & Analyst on FOX.",
-    "date": "February 23, 2017"
+    "date": "2017-02-23T05:00:00.000Z"
   },
   {
     "guests": ["Gavin McInnes"],
@@ -6558,7 +6558,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gavin McInnes is a writer, creative director, actor, comedian, and co-founder of Vice Media. He also hosts his own show \"The Gavin McInnes Show\" available here - https://www.compoundmedia.com/show/the-gavin-mcinnes-show/",
-    "date": "February 22, 2017"
+    "date": "2017-02-22T05:00:00.000Z"
   },
   {
     "guests": ["Neil deGrasse Tyson"],
@@ -6567,16 +6567,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator.",
-    "date": "February 21, 2017"
+    "date": "2017-02-21T05:00:00.000Z"
   },
   {
     "guests": ["FC32"],
-    "title": "#FC32 - Fight Companion 32",
+    "title": "Fight Companion - February 19, 2017",
     "episode_id": 32,
     "isMMA": false,
     "isFC": true,
     "description": "FC32. Joe sits down with Ian McCall & Eddie Bravo to watch fights from February 19, 2017.",
-    "date": "February 19, 2017"
+    "date": "2017-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Frank Castillo"],
@@ -6585,7 +6585,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Frank Castillo is a stand up comedian and Champion of the Roast Battle 2 on Comedy Central. He also co-hosts the \"Verbal Violence\" podcast available on iTunes.",
-    "date": "February 17, 2017"
+    "date": "2017-02-17T05:00:00.000Z"
   },
   {
     "guests": ["Steven Crowder"],
@@ -6594,7 +6594,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Crowder is an actor, comedian and former contributor for the Fox News Channel. He currently runs his own website and also a podcast called \"Louder With Crowder\"",
-    "date": "February 15, 2017"
+    "date": "2017-02-15T05:00:00.000Z"
   },
   {
     "guests": ["Fight Recap"],
@@ -6603,7 +6603,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Eddie Bravo, Bryan Callen & Brendan Schaub to discuss recent fights in MMA.",
-    "date": "February 14, 2017"
+    "date": "2017-02-14T05:00:00.000Z"
   },
   {
     "guests": ["Nick DiPaolo"],
@@ -6612,7 +6612,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick DiPaolo is a writer and stand up comedian. See his latest special \"Inflammatory\" when it premieres on Seeso on February 16.",
-    "date": "February 13, 2017"
+    "date": "2017-02-13T05:00:00.000Z"
   },
   {
     "guests": ["Ryan Callaghan", "Kenton Carruth"],
@@ -6621,7 +6621,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ryan Callaghan is an outdoor enthusiast & Director of Conservation and Public Relations at FirstLite and Kenton Carruth is the co-founder of FirstLite.",
-    "date": "February 8, 2017"
+    "date": "2017-02-08T05:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -6630,7 +6630,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller \"Sex At Dawn\" and he also hosts a podcast called \"Tangentially Speaking\" available on iTunes & Stitcher.",
-    "date": "February 7, 2017"
+    "date": "2017-02-07T05:00:00.000Z"
   },
   {
     "guests": ["Pete Holmes"],
@@ -6639,7 +6639,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Pete Holmes is a comedian, actor, writer, producer, podcaster, television host, and cartoonist. His podcast \"You Made It Weird\" is available on iTunes & his new show \"Crashing\" premieres on HBO February 19 at 10:30pm.",
-    "date": "February 6, 2017"
+    "date": "2017-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Alex Jones", "Eddie Bravo"],
@@ -6648,7 +6648,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Jones is a radio show host, filmmaker, writer, and conspiracy theorist. Eddie Bravo is a jiujitsu black belt, music producer, and author.",
-    "date": "February 1, 2017"
+    "date": "2017-02-01T05:00:00.000Z"
   },
   {
     "guests": ["Gary Vaynerchuk"],
@@ -6657,7 +6657,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gary Vaynerchuk is a serial entrepreneur, CEO, investor, author, public speaker, and internet personality.",
-    "date": "January 31, 2017"
+    "date": "2017-01-31T05:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -6666,7 +6666,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called \"The Monday Morning Podcast\" His latest special \"Walk Your Way Out\" is available now on Netflix.",
-    "date": "January 31, 2017"
+    "date": "2017-01-31T05:00:00.000Z"
   },
   {
     "guests": ["Leah Remini"],
@@ -6675,16 +6675,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Leah Remini is an actress, producer, author, and comedian. Her new show \"Leah Remini: Scientology and the Aftermath\" is a documentary series that can be seen on A&E.",
-    "date": "January 30, 2017"
+    "date": "2017-01-30T05:00:00.000Z"
   },
   {
     "guests": ["FC31"],
-    "title": "#FC31 - Fight Companion 31",
+    "title": "Fight Companion - January 29, 2017",
     "episode_id": 31,
     "isMMA": false,
     "isFC": true,
     "description": "FC31. Joe sits down with Brendan Schaub, Bryan Callen, Eddie Bravo & Robin Black to watch fights...",
-    "date": "January 29, 2017"
+    "date": "2017-01-29T05:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -6693,7 +6693,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "January 27, 2017"
+    "date": "2017-01-27T05:00:00.000Z"
   },
   {
     "guests": ["Henry Rollins"],
@@ -6702,7 +6702,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Henry Rollins is a musician, actor, writer, television and radio host. He hosts a weekly radio show on KCRW, and is a regular columnist for LA Weekly and Rolling Stone Australia.",
-    "date": "January 26, 2017"
+    "date": "2017-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -6711,7 +6711,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE.",
-    "date": "January 25, 2017"
+    "date": "2017-01-25T05:00:00.000Z"
   },
   {
     "guests": ["Gary Taubes"],
@@ -6720,7 +6720,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gary Taubes is the author of The Case Against Sugar, Why We Get Fat, Good Calories, Bad Calories, Bad Science, and Nobel Dreams.",
-    "date": "January 24, 2017"
+    "date": "2017-01-24T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe", "Brian Redban"],
@@ -6729,7 +6729,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sat down with Tony Hinchcliffe & Redban to do a podcast Live from The Comedy Store basement.",
-    "date": "January 24, 2017"
+    "date": "2017-01-24T05:00:00.000Z"
   },
   {
     "guests": ["Live Underground from The Comedy Store"],
@@ -6738,7 +6738,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Jeff Ross, Greg Fitzsimmons & Andrew Santino in the basement of The Comedy Store on January 19, 2017.",
-    "date": "January 20, 2017"
+    "date": "2017-01-20T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -6747,7 +6747,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "January 19, 2017"
+    "date": "2017-01-19T05:00:00.000Z"
   },
   {
     "guests": ["Joseph Valtellini"],
@@ -6756,16 +6756,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joseph \"Bazooka Joe\" Valtellini is a former world kickboxing champion, who currently can be heard doing color commentary for Glory Kickboxing.",
-    "date": "January 18, 2017"
+    "date": "2017-01-18T05:00:00.000Z"
   },
   {
     "guests": ["FC30"],
-    "title": "#FC30 - Fight Companion 30",
+    "title": "Fight Companion - January 15, 2017",
     "episode_id": 30,
     "isMMA": false,
     "isFC": true,
     "description": "FC30. Joe is joined by Brendan Schaub & Bryan Callen, to watch the fights on January 15,...",
-    "date": "January 15, 2017"
+    "date": "2017-01-15T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -6774,7 +6774,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "January 12, 2017"
+    "date": "2017-01-12T05:00:00.000Z"
   },
   {
     "guests": ["Bas Rutten", "Mauro Ranallo"],
@@ -6783,7 +6783,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bas Rutten & Mauro Ranallo are the former announcing team for Pride FC, and can now be heard together on their podcast \"Rutten & Ranallo\" available on iTunes.",
-    "date": "January 11, 2017"
+    "date": "2017-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Hunter Maats"],
@@ -6792,7 +6792,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hunter Maats is the co-author of \"The Straight-A Conspiracy\" and also co-host of The Bryan Callen Show podcast available on iTunes.",
-    "date": "January 10, 2017"
+    "date": "2017-01-10T05:00:00.000Z"
   },
   {
     "guests": ["CES Review with Young Jamie"],
@@ -6801,7 +6801,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe chats with Young Jamie about his recent trip to the Consumer Electronics Show (CES) in Las Vegas to see what's coming out this year.",
-    "date": "January 10, 2017"
+    "date": "2017-01-10T05:00:00.000Z"
   },
   {
     "guests": ["WhoIsFat – Day 2"],
@@ -6810,7 +6810,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Tom Segura & Bert Kreischer for Day 2 weigh-in of their weight loss challenge.",
-    "date": "January 3, 2017"
+    "date": "2017-01-03T05:00:00.000Z"
   },
   {
     "guests": ["WhoIsFat – Day 1"],
@@ -6819,7 +6819,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Tom Segura & Bert Kreischer for Day 1 weigh-in of their weight loss challenge.",
-    "date": "January 2, 2017"
+    "date": "2017-01-02T05:00:00.000Z"
   },
   {
     "guests": ["Fight Recap"],
@@ -6828,7 +6828,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Joey Diaz, Eddie Bravo & Brendan Schaub to discuss upcoming fights in MMA.",
-    "date": "January 1, 2017"
+    "date": "2017-01-01T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -6837,7 +6837,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes.",
-    "date": "December 28, 2016"
+    "date": "2016-12-28T05:00:00.000Z"
   },
   {
     "guests": ["Zach Leary"],
@@ -6846,7 +6846,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Zach Leary is a blogger/writer, a futurist, spiritualist, digital branding specialist and self proclaimed social theorist. He also is the host of the “It’s All Happening” podcast available on iTunes.",
-    "date": "December 27, 2016"
+    "date": "2016-12-27T05:00:00.000Z"
   },
   {
     "guests": ["Fight Breakdown"],
@@ -6855,7 +6855,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Eddie Bravo & Brendan Schaub to discuss upcoming fights in MMA.",
-    "date": "December 26, 2016"
+    "date": "2016-12-26T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -6864,7 +6864,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "December 23, 2016"
+    "date": "2016-12-23T05:00:00.000Z"
   },
   {
     "guests": ["Ron White"],
@@ -6873,7 +6873,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron White is a stand up comedian and actor, best known as a charter member of the Blue Collar Comedy Tour.",
-    "date": "December 22, 2016"
+    "date": "2016-12-22T05:00:00.000Z"
   },
   {
     "guests": ["James Hetfield"],
@@ -6882,7 +6882,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Hetfield is a musician, singer and songwriter known for being the co-founder, lead vocalist, rhythm guitarist and main songwriter for the American heavy metal band Metallica.",
-    "date": "December 16, 2016"
+    "date": "2016-12-16T05:00:00.000Z"
   },
   {
     "guests": ["Hank Shaw"],
@@ -6891,7 +6891,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hank Shaw is a former restaurant cook and journalist, Hank Shaw is the author of three wild game cookbooks as well as the James Beard Award-winning wild foods website Hunter Angler Gardener Cook. His latest book \"Buck, Buck, Moose\" is available now.",
-    "date": "December 15, 2016"
+    "date": "2016-12-15T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -6900,7 +6900,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House. His \"No Teeth No Entry\" tour starts in 2017, tickets are available at http://tomsegura.com now.",
-    "date": "December 13, 2016"
+    "date": "2016-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -6909,7 +6909,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Check out his special coming out December 8 on Seeso called \"Sociably UnAcceptable\" using code \"JOEY\" for a free 2-month trial. Joey also hosts his own podcast called “The Church of What’s Happening Now” available on iTunes & Stitcher.",
-    "date": "December 7, 2016"
+    "date": "2016-12-07T05:00:00.000Z"
   },
   {
     "guests": ["Kevin Smith"],
@@ -6918,7 +6918,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. His latest movie \"Yoga Hosers\" is now available on Netflix.",
-    "date": "December 6, 2016"
+    "date": "2016-12-06T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -6927,16 +6927,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his new special \"Human Mule\" debuts on EPIX on December 9 at 8pm.",
-    "date": "December 5, 2016"
+    "date": "2016-12-05T05:00:00.000Z"
   },
   {
     "guests": ["FC29"],
-    "title": "#FC29 - Fight Companion 29",
+    "title": "Fight Companion - December 3, 2016",
     "episode_id": 29,
     "isMMA": false,
     "isFC": true,
     "description": "FC29. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "December 3, 2016"
+    "date": "2016-12-03T05:00:00.000Z"
   },
   {
     "guests": ["Lee Camp"],
@@ -6945,7 +6945,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lee Camp is a stand-up comedian, writer, actor, and activist. He is the host of the weekly comedy news show \"Redacted Tonight with Lee Camp\" on RT America.",
-    "date": "December 2, 2016"
+    "date": "2016-12-02T05:00:00.000Z"
   },
   {
     "guests": ["Jon Jones"],
@@ -6954,7 +6954,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jon Jones is an American mixed martial artist and a two-time former Light Heavyweight Champion of the Ultimate Fighting Championship. He will compete against Dan Henderson in a submission grappling match at Submission Underground 2 on Sunday, Dec. 11, in Portland, Oregon.",
-    "date": "December 1, 2016"
+    "date": "2016-12-01T05:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -6963,7 +6963,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts \"MeatEater\" on the Sportsman Channel & Netflix, and a podcast also called \"MeatEater\" available on iTunes & Stitcher.",
-    "date": "November 30, 2016"
+    "date": "2016-11-30T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -6972,7 +6972,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer. He also hosts his own podcast available for download via iTunes called The Aubrey Marcus Podcast. Check out his new documentary called \"AYAHUASCA\" available at http://drinkthejungle.com",
-    "date": "November 29, 2016"
+    "date": "2016-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Jordan Peterson"],
@@ -6981,7 +6981,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
-    "date": "November 28, 2016"
+    "date": "2016-11-28T05:00:00.000Z"
   },
   {
     "guests": ["Chris Bell"],
@@ -6990,7 +6990,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Bell is a director, producer and writer, known for his documentaries \"Bigger, Stronger, Faster*\", \"Trophy Kids\", and \"Prescription Thugs\" and his latest project is on the controversy surrounding the plant Kratom.",
-    "date": "November 21, 2016"
+    "date": "2016-11-21T05:00:00.000Z"
   },
   {
     "guests": ["Shannon Briggs"],
@@ -6999,7 +6999,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shannon Briggs is an American professional boxer. A twenty-year veteran of the sport, he held the lineal heavyweight title from 1997 to 1998, and the WBO heavyweight title from 2006 to 2007.",
-    "date": "November 21, 2016"
+    "date": "2016-11-21T05:00:00.000Z"
   },
   {
     "guests": ["Scott Adams"],
@@ -7008,7 +7008,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scott Adams is creator of the Dilbert comic strip and the author of several nonfiction works of satire, commentary, business, and general speculation.",
-    "date": "November 17, 2016"
+    "date": "2016-11-17T05:00:00.000Z"
   },
   {
     "guests": ["Steven Kotler"],
@@ -7017,7 +7017,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Kotler is a bestselling author, journalist, entrepreneur, and co-founder and Director of Research Flow Genome Project.",
-    "date": "November 16, 2016"
+    "date": "2016-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock", "Randall Carlson"],
@@ -7026,7 +7026,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & his latest book \"Magicians of the Gods\" is available now. Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar.",
-    "date": "November 15, 2016"
+    "date": "2016-11-15T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -7035,7 +7035,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "November 14, 2016"
+    "date": "2016-11-14T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -7044,7 +7044,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his book \"Life of the Party\" on Amazon and his podcast \"The Bertcast\" on Stitcher & iTunes. His comedy special \"The Machine\" debuts on Showtime 11/11 at 10pm.",
-    "date": "November 9, 2016"
+    "date": "2016-11-09T05:00:00.000Z"
   },
   {
     "guests": ["End01"],
@@ -7053,7 +7053,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians...",
-    "date": "November 9, 2016"
+    "date": "2016-11-09T05:00:00.000Z"
   },
   {
     "guests": ["Dave Rubin"],
@@ -7062,7 +7062,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Rubin is an American stand-up comedian, talk show host, and television personality. He is the creator and host of political comedy talk show \"The Rubin Report\"",
-    "date": "November 7, 2016"
+    "date": "2016-11-07T05:00:00.000Z"
   },
   {
     "guests": ["John Dudley"],
@@ -7071,7 +7071,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe and John Dudley sat down to do a podcast while on a recent hunting trip in Iowa.",
-    "date": "November 4, 2016"
+    "date": "2016-11-04T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -7080,7 +7080,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”",
-    "date": "October 31, 2016"
+    "date": "2016-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Christine Hassler"],
@@ -7089,7 +7089,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christine Hassler is an author, speaker, and life coach. Check out her podcast \"Over It And On With It\" available on iTunes.",
-    "date": "October 25, 2016"
+    "date": "2016-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Wim Hof"],
@@ -7098,7 +7098,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wim Hof is a Dutch world record holder, adventurer and daredevil, commonly nicknamed the Iceman for his ability to withstand extreme cold.",
-    "date": "October 24, 2016"
+    "date": "2016-10-24T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Ross", "Gaston Bolanos"],
@@ -7107,16 +7107,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin \"The Soul Assassin\" Ross is an American Muay Thai kickboxer and former mixed martial artist. Gaston \"The Dreamkiller\" Bolanos is a professional Muay Thai fighter, recently signed to Bellator.",
-    "date": "October 24, 2016"
+    "date": "2016-10-24T04:00:00.000Z"
   },
   {
     "guests": ["FC28"],
-    "title": "#FC28 - Fight Companion 28",
+    "title": "Fight Companion - October 22, 2016",
     "episode_id": 28,
     "isMMA": false,
     "isFC": true,
     "description": "FC28. Joe is joined by Yves Edwards & Joe Schilling to watch the fights on October 21,...",
-    "date": "October 22, 2016"
+    "date": "2016-10-22T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -7125,7 +7125,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "October 20, 2016"
+    "date": "2016-10-20T04:00:00.000Z"
   },
   {
     "guests": ["Trevor Valle"],
@@ -7134,7 +7134,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Trevor Valle is field paleontologist, scientist, and show host.",
-    "date": "October 19, 2016"
+    "date": "2016-10-19T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -7143,7 +7143,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "October 18, 2016"
+    "date": "2016-10-18T04:00:00.000Z"
   },
   {
     "guests": ["Russell Peters"],
@@ -7152,7 +7152,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Peters is an actor and standup comedian, currently touring internationally all over the world. His latest stand-up comedy special \"Almost Famous\" is now on Netflix.",
-    "date": "October 14, 2016"
+    "date": "2016-10-14T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -7161,7 +7161,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "October 13, 2016"
+    "date": "2016-10-13T04:00:00.000Z"
   },
   {
     "guests": ["Jesse Ventura"],
@@ -7170,7 +7170,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jesse Ventura is a former Navy SEAL, professional wrestler, actor, political commentator, author, and politician who served as the 38th Governor of Minnesota from 1999 to 2003.  His latest book, Jesse Ventura's Marijuana Manifesto, is available now.",
-    "date": "October 13, 2016"
+    "date": "2016-10-13T04:00:00.000Z"
   },
   {
     "guests": ["Dan Bilzerian"],
@@ -7179,16 +7179,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Bilzerian is a social media personality and professional poker player.",
-    "date": "October 12, 2016"
+    "date": "2016-10-12T04:00:00.000Z"
   },
   {
     "guests": ["FC27"],
-    "title": "#FC27 - Fight Companion 27",
+    "title": "Fight Companion - October 9, 2016",
     "episode_id": 27,
     "isMMA": false,
     "isFC": true,
     "description": "FC27. Joe is joined by Brendan Schaub, Cameron Hanes, and Eddie Bravo to watch the fights...",
-    "date": "October 9, 2016"
+    "date": "2016-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe", "Young Jamie"],
@@ -7197,7 +7197,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down to do a late-night podcast from a hotel room in Ohio with Tony Hinchcliffe & Young Jamie.",
-    "date": "October 5, 2016"
+    "date": "2016-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura", "Christina Pazsitzky"],
@@ -7206,7 +7206,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura & Christina Pazsitzky are stand-up comedians, and together host their own podcast called \"Your Mom's House\"",
-    "date": "October 3, 2016"
+    "date": "2016-10-03T04:00:00.000Z"
   },
   {
     "guests": ["Louie Simmons"],
@@ -7215,7 +7215,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Louie Simmons is an American powerlifter and strength coach. He is noted for owning a private powerlifting gym, Westside Barbell; developing the 'Westside Barbell' method of training and applying it to powerlifting and other sports; and inventing several pieces of strength training equipment.",
-    "date": "September 30, 2016"
+    "date": "2016-09-30T04:00:00.000Z"
   },
   {
     "guests": ["Adam Greentree"],
@@ -7224,7 +7224,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Greentree is a bowhunter and photographer from Australia.",
-    "date": "September 28, 2016"
+    "date": "2016-09-28T04:00:00.000Z"
   },
   {
     "guests": ["John Anthony West"],
@@ -7233,7 +7233,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Anthony West is an author, lecturer, guide and a proponent of Sphinx water erosion hypothesis in geology.",
-    "date": "September 27, 2016"
+    "date": "2016-09-27T04:00:00.000Z"
   },
   {
     "guests": ["Shane Mauss"],
@@ -7242,7 +7242,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Mauss is a stand-up comedian and also hosts his own podcast called \"Here We Are\" available on iTunes. You can also check out his Netflix special called \"Mating Season\".",
-    "date": "September 26, 2016"
+    "date": "2016-09-26T04:00:00.000Z"
   },
   {
     "guests": ["George Perez"],
@@ -7251,7 +7251,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "George Perez is a stand up comedian. Previously seen on Comedy Central, Showtime, and MTV's \"Yo Mama\", you can now see George headlining all over the country.",
-    "date": "September 22, 2016"
+    "date": "2016-09-22T04:00:00.000Z"
   },
   {
     "guests": ["James Kingston"],
@@ -7260,7 +7260,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James Kingston is a British freerunner, adventurer, and YouTuber, where he can be seen climbing some of the world's tallest buildings and cranes.",
-    "date": "September 20, 2016"
+    "date": "2016-09-20T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -7269,16 +7269,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "September 20, 2016"
+    "date": "2016-09-20T04:00:00.000Z"
   },
   {
     "guests": ["FC26"],
-    "title": "#FC26 - Fight Companion 26",
+    "title": "Fight Companion - September 17, 2016",
     "episode_id": 26,
     "isMMA": false,
     "isFC": true,
     "description": "FC26. Joe is joined by Brendan Schaub, Joe Schilling, and Eddie Bravo to watch the fights...",
-    "date": "September 17, 2016"
+    "date": "2016-09-17T04:00:00.000Z"
   },
   {
     "guests": ["Dan Carlin"],
@@ -7287,7 +7287,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Carlin is an amateur historian and former radio talk show host. He now hosts two popular podcasts available on iTunes, or through his website, to download: Common Sense and Hardcore History.",
-    "date": "September 15, 2016"
+    "date": "2016-09-15T04:00:00.000Z"
   },
   {
     "guests": ["Michael Shermer"],
@@ -7296,7 +7296,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic, which is largely devoted to investigating pseudoscientific and supernatural claims.",
-    "date": "September 14, 2016"
+    "date": "2016-09-14T04:00:00.000Z"
   },
   {
     "guests": ["TJ Dillashaw", "Duane Ludwig", "Bas Rutten"],
@@ -7305,7 +7305,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "TJ Dillashaw is a mixed martial arts fighter and former Bantamweight champion currently fighting in the UFC. Duane Ludwig is a former mixed martial arts fighter and is now a coach. Bas Rutten is a retired MMA fighter and former UFC Heavyweight Champion.  He currently is the co-host of Inside MMA, and hosts a podcast with Mauro Ranallo called \"Rutten & Ranallo\" available on iTunes.",
-    "date": "September 12, 2016"
+    "date": "2016-09-12T04:00:00.000Z"
   },
   {
     "guests": ["Andreas Antonopoulos"],
@@ -7314,7 +7314,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andreas Antonopoulos is a bitcoin entrepreneur, he also serves on the advisory boards of several bitcoin startups and serves as the Chief Security Officer of Blockchain.",
-    "date": "September 7, 2016"
+    "date": "2016-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -7323,7 +7323,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcast called \"Kill Tony\" with Redban, and it's available on iTunes and at http://Deathsquad.tv",
-    "date": "September 6, 2016"
+    "date": "2016-09-06T04:00:00.000Z"
   },
   {
     "guests": ["Chris Kresser"],
@@ -7332,16 +7332,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Kresser is a health detective specializing in investigative medicine, blogger, podcaster, teacher and a Paleo diet and lifestyle enthusiast.",
-    "date": "September 5, 2016"
+    "date": "2016-09-05T04:00:00.000Z"
   },
   {
     "guests": ["FC25"],
-    "title": "#FC25 - Fight Companion 25",
+    "title": "Fight Companion - September 3, 2016",
     "episode_id": 25,
     "isMMA": false,
     "isFC": true,
     "description": "FC25. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "September 3, 2016"
+    "date": "2016-09-03T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -7350,7 +7350,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes.",
-    "date": "August 31, 2016"
+    "date": "2016-08-31T04:00:00.000Z"
   },
   {
     "guests": ["Donald Cerrone"],
@@ -7359,7 +7359,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donald Cerrone is a professional mixed martial artist and former professional kickboxer currently competing in the UFC's lightweight division.",
-    "date": "August 30, 2016"
+    "date": "2016-08-30T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -7368,16 +7368,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his podcast \"Come To Papa\" available to download on iTunes & Stitcher.",
-    "date": "August 29, 2016"
+    "date": "2016-08-29T04:00:00.000Z"
   },
   {
     "guests": ["FC24"],
-    "title": "#FC24 - Fight Companion 24",
+    "title": "Fight Companion - August 27, 2016",
     "episode_id": 24,
     "isMMA": false,
     "isFC": true,
     "description": "FC24. Joe is joined by Eddie Bravo to watch the fights on August 27, 2016.",
-    "date": "August 27, 2016"
+    "date": "2016-08-27T04:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -7386,7 +7386,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of #WeThePeople LIVE available on iTunes (https://t.co/6eWfSu8tRM) and at http://wtplive.com",
-    "date": "August 23, 2016"
+    "date": "2016-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -7395,7 +7395,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of \"The Evolutionary Bases of Consumption\" and \"The Consuming Instinct\"",
-    "date": "August 23, 2016"
+    "date": "2016-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Hannibal Buress"],
@@ -7404,7 +7404,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his Hannibal Montanabal Tour all over the country this fall.",
-    "date": "August 22, 2016"
+    "date": "2016-08-22T04:00:00.000Z"
   },
   {
     "guests": ["Louis Theroux"],
@@ -7413,7 +7413,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Louis Theroux is best known for his documentaries in the television series \"Louis Theroux's Weird Weekends\" and \"When Louis Met...\", as well as his Louis Theroux's BBC Two specials.",
-    "date": "August 22, 2016"
+    "date": "2016-08-22T04:00:00.000Z"
   },
   {
     "guests": ["Dan Doty"],
@@ -7422,7 +7422,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Doty is a writer, producer, and cameraman for MeatEater TV.",
-    "date": "August 18, 2016"
+    "date": "2016-08-18T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -7431,7 +7431,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "August 11, 2016"
+    "date": "2016-08-11T04:00:00.000Z"
   },
   {
     "guests": ["Vinny Shoreman"],
@@ -7440,7 +7440,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Vinny Shoreman is a mind coach and kickboxing & muay thai commentator and coach.",
-    "date": "August 10, 2016"
+    "date": "2016-08-10T04:00:00.000Z"
   },
   {
     "guests": ["Byron Bowers"],
@@ -7449,16 +7449,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Byron Bowers is a stand up comedian, who can be seen performing all over the country including The Comedy Store in Hollywood, CA.",
-    "date": "August 9, 2016"
+    "date": "2016-08-09T04:00:00.000Z"
   },
   {
     "guests": ["FC23"],
-    "title": "#FC23 - Fight Companion 23",
+    "title": "Fight Companion - August 6, 2016",
     "episode_id": 23,
     "isMMA": false,
     "isFC": true,
     "description": "FC23. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "August 6, 2016"
+    "date": "2016-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -7467,7 +7467,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neal Brennan is a stand-up comedian, actor, writer, director and producer. He is known for co-creating and co-writing \"Chappelle's Show\" with Dave Chappelle.",
-    "date": "August 3, 2016"
+    "date": "2016-08-03T04:00:00.000Z"
   },
   {
     "guests": ["Wayne Federman"],
@@ -7476,7 +7476,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wayne Federman is an American comedian, actor, author, comedy writer, and musician.",
-    "date": "August 2, 2016"
+    "date": "2016-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -7485,7 +7485,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "August 1, 2016"
+    "date": "2016-08-01T04:00:00.000Z"
   },
   {
     "guests": ["Twitter Q&A with Joe"],
@@ -7494,7 +7494,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down in a hotel room in Atlanta to answer some questions from fans on Twitter.",
-    "date": "July 29, 2016"
+    "date": "2016-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -7503,7 +7503,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter. Justin is currently fighting in the Heavyweight division of Bellator to help raise more awareness for helping the Pygmy people of the Democratic Republic of the Congo.",
-    "date": "July 27, 2016"
+    "date": "2016-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Jeremy Stephens"],
@@ -7512,7 +7512,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeremy Stephens is an MMA fighter currently fighting in the UFC's featherweight division.",
-    "date": "July 26, 2016"
+    "date": "2016-07-26T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -7521,7 +7521,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "July 21, 2016"
+    "date": "2016-07-21T04:00:00.000Z"
   },
   {
     "guests": ["Eleanor Kerrigan"],
@@ -7530,7 +7530,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eleanor Kerrigan is a former waitress at The Comedy Store and is now a stand up performing all over the country.",
-    "date": "July 11, 2016"
+    "date": "2016-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Chael Sonnen"],
@@ -7539,7 +7539,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chael Sonnen is a retired mixed martial artist who last competed in the light heavyweight division of the UFC. He also hosts his own podcast called \"You're Welcome with Chael Sonnen\" available on iTunes.",
-    "date": "July 11, 2016"
+    "date": "2016-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -7548,7 +7548,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Joey \"CoCo\" Diaz to watch the fights on July 7, 2016.",
-    "date": "July 7, 2016"
+    "date": "2016-07-07T04:00:00.000Z"
   },
   {
     "guests": ["Milo Yiannopoulos"],
@@ -7557,7 +7557,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Milo Yiannopoulos is a writer and broadcaster. He is a senior editor at Breitbart.com and hosts \"The Milo Yiannopoulos Show\" podcast available on iTunes.",
-    "date": "July 6, 2016"
+    "date": "2016-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -7566,7 +7566,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "July 5, 2016"
+    "date": "2016-07-05T04:00:00.000Z"
   },
   {
     "guests": ["Mike Schmidt"],
@@ -7575,7 +7575,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Before becoming a door guy at The Comedy Store, Mike Schmidt worked for over 10 years as a criminal defense attorney in Wisconsin.",
-    "date": "July 4, 2016"
+    "date": "2016-07-04T04:00:00.000Z"
   },
   {
     "guests": ["Jason Hairston", "Brendan Burns"],
@@ -7584,7 +7584,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jason Hairston is a former NFL player and founder of KUIU, an \"Ultralight Mountain Hunting Gear\" company. Brendan Burns is an accomplished mountain hunter and manages KUIU Professional Services.",
-    "date": "June 30, 2016"
+    "date": "2016-06-30T04:00:00.000Z"
   },
   {
     "guests": ["Joe Schilling"],
@@ -7593,7 +7593,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Schilling is an American Muay Thai kickboxer and MMA fighter who competes in the super middleweight and light heavyweight and the Middleweight division of Bellator MMA.",
-    "date": "June 29, 2016"
+    "date": "2016-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -7602,7 +7602,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator.”",
-    "date": "June 28, 2016"
+    "date": "2016-06-28T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -7611,7 +7611,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports. Check out his show This Is Not Happening on Comedy Central & YouTube.",
-    "date": "June 22, 2016"
+    "date": "2016-06-22T04:00:00.000Z"
   },
   {
     "guests": ["Shane Dorian"],
@@ -7620,7 +7620,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Dorian is a big wave surfer and bowhunter.",
-    "date": "June 22, 2016"
+    "date": "2016-06-22T04:00:00.000Z"
   },
   {
     "guests": ["Russell Brand", "Jim Breuer"],
@@ -7629,7 +7629,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Brand is an English comedian, actor, radio host, author, and activist. Jim Breuer is a stand up comedian, actor, author,  singer and host.",
-    "date": "June 21, 2016"
+    "date": "2016-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Jim Breuer"],
@@ -7638,16 +7638,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Breuer is a stand up comedian, actor, author,  singer and host. Check out his podcast The Metal In Me and his new rock album \"Songs From the Garage\" available on iTunes now.",
-    "date": "June 21, 2016"
+    "date": "2016-06-21T04:00:00.000Z"
   },
   {
     "guests": ["FC22"],
-    "title": "#FC22 - Fight Companion 22",
+    "title": "Fight Companion - June 19, 2016",
     "episode_id": 22,
     "isMMA": false,
     "isFC": true,
     "description": "FC22. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "June 19, 2016"
+    "date": "2016-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Big Jay Oakerson"],
@@ -7656,7 +7656,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Big Jay Oakerson is a stand up comedian and he also hosts his own show \"Legion of Skanks Podcast\" available on iTunes. His new one-hour special \"Live at Webster Hall\" premieres Friday June 17th at midnight on Comedy Central.",
-    "date": "June 15, 2016"
+    "date": "2016-06-15T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -7665,7 +7665,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer. He also hosts his own podcast available for download via iTunes called The Aubrey Marcus Podcast.",
-    "date": "June 14, 2016"
+    "date": "2016-06-14T04:00:00.000Z"
   },
   {
     "guests": ["Michael Wood, Jr."],
@@ -7674,7 +7674,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Wood, Jr. is a retired Baltimore police officer and veteran of the USMC. He previously made the news for publicly speaking out against police brutality and has become a proponent of a new era of policing.",
-    "date": "June 13, 2016"
+    "date": "2016-06-13T04:00:00.000Z"
   },
   {
     "guests": ["Gino & AJ, from Speedweed"],
@@ -7683,7 +7683,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gino & AJ are the owners of Speedweed - \"California’s best, most highly rated medical marijuana delivery service\"",
-    "date": "June 7, 2016"
+    "date": "2016-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Dave Smith"],
@@ -7692,7 +7692,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Smith is a stand up comedian & host of Part Of The Problem podcast available on iTunes, and he is also one-third of The Legion of Skanks.",
-    "date": "June 6, 2016"
+    "date": "2016-06-06T04:00:00.000Z"
   },
   {
     "guests": ["Steve Hofstetter"],
@@ -7701,7 +7701,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Hofstetter is a comedian and podcast host. His podcast \"Major League\" is available on iTunes & he also has a YouTube channel with over 35 million views -- https://www.youtube.com/stevehofstetter",
-    "date": "June 2, 2016"
+    "date": "2016-06-02T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -7710,7 +7710,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. His podcast called \"Waking Up\" is available on iTunes & Stitcher.",
-    "date": "June 1, 2016"
+    "date": "2016-06-01T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz", "Lee Syatt"],
@@ -7719,16 +7719,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Together with Lee Syatt, he also hosts a podcast called “The Church of What’s Happening Now”",
-    "date": "May 31, 2016"
+    "date": "2016-05-31T04:00:00.000Z"
   },
   {
     "guests": ["FC21"],
-    "title": "#FC21 - Fight Companion 21",
+    "title": "Fight Companion - May 30, 2016",
     "episode_id": 21,
     "isMMA": false,
     "isFC": true,
     "description": "FC21. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights...",
-    "date": "May 30, 2016"
+    "date": "2016-05-30T04:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -7737,7 +7737,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Check out his podcast \"Come To Papa\" available to download on iTunes & Stitcher.",
-    "date": "May 19, 2016"
+    "date": "2016-05-19T04:00:00.000Z"
   },
   {
     "guests": ["Gary Johnson"],
@@ -7746,7 +7746,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gary Johnson is the Honorary Chairman of the Our America Initiative, two-term Governor of New Mexico, and 2016 Libertarian candidate for President.",
-    "date": "May 17, 2016"
+    "date": "2016-05-17T04:00:00.000Z"
   },
   {
     "guests": ["Bobcat Goldthwait"],
@@ -7755,7 +7755,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bobcat Goldthwait is an actor, comedian, and filmmaker. His latest movie called \"Willow Creek\" is a found footage horror film involving bigfoot evidence.",
-    "date": "May 17, 2016"
+    "date": "2016-05-17T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -7764,7 +7764,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together they host \"The Fighter & The Kid\" podcast available on iTunes.",
-    "date": "May 16, 2016"
+    "date": "2016-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Alison Rosen"],
@@ -7773,7 +7773,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alison Rosen is a podcaster, writer, and television personality. She also hosts her own podcast called \"Alison Rosen Is Your New Best Friend\" available for download via iTunes.",
-    "date": "May 11, 2016"
+    "date": "2016-05-11T04:00:00.000Z"
   },
   {
     "guests": ["Alex", "Allyson Grey"],
@@ -7782,7 +7782,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Grey is a visionary artist, author, teacher, and Vajrayana practitioner. Alex and Allyson are co-founders of CoSM, Chapel of Sacred Mirrors, and are currently working to build Entheon.",
-    "date": "May 10, 2016"
+    "date": "2016-05-10T04:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -7791,7 +7791,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of #WeThePeople LIVE available on iTunes (https://t.co/6eWfSu8tRM) and at http://wtplive.com",
-    "date": "May 9, 2016"
+    "date": "2016-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Ian Edwards"],
@@ -7800,7 +7800,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian Edwards is a stand up comedian and also hosts his own podcast called \"Soccer Comic Rant\" on iTunes/Stitcher.",
-    "date": "May 6, 2016"
+    "date": "2016-05-06T04:00:00.000Z"
   },
   {
     "guests": ["Miesha Tate"],
@@ -7809,7 +7809,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Miesha Tate is a mixed martial artist and is the current UFC Women's Bantamweight Champion.",
-    "date": "May 5, 2016"
+    "date": "2016-05-05T04:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -7818,7 +7818,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian and actress. She is best known as the creator and star of the NBC sitcom Whitney, as well as the co-creator of the CBS sitcom 2 Broke Girls.",
-    "date": "May 4, 2016"
+    "date": "2016-05-04T04:00:00.000Z"
   },
   {
     "guests": ["Lewis, from Unbox Therapy"],
@@ -7827,7 +7827,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Unbox Therapy is a YouTube channel \"where products get naked.\" Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy",
-    "date": "April 30, 2016"
+    "date": "2016-04-30T04:00:00.000Z"
   },
   {
     "guests": ["Steve Schirripa"],
@@ -7836,7 +7836,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Schirripa is an actor, producer, author, and voice artist, best known for portraying Bobby Baccalieri on The Sopranos.",
-    "date": "April 26, 2016"
+    "date": "2016-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Steve Maxwell"],
@@ -7845,7 +7845,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Maxwell is an American fitness coach, physical educator, and Brazilian Jiu-Jitsu instructor. He was named one of the top 100 trainers in the USA by Men’s Journal.",
-    "date": "April 25, 2016"
+    "date": "2016-04-25T04:00:00.000Z"
   },
   {
     "guests": ["Dan Auerbach"],
@@ -7854,7 +7854,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Auerbach is a musician and record producer best known as the guitarist and vocalist for The Black Keys.",
-    "date": "April 21, 2016"
+    "date": "2016-04-21T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -7863,7 +7863,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "April 21, 2016"
+    "date": "2016-04-21T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Huang"],
@@ -7872,7 +7872,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Huang is a restaurateur, food personality, sandwich hack, and former lawyer. Check out his new show \"Huang's World\" on VICELAND, and his new book \"Double Cup Love\" releasing on May 31, 2016.",
-    "date": "April 19, 2016"
+    "date": "2016-04-19T04:00:00.000Z"
   },
   {
     "guests": ["Wheeler Walker, Jr."],
@@ -7881,7 +7881,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wheeler Walker, Jr. is an American country music singer-songwriter. His album \"Redneck Shit\" is out now on iTunes, and he also can be seen on tour this summer.",
-    "date": "April 18, 2016"
+    "date": "2016-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -7890,7 +7890,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called \"Dom Irrera Live from The Laugh Factory.\"",
-    "date": "April 13, 2016"
+    "date": "2016-04-13T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -7899,7 +7899,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "April 13, 2016"
+    "date": "2016-04-13T04:00:00.000Z"
   },
   {
     "guests": ["John Dudley"],
@@ -7908,7 +7908,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Dudley is a pro archer and host of \"Nock On TV.\" Check out his podcast \"Nock On\" available on iTunes.",
-    "date": "April 12, 2016"
+    "date": "2016-04-12T04:00:00.000Z"
   },
   {
     "guests": ["Rick Doblin"],
@@ -7917,7 +7917,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rick Doblin, Ph.D., is the founder and executive director of the Multidisciplinary Association for Psychedelic Studies (MAPS).",
-    "date": "April 7, 2016"
+    "date": "2016-04-07T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Rose"],
@@ -7926,7 +7926,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Rose is an Internet entrepreneur who co-founded Revision3, Digg, Pownce, and Milk. He also served as production assistant and co-host at TechTV's The Screen Savers.",
-    "date": "April 5, 2016"
+    "date": "2016-04-05T04:00:00.000Z"
   },
   {
     "guests": ["Sturgill Simpson"],
@@ -7935,7 +7935,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sturgill Simpson is an American country music singer-songwriter. His new album \"A Sailor's Guide to Earth\" comes out on April 15, 2016.",
-    "date": "April 4, 2016"
+    "date": "2016-04-04T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Dice Clay", "Joey Diaz"],
@@ -7944,7 +7944,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Dice Clay is a comedian and actor. His new show \"Dice\" premieres on Showtime on Sunday, April 10. Joey Diaz is a Cuban-American stand up comedian and actor. Joey also hosts his own podcast called “The Church of What’s Happening Now”",
-    "date": "March 29, 2016"
+    "date": "2016-03-29T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -7953,7 +7953,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports. Check out the 2nd season of his show This Is Not Happening on Comedy Central. http://arithegreat.com",
-    "date": "March 28, 2016"
+    "date": "2016-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -7962,7 +7962,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also, check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "March 25, 2016"
+    "date": "2016-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Adam Cropp"],
@@ -7971,7 +7971,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Cropp is an Expedition Leader on the National Geographic Orion, from the remote jungles of Papua New Guinea to the frosty frontiers of Antarctica and everywhere in between.",
-    "date": "March 18, 2016"
+    "date": "2016-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -7980,7 +7980,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes.",
-    "date": "March 16, 2016"
+    "date": "2016-03-16T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -7989,7 +7989,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together they host \"The Fighter & The Kid\" podcast available on iTunes.",
-    "date": "March 15, 2016"
+    "date": "2016-03-15T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -7998,7 +7998,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "March 10, 2016"
+    "date": "2016-03-10T05:00:00.000Z"
   },
   {
     "guests": ["Mark", "Chris Bell"],
@@ -8007,7 +8007,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Bell is an elite powerlifter and owner of Team Super Training Gym in Sacramento, CA. Chris Bell is a writer, director, and filmmaker known for the documentary \"Bigger, Stronger, Faster\" and his new documentary called \"Prescription Thugs\" was recently released.",
-    "date": "March 8, 2016"
+    "date": "2016-03-08T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -8016,7 +8016,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is a jiujitsu black belt, music producer, and author.",
-    "date": "March 7, 2016"
+    "date": "2016-03-07T05:00:00.000Z"
   },
   {
     "guests": ["Michael Shermer"],
@@ -8025,7 +8025,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic, which is largely devoted to investigating pseudoscientific and supernatural claims.",
-    "date": "March 7, 2016"
+    "date": "2016-03-07T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -8034,7 +8034,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his book \"Life of the Party\" on Amazon and his podcast \"The Bertcast\" on Stitcher & iTunes.",
-    "date": "March 3, 2016"
+    "date": "2016-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Ian McCall", "Brendan Schaub", "Bryan Callen"],
@@ -8043,7 +8043,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe is joined by Ian McCall, Brendan Schaub & Bryan Callen to breakdown the fights on the upcoming UFC 196 fight card.",
-    "date": "March 2, 2016"
+    "date": "2016-03-02T05:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -8052,7 +8052,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "March 1, 2016"
+    "date": "2016-03-01T05:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -8061,7 +8061,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of \"The Evolutionary Bases of Consumption\" and \"The Consuming Instinct\"",
-    "date": "February 25, 2016"
+    "date": "2016-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Tovar Cerulli"],
@@ -8070,7 +8070,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tovar Cerulli is a \"vegan-turned-hunter\",environmentalist and author . His book The Mindful Carnivore is available via Amazon.",
-    "date": "February 24, 2016"
+    "date": "2016-02-24T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -8079,7 +8079,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "February 23, 2016"
+    "date": "2016-02-23T05:00:00.000Z"
   },
   {
     "guests": ["Action Bronson"],
@@ -8088,16 +8088,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Action Bronson is a rapper and former chef. His show \"F*ck, That's Delicious\" can soon be seen on Vice's new cable network, Viceland.",
-    "date": "February 23, 2016"
+    "date": "2016-02-23T05:00:00.000Z"
   },
   {
     "guests": ["FC20"],
-    "title": "#FC20 - Fight Companion 20",
+    "title": "Fight Companion - February 21, 2016",
     "episode_id": 20,
     "isMMA": false,
     "isFC": true,
     "description": "FC20. Joe is joined by Brendan Schaub, Ian McCall & Eddie Bravo to watch the fights...",
-    "date": "February 21, 2016"
+    "date": "2016-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Robin Black"],
@@ -8106,7 +8106,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robin Black is an MMA analyst and color commentator for Fight Network. Also check out his fight breakdown's on the UFC Youtube channel -- https://www.youtube.com/watch?v=B-_-Mmmzvs0",
-    "date": "February 19, 2016"
+    "date": "2016-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Bas Rutten"],
@@ -8115,7 +8115,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bas Rutten is a retired MMA fighter and former UFC Heavyweight Champion.  He currently is the co-host of Inside MMA, and hosts a podcast with Mauro Ranallo called \"Rutten & Ranallo\" available on iTunes. http://www.ruttenandranallo.com/",
-    "date": "February 17, 2016"
+    "date": "2016-02-17T05:00:00.000Z"
   },
   {
     "guests": ["Doug Duren", "Nathan Ihde"],
@@ -8124,7 +8124,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Duren is a passionate hunter, farmer, land manager and conservationist. Nathan Ihde is also a farmer and conservationist living in Wisconsin.",
-    "date": "February 16, 2016"
+    "date": "2016-02-16T05:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -8133,7 +8133,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator.”",
-    "date": "February 15, 2016"
+    "date": "2016-02-15T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -8142,7 +8142,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host.",
-    "date": "February 9, 2016"
+    "date": "2016-02-09T05:00:00.000Z"
   },
   {
     "guests": ["Gary Clark, Jr."],
@@ -8151,16 +8151,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gary Clark, Jr. is a Grammy award winning musician and guitar player. He can been seen on his new tour in 2016 all over the world, and his latest album \"The Story of Sonny Boy Slim\" is out now. http://www.garycl",
-    "date": "February 8, 2016"
+    "date": "2016-02-08T05:00:00.000Z"
   },
   {
     "guests": ["FC19"],
-    "title": "#FC19 - Fight Companion 19",
+    "title": "Fight Companion - February 6, 2016",
     "episode_id": 19,
     "isMMA": false,
     "isFC": true,
     "description": "FC19. Joe is joined by Brendan Schaub, Bryan Callen & Eddie Bravo to watch the fights on February...",
-    "date": "February 6, 2016"
+    "date": "2016-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Kyle Kingsbury"],
@@ -8169,7 +8169,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kyle Kingsbury is a retired professional mixed martial artist. He competed in King of the Cage & the Ultimate Fighting Championship, and was also on The Ultimate Fighter: Team Nogueira vs Team Mir.",
-    "date": "February 4, 2016"
+    "date": "2016-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -8178,7 +8178,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, professor, and martial artist. His latest book \"Not Afraid\" (http://amzn.to/1SYRwpU) is out now and his new podcast called \"History on Fire\" is available on iTunes.",
-    "date": "February 3, 2016"
+    "date": "2016-02-03T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8187,7 +8187,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. Also, check out his newest podcast called \"What Brian Redban Do\" at http://deathsquad.tv & on iTunes",
-    "date": "February 2, 2016"
+    "date": "2016-02-02T05:00:00.000Z"
   },
   {
     "guests": ["Hannibal Buress"],
@@ -8196,7 +8196,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hannibal Buress is a stand-up comedian, actor, television writer and host. His latest special \"Comic Camisado\" premieres on February 5th on Netflix.",
-    "date": "January 27, 2016"
+    "date": "2016-01-27T05:00:00.000Z"
   },
   {
     "guests": ["Mark Sisson"],
@@ -8205,7 +8205,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Sisson is a fitness author and blogger, and a former distance runner, triathlete and Ironman competitor. His latest book \"Primal Endurance\" is available now via Amazon.",
-    "date": "January 26, 2016"
+    "date": "2016-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope"],
@@ -8214,7 +8214,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Stanhope is a stand-up comedian, writer, and TV host, also currently hosting his own podcast, The Doug Stanhope Shotclog Podcast.",
-    "date": "January 26, 2016"
+    "date": "2016-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Kip Andersen", "Keegan Kuhn"],
@@ -8223,7 +8223,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kip Andersen and Keegan Kuhn are the producers of the 2014 documentary  \"Cowspiracy\" and are also working on their next project called \"What The Health\" due to release in 2016.",
-    "date": "January 21, 2016"
+    "date": "2016-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Carlos Condit", "Erwan Le Corre"],
@@ -8232,7 +8232,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Carlos Condit is a mixed martial artist, competing in the welterweight division of the Ultimate Fighting Championship. Erwan Le Corre is the founder and innovator of a physical education system and lifestyle known as MovNat.",
-    "date": "January 20, 2016"
+    "date": "2016-01-20T05:00:00.000Z"
   },
   {
     "guests": ["Jenny Johnson"],
@@ -8241,7 +8241,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jenny Johnson is a comedian and writer, known for her Twitter feed where she's gained over 400k followers.",
-    "date": "January 19, 2016"
+    "date": "2016-01-19T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -8250,7 +8250,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. His first comedy special \"One Shot\" premieres on Netflix on January 15, 2016. Tony also hosts his own podcast called \"Kill Tony\" with Redban, and it's available on iTunes and at http://Deathsquad.tv",
-    "date": "January 13, 2016"
+    "date": "2016-01-13T05:00:00.000Z"
   },
   {
     "guests": ["TJ Kirk"],
@@ -8259,7 +8259,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "TJ Kirk is a professional ranter, author, and the creator of the YouTube channel, The Amazing Atheist. He is also a co-host of The Drunken Peasants Podcast which is available for download via iTunes.",
-    "date": "January 12, 2016"
+    "date": "2016-01-12T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -8268,7 +8268,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports. The 2nd season of his show This Is Not Happening premieres on Comedy Central on February 23, 2016.",
-    "date": "January 11, 2016"
+    "date": "2016-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -8277,7 +8277,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House. His new special \"Mostly Stories\" debuts on Netflix on January 8, 2016.",
-    "date": "January 6, 2016"
+    "date": "2016-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Phil Demers"],
@@ -8286,7 +8286,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Phil Demers is a former Marineland employee turned truther, also known as the Walrus Whisperer.",
-    "date": "January 5, 2016"
+    "date": "2016-01-05T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -8295,7 +8295,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer. He also hosts his own podcast available for download via iTunes called The Aubrey Marcus Podcast.",
-    "date": "January 4, 2016"
+    "date": "2016-01-04T05:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -8304,7 +8304,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now” -- https://www.youtube.com/madflavorsworld",
-    "date": "December 24, 2015"
+    "date": "2015-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Thaddeus Russell"],
@@ -8313,7 +8313,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Thaddeus Russell is an adjunct professor of American Studies at Occidental College, and also the author of \"A Renegade History of The United States\"",
-    "date": "December 23, 2015"
+    "date": "2015-12-23T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell", "Christopher Ryan"],
@@ -8322,7 +8322,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\". Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast \"Tangentially Speaking\"",
-    "date": "December 22, 2015"
+    "date": "2015-12-22T05:00:00.000Z"
   },
   {
     "guests": ["UFC Recap – Brendan Schaub", "Eddie Bravo"],
@@ -8331,7 +8331,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe discusses some of the fights from the UFConFOX fight card from December 19, 2015, and other topics, with Brendan Schaub & Eddie Bravo.",
-    "date": "December 22, 2015"
+    "date": "2015-12-22T05:00:00.000Z"
   },
   {
     "guests": ["Molly Crabapple"],
@@ -8340,7 +8340,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Molly Crabapple is an American artist and journalist, known for her work for The New York Times, VICE, the Wall Street Journal, the Royal Society of Arts, Red Bull, Marvel Comics, DC Comics and CNN. Her new book \"Drawing Blood\" is available now on Amazon -- http://amzn.to/1QqNp5m",
-    "date": "December 16, 2015"
+    "date": "2015-12-16T05:00:00.000Z"
   },
   {
     "guests": ["Lance Armstrong"],
@@ -8349,7 +8349,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lance Armstrong is an American former professional road racing cyclist and 7-time winner of the Tour de France.",
-    "date": "December 15, 2015"
+    "date": "2015-12-15T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -8358,7 +8358,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together they host \"The Fighter & The Kid\" podcast available on iTunes.",
-    "date": "December 14, 2015"
+    "date": "2015-12-14T05:00:00.000Z"
   },
   {
     "guests": ["Peter Boghossian"],
@@ -8367,7 +8367,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Boghossian is a philosophy instructor, activist, author, speaker, and atheism advocate. He is a full-time faculty member at Portland State University.",
-    "date": "December 14, 2015"
+    "date": "2015-12-14T05:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -8376,7 +8376,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "December 10, 2015"
+    "date": "2015-12-10T05:00:00.000Z"
   },
   {
     "guests": ["Judah Friedlander"],
@@ -8385,7 +8385,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Judah Friedlander is a stand up comedian and actor and his new book IF THE RAINDROPS UNITED is available now on Amazon -- http://amzn.to/1Oj8IPZ",
-    "date": "December 9, 2015"
+    "date": "2015-12-09T05:00:00.000Z"
   },
   {
     "guests": ["Whitney Cummings"],
@@ -8394,7 +8394,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Whitney Cummings is a stand up comedian and actress. She is best known as the creator and star of the NBC sitcom Whitney, as well as the co-creator of the CBS sitcom 2 Broke Girls. Her new special \"I'm Your Girlfriend\" debuts January 23, 2016 on HBO.",
-    "date": "December 8, 2015"
+    "date": "2015-12-08T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -8403,7 +8403,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his book \"Life of the Party\" on Amazon and his podcast \"The Bertcast\" on Stitcher & iTunes.",
-    "date": "December 3, 2015"
+    "date": "2015-12-03T05:00:00.000Z"
   },
   {
     "guests": ["Demetrious Johnson"],
@@ -8412,7 +8412,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Demetrious Johnson is a mixed martial artist. He is the first and current Flyweight Champion of the Ultimate Fighting Championship.",
-    "date": "December 2, 2015"
+    "date": "2015-12-02T05:00:00.000Z"
   },
   {
     "guests": ["Jocko Willink"],
@@ -8421,16 +8421,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jocko Willink is an author, black belt in Brazilian jiu jitsu, and retired commander of the most highly decorated special-operations unit of the Iraq War: US Navy SEAL Team Three Task Unit Bruiser, which served in the 2006 Battle of Ramadi. His book \"Extreme Ownership\" is available now via Amazon -- http://amzn.to/1Nmzm9E",
-    "date": "December 1, 2015"
+    "date": "2015-12-01T05:00:00.000Z"
   },
   {
     "guests": ["FC18"],
-    "title": "#FC18 - Fight Companion 18",
+    "title": "Fight Companion - November 28, 2015",
     "episode_id": 18,
     "isMMA": false,
     "isFC": true,
     "description": "FC18. Joe is joined by Brendan Schaub, Ben Saunders & Eddie Bravo to watch the fights...",
-    "date": "November 28, 2015"
+    "date": "2015-11-28T05:00:00.000Z"
   },
   {
     "guests": ["Ceara Lynch"],
@@ -8439,7 +8439,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ceara Lynch is a professional humiliatrix and fetish video producer, and she also has a documentary coming soon called \"Ruin Me\" https://www.facebook.com/ruinmemovie/",
-    "date": "November 27, 2015"
+    "date": "2015-11-27T05:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -8448,7 +8448,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called \"The Monday Morning Podcast\" His new show \"F is for Family\" premieres on Netflix on December 18th, 2015.",
-    "date": "November 24, 2015"
+    "date": "2015-11-24T05:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -8457,7 +8457,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of HuffPost Live & #WeThePeople LIVE available on iTunes (https://t.co/6eWfSu8tRM) and at http://wtplive.com",
-    "date": "November 23, 2015"
+    "date": "2015-11-23T05:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock", "Randall Carlson"],
@@ -8466,7 +8466,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & his new book \"Magicians of the Gods\" is available now. Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar.",
-    "date": "November 19, 2015"
+    "date": "2015-11-19T05:00:00.000Z"
   },
   {
     "guests": ["Christina Sommers"],
@@ -8475,7 +8475,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christina Sommers is an author and former philosophy professor known for her writings about feminism in contemporary American culture.",
-    "date": "November 18, 2015"
+    "date": "2015-11-18T05:00:00.000Z"
   },
   {
     "guests": ["Dana White", "Tony Hinchcliffe"],
@@ -8484,7 +8484,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dana White is a businessman, entrepreneur, and the president of the UFC. Tony Hinchcliffe is a comedian, writer, and actor. He also hosts his own podcast called “Kill Tony” with Redban, and it’s available on iTunes and at http://Deathsquad.tv",
-    "date": "November 16, 2015"
+    "date": "2015-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -8493,7 +8493,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a comedian, writer, and actor. He also hosts his own podcast called “Kill Tony” with Redban, and it’s available on iTunes and at http://Deathsquad.tv",
-    "date": "November 13, 2015"
+    "date": "2015-11-13T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -8502,7 +8502,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is a jiujitsu black belt, music producer, and author. He also hosts his own podcast called Eddie Bravo Radio.",
-    "date": "November 11, 2015"
+    "date": "2015-11-11T05:00:00.000Z"
   },
   {
     "guests": ["Tait Fletcher", "Andy Stumpf"],
@@ -8511,7 +8511,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tait Fletcher is an actor, stuntman, entrepreneur, and jiu jitsu black belt. Andy Stumpf is a retired Navy SEAL and is currently a wingsuit world record holder.",
-    "date": "November 10, 2015"
+    "date": "2015-11-10T05:00:00.000Z"
   },
   {
     "guests": ["Josh Olin"],
@@ -8520,7 +8520,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Olin is currently Vice President of Communications at 3D Realms, a video game publisher/developer. He also previously worked as the community manager for various games, including Call of Duty & League of Legends.",
-    "date": "November 4, 2015"
+    "date": "2015-11-04T05:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -8529,7 +8529,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller \"Sex At Dawn\"",
-    "date": "November 3, 2015"
+    "date": "2015-11-03T05:00:00.000Z"
   },
   {
     "guests": ["Steve-O"],
@@ -8538,7 +8538,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality. He is taping his comedy special for Showtime on November 21 in Austin, TX, tickets are available at http://steveo.com",
-    "date": "November 3, 2015"
+    "date": "2015-11-03T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -8547,7 +8547,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, professor, and martial artist. His books include \"Create Your Own Religion\" and \"On the Warrior's Path\" and his new podcast called \"History on Fire\" is available on iTunes.",
-    "date": "October 30, 2015"
+    "date": "2015-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Remi Warren"],
@@ -8556,7 +8556,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Remi Warren is a hunter, adventurer, and videographer. His show \"Apex Predator\" is on the Outdoor Channel and available at http://apexpredator.tv",
-    "date": "October 29, 2015"
+    "date": "2015-10-29T04:00:00.000Z"
   },
   {
     "guests": ["John Wayne Parr"],
@@ -8565,7 +8565,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Wayne Parr is an Australian middleweight kickboxer and boxer, fighting out of Boonchu Gym in Gold Coast, Queensland. He is a 10-time World Champion in Muay Thai and runner up in The Contender Asia.",
-    "date": "October 28, 2015"
+    "date": "2015-10-28T04:00:00.000Z"
   },
   {
     "guests": ["Dave Rubin"],
@@ -8574,7 +8574,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Rubin is an American stand-up comedian, talk show host, and television personality. He is the creator and host of political comedy talk show The Rubin Report, part of Ora TV and formerly of The Young Turks Network",
-    "date": "October 26, 2015"
+    "date": "2015-10-26T04:00:00.000Z"
   },
   {
     "guests": ["Wim Hof"],
@@ -8583,7 +8583,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Wim Hof is a Dutch world record holder, adventurer and daredevil, commonly nicknamed the Iceman for his ability to withstand extreme cold.",
-    "date": "October 21, 2015"
+    "date": "2015-10-21T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8592,7 +8592,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network.",
-    "date": "October 20, 2015"
+    "date": "2015-10-20T04:00:00.000Z"
   },
   {
     "guests": ["Gavin McInnes"],
@@ -8601,7 +8601,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gavin McInnes is a writer, creative director, actor, comedian, and co-founder of Vice Media. He also hosts his own show \"The Gavin McInnes Show\" available here -- https://www.anthonycumia.com/show/the-gavin-mcinnes-show/",
-    "date": "October 19, 2015"
+    "date": "2015-10-19T04:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -8610,7 +8610,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts MeatEater on the Sportsman Channel.",
-    "date": "October 15, 2015"
+    "date": "2015-10-15T04:00:00.000Z"
   },
   {
     "guests": ["Steven Crowder"],
@@ -8619,7 +8619,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Crowder is an actor, comedian and former contributor for the Fox News Channel. He currently runs his own website and also a podcast called \"Louder With Crowder\"",
-    "date": "October 14, 2015"
+    "date": "2015-10-14T04:00:00.000Z"
   },
   {
     "guests": ["Michael Dowd"],
@@ -8628,7 +8628,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Dowd is a former NYPD officer and current ethics consultant. \"The Seven Five\" is a critically acclaimed documentary made about his time as an officer and is available for download.",
-    "date": "October 13, 2015"
+    "date": "2015-10-13T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -8637,7 +8637,7 @@ module.exports = [
     "isMMA": false,
     "isFC": true,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "October 9, 2015"
+    "date": "2015-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub"],
@@ -8646,7 +8646,7 @@ module.exports = [
     "isMMA": false,
     "isFC": true,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called \"The Fighter & The Kid\" available on iTunes.",
-    "date": "October 9, 2015"
+    "date": "2015-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Tait Fletcher"],
@@ -8655,7 +8655,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tait Fletcher is an actor, stuntman, entrepreneur, and jiu jitsu black belt.",
-    "date": "October 6, 2015"
+    "date": "2015-10-06T04:00:00.000Z"
   },
   {
     "guests": ["Alonzo Bodden"],
@@ -8664,7 +8664,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alonzo Bodden is a stand up comedian and winner of Last Comic Standing Season 3. He also hosts his own podcast called \"Who's Paying Attention\" available on iTunes.",
-    "date": "October 5, 2015"
+    "date": "2015-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8673,7 +8673,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. http://deathsquad.tv",
-    "date": "October 1, 2015"
+    "date": "2015-10-01T04:00:00.000Z"
   },
   {
     "guests": ["Milo Yiannopoulos"],
@@ -8682,7 +8682,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Milo Yiannopoulos is a writer and broadcaster. He is a senior editor at Breitbart.com and a regular contributor to Sky News and the BBC.",
-    "date": "September 30, 2015"
+    "date": "2015-09-30T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey (Part 2)"],
@@ -8691,7 +8691,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA. They released a new album this summer called \"3\" and are currently touring all over -- http://honeyhoneyband.com/events",
-    "date": "September 28, 2015"
+    "date": "2015-09-28T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey (Part 1)"],
@@ -8700,16 +8700,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA. They released a new album this summer called \"3\" and are currently touring all over -- http://honeyhoneyband.com/events",
-    "date": "September 28, 2015"
+    "date": "2015-09-28T04:00:00.000Z"
   },
   {
     "guests": ["FC17"],
-    "title": "#FC17 - Fight Companion 17",
+    "title": "Fight Companion - September 26, 2015",
     "episode_id": 17,
     "isMMA": false,
     "isFC": true,
     "description": "FC17. Joe is joined by Brendan Schaub & Eddie Bravo to watch the fights on Sept....",
-    "date": "September 26, 2015"
+    "date": "2015-09-26T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Mark Gordon", "Andrew Marr"],
@@ -8718,7 +8718,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Mark Gordon is the Medical Director of Education at Access Medical Laboratory and is recognized as a top leader world wide in Interventional Endocrinology (Anti Aging Medicine). Andrew Marr is a former Green Beret and founder of the Warrior Angels Foundation",
-    "date": "September 25, 2015"
+    "date": "2015-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Donald Cerrone"],
@@ -8727,7 +8727,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Donald Cerrone is a professional mixed martial artist and former professional kickboxer currently competing in the UFC's lightweight division.",
-    "date": "September 22, 2015"
+    "date": "2015-09-22T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Carl Hart"],
@@ -8736,7 +8736,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Carl Hart, Ph.D., is an associate professor of psychology and psychiatry at Columbia University. He is known for his research in drug abuse and drug addiction. Hart was the first tenured African American professor of sciences at Columbia University.",
-    "date": "September 21, 2015"
+    "date": "2015-09-21T04:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan, PhD"],
@@ -8745,7 +8745,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller \"Sex At Dawn\"",
-    "date": "September 17, 2015"
+    "date": "2015-09-17T04:00:00.000Z"
   },
   {
     "guests": ["Lewis, from Unbox Therapy"],
@@ -8754,7 +8754,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Unbox Therapy is a YouTube channel \"where products get naked.\" Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy",
-    "date": "September 17, 2015"
+    "date": "2015-09-17T04:00:00.000Z"
   },
   {
     "guests": ["Sebastian Maniscalco"],
@@ -8763,7 +8763,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sebastian Maniscalco is a stand up comedian and he also host his own podcast with Pete Correale called \"The Pete and Sebastian Show\" available on iTunes.",
-    "date": "September 9, 2015"
+    "date": "2015-09-09T04:00:00.000Z"
   },
   {
     "guests": ["Jane McGonigal"],
@@ -8772,7 +8772,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jane McGonigal is a game designer and author who advocates the use of mobile and digital technology to channel positive attitudes and collaboration in a real world context. Her new book SUPERBETTER is available September 15, 2015.",
-    "date": "September 8, 2015"
+    "date": "2015-09-08T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -8781,7 +8781,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called \"Your Mom's House\"",
-    "date": "September 7, 2015"
+    "date": "2015-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Jay Leno"],
@@ -8790,7 +8790,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jay Leno is a comedian, actor, writer, producer, voice actor, and television host. He was the host of NBC's \"The Tonight Show with Jay Leno\" and currently hosts \"Jay Leno's Garage\" available on YouTube.",
-    "date": "September 3, 2015"
+    "date": "2015-09-03T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -8799,7 +8799,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "September 1, 2015"
+    "date": "2015-09-01T04:00:00.000Z"
   },
   {
     "guests": ["Ronda Rousey", "Edmond Tarverdyan"],
@@ -8808,7 +8808,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ronda Rousey is a mixed martial artist, judoka and actress. She is the first and current UFC Women's Bantamweight Champion,  as well as the last Strikeforce Women's Bantamweight Champion. Edmond Tarverdyan is an MMA and boxing coach and is also Ronda's head trainer.",
-    "date": "August 31, 2015"
+    "date": "2015-08-31T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -8817,7 +8817,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is an American journalist and former host of \"Breaking the Set\" for RT America. Check out her work at http://mediaroots.org",
-    "date": "August 25, 2015"
+    "date": "2015-08-25T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8826,7 +8826,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network. http://deathsquad.tv",
-    "date": "August 25, 2015"
+    "date": "2015-08-25T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -8835,16 +8835,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter. He recently returned from one of his many trips helping the Pygmy people of the Democratic Republic of the Congo. On August 28th, Justin is fighting in Bellator 141 to help raise more awareness.",
-    "date": "August 24, 2015"
+    "date": "2015-08-24T04:00:00.000Z"
   },
   {
     "guests": ["FC16"],
-    "title": "#FC16 - Fight Companion 16",
+    "title": "Fight Companion - August 23, 2015",
     "episode_id": 16,
     "isMMA": false,
     "isFC": true,
     "description": "FC16. Joe is joined by Aubrey Marcus, Brendan Schaub, Bryan Callen, Eddie Bravo, and Tait Fletcher...",
-    "date": "August 23, 2015"
+    "date": "2015-08-23T04:00:00.000Z"
   },
   {
     "guests": ["Jeff Ross"],
@@ -8853,7 +8853,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeff Ross is a comedian, writer, producer, and director also known as the \"Roastmaster General\" from his work on the Comedy Central Roasts. His latest special \"Jeff Ross Roasts Criminals: Live at Brazos County Jail\" is available now on iTunes or http://www.cc.com",
-    "date": "August 19, 2015"
+    "date": "2015-08-19T04:00:00.000Z"
   },
   {
     "guests": ["Jeff Novitzky"],
@@ -8862,7 +8862,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeff Novitzky is the VP of athlete health and performance for the UFC.",
-    "date": "August 18, 2015"
+    "date": "2015-08-18T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8871,7 +8871,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network.",
-    "date": "August 17, 2015"
+    "date": "2015-08-17T04:00:00.000Z"
   },
   {
     "guests": ["Ethan Nadelmann"],
@@ -8880,7 +8880,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ethan Nadelmann is the founder and executive director of the Drug Policy Alliance, a New York City-based non-profit organization working to end the War on Drugs.",
-    "date": "August 13, 2015"
+    "date": "2015-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Mark", "Chris Bell"],
@@ -8889,7 +8889,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Bell is an elite powerlifter and owner of Team Super Training Gym in Sacramento, CA. Chris Bell is a writer, director, and filmmaker known for the documentary \"Bigger, Stronger, Faster\" and his new documentary called \"Prescription Thugs\" premieres in the fall.",
-    "date": "August 12, 2015"
+    "date": "2015-08-12T04:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -8898,16 +8898,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of \"The Evolutionary Bases of Consumption\" and \"The Consuming Instinct\"",
-    "date": "August 11, 2015"
+    "date": "2015-08-11T04:00:00.000Z"
   },
   {
     "guests": ["FC15"],
-    "title": "#FC15 - Fight Companion 15",
+    "title": "Fight Companion - August 8, 2015",
     "episode_id": 15,
     "isMMA": false,
     "isFC": true,
     "description": "FC15. Joe is joined by Brendan Schaub, Bryan Callen, and Eddie Bravo to watch the fights on...",
-    "date": "August 8, 2015"
+    "date": "2015-08-08T04:00:00.000Z"
   },
   {
     "guests": ["Steven Hassan"],
@@ -8916,7 +8916,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Hassan is an American licensed mental health counselor who has written extensively on the subject of cults.",
-    "date": "August 7, 2015"
+    "date": "2015-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Barry Crimmins", "Bobcat Goldthwait"],
@@ -8925,7 +8925,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Call Me Lucky\" is a documentary about the life and traumatic childhood experiences of Boston stand up comedy legend Barry Crimmins that was directed by Bobcat Goldthwait. Limited release in theaters starts August 7, visit http://callmeluckymovie.com to find a screening.",
-    "date": "August 6, 2015"
+    "date": "2015-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Jonathan Ward"],
@@ -8934,7 +8934,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles.",
-    "date": "August 6, 2015"
+    "date": "2015-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -8943,7 +8943,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of HuffPost Live & We The People Live available on iTunes and Stitcher.",
-    "date": "August 3, 2015"
+    "date": "2015-08-03T04:00:00.000Z"
   },
   {
     "guests": ["Esther Ku"],
@@ -8952,7 +8952,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Esther Ku is a stand up comedian, and is also known from the MTV shows \"Girl Code\" and \"Wild 'N Out\"",
-    "date": "July 29, 2015"
+    "date": "2015-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Kirik Jenness", "Chris Palmquist"],
@@ -8961,7 +8961,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kirik Jenness & Chris Palmquist run the premiere martial arts website on the internet.",
-    "date": "July 28, 2015"
+    "date": "2015-07-28T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -8970,7 +8970,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian and the founder of the Deathsquad podcast network.",
-    "date": "July 27, 2015"
+    "date": "2015-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Nick DiPaolo", "Adam Lowery"],
@@ -8979,7 +8979,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick DiPaolo is a writer and stand up comedian. His latest special “Another Senseless Killing” is available now at http://www.nickdipaolo.com & on iTunes. Adam Lowery is a master of mental health and life transition specialist. More information about his work is available at http://www.adamlowery.com",
-    "date": "July 22, 2015"
+    "date": "2015-07-22T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -8988,7 +8988,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "July 21, 2015"
+    "date": "2015-07-21T04:00:00.000Z"
+  },
+  {
+    "guests": ["Brendan Schaub", "Bobby Lee", "Bryan Callen"],
+    "title": "Fight Companion - July 11, 2015",
+    "episode_id": 14,
+    "isMMA": false,
+    "isFC": true,
+    "description": "The Fighter & The Kid took over the Talking Monkey Studios to watch the fights with comedian Bobby Lee on July 11, 2015. http://www.tfatk.com",
+    "date": "2015-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -8997,7 +9006,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together they host \"The Fighter & The Kid\" podcast available on iTunes.",
-    "date": "July 9, 2015"
+    "date": "2015-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Michael A. Wood, Jr."],
@@ -9006,7 +9015,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael A. Wood, Jr. is a retired Baltimore police officer and veteran of the USMC. He recently made the news for  publicly speaking out against police brutality and has become a proponent of a new era of policing.",
-    "date": "July 8, 2015"
+    "date": "2015-07-08T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -9015,7 +9024,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”",
-    "date": "July 7, 2015"
+    "date": "2015-07-07T04:00:00.000Z"
   },
   {
     "guests": ["Jon Ronson"],
@@ -9024,7 +9033,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jon Ronson is a writer and documentary filmmaker whose works include the best-selling The Men Who Stare at Goats. His latest book  So You've Been Publicly Shamed is available to purchase now on Amazon.",
-    "date": "July 6, 2015"
+    "date": "2015-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Kurt Metzger"],
@@ -9033,7 +9042,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kurt Metzger is a comedian, actor and writer.  He also has a podcast called \"Race Wars\" he co-hosts with comedian Sherrod Small available for download via iTunes.",
-    "date": "July 1, 2015"
+    "date": "2015-07-01T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -9042,7 +9051,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "June 29, 2015"
+    "date": "2015-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -9051,7 +9060,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neal Brennan is a stand-up comedian, actor, writer, director and producer. He is known for co-creating and co-writing \"Chappelle's Show\" with Dave Chappelle.",
-    "date": "June 25, 2015"
+    "date": "2015-06-25T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura", "Christina Pazsitzky"],
@@ -9060,7 +9069,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura & Christina Pazsitzky are stand-up comedians, and together host their own podcast called \"Your Mom's House\" http://www.yourmomshousepodcast.com",
-    "date": "June 23, 2015"
+    "date": "2015-06-23T04:00:00.000Z"
   },
   {
     "guests": ["Dominic Monaghan"],
@@ -9069,16 +9078,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dominic Monaghan is an English actor, known for his role in \"The Lord of the Rings\" trilogy and on the tv show \"LOST\" He also has a wildlife documentary series called \"Wild Things with Dominic Monaghan\" which airs on the Travel Channel.",
-    "date": "June 22, 2015"
+    "date": "2015-06-22T04:00:00.000Z"
   },
   {
     "guests": ["FC13"],
-    "title": "#FC13 - Fight Companion 13",
+    "title": "Fight Companion - June 20, 2015",
     "episode_id": 13,
     "isMMA": false,
     "isFC": true,
     "description": "FC13. Joe is joined by Brendan Schaub, Bryan Callen, and Tony Hinchcliffe to watch the fights...",
-    "date": "June 20, 2015"
+    "date": "2015-06-20T04:00:00.000Z"
   },
   {
     "guests": ["Vinny Shoreman"],
@@ -9087,7 +9096,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Vinny Shoreman is a mind coach and kickboxing & muay thai commentator and coach.",
-    "date": "June 18, 2015"
+    "date": "2015-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Rutledge Wood"],
@@ -9096,7 +9105,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rutledge Wood is one of the hosts of Top Gear on History Channel. He also works as a reporter for NBCSports & NASCAR on NBC.",
-    "date": "June 17, 2015"
+    "date": "2015-06-17T04:00:00.000Z"
   },
   {
     "guests": ["Jim Florentine"],
@@ -9105,7 +9114,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Florentine is a comedian known for hosting That Metal Show on VH1 as well as his own podcast called \"Comedy Metal Midgets\" available for download via iTunes & Stitcher.",
-    "date": "June 15, 2015"
+    "date": "2015-06-15T04:00:00.000Z"
   },
   {
     "guests": ["Dean Delray"],
@@ -9114,7 +9123,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dean Delray is a stand up comedian. He has his own podcast called \"Let There Be Talk\" available on iTunes & Stitcher.",
-    "date": "June 11, 2015"
+    "date": "2015-06-11T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -9123,7 +9132,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "June 10, 2015"
+    "date": "2015-06-10T04:00:00.000Z"
   },
   {
     "guests": ["Corey Knowlton"],
@@ -9132,7 +9141,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Corey Knowlton is an international hunting expert, known recently for winning a $350,000 auction to kill a black rhino in Namibia. He is also known for working with hunter Jim Shockey on television shows \"The Professionals\" and \"Uncharted\"",
-    "date": "June 8, 2015"
+    "date": "2015-06-08T04:00:00.000Z"
   },
   {
     "guests": ["CAR2"],
@@ -9141,7 +9150,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "CAR2. Joe and Cameron Hanes recorded a podcast in a car while returning from a...",
-    "date": "June 7, 2015"
+    "date": "2015-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -9150,7 +9159,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "June 6, 2015"
+    "date": "2015-06-06T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Folta"],
@@ -9159,7 +9168,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Folta is a land-grant scientist exploring ways to make better food with less input, also learning and teaching how to effectively communicate science to the public. He is also a professor in and chairman of the Horticultural Sciences Department at the University of Florida, Gainesville.",
-    "date": "June 4, 2015"
+    "date": "2015-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Rich Vos"],
@@ -9168,7 +9177,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rich Vos is a stand up comedian. He and his wife, Bonnie McFarlane, have a documentary \"Women Aren't Funny\" available now on iTunes.",
-    "date": "May 28, 2015"
+    "date": "2015-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Natasha Leggero"],
@@ -9177,7 +9186,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Natasha Leggero is a comedian, known for her appearances on the Comedy Central Roasts of James Franco & Justin Bieber. Her new show \"Another Period\" premieres on Comedy Central June 23rd.",
-    "date": "May 27, 2015"
+    "date": "2015-05-27T04:00:00.000Z"
   },
   {
     "guests": ["Ricky Schroder"],
@@ -9186,7 +9195,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ricky Schroder is an actor and film director. He debuted in the 1979 hit film The Champ, going on to become a child star on the sitcom Silver Spoons. His latest work, a docu-series called \"The Fighting Season\" can be seen on DirecTV or downloaded on iTunes now.",
-    "date": "May 25, 2015"
+    "date": "2015-05-25T04:00:00.000Z"
   },
   {
     "guests": ["Jordan Gilbert (c9n0thing)"],
@@ -9195,7 +9204,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jordan Gilbert is a professional gamer better known as \"c9n0thing\" on the internet. He is best known for playing Counter Strike: Global Offensive and can be seen streaming his gameplay at http://www.twitch.tv/n0thingTV",
-    "date": "May 21, 2015"
+    "date": "2015-05-21T04:00:00.000Z"
   },
   {
     "guests": ["Nick Curson"],
@@ -9204,7 +9213,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Curson is a strength and conditioning coach known for working with UFC World Champion Rafael Dos Anjos and Russian boxer Ruslan Provodnikov.",
-    "date": "May 20, 2015"
+    "date": "2015-05-20T04:00:00.000Z"
   },
   {
     "guests": ["Jonathan Gottschall"],
@@ -9213,16 +9222,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jonathan Gottschall is an American literary scholar specializing in literature and evolution. He teaches at Washington and Jefferson College in Pennsylvania and his latest book, The Professor in the Cage, is available now.",
-    "date": "May 18, 2015"
+    "date": "2015-05-18T04:00:00.000Z"
   },
   {
     "guests": ["FC12"],
-    "title": "#FC12 - Fight Companion 12",
+    "title": "Fight Companion - May 16, 2015",
     "episode_id": 12,
     "isMMA": false,
     "isFC": true,
     "description": "FC12.  Joe is joined by Aubrey Marcus, Eddie Bravo & Brendan Schaub to watch the fights on...",
-    "date": "May 16, 2015"
+    "date": "2015-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Adam Scorgie"],
@@ -9231,7 +9240,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Scorgie is an independent filmmaker, most commonly known for his work on The Culture High, The Union: The Business Behind Getting High & Ice Guardians.",
-    "date": "May 14, 2015"
+    "date": "2015-05-14T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -9240,7 +9249,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called \"Dom Irrera Live from The Laugh Factory.\"",
-    "date": "May 13, 2015"
+    "date": "2015-05-13T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Dan Engle", "Aubrey Marcus"],
@@ -9249,7 +9258,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Dan Engle, MD is a practicing psychiatrist, board certified in psychiatry and neurology. Aubrey Marcus is writer, entrepreneur, and adventurer.",
-    "date": "May 11, 2015"
+    "date": "2015-05-11T04:00:00.000Z"
   },
   {
     "guests": ["Joe Schilling"],
@@ -9258,7 +9267,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Schilling is an American Muay Thai kickboxer and MMA fighter who competes in the super middleweight and light heavyweight divisions.",
-    "date": "May 7, 2015"
+    "date": "2015-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Brad Williams"],
@@ -9267,7 +9276,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brad Williams is an actor and stand-up comedian. Brad has a new special airing May 8 on Showtime called \"Brad Williams: Fun Size\" and he also hosts his own podcast called \"About Last Night\" available on iTunes.",
-    "date": "May 6, 2015"
+    "date": "2015-05-06T04:00:00.000Z"
   },
   {
     "guests": ["Big” Jay Oakerson"],
@@ -9276,7 +9285,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Big\" Jay Oakerson is a stand up comedian and he also hosts his own show \"Legion of Skanks Podcast\" available on iTunes.",
-    "date": "May 4, 2015"
+    "date": "2015-05-04T04:00:00.000Z"
   },
   {
     "guests": ["Rich Roll"],
@@ -9285,7 +9294,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rich Roll is a plantpowered wellness advocate, bestselling author, ultra-athlete and host of \"The Rich Roll Podcast\" available on iTunes.",
-    "date": "May 1, 2015"
+    "date": "2015-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -9294,7 +9303,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. His latest book \"Waking Up: A Guide to Spirituality without Religion\" is available now.",
-    "date": "April 29, 2015"
+    "date": "2015-04-29T04:00:00.000Z"
   },
   {
     "guests": ["Charles C. Johnson"],
@@ -9303,7 +9312,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Charles C. Johnson is an investigative journalist, author, and is the editor-in-chief and founder of GotNews.com. He was a contributor to the Daily Caller and the Blaze, and his work is frequently featured on Drudge Report.",
-    "date": "April 28, 2015"
+    "date": "2015-04-28T04:00:00.000Z"
   },
   {
     "guests": ["Greg Proops"],
@@ -9312,7 +9321,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Proops is a stand-up comedian, also well-known for his improv comedy on the show \"Whose Line is it Anyway?\" He currently hosts his own podcast called \"The Smartest Man In The World\" and has a new book available in May 2015 called \"The Smartest Book In The World\"",
-    "date": "April 27, 2015"
+    "date": "2015-04-27T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey de Grey"],
@@ -9321,7 +9330,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey de Grey is an English author and theoretician in the field of gerontology and the Chief Science Officer of the SENS Research Foundation.",
-    "date": "April 22, 2015"
+    "date": "2015-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Remi Warren"],
@@ -9330,7 +9339,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Remi Warren is a hunter, adventurer, and videographer. His new show \"Apex Predator\" is on the Sportsman Channel and available at http://apexpredator.tv",
-    "date": "April 22, 2015"
+    "date": "2015-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -9339,7 +9348,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "April 20, 2015"
+    "date": "2015-04-20T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -9348,7 +9357,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is a stand-up comedian, radio personality, author, and actor. His latest special \"Contextually Inadequate\" debuts April 24 on Epix.",
-    "date": "April 15, 2015"
+    "date": "2015-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -9357,7 +9366,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is an American journalist and former host of \"Breaking the Set\" for RT America. Check out her work at http://mediaroots.org",
-    "date": "April 15, 2015"
+    "date": "2015-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Alex Winter"],
@@ -9366,16 +9375,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Winter is a filmmaker and actor known best as Bill S. Preston, Esquire, from the \"Bill & Ted's Excellent Adventure\" franchise. His latest film \"Deep Web\" tells \"the untold story of Bitcoin and The Silk Road\" and is available on May 31 on Epix.",
-    "date": "April 13, 2015"
+    "date": "2015-04-13T04:00:00.000Z"
   },
   {
     "guests": ["FC11"],
-    "title": "#FC11 - Fight Companion 11",
+    "title": "Fight Companion - April 11, 2015",
     "episode_id": 11,
     "isMMA": false,
     "isFC": true,
     "description": "FC11. Joe is joined by Eddie Bravo & Brendan Schaub to watch the fights on April 11,...",
-    "date": "April 11, 2015"
+    "date": "2015-04-11T04:00:00.000Z"
   },
   {
     "guests": ["Car"],
@@ -9384,7 +9393,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe and Bryan Callen recorded a podcast in a car while driving to a recent...",
-    "date": "April 10, 2015"
+    "date": "2015-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Les Stroud"],
@@ -9393,7 +9402,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Les Stroud is a Canadian musician, filmmaker, and survival expert best known as the creator, writer, producer, director, cameraman and host of the television series Survivorman. New episodes of Surivorman begin airing on The Science Channel in April.",
-    "date": "April 3, 2015"
+    "date": "2015-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Sweden"],
@@ -9402,7 +9411,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe and Tony Hinchcliffe recorded a podcast a few weeks ago while in Sweden after...",
-    "date": "April 2, 2015"
+    "date": "2015-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -9411,7 +9420,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Barnett is an MMA fighter, currently fighting in the UFC Heavyweight division.",
-    "date": "March 27, 2015"
+    "date": "2015-03-27T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -9420,7 +9429,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”.",
-    "date": "March 24, 2015"
+    "date": "2015-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Hill"],
@@ -9429,7 +9438,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Hill, PhD, is a lecturer, scientist, explorer, and also the lead neuroscientist at TruBrain.",
-    "date": "March 24, 2015"
+    "date": "2015-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Garry Tonon", "Eddie Bravo"],
@@ -9438,7 +9447,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Garry Tonon is a World Champion jiu jitsu black belt. Eddie Bravo is a jiujitsu black belt, music producer, and author. He also hosts his own podcast called Eddie Bravo Radio. Garry will be competeing at Eddie Bravo Invitational: EBI3 on March 22, 2015 with more info & PPV access available @ www.eddiebravoinvitational.com",
-    "date": "March 21, 2015"
+    "date": "2015-03-21T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -9447,7 +9456,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”",
-    "date": "March 18, 2015"
+    "date": "2015-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Trevor Moore"],
@@ -9456,7 +9465,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Trevor Moore is a actor, comedian, writer, director, producer and musician, best known as the founding member of the comedy troupe The Whitest Kids U' Know. His latest special \"High on Church\" is available now at trevormoore.comedydirect.com",
-    "date": "March 17, 2015"
+    "date": "2015-03-17T04:00:00.000Z"
   },
   {
     "guests": ["Steve Maxwell"],
@@ -9465,7 +9474,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Maxwell is an American fitness coach, physical educator, and Brazilian Jiu-Jitsu instructor. He was named one of the top 100 trainers in the USA by Men’s Journal.",
-    "date": "March 16, 2015"
+    "date": "2015-03-16T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -9474,7 +9483,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called \"Your Mom's House\" http://www.yourmomshousepodcast.com",
-    "date": "March 10, 2015"
+    "date": "2015-03-10T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -9483,7 +9492,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and hosts his own podcasts “Ari Shaffir’s Skeptic Tank.” He also has a special premiering on Comedy Central, March 13th, 2015 at 11:59pm called \"Passive Aggressive\" - Available now at arishaffir.com",
-    "date": "March 9, 2015"
+    "date": "2015-03-09T04:00:00.000Z"
   },
   {
     "guests": ["Adam Carolla"],
@@ -9492,7 +9501,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Carolla is a comedian, radio personality, television host and actor. Check out his new movie \"Road Hard\" at roadhardmovie.com",
-    "date": "March 9, 2015"
+    "date": "2015-03-09T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -9501,7 +9510,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website as well as links to his latest venture, Onnit Labs.",
-    "date": "March 7, 2015"
+    "date": "2015-03-07T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -9510,7 +9519,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his new book \"Life of the Party\" on Amazon and his podcast \"The Bertcast\" on Stitcher & iTunes.",
-    "date": "March 4, 2015"
+    "date": "2015-03-04T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen", "Brendan Schaub"],
@@ -9519,7 +9528,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian. Brendan Schaub is a mixed martial artist and also a former college & pro football player. Together they host \"The Fighter & The Kid\" podcast available on iTunes.",
-    "date": "March 3, 2015"
+    "date": "2015-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Artie Lange"],
@@ -9528,7 +9537,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Artie Lange is an actor, writer, comedian, radio personality, and author. He recently started his own podcast available at ArtieQuitter.com",
-    "date": "February 25, 2015"
+    "date": "2015-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Brian Regan"],
@@ -9537,7 +9546,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Regan is one of the top stand-up comedians working today, find him touring all over the country at BrianRegan.com",
-    "date": "February 25, 2015"
+    "date": "2015-02-25T05:00:00.000Z"
   },
   {
     "guests": ["John Wayne Parr"],
@@ -9546,16 +9555,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Wayne Parr is an Australian middleweight kickboxer and boxer, fighting out of Boonchu Gym in Gold Coast, Queensland. He is a 10-time World Champion in Muay Thai and runner up in The Contender Asia.",
-    "date": "February 23, 2015"
+    "date": "2015-02-23T05:00:00.000Z"
   },
   {
     "guests": ["FC10"],
-    "title": "#FC10 - Fight Companion 10",
+    "title": "Fight Companion - February 22, 2015",
     "episode_id": 10,
     "isMMA": false,
     "isFC": true,
     "description": "FC10. Joe is joined by Eddie Bravo, John Wayne Parr, Brendan Schaub & Bryan Callen to...",
-    "date": "February 22, 2015"
+    "date": "2015-02-22T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -9564,7 +9573,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is a stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "February 19, 2015"
+    "date": "2015-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan, PhD"],
@@ -9573,7 +9582,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller \"Sex At Dawn\"",
-    "date": "February 19, 2015"
+    "date": "2015-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Ms. Pat"],
@@ -9582,16 +9591,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ms. Pat is a stand-up comedienne, and will have a story featured on an upcoming episode of \"This Is Not Happening\" on Comedy Central airing Thursday night at 12:30am.",
-    "date": "February 16, 2015"
+    "date": "2015-02-16T05:00:00.000Z"
   },
   {
     "guests": ["FC8"],
-    "title": "#FC9 - Fight Companion 9",
+    "title": "Fight Companion - February 15, 2015",
     "episode_id": 9,
     "isMMA": false,
     "isFC": true,
     "description": "FC9. Joe is joined by Eddie Bravo, Brendan Schaub, Tait Fletcher, Ben Saunders, and Justin Milos to...",
-    "date": "February 15, 2015"
+    "date": "2015-02-15T05:00:00.000Z"
   },
   {
     "guests": ["Billy Corben"],
@@ -9600,7 +9609,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Billy Corben is a documentary producer and director, best known for his films \"Cocaine Cowboys \" & \"Cocaine Cowboys 2\" and also \"Broke\" & \"The U\" for ESPN's 30 for 30 series. His latest film \"Dawg Fight\" will be available online on March 12, 2015. http://www.dawg-fight.com",
-    "date": "February 11, 2015"
+    "date": "2015-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Josh McDermitt"],
@@ -9609,7 +9618,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh McDermitt is an actor and comedian. He is best known for playing Eugene Porter on AMC's The Walking Dead.",
-    "date": "February 10, 2015"
+    "date": "2015-02-10T05:00:00.000Z"
   },
   {
     "guests": ["Brian Cox"],
@@ -9618,7 +9627,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Professor Brian Cox is an English physicist and Professor of Particle Physics in the School of Physics and Astronomy at the University of Manchester in the UK. His BBC science comedy show/podcast \"Infinite Monkey Cage\" with comedian Robin Ince will be touring the US during the spring of 2015.",
-    "date": "February 9, 2015"
+    "date": "2015-02-09T05:00:00.000Z"
   },
   {
     "guests": ["Tom Papa"],
@@ -9627,7 +9636,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Papa is a comedian, actor, writer and television/radio host. Tom has a great story premiering on \"This Is Not Happening\" February 5 at 12:30am on Comedy Central.",
-    "date": "February 4, 2015"
+    "date": "2015-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Ali Rizvi"],
@@ -9636,7 +9645,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ali Rizvi is a writer, musician, physician, currently working on his first book, The Atheist Muslim.",
-    "date": "February 4, 2015"
+    "date": "2015-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Joe Schilling"],
@@ -9645,7 +9654,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Schilling is an American Muay Thai kickboxer who competes in the super middleweight and light heavyweight divisions. Joe's upcoming fight is February 6th at Glory 19 on Spike TV.",
-    "date": "February 3, 2015"
+    "date": "2015-02-03T05:00:00.000Z"
   },
   {
     "guests": ["Randall Carlson"],
@@ -9654,7 +9663,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar.",
-    "date": "February 2, 2015"
+    "date": "2015-02-02T05:00:00.000Z"
   },
   {
     "guests": ["Barry Rothbart"],
@@ -9663,7 +9672,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Barry Rothbart is a comedian, actor and writer. Check him out soon when his story airs on Comedy Central's \"This Is Not Happening\" hosted by Ari Shaffir on February 12 at 12:30am.",
-    "date": "January 28, 2015"
+    "date": "2015-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Huang", "Randall Park"],
@@ -9672,7 +9681,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Huang is a restaurateur, food personality, sandwich hack, and former lawyer. He is also the owner of Baohaus in NYC. His book \"Fresh Off The Boat\" is the inspiration for a new sitcom of the same name starring Randall Park airing on ABC starting in February.",
-    "date": "January 26, 2015"
+    "date": "2015-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -9681,7 +9690,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter, formerly on the Ultimate Fighter.  He recently returned from a 1-year mission helping the Pygmy people of the Democratic Republic of the Congo.  Learn more about his project here: FightFortheForgotten.com",
-    "date": "January 26, 2015"
+    "date": "2015-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir", "Duncan Trussell"],
@@ -9690,7 +9699,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and hosts his own podcasts “Ari Shaffir’s Skeptic Tank.” He also has a new season of \"This Is Not Happening\" premiering on Comedy Central, January 22 at 12:30am. Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\".",
-    "date": "January 20, 2015"
+    "date": "2015-01-20T05:00:00.000Z"
   },
   {
     "guests": ["Katy Bowman"],
@@ -9699,7 +9708,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Katy Bowman is a biomechanist, heavy on the bio, and author of books on natural movement & human development, solving diseases of captivity.  http://www.katysays.com/",
-    "date": "January 14, 2015"
+    "date": "2015-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -9708,7 +9717,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and hosts his own podcasts “Ari Shaffir’s Skeptic Tank.” He also has a new special premiering on Comedy Central, January 16th, 2015 at 11:59pm called \"Ari Shaffir: Paid Regular\" http://arishaffir.com",
-    "date": "January 13, 2015"
+    "date": "2015-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -9717,7 +9726,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE.",
-    "date": "January 13, 2015"
+    "date": "2015-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -9726,7 +9735,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey “CoCo” Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called “The Church of What’s Happening Now”",
-    "date": "January 12, 2015"
+    "date": "2015-01-12T05:00:00.000Z"
   },
   {
     "guests": ["Magnus Walker", "Alex Ross"],
@@ -9735,7 +9744,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Magnus Walker is a driver, a famous collector and builder of Porsches. He's in a short documentary called \"Urban Outlaw\" featuring his cars and his obsession with Porsches. Alex Ross is the owner, and co-founder of Sharkwerks, which creates dialed-in, tweaked-out modern Porsches for Porsche enthusiasts.",
-    "date": "January 10, 2015"
+    "date": "2015-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Brian Stann"],
@@ -9744,7 +9753,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Stann is a retired mixed martial artist and U.S. Marine, who competed as a Middleweight in the UFC. He is a former WEC Light Heavyweight Champion and is currently an analyst & commentator for the UFC.",
-    "date": "January 8, 2015"
+    "date": "2015-01-08T05:00:00.000Z"
   },
   {
     "guests": ["Nick DiPaolo"],
@@ -9753,7 +9762,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick DiPaolo is a writer and stand up comedian. His latest special \"Another Senseless Killing\" is available now at http://www.nickdipaolo.com & on iTunes.",
-    "date": "January 6, 2015"
+    "date": "2015-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Russell Peters"],
@@ -9762,7 +9771,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Russell Peters is an actor and standup comedian, currently touring internationally all over the world.",
-    "date": "December 30, 2014"
+    "date": "2014-12-30T05:00:00.000Z"
   },
   {
     "guests": ["Josh Fox"],
@@ -9771,7 +9780,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Fox is a film director and environmental activist, best known for his Oscar-nominated documentary, Gasland & Gasland II.",
-    "date": "December 29, 2014"
+    "date": "2014-12-29T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -9780,7 +9789,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his new book \"Life of the Party\" on Amazon and his podcast \"The Bertcast\" on Stitcher & iTunes.",
-    "date": "December 23, 2014"
+    "date": "2014-12-23T05:00:00.000Z"
   },
   {
     "guests": ["Kevin Pereira"],
@@ -9789,7 +9798,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kevin Pereira is a game show host, TV personality, and podcast creator. Check out the \"Pointless Podcast\" available on Stitcher & iTunes.",
-    "date": "December 22, 2014"
+    "date": "2014-12-22T05:00:00.000Z"
   },
   {
     "guests": ["Ana Kasparian"],
@@ -9798,7 +9807,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ana Kasparian is a producer and co-host of \"The Young Turks\" and also teaches journalism at Cal State Northridge.",
-    "date": "December 19, 2014"
+    "date": "2014-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Chris Harris"],
@@ -9807,7 +9816,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Harris is an automotive enthusiast. He \"writes and does low-rent videos about cars\" that are available on YouTube at http://bit.ly/1yXoiuh",
-    "date": "December 18, 2014"
+    "date": "2014-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Philip DeFranco"],
@@ -9816,7 +9825,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Philip DeFranco is a popular YouTube and internet personality. He hosts \"The Philip DeFranco Show\" where news stories are discussed every Monday-Thursday at youtube.com/sxephil",
-    "date": "December 18, 2014"
+    "date": "2014-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Ron Finely"],
@@ -9825,16 +9834,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ron Finely is a \"guerrilla gardener\" from South Central LA. After giving his first TED Talk in 2012, Ron has been spreading his \"vision for community gardening and rejuvenation\" all over the world.",
-    "date": "December 17, 2014"
+    "date": "2014-12-17T05:00:00.000Z"
   },
   {
     "guests": ["FC8"],
-    "title": "#FC8 - Fight Companion 8",
+    "title": "Fight Companion - December 16, 2014",
     "episode_id": 8,
     "isMMA": false,
     "isFC": true,
     "description": "FC8. Joe is joined by Eddie Bravo, Brendan Schaub & Bryan Callen to watch a...",
-    "date": "December 16, 2014"
+    "date": "2014-12-16T05:00:00.000Z"
   },
   {
     "guests": [
@@ -9847,7 +9856,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kill Tony is a podcast on the Deathsquad.tv network. A show created by Tony Hinchcliffe and Redban, where young comedians do 1-minute of stand up to be judged by weekly guests. Every episode also features two regulars doing a brand new minute each week, Kimberly Congdon and Sara Weinshenk.",
-    "date": "December 11, 2014"
+    "date": "2014-12-11T05:00:00.000Z"
   },
   {
     "guests": ["John Heffron"],
@@ -9856,7 +9865,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Heffron is a stand-up comedian and a past winner of \"Last Comic Standing\" on NBC.",
-    "date": "December 9, 2014"
+    "date": "2014-12-09T05:00:00.000Z"
   },
   {
     "guests": ["Zoltan Istvan"],
@@ -9865,7 +9874,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Zoltan Istvan is a futurist, philosopher, journalist, author of #1 best-selling novel\" The Transhumanist Wager\" & 2016 US Presidential candidate for the Transhumanist Party.",
-    "date": "December 8, 2014"
+    "date": "2014-12-08T05:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -9874,7 +9883,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is a standup comedian and also hosts his own podcast called \"The Monday Morning Podcast\" His latest special \"I'm Sorry You Feel That Way\" premieres on Netflix on December 5th, 2014.",
-    "date": "December 3, 2014"
+    "date": "2014-12-03T05:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -9883,7 +9892,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Seaman is a journalist and former Congressional candidate. He also hosts his own podcast called \"The David Seaman Hour\"",
-    "date": "December 2, 2014"
+    "date": "2014-12-02T05:00:00.000Z"
   },
   {
     "guests": ["Andreas Antonopoulos"],
@@ -9892,7 +9901,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andreas Antonopoulos is a bitcoin entrepreneur, he also serves on the advisory boards of several bitcoin startups and serves as the Chief Security Officer of Blockchain.",
-    "date": "December 1, 2014"
+    "date": "2014-12-01T05:00:00.000Z"
   },
   {
     "guests": ["Lewis, from Unbox Therapy"],
@@ -9901,7 +9910,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Unbox Therapy is a YouTube channel \"where products get naked.\" Lewis does in-depth reviews of new tech products releasing to the consumer market.",
-    "date": "November 26, 2014"
+    "date": "2014-11-26T05:00:00.000Z"
   },
   {
     "guests": ["Rory MacDonald"],
@@ -9910,7 +9919,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rory MacDonald is a Canadian mixed martial artist currently signed with the UFC fighting in the Welterweight division. He is a former King of the Cage Lightweight Champion.",
-    "date": "November 25, 2014"
+    "date": "2014-11-25T05:00:00.000Z"
   },
   {
     "guests": ["Peter McGraw"],
@@ -9919,7 +9928,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter McGraw is an associate professor of Marketing and Psychology at the University of Colorado at Boulder. Along with journalist Joel Warner, they are responsible for \"The Humor Code\" - a bestselling book, blog & international research project. His research spans the fields of judgment and decision making, emotion, affect, and mood.",
-    "date": "November 21, 2014"
+    "date": "2014-11-21T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -9928,7 +9937,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\".",
-    "date": "November 18, 2014"
+    "date": "2014-11-18T05:00:00.000Z"
   },
   {
     "guests": ["Jim Shockey"],
@@ -9937,7 +9946,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Shockey is an outdoor writer, a professional big game outfitter and television producer for many hunting shows. Jim has hunted in more than forty countries and has taken nearly three-hundred known species. Check out the new season of \"Uncharted\" airing in 2015 on the Outdoor Channel.",
-    "date": "November 17, 2014"
+    "date": "2014-11-17T05:00:00.000Z"
   },
   {
     "guests": ["Matt Fulchiron"],
@@ -9946,7 +9955,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Fulchiron is a stand-up comedian and also hosts his own podcast called \"The Full Charge Power Hour\"",
-    "date": "November 13, 2014"
+    "date": "2014-11-13T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Mark Gordon", "Matthew Gosney", "Jason Hall"],
@@ -9955,7 +9964,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Mark Gordon is the Medical Director of Education at Access Medical Laboratory and is recognized as a top leader world wide in Interventional Endocrinology (Anti Aging Medicine). Matthew Gosney is a former Navy SEAL and current patient of Dr. Gordon's. Jason Hall is a screenwriter, his new movie \"American Sniper\" stars Bradley Cooper and is directed by Clint Eastwood releases this winter.",
-    "date": "November 12, 2014"
+    "date": "2014-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -9964,7 +9973,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, professor, and martial artist. His books include \"Create Your Own Religion\" and \"On the Warrior's Path\" and his podcast called The Drunken Taoist is available on iTunes.",
-    "date": "November 11, 2014"
+    "date": "2014-11-11T05:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -9973,7 +9982,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called \"Dom Irrera Live from The Laugh Factory.\"",
-    "date": "November 10, 2014"
+    "date": "2014-11-10T05:00:00.000Z"
   },
   {
     "guests": ["Josh Zepps"],
@@ -9982,7 +9991,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of HuffPost Live & Point of Inquiry, \"a podcast for reason & science.\"",
-    "date": "November 10, 2014"
+    "date": "2014-11-10T05:00:00.000Z"
   },
   {
     "guests": ["Ryan Parsons"],
@@ -9991,7 +10000,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ryan Parsons is the owner of Radius Sports Artist Management. A full-service talent management company representing some of the world’s most elite athletes.",
-    "date": "October 30, 2014"
+    "date": "2014-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Joe Perry"],
@@ -10000,7 +10009,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Perry is a guitar player, singer, songwriter, and co-founder of Aerosmith.",
-    "date": "October 28, 2014"
+    "date": "2014-10-28T04:00:00.000Z"
   },
   {
     "guests": ["DR. RHONDA PATRICK"],
@@ -10009,16 +10018,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "October 27, 2014"
+    "date": "2014-10-27T04:00:00.000Z"
   },
   {
     "guests": ["FC7"],
-    "title": "#FC7 - Fight Companion 7",
+    "title": "Fight Companion - October 25, 2014",
     "episode_id": 7,
     "isMMA": false,
     "isFC": true,
     "description": "FC7. Joe is joined by Eddie Bravo, Brendan Schaub, Ian McCall, Kareem Masarani, Aubrey Marcus, and...",
-    "date": "October 25, 2014"
+    "date": "2014-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -10027,7 +10036,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, \"training intensively each and every day to become the Ultimate Predator.\"",
-    "date": "October 24, 2014"
+    "date": "2014-10-24T04:00:00.000Z"
   },
   {
     "guests": ["Sue Aikens"],
@@ -10036,7 +10045,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sue Aikens is a woman living in Kavik, 197 miles North of the Arctic Circle in extreme isolation. Her motto is \"If it hurts, don't think about it.\" Check out on the new season of \"Life Below Zero\" on NatGeo November 4th.",
-    "date": "October 23, 2014"
+    "date": "2014-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Trevor Valle"],
@@ -10045,7 +10054,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Trevor Valle is paleontologist and the host of 'Mammoth Unearthed' debuting on October 26th on the NatGeo Channel.",
-    "date": "October 23, 2014"
+    "date": "2014-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Sturgill Simpson"],
@@ -10054,7 +10063,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sturgill Simpson is an American country music singer-songwriter. He has released two albums independently, \"High Top Mountain\" & \"Metamodern Sounds in Country Music\"",
-    "date": "October 20, 2014"
+    "date": "2014-10-20T04:00:00.000Z"
   },
   {
     "guests": ["David Choe"],
@@ -10063,7 +10072,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA.  Check out his podcast at DVDASA.com",
-    "date": "October 16, 2014"
+    "date": "2014-10-16T04:00:00.000Z"
   },
   {
     "guests": ["Paul Stanley"],
@@ -10072,7 +10081,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Paul Stanley is an American hard rock guitarist, singer, and painter, best known for being the frontman of the rock band Kiss.",
-    "date": "October 15, 2014"
+    "date": "2014-10-15T04:00:00.000Z"
   },
   {
     "guests": ["Bruce Damer"],
@@ -10081,7 +10090,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Bruce Damer is a polymath scientist, designer, author and general explorer of liminal realms. He has worked for over a decade in simulation and design of space missions for NASA, develops biochemical models for the origin of life at UC Santa Cruz and collects vintage computers and their history in his DigiBarn computer museum. He has a practice exploring beyond the edges of consciousness to bring back stuff that is meaningful for humanity and the Gaian prerogative.  http://www.damer.com",
-    "date": "October 14, 2014"
+    "date": "2014-10-14T04:00:00.000Z"
   },
   {
     "guests": ["Anthony Cumia"],
@@ -10090,7 +10099,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Anthony Cumia is an \"exiled radio host\" formerly of The O&A Show, now hosting The Anthony Cumia Show available at AnthonyCumia.com",
-    "date": "October 10, 2014"
+    "date": "2014-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Keith Weber"],
@@ -10099,7 +10108,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Keith Weber is the creator of \"Extreme Kettlebell Cardio\" DVDs, a physiotherapist, triathlete, and \"physical culturist.\"",
-    "date": "October 10, 2014"
+    "date": "2014-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey"],
@@ -10108,7 +10117,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA. They are currently recording a new album and can be seen touring all over the world.",
-    "date": "October 10, 2014"
+    "date": "2014-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -10117,7 +10126,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "October 7, 2014"
+    "date": "2014-10-07T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -10126,7 +10135,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts \"The Fighter & The Kid\" podcast.",
-    "date": "September 30, 2014"
+    "date": "2014-09-30T04:00:00.000Z"
   },
   {
     "guests": ["Rory Albanese"],
@@ -10135,7 +10144,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rory Albanese is a stand-up comedian and former executive producer/writer for The Daily Show with Jon Stewart. He's currently working on the Sundance Channel's \"The Approval Matrix\" and next year look for him on \"Minority Report\" on Comedy Central.",
-    "date": "September 29, 2014"
+    "date": "2014-09-29T04:00:00.000Z"
   },
   {
     "guests": ["W. Kamau Bell"],
@@ -10144,7 +10153,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "W. Kamau Bell is a stand-up comic and former host of the FXX television series \"Totally Biased with W. Kamau Bell\"",
-    "date": "September 24, 2014"
+    "date": "2014-09-24T04:00:00.000Z"
   },
   {
     "guests": ["Thaddeus Russell"],
@@ -10153,7 +10162,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Thaddeus Russell is an adjunct professor of American Studies at Occidental College, and also the author of \"A Renegade History of The United States\"",
-    "date": "September 23, 2014"
+    "date": "2014-09-23T04:00:00.000Z"
   },
   {
     "guests": ["Kid Cudi"],
@@ -10162,16 +10171,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scott Mescudi, aka Kid Cudi, is an American recording artist and actor from Cleveland, Ohio.",
-    "date": "September 22, 2014"
+    "date": "2014-09-22T04:00:00.000Z"
   },
   {
     "guests": ["FC6"],
-    "title": "#FC6 - Fight Companion 6",
+    "title": "Fight Companion - September 20, 2014",
     "episode_id": 6,
     "isMMA": false,
     "isFC": true,
     "description": "FC6. Joe is joined by Eddie Bravo and the hosts from “The Fighter & The Kid”...",
-    "date": "September 20, 2014"
+    "date": "2014-09-20T04:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock"],
@@ -10180,7 +10189,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & \"Entangled\" and also a new fiction book called \"War God\"",
-    "date": "September 18, 2014"
+    "date": "2014-09-18T04:00:00.000Z"
   },
   {
     "guests": ["Rupert Sheldrake"],
@@ -10189,7 +10198,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rupert Sheldrake is an author, lecturer, and researcher in the field of parapsychology, known for his proposed theory of morphic resonance.",
-    "date": "September 16, 2014"
+    "date": "2014-09-16T04:00:00.000Z"
   },
   {
     "guests": ["Big Jay Oakerson"],
@@ -10198,7 +10207,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Big Jay Oakerson is a stand up comedian and he also hosts his own show \"Legion of Skanks Podcast\" available on iTunes.",
-    "date": "September 15, 2014"
+    "date": "2014-09-15T04:00:00.000Z"
   },
   {
     "guests": ["Tim Burnett"],
@@ -10207,7 +10216,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Burnett is a hunter, adventurer, and videographer. He can be seen hunting all over the world on \"Solo Hunter\" on the Outdoor Channel.",
-    "date": "September 11, 2014"
+    "date": "2014-09-11T04:00:00.000Z"
   },
   {
     "guests": ["Joe DeRosa"],
@@ -10216,7 +10225,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe DeRosa is an American stand-up comedian, actor, producer, director, editor and writer. Look for his podcast available at JoeDeRosaComedy.com and also check out his new album \"Mistakes Were Made: The B-Sides out now on iTunes.",
-    "date": "September 10, 2014"
+    "date": "2014-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Mike Dolce"],
@@ -10225,7 +10234,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Dolce is a fitness trainer and was named the 2013 MMA Trainer of the Year. Check out his latest book \"3 Weeks To Shredded\" out now.",
-    "date": "September 8, 2014"
+    "date": "2014-09-08T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -10234,7 +10243,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcasts called \"Kill Tony\" with Redban, and it's available on iTunes and at http://Deathsquad.tv",
-    "date": "September 4, 2014"
+    "date": "2014-09-04T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -10243,7 +10252,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called \"Dom Irrera Live from The Laugh Factory.\"",
-    "date": "September 3, 2014"
+    "date": "2014-09-03T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -10252,7 +10261,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. His latest book \"Waking Up: A Guide to Spirituality without Religion\" is available now.",
-    "date": "September 2, 2014"
+    "date": "2014-09-02T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -10261,7 +10270,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "August 28, 2014"
+    "date": "2014-08-28T04:00:00.000Z"
   },
   {
     "guests": ["Mike Baker"],
@@ -10270,7 +10279,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm.",
-    "date": "August 27, 2014"
+    "date": "2014-08-27T04:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -10279,7 +10288,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts MeatEater on the Sportsman Channel.",
-    "date": "August 26, 2014"
+    "date": "2014-08-26T04:00:00.000Z"
   },
   {
     "guests": ["Cara Santa Maria"],
@@ -10288,7 +10297,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cara Santa Maria is a science communicator, writer, producer and television personality. Check out her podcast \"Talk Nerdy\" at her website http://carasantamaria.com",
-    "date": "August 25, 2014"
+    "date": "2014-08-25T04:00:00.000Z"
   },
   {
     "guests": ["Stefan Molyneux"],
@@ -10297,7 +10306,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Stefan Molyneux is a Canadian philosopher. He runs the #1 philosophy show on the internet, Freedomain Radio, and also runs a very popular YouTube channel.",
-    "date": "August 21, 2014"
+    "date": "2014-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Rich Vos"],
@@ -10306,7 +10315,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rich Vos is a stand up comedian. He and his wife, Bonnie McFarlane, have a new documentary \"Women Aren't Funny\" available on iTunes.",
-    "date": "August 20, 2014"
+    "date": "2014-08-20T04:00:00.000Z"
   },
   {
     "guests": ["Joe Quirk"],
@@ -10315,7 +10324,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joe Quirk is an speaker, author, and director of communications at the Seasteading Institute.",
-    "date": "August 18, 2014"
+    "date": "2014-08-18T04:00:00.000Z"
   },
   {
     "guests": ["Scroobius Pip"],
@@ -10324,7 +10333,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scroobius Pip is a UK spoken word poet and hip hop recording artist. Check out his latest release \"Live at Edinburgh Fringe\" available on iTunes.",
-    "date": "August 13, 2014"
+    "date": "2014-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Robin Black"],
@@ -10333,7 +10342,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robin Black is an MMA analyst and color commentator for Fight Network and was also the lead singer of Canadian Glam Rock band Robin Black & the Intergalactic Rock Stars.",
-    "date": "August 13, 2014"
+    "date": "2014-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Chris D’Elia"],
@@ -10342,7 +10351,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris D'Elia is a stand-up comic, actor, writer, and rapper. He is currently starring in \"Undateable\" on NBC.",
-    "date": "August 11, 2014"
+    "date": "2014-08-11T04:00:00.000Z"
   },
   {
     "guests": ["Shooter Jennings"],
@@ -10351,7 +10360,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shooter Jennings is a musician, radio host, record label president, and is also the son of country music legend Waylon Jennings.",
-    "date": "August 6, 2014"
+    "date": "2014-08-06T04:00:00.000Z"
   },
   {
     "guests": ["Nick Youssef"],
@@ -10360,7 +10369,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Youssef is a stand-up comedian, writer, and actor. Check out his new album 'STOP NOT OWNING THIS' available on iTunes now!",
-    "date": "August 5, 2014"
+    "date": "2014-08-05T04:00:00.000Z"
   },
   {
     "guests": ["Vince & Emily Horn, from Buddhist Geeks"],
@@ -10369,7 +10378,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Buddhist Geeks is a podcast, on-line magazine and annual conference with a primary focus on American Buddhism.",
-    "date": "August 4, 2014"
+    "date": "2014-08-04T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -10378,7 +10387,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is an American journalist and also host of \"Breaking the Set\" for RT America.",
-    "date": "August 2, 2014"
+    "date": "2014-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Michael Stevens, from VSauce"],
@@ -10387,7 +10396,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Michael Stevens created the YouTube channel VSauce, where \"mind-blowing facts & The Best of The Internet\" is shared.",
-    "date": "July 30, 2014"
+    "date": "2014-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Ms. Pat"],
@@ -10396,7 +10405,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ms. Pat is a stand-up comedienne.",
-    "date": "July 29, 2014"
+    "date": "2014-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Isaac Haxton"],
@@ -10405,7 +10414,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Isaac Haxton is a professional poker player and No-Limit Hold 'Em specialist.",
-    "date": "July 22, 2014"
+    "date": "2014-07-22T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -10414,7 +10423,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his new book “Life of the Party” on Amazon now!",
-    "date": "July 21, 2014"
+    "date": "2014-07-21T04:00:00.000Z"
   },
   {
     "guests": ["Rickson Gracie", "Eddie Bravo"],
@@ -10423,7 +10432,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rickson Gracie is a Brazilian 8th degree black and red belt in Gracie Jiu-Jitsu and a retired mixed martial artist. Eddie Bravo is a jiujitsu black belt, music producer, and author. He also hosts his own podcast called Eddie Bravo Radio.",
-    "date": "July 21, 2014"
+    "date": "2014-07-21T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -10432,16 +10441,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is a stand-up comedian, radio personality, author, and actor.",
-    "date": "July 17, 2014"
+    "date": "2014-07-17T04:00:00.000Z"
   },
   {
     "guests": ["FC5"],
-    "title": "#FC5 - Fight Companion 5",
+    "title": "Fight Companion - July 16, 2014",
     "episode_id": 5,
     "isMMA": false,
     "isFC": true,
     "description": "JREFC5. Joe is joined by Joey Diaz and the hosts from “The Fighter & The...",
-    "date": "July 16, 2014"
+    "date": "2014-07-16T04:00:00.000Z"
   },
   {
     "guests": ["CJ Werleman"],
@@ -10450,7 +10459,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "CJ Werleman is an Op-Ed Columnist for Salon/Alternet, also known for authoring the books 'Crucifying America' and 'God Hates You. Hate Him Back'",
-    "date": "July 16, 2014"
+    "date": "2014-07-16T04:00:00.000Z"
   },
   {
     "guests": ["Lewis, from Unbox Therapy"],
@@ -10459,7 +10468,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Unbox Therapy is a YouTube channel \"where products get naked.\" Lewis does in-depth reviews of new tech products releasing to the consumer market.",
-    "date": "July 15, 2014"
+    "date": "2014-07-15T04:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -10468,7 +10477,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Seaman is a journalist and former Congressional candidate. He also hosts his own podcast called \"The David Seaman Hour\"",
-    "date": "July 7, 2014"
+    "date": "2014-07-07T04:00:00.000Z"
   },
   {
     "guests": ["Gad Saad"],
@@ -10477,16 +10486,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of \"The Evolutionary Bases of Consumption\" and \"The Consuming Instinct\"",
-    "date": "July 7, 2014"
+    "date": "2014-07-07T04:00:00.000Z"
   },
   {
     "guests": ["FC4"],
-    "title": "#FC4 - Fight Companion 4",
+    "title": "Fight Companion - July 6, 2014",
     "episode_id": 4,
     "isMMA": false,
     "isFC": true,
     "description": "FC4. Brendan Schaub and Bryan Callen, of The Fighter & The Kid podcast, join Joe to...",
-    "date": "July 6, 2014"
+    "date": "2014-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Matt Fulchiron"],
@@ -10495,7 +10504,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Fulchiron is a stand-up comedian and also hosts his own podcast called \"The Full Charge Power Hour\"",
-    "date": "July 1, 2014"
+    "date": "2014-07-01T04:00:00.000Z"
   },
   {
     "guests": ["Crash, from Float Lab"],
@@ -10504,16 +10513,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Float Lab Technologies specializes in designing and manufacturing high-quality Floatation Chambers. A Float Lab floatation chamber provides a light- and sound-free environment.",
-    "date": "June 30, 2014"
+    "date": "2014-06-30T04:00:00.000Z"
   },
   {
     "guests": ["Jimmy Smith", "Ian McCall"],
-    "title": "#FC3 - Fight Companion 3",
+    "title": "Fight Companion - June 29, 2014",
     "episode_id": 3,
     "isMMA": false,
     "isFC": true,
     "description": "Jimmy Smith and Ian “Uncle Creepy” McCall join Joe to watch the fight on the evening of June 28, 2014.",
-    "date": "June 29, 2014"
+    "date": "2014-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Lewis, from Unbox Therapy"],
@@ -10522,7 +10531,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Unbox Therapy is a YouTube channel \"where products get naked.\" Lewis does in-depth reviews of new tech products releasing to the consumer market.",
-    "date": "June 27, 2014"
+    "date": "2014-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -10531,7 +10540,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Part 2) Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
-    "date": "June 27, 2014"
+    "date": "2014-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -10540,7 +10549,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Part 1) Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
-    "date": "June 27, 2014"
+    "date": "2014-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Duke Roufus"],
@@ -10549,7 +10558,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duke Roufus is a former kickboxer who is now one of the top trainers as head coach of the Roufusport competition team.",
-    "date": "June 19, 2014"
+    "date": "2014-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -10558,7 +10567,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \"The Church of What's Happening Now\"",
-    "date": "June 18, 2014"
+    "date": "2014-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Dan Savage"],
@@ -10567,7 +10576,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Savage is a gay American author, media pundit, journalist and newspaper editor. Savage writes the internationally syndicated relationship and sex advice column Savage Love.",
-    "date": "June 16, 2014"
+    "date": "2014-06-16T04:00:00.000Z"
   },
   {
     "guests": ["JRQE6"],
@@ -10576,7 +10585,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE6. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "June 12, 2014"
+    "date": "2014-06-12T04:00:00.000Z"
   },
   {
     "guests": ["Enson Inoue"],
@@ -10585,7 +10594,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Enson Inoue is a Japanese American mixed martial artist. Currently has a new book out called \"Live as a Man. Die as a Man. Become a Man. (The Way of the Modern Samurai)(Volume 1)\" available now on Amazon.",
-    "date": "June 11, 2014"
+    "date": "2014-06-11T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -10594,7 +10603,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is a stand-up comedian, writer, and actor. Tony also hosts his own podcasts called \"Kill Tony\" with Redban, and it's available on iTunes and at http://Deathsquad.tv",
-    "date": "June 10, 2014"
+    "date": "2014-06-10T04:00:00.000Z"
   },
   {
     "guests": ["Steve Hilton"],
@@ -10603,7 +10612,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Hilton is a former director of strategy for David Cameron, Prime Minister and leader of the Conservative Party in the United Kingdom. He is currently a lecturer and visiting scholar at Stanford University.",
-    "date": "June 3, 2014"
+    "date": "2014-06-03T04:00:00.000Z"
   },
   {
     "guests": ["TJ Dillashaw", "Duane “Bang” Ludwig"],
@@ -10612,16 +10621,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "TJ Dillashaw is a mixed martial arts fighter and currently the UFC Bantamweight Champion. Duane \"Bang\" Ludwig is a former mixed martial arts fighter and currently is the head coach of Team Alpha Male.",
-    "date": "June 2, 2014"
+    "date": "2014-06-02T04:00:00.000Z"
   },
   {
     "guests": ["Fight"],
-    "title": "#02 - Fight",
+    "title": "Fight Companion - May 31, 2014",
     "episode_id": 2,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "May 31, 2014 – Fight Companion",
-    "date": "May 31, 2014"
+    "date": "2014-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -10630,7 +10639,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his new book \"Life of the Party\" on Amazon now!",
-    "date": "May 27, 2014"
+    "date": "2014-05-27T04:00:00.000Z"
   },
   {
     "guests": ["Moshe Kasher"],
@@ -10639,7 +10648,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Moshe Kasher is a stand-up comedian, writer and actor. Check out his book \"Kasher In The Rye\" available on Amazon.",
-    "date": "May 26, 2014"
+    "date": "2014-05-26T04:00:00.000Z"
   },
   {
     "guests": ["Matt Farah", "Alex Ross"],
@@ -10648,7 +10657,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Farah is an automotive journalist whose work can be found on TheSmokingTire.com, and also on http://www.youtube.com/drive",
-    "date": "May 22, 2014"
+    "date": "2014-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Steve Maxwell"],
@@ -10657,7 +10666,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Maxwell is an American fitness coach, physical educator, and Brazilian Jiu-Jitsu instructor. He was named one of the top 100 trainers in the USA by Men's Journal.",
-    "date": "May 21, 2014"
+    "date": "2014-05-21T04:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -10666,7 +10675,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Tripoli is a stand-up comedian. His latest comedy special \"Believe In Yourself\" is available now on iTunes or at http://AllThingsRecords.com",
-    "date": "May 20, 2014"
+    "date": "2014-05-20T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -10675,7 +10684,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "May 16, 2014"
+    "date": "2014-05-16T04:00:00.000Z"
   },
   {
     "guests": ["Randall Carlson"],
@@ -10684,7 +10693,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar",
-    "date": "May 15, 2014"
+    "date": "2014-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope", "Tom Rhodes"],
@@ -10693,7 +10702,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Stanhope is a stand-up comedian and TV host, also currently hosting his own podcast, Doug Stanhope's Podcast. Tom Rhodes is a stand-up comedian, actor, and TV host. Currently he hosts his own podcast available on iTunes called Tom Rhodes Radio.",
-    "date": "May 14, 2014"
+    "date": "2014-05-14T04:00:00.000Z"
   },
   {
     "guests": ["Cenk Uygur"],
@@ -10702,7 +10711,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cenk Uygur is a political commentator, Internet personality, and political activist. He is also the main host and co-founder of \"The Young Turks\"",
-    "date": "May 12, 2014"
+    "date": "2014-05-12T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -10711,16 +10720,16 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "May 11, 2014"
+    "date": "2014-05-11T04:00:00.000Z"
   },
   {
     "guests": ["Fight"],
-    "title": "#01 - Fight",
+    "title": "Fight Companion - May 10, 2014",
     "episode_id": 1,
     "isMMA": false,
-    "isFC": false,
+    "isFC": true,
     "description": "May 10, 2014 – Fight Companion",
-    "date": "May 10, 2014"
+    "date": "2014-05-10T04:00:00.000Z"
   },
   {
     "guests": ["Tim Kennedy"],
@@ -10729,7 +10738,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Kennedy is a Special Forces operator and professional mixed martial artist who currently competes in the UFC's Middleweight division.",
-    "date": "May 7, 2014"
+    "date": "2014-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Nick Cutter"],
@@ -10738,7 +10747,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Nick Cutter is a Canadian author of short stories and novels, who has published work under both his own name, Craig Davidson, and another pen name Patrick Lestewka.",
-    "date": "May 6, 2014"
+    "date": "2014-05-06T04:00:00.000Z"
   },
   {
     "guests": ["Ian Edwards"],
@@ -10747,7 +10756,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian Edwards is a stand up comedian and also hosts his own podcasts called \"The Preposterous Sessions\" on iTunes/Stitcher. His latest special \"100% Half Assed\" releases in June.",
-    "date": "May 5, 2014"
+    "date": "2014-05-05T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -10756,7 +10765,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together with Brendan Schaub they \"The Fighter & The Kid\" podcast.",
-    "date": "May 1, 2014"
+    "date": "2014-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -10765,7 +10774,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "May 1, 2014"
+    "date": "2014-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Dave Attell"],
@@ -10774,7 +10783,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Attell is a stand-up comedian, writer and actor. Dave's new TV Show \"Comedy Underground with Dave Attell\" airs Saturday nights on Comedy Central and his latest special called \"Road Work\" is available at http://daveattell.com",
-    "date": "April 29, 2014"
+    "date": "2014-04-29T04:00:00.000Z"
   },
   {
     "guests": ["Steve Maxwell"],
@@ -10783,7 +10792,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steve Maxwell is an American fitness coach, physical educator, and Brazilian Jiu-Jitsu instructor. He was named one of the top 100 trainers in the USA by Men's Journal.",
-    "date": "April 28, 2014"
+    "date": "2014-04-28T04:00:00.000Z"
   },
   {
     "guests": ["Andreas Antonopoulos"],
@@ -10792,7 +10801,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andreas Antonopoulos is a bitcoin entrepreneur, he also serves on the advisory boards of several bitcoin startups and serves as the Chief Security Officer of Blockchain.",
-    "date": "April 22, 2014"
+    "date": "2014-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Liam", "Dylan Resnekov"],
@@ -10801,7 +10810,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Liam & Dylan Resnekov run VT1 Academy in Austrailia. Liam is a black belt in Gracie Jiu Jitsu and Dylan is the 2009 World Muay Thai Champion.",
-    "date": "April 21, 2014"
+    "date": "2014-04-21T04:00:00.000Z"
   },
   {
     "guests": ["Iliza Shlesinger"],
@@ -10810,7 +10819,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Iliza Shlesinger is a stand up comedian. She was the winner of the sixth season of NBC's Last Comic Standing and host of the syndicated dating show Excused.",
-    "date": "April 21, 2014"
+    "date": "2014-04-21T04:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -10819,7 +10828,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Seaman is a journalist and former Congressional candidate. He also hosts his own podcast called \"The David Seaman Hour\"",
-    "date": "April 16, 2014"
+    "date": "2014-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Brendan Schaub", "Bryan Callen"],
@@ -10828,7 +10837,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brendan Schaub is a mixed martial artist and also a former college & pro football player. Bryan Callen is an actor and stand-up comedian. Together with Brendan Schaub they \"The Fighter & The Kid\" podcast.",
-    "date": "April 15, 2014"
+    "date": "2014-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Amy Schumer"],
@@ -10837,7 +10846,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Amy Schumer is a stand-up comedian, actress, and writer. She currently stars on \"Inside Amy Schumer\" on Comedy Central.",
-    "date": "April 14, 2014"
+    "date": "2014-04-14T04:00:00.000Z"
   },
   {
     "guests": ["Alexis Ohanian"],
@@ -10846,7 +10855,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alexis Ohanian is an internet entrepreneur, activist and investor, best known for co-founding the social news website reddit, helping launch travel search website Hipmunk, and starting social enterprise Breadpig. He also is the author of bestseller \"Without Their Permission\"",
-    "date": "April 11, 2014"
+    "date": "2014-04-11T04:00:00.000Z"
   },
   {
     "guests": ["Mark Kendall"],
@@ -10855,7 +10864,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mark Kendall is a pool player and lead guitarist, best known for being the founding member hard rock band Great White.",
-    "date": "April 10, 2014"
+    "date": "2014-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Rob MacCachren", "Bud Brutsman"],
@@ -10864,7 +10873,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rob MacCachren is an American off-road racer. He raced the Mickey Thompson Stadium Series early in his career and went on to win championships in Championship Off-Road Racing, SCORE International, SODA, and Best in the Desert. Bud Brutsman is a television show creator, executive producer, known for shows such as Overhaulin', Rides, and King of the Cage.",
-    "date": "April 9, 2014"
+    "date": "2014-04-09T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -10873,7 +10882,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
-    "date": "April 7, 2014"
+    "date": "2014-04-07T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell", "DJ Douggpound"],
@@ -10882,7 +10891,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\". Doug Lussenhop aka DJ Douggpound, editor, writer, musician, and collaborator of Tim & Eric and Eric Andre.",
-    "date": "April 2, 2014"
+    "date": "2014-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Joel Salatin"],
@@ -10891,7 +10900,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joel Salatin is an American farmer, lecturer, and author whose books include \"Folks, This Ain't Normal\"  \"You Can Farm\" and \"Salad Bar Beef\"",
-    "date": "April 1, 2014"
+    "date": "2014-04-01T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -10900,7 +10909,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is a jiujitsu black belt, music producer, and author. He also hosts his own podcast called Eddie Bravo Radio.",
-    "date": "March 31, 2014"
+    "date": "2014-03-31T04:00:00.000Z"
   },
   {
     "guests": ["Dennis McKenna", "Joshua Wickerham"],
@@ -10909,7 +10918,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dennis McKenna is an ethnopharmacologist, author, and brother to well-known psychedelics proponent Terence McKenna. Joshua Wickerham is the chief advisor to the ESC, Ethnobotanical Stewardship Council.",
-    "date": "March 28, 2014"
+    "date": "2014-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Honey Honey"],
@@ -10918,7 +10927,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA currently based out of Nashville, TN. They are currently recording a new album and can be seen touring all over the world.",
-    "date": "March 26, 2014"
+    "date": "2014-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Adam Carolla"],
@@ -10927,7 +10936,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Adam Carolla is a comedian, radio personality, television host and actor.",
-    "date": "March 26, 2014"
+    "date": "2014-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Hannibal Buress"],
@@ -10936,7 +10945,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Hannibal Buress is a stand-up comedian, actor and television writer currently living in New York City. His latest special \"Live from Chicago\"airs March 29th on Comedy Central.",
-    "date": "March 25, 2014"
+    "date": "2014-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Jim Jefferies"],
@@ -10945,7 +10954,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Jefferies is an Australian stand-up comedian, actor and writer. He currently stars in the show \"Legit\" airing on FXX.",
-    "date": "March 24, 2014"
+    "date": "2014-03-24T04:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -10954,7 +10963,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE.",
-    "date": "March 20, 2014"
+    "date": "2014-03-20T04:00:00.000Z"
   },
   {
     "guests": ["Matt Serra"],
@@ -10963,7 +10972,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Serra is a retired American mixed martial artist and Brazilian jiu-jitsu practitioner who competed for the Ultimate Fighting Championship.",
-    "date": "March 18, 2014"
+    "date": "2014-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Amber Lyon"],
@@ -10972,7 +10981,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Amber Lyon is an Emmy Award-Winning journalist. She has recently been traveling the world working on Reset.Me, an independent journalism site covering psychedelics, natural medicines, and alternative therapies.",
-    "date": "March 18, 2014"
+    "date": "2014-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Carl Hart"],
@@ -10981,7 +10990,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Carl Hart, Ph.D., is an associate professor of psychology and psychiatry at Columbia University. He is known for his research in drug abuse and drug addiction. Hart was the first tenured African American professor of sciences at Columbia University.",
-    "date": "March 17, 2014"
+    "date": "2014-03-17T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell, Christopher Ryan"],
@@ -10990,7 +10999,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\". Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn.",
-    "date": "March 11, 2014"
+    "date": "2014-03-11T04:00:00.000Z"
   },
   {
     "guests": ["Peter Giuliano"],
@@ -10999,7 +11008,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Giuliano is a student of coffee, barista, director of the Specialty Coffee Symposium.",
-    "date": "March 10, 2014"
+    "date": "2014-03-10T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -11008,7 +11017,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "March 10, 2014"
+    "date": "2014-03-10T04:00:00.000Z"
   },
   {
     "guests": ["Greg Proops"],
@@ -11017,7 +11026,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Proops is a stand-up comedian, also well-known for his improv comedy on the show \"Whose Line is it Anyway?\" He also currently hosts his own podcast called \"The Smartest Man In The World\" and has a new special available online March 26 called \"Greg Proops Live at Musso and Frank\"",
-    "date": "March 5, 2014"
+    "date": "2014-03-05T05:00:00.000Z"
   },
   {
     "guests": ["Robert Greene, Aubrey Marcus"],
@@ -11026,7 +11035,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Robert Greene is an American author and speaker known for his books on strategy, power and seduction. He has written five international bestsellers: The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law and Mastery. Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "March 4, 2014"
+    "date": "2014-03-04T05:00:00.000Z"
   },
   {
     "guests": ["Louis Theroux"],
@@ -11035,7 +11044,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Louis Theroux is best known for his documentaries in the television series \"Louis Theroux's Weird Weekends\" and \"When Louis Met...\", as well as his Louis Theroux's BBC Two specials.",
-    "date": "March 3, 2014"
+    "date": "2014-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella, Doug Duren, Bryan Callen"],
@@ -11044,7 +11053,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts \"MeatEater\" on the Sportsman Channel. Doug Duren is a passionate hunter, farmer, land manager and conservationist. Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: \"The Bryan Callen Show\" and \"the Ten Minute Podcast\", with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "February 26, 2014"
+    "date": "2014-02-26T05:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -11053,7 +11062,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Seaman is a journalist and former Congressional candidate. He also hosts his own podcast called \"The David Seaman Hour\"",
-    "date": "February 25, 2014"
+    "date": "2014-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Kron Gracie"],
@@ -11062,7 +11071,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kron Gracie is a Brazilian Jiu-Jitsu practitioner and a member of the Gracie family. He is the youngest son of Rickson Gracie and grandson of Helio Gracie.",
-    "date": "February 24, 2014"
+    "date": "2014-02-24T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Rhonda Patrick"],
@@ -11071,7 +11080,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at FoundMyFitness.com",
-    "date": "February 20, 2014"
+    "date": "2014-02-20T05:00:00.000Z"
   },
   {
     "guests": ["Campbell McLaren"],
@@ -11080,7 +11089,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Campbell McLaren is CEO of Combate Americas & Co-Creator of the UFC.",
-    "date": "February 19, 2014"
+    "date": "2014-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -11089,7 +11098,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts Ari Shaffir's Skeptic Tank and Punch Drunk.",
-    "date": "February 18, 2014"
+    "date": "2014-02-18T05:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -11098,7 +11107,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is an American singer-songwriter known for hits such as \"What It's Like\" and \"Put Your Lights On\" and was a founding member of House of Pain.",
-    "date": "February 17, 2014"
+    "date": "2014-02-17T05:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -11107,7 +11116,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \"The Church of What's Happening Now\"",
-    "date": "February 13, 2014"
+    "date": "2014-02-13T05:00:00.000Z"
   },
   {
     "guests": ["War Machine"],
@@ -11116,7 +11125,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "War Machine is a mixed martial artist who competes in the welterweight division.",
-    "date": "February 12, 2014"
+    "date": "2014-02-12T05:00:00.000Z"
   },
   {
     "guests": ["Molly Crabapple"],
@@ -11125,7 +11134,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Molly Crabapple is an American artist, known for her work for The New York Times, the Wall Street Journal, the Royal Society of Arts, Red Bull, Marvel Comics, DC Comics and CNN.",
-    "date": "February 11, 2014"
+    "date": "2014-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Immortal Technique", "Chino XL"],
@@ -11134,7 +11143,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Immortal Technique is a Peruvian born American rapper as well as an urban activist. Chino XL is an American rapper and actor.",
-    "date": "February 10, 2014"
+    "date": "2014-02-10T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -11143,7 +11152,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "February 8, 2014"
+    "date": "2014-02-08T05:00:00.000Z"
   },
   {
     "guests": ["Cameron Hanes"],
@@ -11152,7 +11161,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cameron Hanes is a bowhunting athlete, \"training intensively each and every day to become the Ultimate Predator.\"",
-    "date": "February 7, 2014"
+    "date": "2014-02-07T05:00:00.000Z"
   },
   {
     "guests": ["Justin Martindale"],
@@ -11161,7 +11170,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Martindale is a stand-up comedian.",
-    "date": "February 4, 2014"
+    "date": "2014-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -11170,7 +11179,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called \"Your Mom's House\"",
-    "date": "February 3, 2014"
+    "date": "2014-02-03T05:00:00.000Z"
   },
   {
     "guests": ["Cara Santa Maria"],
@@ -11179,7 +11188,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Cara Santa Maria is a science communicator, writer, producer and television personality. She is the host of \"Take Part Live\" on Pivot TV and \"TechKnow\" on Al Jazeera America.",
-    "date": "January 28, 2014"
+    "date": "2014-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Andreas Antonopoulos"],
@@ -11188,7 +11197,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Andreas Antonopoulos is a bitcoin entrepreneur, he also serves on the advisory boards of several bitcoin startups and serves as the Chief Security Officer of Blockchain.",
-    "date": "January 27, 2014"
+    "date": "2014-01-27T05:00:00.000Z"
   },
   {
     "guests": ["JRQE5"],
@@ -11197,7 +11206,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE5. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "January 23, 2014"
+    "date": "2014-01-23T05:00:00.000Z"
   },
   {
     "guests": ["Peter Schiff"],
@@ -11206,7 +11215,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Peter Schiff is an American businessman, investment broker, author and financial commentator. Schiff is CEO and chief global strategist of Euro Pacific Capital Inc.",
-    "date": "January 22, 2014"
+    "date": "2014-01-22T05:00:00.000Z"
   },
   {
     "guests": ["John Hackleman"],
@@ -11215,7 +11224,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "John Hackleman is an American martial artist and the head trainer at The Pit mixed martial arts gym.",
-    "date": "January 21, 2014"
+    "date": "2014-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -11224,7 +11233,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Neal Brennan is a stand-up comedian, actor, writer, director and producer. He is known for co-creating and co-writing \"Chappelle's Show\" with Dave Chappelle.",
-    "date": "January 20, 2014"
+    "date": "2014-01-20T05:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -11233,7 +11242,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts MeatEater on the Sportsman Channel.",
-    "date": "January 17, 2014"
+    "date": "2014-01-17T05:00:00.000Z"
   },
   {
     "guests": ["Brian Dunning"],
@@ -11242,7 +11251,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Dunning is an American writer and producer who focuses on skepticism. He has hosted a weekly podcast, Skeptoid, since 2006 and is an author of 5 books on the subject of scientific skepticism.",
-    "date": "January 14, 2014"
+    "date": "2014-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -11251,7 +11260,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called \"Dom Irrera Live from The Laugh Factory\"",
-    "date": "January 14, 2014"
+    "date": "2014-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Remi Warren, Dan Doty"],
@@ -11260,7 +11269,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Remi Warren is a hunter, adventurer, and videographer. He can be seen hunting all over the world on \"Solo Hunter\" on the Outdoor Channel. Dan Doty is a writer, producer, and cameraman for MeatEater TV. ",
-    "date": "January 13, 2014"
+    "date": "2014-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Mark Gordon"],
@@ -11269,7 +11278,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Mark Gordon is the Medical Director of Education at Access Medical Laboratory and is recognized as a top leader world wide in Interventional Endocrinology (Anti Aging Medicine).",
-    "date": "January 8, 2014"
+    "date": "2014-01-08T05:00:00.000Z"
   },
   {
     "guests": ["Scott Sigler"],
@@ -11278,7 +11287,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scott Sigler is an American author known for science fiction and horror books, such as Nocturnal, Ancestor, Infected and Contagious.  Before being published, Scott built an online audience by giving away his self-recorded audiobooks for free as podcasts on iTunes.",
-    "date": "January 7, 2014"
+    "date": "2014-01-07T05:00:00.000Z"
   },
   {
     "guests": ["Stefan Molyneux"],
@@ -11287,7 +11296,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Stefan Molyneux is a Canadian philosopher. He runs the #1 philosophy show on the internet, Freedomain Radio, and also runs a very popular YouTube channel.",
-    "date": "January 6, 2014"
+    "date": "2014-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -11296,7 +11305,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "December 31, 2013"
+    "date": "2013-12-31T05:00:00.000Z"
   },
   {
     "guests": ["Roseanne Barr"],
@@ -11305,7 +11314,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Roseanne Barr is a comedian, actress, writer, television producer, director, and 2012 presidential nominee.",
-    "date": "December 30, 2013"
+    "date": "2013-12-30T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell, Christopher Ryan"],
@@ -11314,7 +11323,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast “The Duncan Trussell Family Hour”. Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn.",
-    "date": "December 24, 2013"
+    "date": "2013-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -11323,7 +11332,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \"The Church of What's Happening Now\"",
-    "date": "December 23, 2013"
+    "date": "2013-12-23T05:00:00.000Z"
   },
   {
     "guests": ["Matt Fulchiron"],
@@ -11332,7 +11341,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Fulchiron is a stand-up comedian and also hosts his own podcast called \"The Full Charge Power Hour\"",
-    "date": "December 19, 2013"
+    "date": "2013-12-19T05:00:00.000Z"
   },
   {
     "guests": ["Shane Smith, Eddie Huang"],
@@ -11341,7 +11350,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE. Eddie Huang is a restaurateur, food personality, sandwich hack, and former lawyer. He is also the owner of Baohaus in NYC.",
-    "date": "December 18, 2013"
+    "date": "2013-12-18T05:00:00.000Z"
   },
   {
     "guests": ["Lee Camp"],
@@ -11350,7 +11359,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lee Camp is a comedian, author, and activist. His video series \"Moment of Clarity\" can be found on YouTube, with new videos twice a week.",
-    "date": "December 16, 2013"
+    "date": "2013-12-16T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -11359,7 +11368,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called \"Your Mom's House\"",
-    "date": "December 10, 2013"
+    "date": "2013-12-10T05:00:00.000Z"
   },
   {
     "guests": ["Cliffy B"],
@@ -11368,7 +11377,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Clifford Bleszinski, aka Cliffy B, is a video game designer, and former design director for the game development company Epic Games.",
-    "date": "December 9, 2013"
+    "date": "2013-12-09T05:00:00.000Z"
   },
   {
     "guests": ["Mike Birbiglia"],
@@ -11377,7 +11386,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mike Birbiglia is a comedian, writer, actor, and director, and his latest special \"My Girlfriend's Boyfriend\" is available now on iTunes & Netflix.",
-    "date": "December 9, 2013"
+    "date": "2013-12-09T05:00:00.000Z"
   },
   {
     "guests": ["Phil Demers"],
@@ -11386,7 +11395,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Phil Demers is a former Marineland employee turned truther, also known as the Walrus Whisperer.",
-    "date": "December 4, 2013"
+    "date": "2013-12-04T05:00:00.000Z"
   },
   {
     "guests": ["Brody Stevens"],
@@ -11395,7 +11404,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brody Stevens is a stand-up comedian and actor, currently starring in his own show on Comedy Central Brody Stevens: Enjoy It!",
-    "date": "December 3, 2013"
+    "date": "2013-12-03T05:00:00.000Z"
   },
   {
     "guests": ["Gene LeBell"],
@@ -11404,7 +11413,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gene LeBell is an American martial artist, instructor, stunt performer, and professional wrestler. He has also worked on over 1,000 films and TV shows and has authored a number of books.",
-    "date": "December 2, 2013"
+    "date": "2013-12-02T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -11413,7 +11422,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast \"FitzDog Radio\" available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "November 29, 2013"
+    "date": "2013-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -11422,7 +11431,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn.",
-    "date": "November 27, 2013"
+    "date": "2013-11-27T05:00:00.000Z"
   },
   {
     "guests": ["Tom Rhodes, Bryan Callen"],
@@ -11431,7 +11440,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Rhodes is an American stand-up comedian, actor, and TV host. Currently he hosts his own podcast available on iTunes called Tom Rhodes Radio. Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D’Elia.",
-    "date": "November 20, 2013"
+    "date": "2013-11-20T05:00:00.000Z"
   },
   {
     "guests": ["Lorenzo Hagerty"],
@@ -11440,7 +11449,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast The Psychedelic Salon.",
-    "date": "November 19, 2013"
+    "date": "2013-11-19T05:00:00.000Z"
   },
   {
     "guests": ["Jeremy Stephens, Eddie Bravo"],
@@ -11449,7 +11458,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jeremy Stephens is an MMA fighter currently fighting in the UFC's featherweight division.",
-    "date": "November 18, 2013"
+    "date": "2013-11-18T05:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock"],
@@ -11458,7 +11467,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as Fingerprints Of The Gods & Entangled and also a new fiction book called War God.",
-    "date": "November 13, 2013"
+    "date": "2013-11-13T05:00:00.000Z"
   },
   {
     "guests": ["Ana Kasparian"],
@@ -11467,7 +11476,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ana Kasparian is a producer and co-host of The Young Turks and also teaches journalism at Cal State Northridge.",
-    "date": "November 12, 2013"
+    "date": "2013-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Justin Foster"],
@@ -11476,7 +11485,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Foster is a stand-up comedian and also hosts his own podcast called Foster the Podcast.",
-    "date": "November 11, 2013"
+    "date": "2013-11-11T05:00:00.000Z"
   },
   {
     "guests": ["Chris Hadfield"],
@@ -11485,7 +11494,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Chris Hadfield is a retired Canadian astronaut who was the first Canadian to walk in space. He also authored the New York Times Bestseller An Astronaut's Guide to Life on Earth.",
-    "date": "November 11, 2013"
+    "date": "2013-11-11T05:00:00.000Z"
   },
   {
     "guests": ["JRQE4"],
@@ -11494,7 +11503,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE4. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "November 9, 2013"
+    "date": "2013-11-09T05:00:00.000Z"
   },
   {
     "guests": ["Dan Carlin, Daniele Bolelli"],
@@ -11503,7 +11512,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Carlin is an amateur historian and former radio talk show host. Carlin now hosts two popular podcasts available on iTunes, or through his website, to download: Common Sense and Hardcore History.",
-    "date": "November 8, 2013"
+    "date": "2013-11-08T05:00:00.000Z"
   },
   {
     "guests": ["Maynard James Keenan"],
@@ -11512,7 +11521,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Maynard James Keenan is a singer, songwriter, producer, winemaker, and actor, best known as the vocalist for Grammy Award-winning rock band Tool, Puscifer, and A Perfect Circle.",
-    "date": "November 5, 2013"
+    "date": "2013-11-05T05:00:00.000Z"
   },
   {
     "guests": ["Dave Asprey"],
@@ -11521,7 +11530,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Asprey is an author, lifehacker, and creator of Bulletproof Coffee.",
-    "date": "November 4, 2013"
+    "date": "2013-11-04T05:00:00.000Z"
   },
   {
     "guests": ["JRQE3"],
@@ -11530,7 +11539,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE3. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "October 31, 2013"
+    "date": "2013-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -11539,7 +11548,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape.",
-    "date": "October 30, 2013"
+    "date": "2013-10-30T04:00:00.000Z"
   },
   {
     "guests": ["Patrick Magee"],
@@ -11548,7 +11557,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Patrick Magee is a special effects and make-up artist, currently operating Magee FX providing special effects make-up, props, and animatronics to movies, tv, music videos, and theme parks.",
-    "date": "October 29, 2013"
+    "date": "2013-10-29T04:00:00.000Z"
   },
   {
     "guests": ["Todd Glass"],
@@ -11557,7 +11566,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Todd Glass is a stand-up comedian and also hosts his own podcast called \"The Todd Glass Show\"",
-    "date": "October 28, 2013"
+    "date": "2013-10-28T04:00:00.000Z"
   },
   {
     "guests": ["JRQE2"],
@@ -11566,7 +11575,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE2. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "October 23, 2013"
+    "date": "2013-10-23T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -11575,7 +11584,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Bravo is a jiujitsu black belt, music producer, and author. He also hosts his own podcast called Eddie Bravo Radio.",
-    "date": "October 22, 2013"
+    "date": "2013-10-22T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura, Christina Pazsitzky"],
@@ -11584,7 +11593,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura and Christina Pazsitzky are married, stand-up comedians, and together they also host a podcast  called Your Mom's House.",
-    "date": "October 21, 2013"
+    "date": "2013-10-21T04:00:00.000Z"
   },
   {
     "guests": ["JRQE1"],
@@ -11593,7 +11602,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JRQE1. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
-    "date": "October 16, 2013"
+    "date": "2013-10-16T04:00:00.000Z"
   },
   {
     "guests": ["Steven Pressfield, Aubrey Marcus"],
@@ -11602,7 +11611,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Pressfield is an author of fiction, non-fiction, and screenplays, known for books such as The War of Art and The Legend of Bagger Vance.",
-    "date": "October 15, 2013"
+    "date": "2013-10-15T04:00:00.000Z"
   },
   {
     "guests": ["Greg Proops"],
@@ -11611,7 +11620,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Proops is a stand-up comedian, also well-known for his improv comedy on the show Whose Line is it Anyway? He also currently hosts his own podcast called The Smartest Man In The World.",
-    "date": "October 14, 2013"
+    "date": "2013-10-14T04:00:00.000Z"
   },
   {
     "guests": ["Justin Collett"],
@@ -11620,7 +11629,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Part Episode** Justin Collett is a founding partner of The Action Report website, a website for pool & billiards enthusiasts from around the world.",
-    "date": "October 11, 2013"
+    "date": "2013-10-11T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -11629,7 +11638,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "October 9, 2013"
+    "date": "2013-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Doug Benson"],
@@ -11638,7 +11647,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Doug Benson is a stand-up comedian and also stars in movies such as \"Super High Me\" and \"The Greatest Movie Ever Rolled\"",
-    "date": "October 8, 2013"
+    "date": "2013-10-08T04:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz, Duncan Trussell"],
@@ -11647,7 +11656,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \"The Church of What's Happening Now\" Duncan Trussell is a stand-up comedian, and host of his own podcast \"The Duncan Trussell Family Hour\"",
-    "date": "October 4, 2013"
+    "date": "2013-10-04T04:00:00.000Z"
   },
   {
     "guests": ["Buck Angel"],
@@ -11656,7 +11665,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Buck Angel is an American trans man, adult film producer and performer, motivational speaker, and LGBT icon.",
-    "date": "September 30, 2013"
+    "date": "2013-09-30T04:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -11665,7 +11674,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Tripoli is a stand-up comedian. He hosts also his own shows, The Naughty Show and the Punch Drunk Sports podcast, with co-hosts Ari Shaffir and Jason Thibault.",
-    "date": "September 26, 2013"
+    "date": "2013-09-26T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -11674,7 +11683,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Josh Barnett is an MMA fighter, currently fighting in the UFC Heavyweight division.",
-    "date": "September 24, 2013"
+    "date": "2013-09-24T04:00:00.000Z"
   },
   {
     "guests": ["Stefan Molyneux"],
@@ -11683,7 +11692,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Stefan Molyneux is a Canadian philosopher. He runs the #1 philosophy show on the internet, Freedomain Radio, and also runs a very popular YouTube channel.",
-    "date": "September 23, 2013"
+    "date": "2013-09-23T04:00:00.000Z"
   },
   {
     "guests": ["Kathleen Madigan"],
@@ -11692,7 +11701,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kathleen Madigan is a stand-up comedian and also recently released a special on Netflix called Madigan Again",
-    "date": "September 18, 2013"
+    "date": "2013-09-18T04:00:00.000Z"
   },
   {
     "guests": ["Matt Fulchiron"],
@@ -11701,7 +11710,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Fulchiron is a stand-up comedian and also hosts his own podcast called The Full Charge Power Hour",
-    "date": "September 17, 2013"
+    "date": "2013-09-17T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -11710,7 +11719,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House",
-    "date": "September 16, 2013"
+    "date": "2013-09-16T04:00:00.000Z"
   },
   {
     "guests": ["David Choe"],
@@ -11719,7 +11728,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA.  To learn more about him and his work check out the documentary “Dirty Hands: The Art and Crimes of David Choe” and also on his VICE series “Thumbs UP!”",
-    "date": "September 13, 2013"
+    "date": "2013-09-13T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -11728,7 +11737,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast, The Duncan Trussell Family Hour.",
-    "date": "September 10, 2013"
+    "date": "2013-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Mac Lethal"],
@@ -11737,7 +11746,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mac Lethal is an independent hip hop artist and also author of the book Texts from Bennett.",
-    "date": "September 9, 2013"
+    "date": "2013-09-09T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -11746,7 +11755,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a comedian, producer/co-host of the Joe Rogan Experience Podcast and founder of the DeathSquad podcast network.",
-    "date": "September 3, 2013"
+    "date": "2013-09-03T04:00:00.000Z"
   },
   {
     "guests": ["Mick West, Bryan Callen"],
@@ -11755,7 +11764,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mick West is a game programmer, writer, and debunker. Currently runs a few websites including MetaBunk.org and ContrailScience.com. Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "September 2, 2013"
+    "date": "2013-09-02T04:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -11764,7 +11773,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is an American singer-songwriter known for hits such as \"What It's Like\" and \"Put Your Lights On\" and was a founding member of House of Pain.",
-    "date": "August 28, 2013"
+    "date": "2013-08-28T04:00:00.000Z"
   },
   {
     "guests": ["Joey “CoCo” Diaz"],
@@ -11773,7 +11782,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called The Church of What's Happening Now",
-    "date": "August 27, 2013"
+    "date": "2013-08-27T04:00:00.000Z"
   },
   {
     "guests": ["Duane Ludwig, TJ Dillashaw"],
@@ -11782,7 +11791,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duane Ludwig is a former mixed martial arts fighter and currently is the head coach of Team Alpha Male. TJ Dillashaw is a mixed martial arts fighter currently fighting in the bantamweight division of the UFC.",
-    "date": "August 26, 2013"
+    "date": "2013-08-26T04:00:00.000Z"
   },
   {
     "guests": ["Ian McCall"],
@@ -11791,7 +11800,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian McCall is an American mixed martial artist competing in the flyweight division.",
-    "date": "August 13, 2013"
+    "date": "2013-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -11800,7 +11809,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jim Norton is an American stand-up comedian, radio personality, actor, and author.",
-    "date": "August 12, 2013"
+    "date": "2013-08-12T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -11809,7 +11818,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast FitzDog Radio available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "August 8, 2013"
+    "date": "2013-08-08T04:00:00.000Z"
   },
   {
     "guests": ["Abby Martin"],
@@ -11818,7 +11827,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Abby Martin is an American journalist and also host of Breaking the Set for RT America.",
-    "date": "August 5, 2013"
+    "date": "2013-08-05T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -11827,7 +11836,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is an American stand-up comedian.  Tony also is a writer on the TV show The Burn with Jeff Ross.",
-    "date": "August 2, 2013"
+    "date": "2013-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Matt Farah, Tod Mesirow"],
@@ -11836,7 +11845,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Matt Farah is an automotive journalist whose work can be found on TheSmokingTire.com, and also on the /Drive channel on YouTube. Tod Mesirow is the executive producer for Joe Rogan Questions Everything on SyFy, and previously worked on shows such as Moster Garage and Overhaulin'.",
-    "date": "July 30, 2013"
+    "date": "2013-07-30T04:00:00.000Z"
   },
   {
     "guests": ["Dan Carlin"],
@@ -11845,7 +11854,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Carlin is an amateur historian and former radio talk show host.  Carlin now hosts two popular podcasts available on iTunes, or through his website, to download:Common Sense and Hardcore History.",
-    "date": "July 29, 2013"
+    "date": "2013-07-29T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -11854,7 +11863,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast, The Duncan Trussell Family Hour.",
-    "date": "July 24, 2013"
+    "date": "2013-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -11863,7 +11872,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "July 23, 2013"
+    "date": "2013-07-23T04:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -11872,7 +11881,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE.",
-    "date": "July 16, 2013"
+    "date": "2013-07-16T04:00:00.000Z"
   },
   {
     "guests": ["Marc Maron"],
@@ -11881,7 +11890,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Marc Maron is a stand up comedian and actor. Currently Marc hosts his own podcast called WTF with Marc Maron and also can be seen in his show Maron on IFC.",
-    "date": "July 15, 2013"
+    "date": "2013-07-15T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -11890,7 +11899,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \"The Church of What's Happening Now\"",
-    "date": "July 9, 2013"
+    "date": "2013-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Mariana van Zeller"],
@@ -11899,7 +11908,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Mariana van Zeller is a Portuguese journalist and is currently a TV correspondent for the National Geographic Channel. Mariana is also known for the Peabody award winning documentary \"The Oxycontin Express\" made for the Vanguard series on Current TV.",
-    "date": "July 8, 2013"
+    "date": "2013-07-08T04:00:00.000Z"
   },
   {
     "guests": ["Rick Doblin"],
@@ -11908,7 +11917,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Rick Doblin, Ph.D., is the founder and executive director of the Multidisciplinary Association for Psychedelic Studies (MAPS).",
-    "date": "July 1, 2013"
+    "date": "2013-07-01T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -11917,7 +11926,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts Skeptic Tank and Punch Drunk.",
-    "date": "June 29, 2013"
+    "date": "2013-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Jason Silva, Duncan Trussell, Ari Shaffir"],
@@ -11926,7 +11935,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jason Silva is a Venezuelan-American filmmaker, philosopher, and television personality, currently hosting Brain Games on NatGeo. Duncan Trussell is a stand-up comedian, and host of his own podcast, The Duncan Trussell Family Hour. Ari Shaffir is a stand-up comedian and also hosts his own podcasts Ari Shaffir’s Skeptic Tank and Punch Drunk.",
-    "date": "June 21, 2013"
+    "date": "2013-06-21T04:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -11935,7 +11944,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Seaman is a journalist and former Congressional candidate. He also hosts his own podcast called The David Seaman Hour.",
-    "date": "June 19, 2013"
+    "date": "2013-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -11944,7 +11953,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer. Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "June 12, 2013"
+    "date": "2013-06-12T04:00:00.000Z"
   },
   {
     "guests": ["Bobcat Goldthwait"],
@@ -11953,7 +11962,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bobcat Goldthwait is a stand-up comedian, actor, screenwriter, and director.",
-    "date": "June 11, 2013"
+    "date": "2013-06-11T04:00:00.000Z"
   },
   {
     "guests": ["Kelly Starrett, Glen Cordoza"],
@@ -11962,7 +11971,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Kelly Starrett is a coach, physical therapist, author, speaker, and creator of MobilityWOD. His new book written with Glen Cordoza is called Becoming a Supple Leopard.",
-    "date": "June 7, 2013"
+    "date": "2013-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Tom Rhodes"],
@@ -11971,7 +11980,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Rhodes is an American stand-up comedian, actor, and TV host. Currently he hosts his own podcast available on iTunes called Tom Rhodes Radio.",
-    "date": "June 4, 2013"
+    "date": "2013-06-04T04:00:00.000Z"
   },
   {
     "guests": ["Everlast"],
@@ -11980,7 +11989,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Everlast is an American singer-songwriter known for hits such as \"What It's Like\" and \"Put Your Lights On\" and was a founding member of House of Pain.",
-    "date": "June 3, 2013"
+    "date": "2013-06-03T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Ifft"],
@@ -11989,7 +11998,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Ifft is an American stand-up comedian and also hosts his own podcast called Talkin' Shit with Eddie Ifft.",
-    "date": "May 28, 2013"
+    "date": "2013-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Dave Asprey, Tait Fletcher"],
@@ -11998,7 +12007,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dave Asprey is an author, lifehacker , and creator of Bulletproof Coffee.  Tait Fletcher is a former American mixed martial artist, and currently is a stuntman, trainer, and hosts his own podcast called Stay Bulletproof with Tait Fletcher.",
-    "date": "May 27, 2013"
+    "date": "2013-05-27T04:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock"],
@@ -12007,7 +12016,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Graham Hancock is an English author and journalist, well known for books such as Fingerprints Of The Gods\" and Entangled.",
-    "date": "May 23, 2013"
+    "date": "2013-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Alex Grey"],
@@ -12016,7 +12025,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Grey is an American artist that specializes in psychedelic art, a self-described \"mystic artist.\"",
-    "date": "May 21, 2013"
+    "date": "2013-05-21T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -12025,7 +12034,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bert Kreischer is a stand up comedian and also hosts Trip Flip on the Travel Channel as well as his own podcast called BertCast available on iTunes.",
-    "date": "May 13, 2013"
+    "date": "2013-05-13T04:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -12034,7 +12043,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, professor, and martial artist. His books include Create Your Own Religion and On the Warrior's Path and his podcast called The Drunken Taoist is available on iTunes.",
-    "date": "May 9, 2013"
+    "date": "2013-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Dan Hardy"],
@@ -12043,7 +12052,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Hardy is an English mixed martial arts fighter, who has fought previously in the UFC, as well as for Cage Force and Cage Warriors.",
-    "date": "May 8, 2013"
+    "date": "2013-05-08T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -12052,7 +12061,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dom Irrera is a stand up comedian, and also hosts his own podcast called Dom Irrera Live from The Laugh Factory.",
-    "date": "May 7, 2013"
+    "date": "2013-05-07T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir, Amy Schumer"],
@@ -12061,7 +12070,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts Ari Shaffir's Skeptic Tank and Punch Drunk, with Sam Tripoli and Jayson Thibault. Amy Schumer is a stand-up comedian and hosts her own show on Comedy Central called Inside Amy Schumer.",
-    "date": "April 30, 2013"
+    "date": "2013-04-30T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -12070,7 +12079,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Brian Redban is a stand-up comedian, and also runs the Deathsquad podcast network available on iTunes.",
-    "date": "April 29, 2013"
+    "date": "2013-04-29T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -12079,7 +12088,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House.",
-    "date": "April 24, 2013"
+    "date": "2013-04-24T04:00:00.000Z"
   },
   {
     "guests": ["Georges St. Pierre"],
@@ -12088,7 +12097,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Georges St. Pierre is a Canadian MMA fighter, and is also the UFC Welterweight Champion.",
-    "date": "April 23, 2013"
+    "date": "2013-04-23T04:00:00.000Z"
   },
   {
     "guests": ["Tony Hinchcliffe"],
@@ -12097,7 +12106,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hinchcliffe is an American stand-up comedian.  Tony also is a writer on the tv show The Burn with Jeff Ross",
-    "date": "April 22, 2013"
+    "date": "2013-04-22T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -12106,7 +12115,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast FitzDog Radio available on iTunes and every Monday on Sirius Howard 101.",
-    "date": "April 16, 2013"
+    "date": "2013-04-16T04:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella, Bryan Callen, Cam Edwards"],
@@ -12115,7 +12124,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Steven Rinella is an outdoorsman, author, and television host. He currently hosts MeatEater on the Sportsman Channel. Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and the Ten Minute Podcast, with co-hosts Will Sasso and Chris D'Elia. Cam Edwards is the host of Cam and Company on the Sportsman Channel.",
-    "date": "April 15, 2013"
+    "date": "2013-04-15T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -12124,7 +12133,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Joey \"CoCo\" Diaz is a Cuban-American stand up comedian and actor. Joey also hosts his own podcast called The Church of What's Happening Now.",
-    "date": "April 12, 2013"
+    "date": "2013-04-12T04:00:00.000Z"
   },
   {
     "guests": ["Douglas Rushkoff"],
@@ -12133,7 +12142,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Douglas Rushkoff is an American media theorist, writer, columnist, lecturer, graphic novelist and documentarian. He is best known for his  advocacy of open source solutions to social problems, and also has written many book and society, media, and technology.  Rushkoff also had the first syndicated column in the New York Times on cyberculture.",
-    "date": "April 2, 2013"
+    "date": "2013-04-02T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12142,7 +12151,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "April 1, 2013"
+    "date": "2013-04-01T04:00:00.000Z"
   },
   {
     "guests": ["Stanley Krippner, Christopher Ryan"],
@@ -12151,7 +12160,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Stanley Krippner is an American psychologist, and an executive faculty member and Professor of Prsychology at Saybrook university in San Francisco.  He has written many books covering topics such as psychology and shamanism, including \"The Voice of Rolling Thunder: A Medicine Man's Wisdom for Walking the Red Road\".  Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller \"Sex At Dawn\"",
-    "date": "March 30, 2013"
+    "date": "2013-03-30T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -12160,7 +12169,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bill Burr is an American standup comedian and also hosts his own podcast called The Monday Morning Podcast.",
-    "date": "March 26, 2013"
+    "date": "2013-03-26T04:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -12169,7 +12178,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times bestseller Sex At Dawn.",
-    "date": "March 25, 2013"
+    "date": "2013-03-25T04:00:00.000Z"
   },
   {
     "guests": ["Ben Hoffman"],
@@ -12178,7 +12187,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ben Hoffman is a comedian and writer, currently starring in his own show on Comedy Central called The Ben Show.",
-    "date": "March 20, 2013"
+    "date": "2013-03-20T04:00:00.000Z"
   },
   {
     "guests": ["JD Kelley, aka “Wic”"],
@@ -12187,7 +12196,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "JD Kelley is an American physicist, also known as Wic on The Rogan Board.  He describes himself as a \"psychonautical physicist intent on exposing the beauty and art of scientific understanding.\"",
-    "date": "March 19, 2013"
+    "date": "2013-03-19T04:00:00.000Z"
   },
   {
     "guests": ["Jacob Ward"],
@@ -12196,7 +12205,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jacob Ward is the editor of Popular Science magazine.",
-    "date": "March 18, 2013"
+    "date": "2013-03-18T04:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -12205,7 +12214,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Shane Smith is a Canadian-American journalist. He also is the co-founder and CEO of the international media company VICE.",
-    "date": "March 13, 2013"
+    "date": "2013-03-13T04:00:00.000Z"
   },
   {
     "guests": ["Justin Wren"],
@@ -12214,7 +12223,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Justin Wren is an American MMA fighter, formerly on the Ultimate Fighter.  He is currently on a 1-year mission helping the Pygmy people of the Democratic Republic of the Congo.  Learn more about his project here: FightFortheForgotten.com",
-    "date": "March 12, 2013"
+    "date": "2013-03-12T04:00:00.000Z"
   },
   {
     "guests": ["Scott Sigler"],
@@ -12223,7 +12232,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Scott Sigler is an American author known for science fiction and horror books, such as Nocturnal, Ancestor, Infected and Contagious.  Before being published, Scott built an online audience by giving away his self-recorded audiobooks for free as podcasts on iTunes.",
-    "date": "March 12, 2013"
+    "date": "2013-03-12T04:00:00.000Z"
   },
   {
     "guests": ["Bas Rutten"],
@@ -12232,7 +12241,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bas Rutten is a retired MMA fighter and former UFC Heavyweight Champion.  He currently is the co-host of Inside MMA, and also runs Elite MMA gym in Thousand Oaks, CA.",
-    "date": "March 11, 2013"
+    "date": "2013-03-11T04:00:00.000Z"
   },
   {
     "guests": ["Dr. Amit Goswami"],
@@ -12241,7 +12250,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Amit Goswami, Ph. D. is a retired professor from the theoretical physics department of the University of Oregon in Eugene.  He has authored numerous books on the ideas and concepts surrounding quantum physics including, Quantum Mechanics, God is Not Dead, and The Self-Aware Universe.",
-    "date": "March 8, 2013"
+    "date": "2013-03-08T05:00:00.000Z"
   },
   {
     "guests": ["David Lee Roth"],
@@ -12250,7 +12259,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Lee Roth is the lead singer of multi-platnium hard rock band from Southern California, Van Halen. Roth also has spent time on the radio, as an actor, and was inducted into the Rock and Roll Hall of Fame in 2007.  He currently hosts the The Roth Show found on iTunes and YouTube.",
-    "date": "March 6, 2013"
+    "date": "2013-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -12259,7 +12268,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called Your Mom's House.",
-    "date": "March 5, 2013"
+    "date": "2013-03-05T05:00:00.000Z"
   },
   {
     "guests": ["Dr. Steven Greer"],
@@ -12268,7 +12277,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dr. Steven Greer is the founder of The Disclosure Project.  Dr. Greer also runs CSETI (Center for the Study of Extraterrestrial Intelligence) whose goal is to initiate contact with extraterrestrials.",
-    "date": "March 3, 2013"
+    "date": "2013-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Huang"],
@@ -12277,7 +12286,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Eddie Huang is a food personality, former TED fellow,  and the owner of Baohaus in NYC’s Lower East Side.  Eddie also wrote a book called Fresh Off The Boat, and stars in his own VICE series of the same name.",
-    "date": "February 27, 2013"
+    "date": "2013-02-27T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -12286,7 +12295,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Duncan Trussell is a stand-up comedian, and host of his own podcast, The Duncan Trussell Family Hour.",
-    "date": "February 26, 2013"
+    "date": "2013-02-26T05:00:00.000Z"
   },
   {
     "guests": ["Dan Carlin"],
@@ -12295,7 +12304,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dan Carlin is an amateur historian and former radio talk show host.  Carlin now hosts two popular podcasts available on iTunes, or through his website, to download: Common Sense and Hardcore History.",
-    "date": "February 25, 2013"
+    "date": "2013-02-25T05:00:00.000Z"
   },
   {
     "guests": ["Dana White"],
@@ -12304,7 +12313,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Dana White is a businessman, entrepreneur, and the president of the UFC.",
-    "date": "February 21, 2013"
+    "date": "2013-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12313,7 +12322,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "February 20, 2013"
+    "date": "2013-02-20T05:00:00.000Z"
   },
   {
     "guests": ["James Thompson"],
@@ -12322,7 +12331,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "James “Colossus” Thompson is a mixed martial artist from England.  He has previously fought in Dream, Pride, the SFL.",
-    "date": "February 19, 2013"
+    "date": "2013-02-19T05:00:00.000Z"
   },
   {
     "guests": ["Sam Sheridan"],
@@ -12331,7 +12340,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Sam Sheridan is an American author from Massachusetts.  He has written three books: The Disaster Diaries, The Fighter’s Mind, and A Fighter’s Heart.",
-    "date": "February 18, 2013"
+    "date": "2013-02-18T05:00:00.000Z"
   },
   {
     "guests": ["Freeway” Rick Ross"],
@@ -12340,7 +12349,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Freeway” Rick Ross is a community activist, formerly known for his incarceration after being convicted as the kingpin of the “drug empire” of 1980’s Los Angeles.",
-    "date": "February 6, 2013"
+    "date": "2013-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -12349,7 +12358,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ari Shaffir is a stand-up comedian and host of his own podcast, Ari Shaffir's Skeptic Tank.",
-    "date": "February 5, 2013"
+    "date": "2013-02-05T05:00:00.000Z"
   },
   {
     "guests": ["Melissa Etheridge"],
@@ -12358,7 +12367,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 4, 2013"
+    "date": "2013-02-04T05:00:00.000Z"
   },
   {
     "guests": ["Tim Ferriss"],
@@ -12367,7 +12376,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Tim Ferriss is an author, entrepreneur, investor, and public speaker.  He has authored 3 NYT Bestsellers: The Four-Hour Workweek, The Four-Hour Body, and most recently The Four-Hour Chef.",
-    "date": "January 29, 2013"
+    "date": "2013-01-29T05:00:00.000Z"
   },
   {
     "guests": ["Alex Honnold"],
@@ -12376,7 +12385,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Alex Honnold is a big wall free solo climber.  As one of the best in the world, Alex has attained a number of speed records and also has been featured on programs such as 60 Minutes and Nat’l Geographic.  Search for \"Alex Honnold\" on YouTube and prepare to blown away by a skill that few in the world have.",
-    "date": "January 28, 2013"
+    "date": "2013-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus, Eddie Brill"],
@@ -12385,7 +12394,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Aubrey Marcus is writer, entrepreneur, and adventurer.  Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.",
-    "date": "January 23, 2013"
+    "date": "2013-01-23T05:00:00.000Z"
   },
   {
     "guests": ["David Choe, Yoshi Obayashi"],
@@ -12394,7 +12403,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA.  To learn more about him and his work check out the documentary \"Dirty Hands: The Art and Crimes of David Choe\" and also on his VICE series \"Thumbs UP!\"",
-    "date": "January 22, 2013"
+    "date": "2013-01-22T05:00:00.000Z"
   },
   {
     "guests": ["Enson Inoue, Chuck Lidell"],
@@ -12403,7 +12412,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Enson Inoue is a Japanese-American mixed martial artist.  He currently runs multiple training gyms throughout the world, and more recently traveled to northeast Japan to directly help the earthquake and tsunami victims in areas such as Fukushima.",
-    "date": "January 22, 2013"
+    "date": "2013-01-22T05:00:00.000Z"
   },
   {
     "guests": ["Jimmy Smith"],
@@ -12412,7 +12421,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jimmy Smith is a former American MMA fighter, and is currently a commentator for Bellator Fighting Championship.",
-    "date": "January 21, 2013"
+    "date": "2013-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Ian Edwards"],
@@ -12421,7 +12430,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Ian Edwards is an American stand-up comedian. He also hosts his own podcast called The Preposterous Sessions, with co-host Zara Mizrahi.",
-    "date": "January 16, 2013"
+    "date": "2013-01-16T05:00:00.000Z"
   },
   {
     "guests": ["Opie”"],
@@ -12430,7 +12439,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Gregg \"Opie\" Hughes is a co-host of the popular talk-radio program The Opie & Anthony Show, which airs on Sirius/XM Satellite Radio.",
-    "date": "January 15, 2013"
+    "date": "2013-01-15T05:00:00.000Z"
   },
   {
     "guests": ["Steve Rinella, Bryan Callen"],
@@ -12439,7 +12448,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 14, 2013"
+    "date": "2013-01-14T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -12448,7 +12457,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 10, 2013"
+    "date": "2013-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Neil deGrasse Tyson"],
@@ -12457,7 +12466,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 9, 2013"
+    "date": "2013-01-09T05:00:00.000Z"
   },
   {
     "guests": ["Adam Hunter"],
@@ -12466,7 +12475,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 8, 2013"
+    "date": "2013-01-08T05:00:00.000Z"
   },
   {
     "guests": ["Steve Volk"],
@@ -12475,7 +12484,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 7, 2013"
+    "date": "2013-01-07T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12484,7 +12493,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Bryan Callen is an actor, stand-up comedian, and host of his own podcasts: The Bryan Callen Show and The 10-Minute Podcast, with co-hosts Will Sasso and Chris D'Elia.",
-    "date": "January 4, 2013"
+    "date": "2013-01-04T05:00:00.000Z"
   },
   {
     "guests": ["Christopher Ryan"],
@@ -12493,7 +12502,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times bestseller Sex At Dawn.",
-    "date": "January 3, 2013"
+    "date": "2013-01-03T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreicher"],
@@ -12502,7 +12511,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 2, 2013"
+    "date": "2013-01-02T05:00:00.000Z"
   },
   {
     "guests": ["Andrew Dice Clay"],
@@ -12511,7 +12520,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 27, 2012"
+    "date": "2012-12-27T05:00:00.000Z"
   },
   {
     "guests": ["Matt Vengrin"],
@@ -12520,7 +12529,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 26, 2012"
+    "date": "2012-12-26T05:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -12529,7 +12538,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 24, 2012"
+    "date": "2012-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope"],
@@ -12538,7 +12547,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 22, 2012"
+    "date": "2012-12-22T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -12547,7 +12556,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 18, 2012"
+    "date": "2012-12-18T05:00:00.000Z"
   },
   {
     "guests": ["HoneyHoney"],
@@ -12556,7 +12565,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 17, 2012"
+    "date": "2012-12-17T05:00:00.000Z"
   },
   {
     "guests": ["Dennis McKenna"],
@@ -12565,7 +12574,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 16, 2012"
+    "date": "2012-12-16T05:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -12574,7 +12583,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 13, 2012"
+    "date": "2012-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Mix Master Mike, Russell Peters, Mark Rasta"],
@@ -12583,7 +12592,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 12, 2012"
+    "date": "2012-12-12T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura, Christina Pazsitzky"],
@@ -12592,7 +12601,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 11, 2012"
+    "date": "2012-12-11T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -12601,7 +12610,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 6, 2012"
+    "date": "2012-12-06T05:00:00.000Z"
   },
   {
     "guests": ["Cara Santa Maria"],
@@ -12610,7 +12619,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 5, 2012"
+    "date": "2012-12-05T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -12619,7 +12628,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 29, 2012"
+    "date": "2012-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -12628,7 +12637,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 28, 2012"
+    "date": "2012-11-28T05:00:00.000Z"
   },
   {
     "guests": ["John Mcafee"],
@@ -12637,7 +12646,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 27, 2012"
+    "date": "2012-11-27T05:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -12646,7 +12655,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 26, 2012"
+    "date": "2012-11-26T05:00:00.000Z"
   },
   {
     "guests": ["Greg Proops"],
@@ -12655,7 +12664,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 22, 2012"
+    "date": "2012-11-22T05:00:00.000Z"
   },
   {
     "guests": ["Les Stroud"],
@@ -12664,7 +12673,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 20, 2012"
+    "date": "2012-11-20T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -12673,7 +12682,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, martial artist, and university professor, and also is the author of On the Warrior's Path.",
-    "date": "November 19, 2012"
+    "date": "2012-11-19T05:00:00.000Z"
   },
   {
     "guests": ["Tim Ferriss"],
@@ -12682,7 +12691,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 19, 2012"
+    "date": "2012-11-19T05:00:00.000Z"
   },
   {
     "guests": ["Daniel H. Wilson"],
@@ -12691,7 +12700,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 14, 2012"
+    "date": "2012-11-14T05:00:00.000Z"
   },
   {
     "guests": ["Dave Attell"],
@@ -12700,7 +12709,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 12, 2012"
+    "date": "2012-11-12T05:00:00.000Z"
   },
   {
     "guests": ["Peter Duesberg, Bryan Callen"],
@@ -12709,7 +12718,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 7, 2012"
+    "date": "2012-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12718,7 +12727,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 6, 2012"
+    "date": "2012-11-06T05:00:00.000Z"
   },
   {
     "guests": ["Philip Coppens"],
@@ -12727,7 +12736,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 5, 2012"
+    "date": "2012-11-05T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -12736,7 +12745,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 31, 2012"
+    "date": "2012-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -12745,7 +12754,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 29, 2012"
+    "date": "2012-10-29T04:00:00.000Z"
   },
   {
     "guests": ["Victor Conte"],
@@ -12754,7 +12763,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 18, 2012"
+    "date": "2012-10-18T04:00:00.000Z"
   },
   {
     "guests": ["David Seaman, Abby Martin, Dell Cameron"],
@@ -12763,7 +12772,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 16, 2012"
+    "date": "2012-10-16T04:00:00.000Z"
   },
   {
     "guests": ["Dave Asprey"],
@@ -12772,7 +12781,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 15, 2012"
+    "date": "2012-10-15T04:00:00.000Z"
   },
   {
     "guests": ["Alex Grey"],
@@ -12781,7 +12790,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 10, 2012"
+    "date": "2012-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Amber Lyon"],
@@ -12790,7 +12799,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 4, 2012"
+    "date": "2012-10-04T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell, Joey Diaz, Ian Edwards"],
@@ -12799,7 +12808,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 3, 2012"
+    "date": "2012-10-03T04:00:00.000Z"
   },
   {
     "guests": ["London Real"],
@@ -12808,7 +12817,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 2, 2012"
+    "date": "2012-10-02T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Pereira"],
@@ -12817,7 +12826,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 26, 2012"
+    "date": "2012-09-26T04:00:00.000Z"
   },
   {
     "guests": ["Tait Fletcher"],
@@ -12826,7 +12835,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 25, 2012"
+    "date": "2012-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -12835,7 +12844,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 20, 2012"
+    "date": "2012-09-20T04:00:00.000Z"
   },
   {
     "guests": ["Mac Danzig"],
@@ -12844,7 +12853,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 19, 2012"
+    "date": "2012-09-19T04:00:00.000Z"
   },
   {
     "guests": ["Rich Roll"],
@@ -12853,7 +12862,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 18, 2012"
+    "date": "2012-09-18T04:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli, Shane Smith"],
@@ -12862,7 +12871,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 17, 2012"
+    "date": "2012-09-17T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -12871,7 +12880,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 12, 2012"
+    "date": "2012-09-12T04:00:00.000Z"
   },
   {
     "guests": ["Kat Von D, Eddie Bravo"],
@@ -12880,7 +12889,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 10, 2012"
+    "date": "2012-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Rick Ross"],
@@ -12889,7 +12898,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 7, 2012"
+    "date": "2012-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -12898,7 +12907,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 6, 2012"
+    "date": "2012-09-06T04:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -12907,7 +12916,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 4, 2012"
+    "date": "2012-09-04T04:00:00.000Z"
   },
   {
     "guests": ["Mike Birbiglia"],
@@ -12916,7 +12925,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 30, 2012"
+    "date": "2012-08-30T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12925,7 +12934,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 30, 2012"
+    "date": "2012-08-30T04:00:00.000Z"
   },
   {
     "guests": ["Immortal Technique, Swavey Krokett, DJ GIJOE"],
@@ -12934,7 +12943,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 28, 2012"
+    "date": "2012-08-28T04:00:00.000Z"
   },
   {
     "guests": ["David Seaman"],
@@ -12943,7 +12952,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 27, 2012"
+    "date": "2012-08-27T04:00:00.000Z"
   },
   {
     "guests": ["EVERLAST"],
@@ -12952,7 +12961,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 16, 2012"
+    "date": "2012-08-16T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -12961,7 +12970,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 16, 2012"
+    "date": "2012-08-16T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan"],
@@ -12970,7 +12979,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 15, 2012"
+    "date": "2012-08-15T04:00:00.000Z"
   },
   {
     "guests": ["Jamie Kilstein"],
@@ -12979,7 +12988,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 14, 2012"
+    "date": "2012-08-14T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -12988,7 +12997,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 13, 2012"
+    "date": "2012-08-13T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -12997,7 +13006,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 8, 2012"
+    "date": "2012-08-08T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -13006,7 +13015,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 7, 2012"
+    "date": "2012-08-07T04:00:00.000Z"
   },
   {
     "guests": ["Tom Rhodes"],
@@ -13015,7 +13024,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 2, 2012"
+    "date": "2012-08-02T04:00:00.000Z"
   },
   {
     "guests": ["Tito Ortiz"],
@@ -13024,7 +13033,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 31, 2012"
+    "date": "2012-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Maynard J Keenan"],
@@ -13033,7 +13042,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 27, 2012"
+    "date": "2012-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Robb Wolf"],
@@ -13042,7 +13051,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 26, 2012"
+    "date": "2012-07-26T04:00:00.000Z"
   },
   {
     "guests": ["Immortal Technique"],
@@ -13051,7 +13060,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 25, 2012"
+    "date": "2012-07-25T04:00:00.000Z"
   },
   {
     "guests": ["HoneyHoney"],
@@ -13060,7 +13069,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 24, 2012"
+    "date": "2012-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Justin Halpern"],
@@ -13069,7 +13078,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 19, 2012"
+    "date": "2012-07-19T04:00:00.000Z"
   },
   {
     "guests": ["James Bobo Fay"],
@@ -13078,7 +13087,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 17, 2012"
+    "date": "2012-07-17T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -13087,7 +13096,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 16, 2012"
+    "date": "2012-07-16T04:00:00.000Z"
   },
   {
     "guests": ["Adam Kokesh"],
@@ -13096,7 +13105,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 11, 2012"
+    "date": "2012-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Pereira"],
@@ -13105,7 +13114,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 10, 2012"
+    "date": "2012-07-10T04:00:00.000Z"
   },
   {
     "guests": ["Tommy Chong"],
@@ -13114,7 +13123,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 9, 2012"
+    "date": "2012-07-09T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -13123,7 +13132,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 5, 2012"
+    "date": "2012-07-05T04:00:00.000Z"
   },
   {
     "guests": ["Josh Barnett"],
@@ -13132,7 +13141,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 4, 2012"
+    "date": "2012-07-04T04:00:00.000Z"
   },
   {
     "guests": ["Adam Scorgie"],
@@ -13141,7 +13150,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 30, 2012"
+    "date": "2012-06-30T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -13150,7 +13159,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 28, 2012"
+    "date": "2012-06-28T04:00:00.000Z"
   },
   {
     "guests": ["Giorgio Tsoukalos"],
@@ -13159,7 +13168,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 26, 2012"
+    "date": "2012-06-26T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -13168,7 +13177,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 21, 2012"
+    "date": "2012-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Sam Sheridan"],
@@ -13177,7 +13186,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 19, 2012"
+    "date": "2012-06-19T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13186,7 +13195,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 18, 2012"
+    "date": "2012-06-18T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -13195,7 +13204,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 13, 2012"
+    "date": "2012-06-13T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13204,7 +13213,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 11, 2012"
+    "date": "2012-06-11T04:00:00.000Z"
   },
   {
     "guests": ["John Anthony West"],
@@ -13213,7 +13222,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 9, 2012"
+    "date": "2012-06-09T04:00:00.000Z"
   },
   {
     "guests": ["Urijah Faber"],
@@ -13222,7 +13231,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 7, 2012"
+    "date": "2012-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -13231,7 +13240,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 6, 2012"
+    "date": "2012-06-06T04:00:00.000Z"
   },
   {
     "guests": ["Bobcat Goldthwait"],
@@ -13240,7 +13249,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 30, 2012"
+    "date": "2012-05-30T04:00:00.000Z"
   },
   {
     "guests": ["Mike Dolce, Joey Diaz"],
@@ -13249,7 +13258,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 29, 2012"
+    "date": "2012-05-29T04:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -13258,7 +13267,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 28, 2012"
+    "date": "2012-05-28T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -13267,7 +13276,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 24, 2012"
+    "date": "2012-05-24T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -13276,7 +13285,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 23, 2012"
+    "date": "2012-05-23T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -13285,7 +13294,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 22, 2012"
+    "date": "2012-05-22T04:00:00.000Z"
   },
   {
     "guests": ["Michael Ruppert"],
@@ -13294,7 +13303,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 15, 2012"
+    "date": "2012-05-15T04:00:00.000Z"
   },
   {
     "guests": ["Chael Sonnen"],
@@ -13303,7 +13312,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 14, 2012"
+    "date": "2012-05-14T04:00:00.000Z"
   },
   {
     "guests": ["Andrew Dice Clay, Max Silverstein"],
@@ -13312,7 +13321,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 11, 2012"
+    "date": "2012-05-11T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13321,7 +13330,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 8, 2012"
+    "date": "2012-05-08T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -13330,7 +13339,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 1, 2012"
+    "date": "2012-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13339,7 +13348,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 1, 2012"
+    "date": "2012-05-01T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -13348,7 +13357,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 26, 2012"
+    "date": "2012-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Ifft"],
@@ -13357,7 +13366,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 25, 2012"
+    "date": "2012-04-25T04:00:00.000Z"
   },
   {
     "guests": ["Freeway” Rick Ross"],
@@ -13366,7 +13375,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 24, 2012"
+    "date": "2012-04-24T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura, Christina Pazsitzky"],
@@ -13375,7 +13384,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 18, 2012"
+    "date": "2012-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -13384,7 +13393,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 17, 2012"
+    "date": "2012-04-17T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -13393,7 +13402,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 12, 2012"
+    "date": "2012-04-12T04:00:00.000Z"
   },
   {
     "guests": ["Amy Schumer"],
@@ -13402,7 +13411,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 10, 2012"
+    "date": "2012-04-10T04:00:00.000Z"
   },
   {
     "guests": ["Jim Jefferies"],
@@ -13411,7 +13420,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 7, 2012"
+    "date": "2012-04-07T04:00:00.000Z"
   },
   {
     "guests": ["Dom Irrera"],
@@ -13420,7 +13429,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 5, 2012"
+    "date": "2012-04-05T04:00:00.000Z"
   },
   {
     "guests": ["EverLast"],
@@ -13429,7 +13438,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 3, 2012"
+    "date": "2012-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13438,7 +13447,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 28, 2012"
+    "date": "2012-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -13447,7 +13456,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 27, 2012"
+    "date": "2012-03-27T04:00:00.000Z"
   },
   {
     "guests": ["Brody Stevens"],
@@ -13456,7 +13465,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 21, 2012"
+    "date": "2012-03-21T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13465,7 +13474,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 19, 2012"
+    "date": "2012-03-19T04:00:00.000Z"
   },
   {
     "guests": ["Matt Paxton"],
@@ -13474,7 +13483,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 14, 2012"
+    "date": "2012-03-14T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -13483,7 +13492,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 13, 2012"
+    "date": "2012-03-13T04:00:00.000Z"
   },
   {
     "guests": ["Jason Silva"],
@@ -13492,7 +13501,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jason Silva is a futurist, filmmaker, epiphany addict, ecstatic truth lover, znd techno optimist. Formerly a host on current.tv, Jason more recently creates short videos for the internet he calls 'shots of philosophical espresso'",
-    "date": "March 12, 2012"
+    "date": "2012-03-12T04:00:00.000Z"
   },
   {
     "guests": ["Jim Gaffigan"],
@@ -13501,7 +13510,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 11, 2012"
+    "date": "2012-03-11T05:00:00.000Z"
   },
   {
     "guests": ["Sam Harris"],
@@ -13510,7 +13519,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 8, 2012"
+    "date": "2012-03-08T05:00:00.000Z"
   },
   {
     "guests": ["Honey Honey"],
@@ -13519,7 +13528,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 6, 2012"
+    "date": "2012-03-06T05:00:00.000Z"
   },
   {
     "guests": ["Greg Fitzsimmons"],
@@ -13528,7 +13537,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 29, 2012"
+    "date": "2012-02-29T05:00:00.000Z"
   },
   {
     "guests": ["B-Real"],
@@ -13537,7 +13546,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 28, 2012"
+    "date": "2012-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Amy Schumer"],
@@ -13546,7 +13555,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 21, 2012"
+    "date": "2012-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -13555,7 +13564,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, martial artist, and university professor, and also is the author of On the Warrior's Path.",
-    "date": "February 20, 2012"
+    "date": "2012-02-20T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13564,7 +13573,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 16, 2012"
+    "date": "2012-02-16T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -13573,7 +13582,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 14, 2012"
+    "date": "2012-02-14T05:00:00.000Z"
   },
   {
     "guests": ["DEADMAU5, Russell Peters, Eddie Bravo"],
@@ -13582,7 +13591,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 11, 2012"
+    "date": "2012-02-11T05:00:00.000Z"
   },
   {
     "guests": ["Jason Silva"],
@@ -13591,7 +13600,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Jason Silva is a futurist, filmmaker, epiphany addict, ecstatic truth lover, znd techno optimist. Formerly a host on current.tv, Jason more recently creates short videos for the internet he calls 'shots of philosophical espresso'",
-    "date": "February 9, 2012"
+    "date": "2012-02-09T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen, Jimmy Burke"],
@@ -13600,7 +13609,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "NO VIDEO IS AVAILABLE FOR THIS EPISODE",
-    "date": "February 6, 2012"
+    "date": "2012-02-06T05:00:00.000Z"
   },
   {
     "guests": ["Iliza Shlesinger"],
@@ -13609,7 +13618,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 1, 2012"
+    "date": "2012-02-01T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz, Eddie Bravo, Denny Prokopos"],
@@ -13618,7 +13627,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 31, 2012"
+    "date": "2012-01-31T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13627,7 +13636,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 25, 2012"
+    "date": "2012-01-25T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -13636,7 +13645,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 23, 2012"
+    "date": "2012-01-23T05:00:00.000Z"
   },
   {
     "guests": ["Hamilton Morris"],
@@ -13645,7 +13654,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 18, 2012"
+    "date": "2012-01-18T05:00:00.000Z"
   },
   {
     "guests": ["Steven Rinella"],
@@ -13654,7 +13663,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 16, 2012"
+    "date": "2012-01-16T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13663,7 +13672,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 10, 2012"
+    "date": "2012-01-10T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo, Dr. Steve Graham"],
@@ -13672,7 +13681,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 9, 2012"
+    "date": "2012-01-09T05:00:00.000Z"
   },
   {
     "guests": ["Peter Joseph"],
@@ -13681,7 +13690,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 6, 2012"
+    "date": "2012-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -13690,7 +13699,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 3, 2012"
+    "date": "2012-01-03T05:00:00.000Z"
   },
   {
     "guests": ["EverLast"],
@@ -13699,7 +13708,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 28, 2011"
+    "date": "2011-12-28T05:00:00.000Z"
   },
   {
     "guests": ["Michael Ruppert"],
@@ -13708,7 +13717,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 27, 2011"
+    "date": "2011-12-27T05:00:00.000Z"
   },
   {
     "guests": [
@@ -13719,7 +13728,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 24, 2011"
+    "date": "2011-12-24T05:00:00.000Z"
   },
   {
     "guests": ["Ronda Rousey, Eddie Bravo"],
@@ -13728,7 +13737,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 21, 2011"
+    "date": "2011-12-21T05:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -13737,7 +13746,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 20, 2011"
+    "date": "2011-12-20T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13746,7 +13755,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 14, 2011"
+    "date": "2011-12-14T05:00:00.000Z"
   },
   {
     "guests": ["Bruce Lipton"],
@@ -13755,7 +13764,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 13, 2011"
+    "date": "2011-12-13T05:00:00.000Z"
   },
   {
     "guests": ["Shane Smith"],
@@ -13764,7 +13773,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 6, 2011"
+    "date": "2011-12-06T05:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope, Joey Diaz"],
@@ -13773,7 +13782,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 1, 2011"
+    "date": "2011-12-01T05:00:00.000Z"
   },
   {
     "guests": ["Daniele Bolelli"],
@@ -13782,7 +13791,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Daniele Bolelli is an Italian author, martial artist, and university professor, and also is the author of On the Warrior's Path.",
-    "date": "November 29, 2011"
+    "date": "2011-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -13791,7 +13800,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 28, 2011"
+    "date": "2011-11-28T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -13800,7 +13809,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 24, 2011"
+    "date": "2011-11-24T05:00:00.000Z"
   },
   {
     "guests": ["Nick Thune"],
@@ -13809,7 +13818,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 22, 2011"
+    "date": "2011-11-22T05:00:00.000Z"
   },
   {
     "guests": ["Doug Benson"],
@@ -13818,7 +13827,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 16, 2011"
+    "date": "2011-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura, Christina Pazsitzky"],
@@ -13827,7 +13836,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 15, 2011"
+    "date": "2011-11-15T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13836,7 +13845,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 10, 2011"
+    "date": "2011-11-10T05:00:00.000Z"
   },
   {
     "guests": ["Dave Attell"],
@@ -13845,7 +13854,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 8, 2011"
+    "date": "2011-11-08T05:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -13854,7 +13863,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 7, 2011"
+    "date": "2011-11-07T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -13863,7 +13872,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 31, 2011"
+    "date": "2011-10-31T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -13872,7 +13881,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 27, 2011"
+    "date": "2011-10-27T04:00:00.000Z"
   },
   {
     "guests": ["Josh McDermitt"],
@@ -13881,7 +13890,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 25, 2011"
+    "date": "2011-10-25T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -13890,7 +13899,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 24, 2011"
+    "date": "2011-10-24T04:00:00.000Z"
   },
   {
     "guests": ["LIVE FROM THE ICEHOUSE (PART ONE)"],
@@ -13899,7 +13908,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "PART TWO OF THIS PODCAST CAN BE FOUND ON THE DEATHSQUAD PODCAST.",
-    "date": "October 22, 2011"
+    "date": "2011-10-22T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Pereira"],
@@ -13908,7 +13917,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 19, 2011"
+    "date": "2011-10-19T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13917,7 +13926,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 17, 2011"
+    "date": "2011-10-17T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -13926,7 +13935,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 13, 2011"
+    "date": "2011-10-13T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -13935,7 +13944,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 10, 2011"
+    "date": "2011-10-10T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -13944,7 +13953,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 4, 2011"
+    "date": "2011-10-04T04:00:00.000Z"
   },
   {
     "guests": ["Mayhem Miller, Ryan Parsons"],
@@ -13953,7 +13962,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 28, 2011"
+    "date": "2011-09-28T04:00:00.000Z"
   },
   {
     "guests": ["Graham Hancock, Duncan Trussell"],
@@ -13962,7 +13971,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 25, 2011"
+    "date": "2011-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13971,7 +13980,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 25, 2011"
+    "date": "2011-09-25T04:00:00.000Z"
   },
   {
     "guests": ["Brendon Walsh"],
@@ -13980,7 +13989,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 22, 2011"
+    "date": "2011-09-22T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -13989,7 +13998,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 14, 2011"
+    "date": "2011-09-14T04:00:00.000Z"
   },
   {
     "guests": ["Anthony Bourdain"],
@@ -13998,7 +14007,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 11, 2011"
+    "date": "2011-09-11T04:00:00.000Z"
   },
   {
     "guests": ["Tim Ferriss"],
@@ -14007,7 +14016,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 10, 2011"
+    "date": "2011-09-10T04:00:00.000Z"
   },
   {
     "guests": ["Daniel Pinchbeck"],
@@ -14016,7 +14025,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 8, 2011"
+    "date": "2011-09-08T04:00:00.000Z"
   },
   {
     "guests": ["John Heffron, Joey Diaz"],
@@ -14025,7 +14034,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 6, 2011"
+    "date": "2011-09-06T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Smith"],
@@ -14034,7 +14043,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 1, 2011"
+    "date": "2011-09-01T04:00:00.000Z"
   },
   {
     "guests": ["Charlie Murphy, Freeze Love"],
@@ -14043,7 +14052,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 24, 2011"
+    "date": "2011-08-24T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -14052,7 +14061,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 22, 2011"
+    "date": "2011-08-22T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -14061,7 +14070,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 17, 2011"
+    "date": "2011-08-17T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14070,7 +14079,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 16, 2011"
+    "date": "2011-08-16T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14079,7 +14088,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 11, 2011"
+    "date": "2011-08-11T04:00:00.000Z"
   },
   {
     "guests": ["Aubrey Marcus"],
@@ -14088,7 +14097,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 3, 2011"
+    "date": "2011-08-03T04:00:00.000Z"
   },
   {
     "guests": ["Freddy Lockhart"],
@@ -14097,7 +14106,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 31, 2011"
+    "date": "2011-07-31T04:00:00.000Z"
   },
   {
     "guests": ["Giorgio Tsoukalos, Eddie Bravo"],
@@ -14106,7 +14115,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 27, 2011"
+    "date": "2011-07-27T04:00:00.000Z"
   },
   {
     "guests": ["Michael Schiavello"],
@@ -14115,7 +14124,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 24, 2011"
+    "date": "2011-07-24T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -14124,7 +14133,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 20, 2011"
+    "date": "2011-07-20T04:00:00.000Z"
   },
   {
     "guests": ["Jamie Kilstein"],
@@ -14133,7 +14142,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 19, 2011"
+    "date": "2011-07-19T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14142,7 +14151,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 11, 2011"
+    "date": "2011-07-11T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14151,7 +14160,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 6, 2011"
+    "date": "2011-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Jan Irvin"],
@@ -14160,7 +14169,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 5, 2011"
+    "date": "2011-07-05T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14169,7 +14178,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 29, 2011"
+    "date": "2011-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14178,7 +14187,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 28, 2011"
+    "date": "2011-06-28T04:00:00.000Z"
   },
   {
     "guests": ["Russell Peters, Junior Simpson"],
@@ -14187,7 +14196,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 21, 2011"
+    "date": "2011-06-21T04:00:00.000Z"
   },
   {
     "guests": ["Maz Jobrani"],
@@ -14196,7 +14205,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 20, 2011"
+    "date": "2011-06-20T04:00:00.000Z"
   },
   {
     "guests": ["Neal Brennan"],
@@ -14205,7 +14214,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 14, 2011"
+    "date": "2011-06-14T04:00:00.000Z"
   },
   {
     "guests": ["Brian Posehn"],
@@ -14214,7 +14223,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 13, 2011"
+    "date": "2011-06-13T04:00:00.000Z"
   },
   {
     "guests": ["Cliffy B, Johnny Cristo"],
@@ -14223,7 +14232,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 7, 2011"
+    "date": "2011-06-07T04:00:00.000Z"
   },
   {
     "guests": ["Al Madrigal"],
@@ -14232,7 +14241,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 6, 2011"
+    "date": "2011-06-06T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14241,7 +14250,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 1, 2011"
+    "date": "2011-06-01T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14250,7 +14259,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 31, 2011"
+    "date": "2011-05-31T04:00:00.000Z"
   },
   {
     "guests": ["Doug Benson"],
@@ -14259,7 +14268,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 12, 2011"
+    "date": "2011-05-12T04:00:00.000Z"
   },
   {
     "guests": ["Steve Rannazzisi"],
@@ -14268,7 +14277,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 10, 2011"
+    "date": "2011-05-10T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14277,7 +14286,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 9, 2011"
+    "date": "2011-05-09T04:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -14286,7 +14295,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 4, 2011"
+    "date": "2011-05-04T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14295,7 +14304,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 2, 2011"
+    "date": "2011-05-02T04:00:00.000Z"
   },
   {
     "guests": ["John Heffron"],
@@ -14304,7 +14313,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 27, 2011"
+    "date": "2011-04-27T04:00:00.000Z"
   },
   {
     "guests": ["Adam Carolla"],
@@ -14313,7 +14322,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 26, 2011"
+    "date": "2011-04-26T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -14322,7 +14331,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 19, 2011"
+    "date": "2011-04-19T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -14331,7 +14340,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 18, 2011"
+    "date": "2011-04-18T04:00:00.000Z"
   },
   {
     "guests": ["Daryl Wright, Brian Whitaker"],
@@ -14340,7 +14349,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 13, 2011"
+    "date": "2011-04-13T04:00:00.000Z"
   },
   {
     "guests": ["Kevin Pereira"],
@@ -14349,7 +14358,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 8, 2011"
+    "date": "2011-04-08T04:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -14358,7 +14367,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 5, 2011"
+    "date": "2011-04-05T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14367,7 +14376,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 31, 2011"
+    "date": "2011-03-31T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14376,7 +14385,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 28, 2011"
+    "date": "2011-03-28T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -14385,7 +14394,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 22, 2011"
+    "date": "2011-03-22T04:00:00.000Z"
   },
   {
     "guests": ["Jim Norton"],
@@ -14394,7 +14403,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 22, 2011"
+    "date": "2011-03-22T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14403,7 +14412,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 16, 2011"
+    "date": "2011-03-16T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14412,7 +14421,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 15, 2011"
+    "date": "2011-03-15T04:00:00.000Z"
   },
   {
     "guests": ["Andy Dick"],
@@ -14421,7 +14430,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 10, 2011"
+    "date": "2011-03-10T05:00:00.000Z"
   },
   {
     "guests": ["Dana Dearmond"],
@@ -14430,7 +14439,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 8, 2011"
+    "date": "2011-03-08T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -14439,7 +14448,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 4, 2011"
+    "date": "2011-03-04T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14448,7 +14457,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 1, 2011"
+    "date": "2011-03-01T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14457,7 +14466,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 28, 2011"
+    "date": "2011-02-28T05:00:00.000Z"
   },
   {
     "guests": ["Bas Rutten"],
@@ -14466,7 +14475,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 22, 2011"
+    "date": "2011-02-22T05:00:00.000Z"
   },
   {
     "guests": ["Dave Foley"],
@@ -14475,7 +14484,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 21, 2011"
+    "date": "2011-02-21T05:00:00.000Z"
   },
   {
     "guests": ["Pete Johansson"],
@@ -14484,7 +14493,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 16, 2011"
+    "date": "2011-02-16T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz, Ari Shaffir"],
@@ -14493,7 +14502,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 15, 2011"
+    "date": "2011-02-15T05:00:00.000Z"
   },
   {
     "guests": ["Jon Lajoie"],
@@ -14502,7 +14511,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 10, 2011"
+    "date": "2011-02-10T05:00:00.000Z"
   },
   {
     "guests": ["Chris Aubrey Marcus"],
@@ -14511,7 +14520,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 8, 2011"
+    "date": "2011-02-08T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Ifft"],
@@ -14520,7 +14529,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 3, 2011"
+    "date": "2011-02-03T05:00:00.000Z"
   },
   {
     "guests": ["Bobby Lee"],
@@ -14529,7 +14538,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 1, 2011"
+    "date": "2011-02-01T05:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -14538,7 +14547,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 26, 2011"
+    "date": "2011-01-26T05:00:00.000Z"
   },
   {
     "guests": ["Allison Sciulla"],
@@ -14547,7 +14556,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 25, 2011"
+    "date": "2011-01-25T05:00:00.000Z"
   },
   {
     "guests": ["Bert Kreischer"],
@@ -14556,7 +14565,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 19, 2011"
+    "date": "2011-01-19T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14565,7 +14574,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 18, 2011"
+    "date": "2011-01-18T05:00:00.000Z"
   },
   {
     "guests": ["Al Madrigal"],
@@ -14574,7 +14583,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 13, 2011"
+    "date": "2011-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Brendon Walsh"],
@@ -14583,7 +14592,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 11, 2011"
+    "date": "2011-01-11T05:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14592,7 +14601,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 5, 2011"
+    "date": "2011-01-05T05:00:00.000Z"
   },
   {
     "guests": ["Iliza Schlesinger"],
@@ -14601,7 +14610,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 4, 2011"
+    "date": "2011-01-04T05:00:00.000Z"
   },
   {
     "guests": ["Hal Sparks"],
@@ -14610,7 +14619,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 30, 2010"
+    "date": "2010-12-30T05:00:00.000Z"
   },
   {
     "guests": ["Nick Swardson"],
@@ -14619,7 +14628,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 28, 2010"
+    "date": "2010-12-28T05:00:00.000Z"
   },
   {
     "guests": ["John Heffron"],
@@ -14628,7 +14637,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 21, 2010"
+    "date": "2010-12-21T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14637,7 +14646,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 21, 2010"
+    "date": "2010-12-21T05:00:00.000Z"
   },
   {
     "guests": ["Russell Peters"],
@@ -14646,7 +14655,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 17, 2010"
+    "date": "2010-12-17T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14655,7 +14664,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 15, 2010"
+    "date": "2010-12-15T05:00:00.000Z"
   },
   {
     "guests": ["Cliffy B"],
@@ -14664,7 +14673,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 8, 2010"
+    "date": "2010-12-08T05:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz", "Ari Shaffir"],
@@ -14673,7 +14682,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 7, 2010"
+    "date": "2010-12-07T05:00:00.000Z"
   },
   {
     "guests": ["Ralphie May"],
@@ -14682,7 +14691,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 1, 2010"
+    "date": "2010-12-01T05:00:00.000Z"
   },
   {
     "guests": ["Mayhem Miller"],
@@ -14691,7 +14700,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 29, 2010"
+    "date": "2010-11-29T05:00:00.000Z"
   },
   {
     "guests": ["Jayson Thibault"],
@@ -14700,7 +14709,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 26, 2010"
+    "date": "2010-11-26T05:00:00.000Z"
   },
   {
     "guests": ["Johnny Pemberton"],
@@ -14709,7 +14718,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 23, 2010"
+    "date": "2010-11-23T05:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14718,7 +14727,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 16, 2010"
+    "date": "2010-11-16T05:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14727,7 +14736,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 9, 2010"
+    "date": "2010-11-09T05:00:00.000Z"
   },
   {
     "guests": ["Freddy Lockhart"],
@@ -14736,7 +14745,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "November 2, 2010"
+    "date": "2010-11-02T04:00:00.000Z"
   },
   {
     "guests": ["Steve Rannazzisi"],
@@ -14745,7 +14754,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 28, 2010"
+    "date": "2010-10-28T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14754,7 +14763,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 26, 2010"
+    "date": "2010-10-26T04:00:00.000Z"
   },
   {
     "guests": ["Little Esther"],
@@ -14763,7 +14772,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 21, 2010"
+    "date": "2010-10-21T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14772,7 +14781,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 19, 2010"
+    "date": "2010-10-19T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -14781,7 +14790,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 12, 2010"
+    "date": "2010-10-12T04:00:00.000Z"
   },
   {
     "guests": ["Michael Schiavello"],
@@ -14790,7 +14799,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 9, 2010"
+    "date": "2010-10-09T04:00:00.000Z"
   },
   {
     "guests": ["Chris Marcus"],
@@ -14799,7 +14808,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "October 5, 2010"
+    "date": "2010-10-05T04:00:00.000Z"
   },
   {
     "guests": ["Tom Green"],
@@ -14808,7 +14817,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 29, 2010"
+    "date": "2010-09-29T04:00:00.000Z"
   },
   {
     "guests": ["Todd McCormick"],
@@ -14817,7 +14826,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 28, 2010"
+    "date": "2010-09-28T04:00:00.000Z"
   },
   {
     "guests": ["Doug Stanhope"],
@@ -14826,7 +14835,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 23, 2010"
+    "date": "2010-09-23T04:00:00.000Z"
   },
   {
     "guests": ["Duncan Trussell"],
@@ -14835,7 +14844,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 20, 2010"
+    "date": "2010-09-20T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -14844,7 +14853,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 13, 2010"
+    "date": "2010-09-13T04:00:00.000Z"
   },
   {
     "guests": ["Tyler Knight"],
@@ -14853,7 +14862,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 7, 2010"
+    "date": "2010-09-07T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14862,7 +14871,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "September 2, 2010"
+    "date": "2010-09-02T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14871,7 +14880,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 31, 2010"
+    "date": "2010-08-31T04:00:00.000Z"
   },
   {
     "guests": ["Ricky Schroder"],
@@ -14880,7 +14889,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 24, 2010"
+    "date": "2010-08-24T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14889,7 +14898,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 21, 2010"
+    "date": "2010-08-21T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz, Eddie Bravo"],
@@ -14898,7 +14907,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 11, 2010"
+    "date": "2010-08-11T04:00:00.000Z"
   },
   {
     "guests": ["Doug Benson"],
@@ -14907,7 +14916,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 10, 2010"
+    "date": "2010-08-10T04:00:00.000Z"
   },
   {
     "guests": ["Dane Cook"],
@@ -14916,7 +14925,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "August 3, 2010"
+    "date": "2010-08-03T04:00:00.000Z"
   },
   {
     "guests": ["Bryan Callen"],
@@ -14925,7 +14934,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 28, 2010"
+    "date": "2010-07-28T04:00:00.000Z"
   },
   {
     "guests": ["Mayhem Miller"],
@@ -14934,7 +14943,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 20, 2010"
+    "date": "2010-07-20T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14943,7 +14952,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 14, 2010"
+    "date": "2010-07-14T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -14952,7 +14961,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "July 6, 2010"
+    "date": "2010-07-06T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14961,7 +14970,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 29, 2010"
+    "date": "2010-06-29T04:00:00.000Z"
   },
   {
     "guests": ["Sam Tripoli"],
@@ -14970,7 +14979,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 24, 2010"
+    "date": "2010-06-24T04:00:00.000Z"
   },
   {
     "guests": ["Bill Burr"],
@@ -14979,7 +14988,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 16, 2010"
+    "date": "2010-06-16T04:00:00.000Z"
   },
   {
     "guests": ["Joey Diaz"],
@@ -14988,7 +14997,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 15, 2010"
+    "date": "2010-06-15T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -14997,7 +15006,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 8, 2010"
+    "date": "2010-06-08T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15006,7 +15015,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "June 2, 2010"
+    "date": "2010-06-02T04:00:00.000Z"
   },
   {
     "guests": ["John Heffron"],
@@ -15015,7 +15024,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 25, 2010"
+    "date": "2010-05-25T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15024,7 +15033,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 18, 2010"
+    "date": "2010-05-18T04:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -15033,7 +15042,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 12, 2010"
+    "date": "2010-05-12T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15042,7 +15051,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "May 4, 2010"
+    "date": "2010-05-04T04:00:00.000Z"
   },
   {
     "guests": ["Redban"],
@@ -15051,7 +15060,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "Read More →",
-    "date": "April 27, 2010"
+    "date": "2010-04-27T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir, Eddie Bravo"],
@@ -15060,7 +15069,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 21, 2010"
+    "date": "2010-04-21T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15069,7 +15078,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 13, 2010"
+    "date": "2010-04-13T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15078,7 +15087,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 7, 2010"
+    "date": "2010-04-07T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15087,7 +15096,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "April 3, 2010"
+    "date": "2010-04-03T04:00:00.000Z"
   },
   {
     "guests": ["Eddie Bravo"],
@@ -15096,7 +15105,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 31, 2010"
+    "date": "2010-03-31T04:00:00.000Z"
   },
   {
     "guests": ["Joe Rogan"],
@@ -15105,7 +15114,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 20, 2010"
+    "date": "2010-03-20T04:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15114,7 +15123,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 9, 2010"
+    "date": "2010-03-09T05:00:00.000Z"
   },
   {
     "guests": ["Joe Rogan"],
@@ -15123,7 +15132,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "March 3, 2010"
+    "date": "2010-03-03T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15132,7 +15141,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 24, 2010"
+    "date": "2010-02-24T05:00:00.000Z"
   },
   {
     "guests": ["Tom Segura"],
@@ -15141,7 +15150,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 10, 2010"
+    "date": "2010-02-10T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15150,7 +15159,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "February 3, 2010"
+    "date": "2010-02-03T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15159,7 +15168,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 28, 2010"
+    "date": "2010-01-28T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir, John Heffron"],
@@ -15168,7 +15177,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 21, 2010"
+    "date": "2010-01-21T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15177,7 +15186,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 13, 2010"
+    "date": "2010-01-13T05:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
@@ -15186,7 +15195,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "January 6, 2010"
+    "date": "2010-01-06T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15195,7 +15204,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 29, 2009"
+    "date": "2009-12-29T05:00:00.000Z"
   },
   {
     "guests": ["Brian Redban"],
@@ -15204,15 +15213,6 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "description": "No description available.",
-    "date": "December 24, 2009"
-  },
-  {
-    "guests": ["Brendan Schaub", "Bobby Lee", "Bryan Callen"],
-    "title": "Fight Companion – July 11, 2015",
-    "episode_id": null,
-    "isMMA": false,
-    "isFC": true,
-    "description": "The Fighter & The Kid took over the Talking Monkey Studios to watch the fights with comedian Bobby Lee on July 11, 2015. http://www.tfatk.com",
-    "date": "July 11, 2015"
+    "date": "2009-12-24T05:00:00.000Z"
   }
 ]
