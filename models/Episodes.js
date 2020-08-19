@@ -10,7 +10,7 @@ const episodeSchema = new Schema({
   isFC: Boolean,
   youtube_url: String || null,
   description: String,
-  date: String
+  date: Date
 })
 
 const Episode = mongoose.model('Episode', episodeSchema)
