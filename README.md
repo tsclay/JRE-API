@@ -21,8 +21,10 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [ ] FC28 on Oct. 22, 2016 in db, but Oct. 21 on YT
 - [ ] FC46 => Jan. 10 2020 in db | Jan. 9 on YT
 
-## Duplicate pieces
+## To Do
 
-- [x] FC8
-- [ ] FC35
-- [ ] FC36
+- [x] Set all FC episodes' titles to format `Fight Companion - ${date}`
+- [ ] Begin front-end for API info/tutorial
+- [ ] Make system that generates and logs API Keys and their users
+- [ ] Design logic that auto-scrapes the most recent episodes and plug them into db
+- [x] Get YouTube links
