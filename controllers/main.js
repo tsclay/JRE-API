@@ -63,4 +63,28 @@ main.get('/api/fc', async (req, res) => {
   }
 })
 
+// Get all MMA Shows ordered by date
+main.get('/api/mma', async (req, res) => {
+  try {
+    const data = await Episode.find({isMMA: true}).sort({date: 1})
+    console.log(data.length)
+    res.json(data)
+  } catch (error) {
+    console.log(error);
+  }
+})
+
+main.get('/api/mma/select', async (req, res) => {
+  try {
+    const data = await Episode.find({$text: {$search: "\"MMA Show\""}, episode_id: {$lte: 19}}).sort({episode_id: 1})
+    // for (let i = 0; i < data.length; i++) {
+    //   await Episode.updateOne({_id: data[i]._id}, {isMMA: true})
+    // }
+    // const check = await Episode.find({$text: {$search: "\"MMA Show\""}, episode_id: {$lte: 19}}).sort({episode_id: 1})
+    res.json(data)
+  } catch (error) {
+    console.log(error);
+  }
+})
+
 module.exports = main
