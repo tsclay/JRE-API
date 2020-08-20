@@ -2,6 +2,7 @@ const express = require('express')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
 const moment = require('moment')
+const { db } = require('../models/Episodes')
 
 const main = express.Router()
 
@@ -18,6 +19,16 @@ main.get('/api/all', (req, res) => {
   Episode.aggregate([{$project: {_id: 0, __v: 0}}], (error, data) => {
     return error ? res.json(error) : res.json(data)
   })
+})
+
+// Get one episode and send it to front for example of data and format
+main.get('/api/example', async (req, res) => {
+  try {
+    const e = await Episode.aggregate([{$match: {episode_id: 1522}}, {$project: {_id: 0, __v:0}}])
+    res.json(e)
+  } catch (error) {
+    console.log(error)
+  }
 })
 
 // Fix the 'null' values on older Fight Companion episodes
