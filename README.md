@@ -24,8 +24,9 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 ## To Do
 
 - [x] Set all FC episodes' titles to format `Fight Companion - ${date}`
-- [ ] Begin front-end for API info/tutorial
+- [x] Begin front-end for API info/tutorial
 - [ ] Make system that generates and logs API Keys and their users
 - [ ] Design logic that auto-scrapes the most recent episodes and plug them into db
 - [x] Get YouTube links
 - [ ] Plug YT links into each doc in db
+- [x] Fix guests arrays and isMMA props for MMA Shows
