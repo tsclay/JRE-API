@@ -39,29 +39,29 @@ main.get('/api/example', async (req, res) => {
 })
 
 // Fix the 'null' values on older Fight Companion episodes
-main.get('/api/fixFC', async (req, res) => {
-  try {
-    const data = await Episode.find({
-      isFC: true,
-      episode_id: { $lt: 500 }
-    }).sort({ date: 1 })
-    for (let i = data.length - 1; i >= 0; i--) {
-      await Episode.updateOne(
-        { _id: data[i]._id },
-        { episode_id: i + 1 },
-        (err, changed) => {
-          console.log(changed)
-        }
-      )
-    }
-    const afterCheck = await Episode.find({ isFC: true }).sort({
-      episode_id: 1
-    })
-    res.send(afterCheck)
-  } catch (error) {
-    console.log(error)
-  }
-})
+// main.get('/api/fixFC', async (req, res) => {
+//   try {
+//     const data = await Episode.find({
+//       isFC: true,
+//       episode_id: { $lt: 500 }
+//     }).sort({ date: 1 })
+//     for (let i = data.length - 1; i >= 0; i--) {
+//       await Episode.updateOne(
+//         { _id: data[i]._id },
+//         { episode_id: i + 1 },
+//         (err, changed) => {
+//           console.log(changed)
+//         }
+//       )
+//     }
+//     const afterCheck = await Episode.find({ isFC: true }).sort({
+//       episode_id: 1
+//     })
+//     res.send(afterCheck)
+//   } catch (error) {
+//     console.log(error)
+//   }
+// })
 
 // All Fight Companion episodes
 main.get('/api/fc', async (req, res) => {
@@ -90,59 +90,59 @@ main.get('/api/mma', async (req, res) => {
   }
 })
 
-main.get('/api/mma/select', async (req, res) => {
-  try {
-    const data = await Episode.find({
-      $text: { $search: '"MMA Show"' },
-      episode_id: { $lte: 19 }
-    }).sort({ episode_id: 1 })
-    // for (let i = 0; i < data.length; i++) {
-    //   await Episode.updateOne({_id: data[i]._id}, {isMMA: true})
-    // }
-    // const check = await Episode.find({$text: {$search: "\"MMA Show\""}, episode_id: {$lte: 19}}).sort({episode_id: 1})
-    res.json(data)
-  } catch (error) {
-    console.log(error)
-  }
-})
+// main.get('/api/mma/select', async (req, res) => {
+//   try {
+//     const data = await Episode.find({
+//       $text: { $search: '"MMA Show"' },
+//       episode_id: { $lte: 19 }
+//     }).sort({ episode_id: 1 })
+//     // for (let i = 0; i < data.length; i++) {
+//     //   await Episode.updateOne({_id: data[i]._id}, {isMMA: true})
+//     // }
+//     // const check = await Episode.find({$text: {$search: "\"MMA Show\""}, episode_id: {$lte: 19}}).sort({episode_id: 1})
+//     res.json(data)
+//   } catch (error) {
+//     console.log(error)
+//   }
+// })
 
 // Edit the non-fight episodes
-main.get('/api/no-fight-edits', async (req, res) => {
-  try {
-    const data = await Episode.find({
-      isMMA: false,
-      isFC: false,
-      episode_id: { $gte: 1 },
-      guests: { $size: 1 }
-    }).sort({ episode_id: 1 })
-    for (let i = 0; i < data.length; i++) {
-      const firstIndex = data[i].guests[0]
-      if (
-        firstIndex.includes(',') &&
-        (firstIndex.includes('from Buddhist Geeks') ||
-          firstIndex.includes('PhD') ||
-          firstIndex.includes('from Unbox Therapy') ||
-          firstIndex.includes('from Speedweed') ||
-          firstIndex.includes('from VSauce') ||
-          firstIndex.includes('from Float Lab'))
-      ) {
-        const splitGuests = data[i].guests[0].split(', ')
-        // splitGuests.pop()
-        // Episode.updateOne(
-        //   { _id: data[i]._id },
-        //   { guests: splitGuests },
-        //   (err, changed) => {
-        //     console.log(changed)
-        //   }
-        // )
-        console.log(splitGuests, data[i].episode_id)
-      }
-    }
-    res.json(data)
-  } catch (error) {
-    console.log(error)
-  }
-})
+// main.get('/api/no-fight-edits', async (req, res) => {
+//   try {
+//     const data = await Episode.find({
+//       isMMA: false,
+//       isFC: false,
+//       episode_id: { $gte: 1 },
+//       guests: { $size: 1 }
+//     }).sort({ episode_id: 1 })
+//     for (let i = 0; i < data.length; i++) {
+//       const firstIndex = data[i].guests[0]
+//       if (
+//         firstIndex.includes(',') &&
+//         (firstIndex.includes('from Buddhist Geeks') ||
+//           firstIndex.includes('PhD') ||
+//           firstIndex.includes('from Unbox Therapy') ||
+//           firstIndex.includes('from Speedweed') ||
+//           firstIndex.includes('from VSauce') ||
+//           firstIndex.includes('from Float Lab'))
+//       ) {
+//         const splitGuests = data[i].guests[0].split(', ')
+//         // splitGuests.pop()
+//         // Episode.updateOne(
+//         //   { _id: data[i]._id },
+//         //   { guests: splitGuests },
+//         //   (err, changed) => {
+//         //     console.log(changed)
+//         //   }
+//         // )
+//         console.log(splitGuests, data[i].episode_id)
+//       }
+//     }
+//     res.json(data)
+//   } catch (error) {
+//     console.log(error)
+//   }
+// })
 
 main.get('/api/no-fight', async (req, res) => {
   try {
