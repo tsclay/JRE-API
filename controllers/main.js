@@ -28,7 +28,8 @@ main.get('/api/all', (req, res) => {
 main.get('/api/example', async (req, res) => {
   try {
     const e = await Episode.aggregate([
-      { $match: { episode_id: 1522 } },
+      { $sort: { date: -1 } },
+      { $limit: 1 },
       { $project: { _id: 0, __v: 0 } }
     ])
     res.json(e)
