@@ -11,15 +11,15 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 
 ## Broken Dates
 
-- [ ] FC4 on YouTube has July 7, 2014 as date; July 6, 2014 in db
-- [ ] FC9 on YouTube has Feb. 14, 2015 as date; Feb. 15, 2015 in db
-- [ ] FC41 => Nov. 11 2018 in db | Nov. 10 on YT
+- [x] FC4 on YouTube has July 7, 2014 as date; July 6, 2014 in db
+- [x] FC9 on YouTube has Feb. 14, 2015 as date; Feb. 15, 2015 in db
+- [x] FC41 => Nov. 11 2018 in db | Nov. 10 on YT
 - [x] FC episode on April 11, 2015 split into two parts?
-- [ ] FC21 on May 30, 2016 in db, but May 29, 2016 on YT
-- [ ] FC22 on June 19, 2016 in db, but June 18 on YT
-- [ ] FC27 on Oct. 9, 2016 in db, but Oct. 8 on YT
-- [ ] FC28 on Oct. 22, 2016 in db, but Oct. 21 on YT
-- [ ] FC46 => Jan. 10 2020 in db | Jan. 9 on YT
+- [x] FC21 on May 30, 2016 in db, but May 29, 2016 on YT
+- [x] FC22 on June 19, 2016 in db, but June 18 on YT
+- [x] FC27 on Oct. 9, 2016 in db, but Oct. 8 on YT
+- [x] FC28 on Oct. 22, 2016 in db, but Oct. 21 on YT
+- [x] FC46 => Jan. 10 2020 in db | Jan. 9 on YT
 
 ## JRE Episodes need fixing
 
@@ -31,6 +31,7 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Fix episode ids with 0 and null
 - [x] Guests arrays for FC episodes incorrect
 - [x] Incomplete descriptions for FC episodes
+- [x] Broken guests arrays
 
 ## To Do
 
@@ -40,39 +41,7 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Design logic that auto-scrapes the most recent episodes and plug them into db
 - [x] Get YouTube links
 - [ ] Plug YT links into each doc in db
+  - [x] Plug FC links
+  - [ ] Plug MMA links
+  - [ ] Plug general links
 - [x] Fix guests arrays and isMMA props for MMA Shows
-
-1485 guests names
-
-1405 guests
-1393 guests
-1389 guests
-1393 guests
-
-1356 guests
-
-1336 guests
-
-1305 guests
-1255 guests
-1246 guests
-
-1101 guests
-916 guests
-902, 896, 895, 894, 893, 890
-827
-797
-772
-682
-643
-586
-568
-489
-340
-
-313, 182
-
-317
-316
-254
-201, 171
