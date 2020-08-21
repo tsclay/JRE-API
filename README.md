@@ -42,6 +42,6 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Get YouTube links
 - [ ] Plug YT links into each doc in db
   - [x] Plug FC links
-  - [ ] Plug MMA links
+  - [x] Plug MMA links
   - [ ] Plug general links
 - [x] Fix guests arrays and isMMA props for MMA Shows
