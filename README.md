@@ -21,12 +21,21 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [ ] FC28 on Oct. 22, 2016 in db, but Oct. 21 on YT
 - [ ] FC46 => Jan. 10 2020 in db | Jan. 9 on YT
 
+## JRE Episodes need fixing
+
+- [x] 12 and 10 - only Joe Rogan
+- [x] 18 - Brian Redban's name
+- [x] 35 - split guests
+- [x] Hundreds of episodes missing Redban from title and guest list. Yikes!
+  - DO NOT DELETE NUMBERS.TXT
+- [x] Fix episode ids with 0 and null
+
 ## To Do
 
 - [x] Set all FC episodes' titles to format `Fight Companion - ${date}`
 - [x] Begin front-end for API info/tutorial
 - [ ] Make system that generates and logs API Keys and their users
-- [ ] Design logic that auto-scrapes the most recent episodes and plug them into db
+- [x] Design logic that auto-scrapes the most recent episodes and plug them into db
 - [x] Get YouTube links
 - [ ] Plug YT links into each doc in db
 - [x] Fix guests arrays and isMMA props for MMA Shows
