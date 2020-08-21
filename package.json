@@ -11,7 +11,9 @@
   "main": "server.js",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "eslint": "^7.6.0",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
     "moment": "^2.27.0",
     "node-fetch": "^2.6.0"
   }
