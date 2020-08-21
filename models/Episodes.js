@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const {Schema} = mongoose
+const { Schema } = mongoose
 
 const episodeSchema = new Schema({
   title: String,
@@ -8,9 +8,10 @@ const episodeSchema = new Schema({
   episode_id: Number,
   isMMA: Boolean,
   isFC: Boolean,
-  youtube_url: String || null,
+  isJRQE: Boolean,
   description: String,
-  date: Date
+  date: Date,
+  video_urls: [String] || null
 })
 
 const Episode = mongoose.model('Episode', episodeSchema)
