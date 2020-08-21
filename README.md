@@ -14,7 +14,7 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [ ] FC4 on YouTube has July 7, 2014 as date; July 6, 2014 in db
 - [ ] FC9 on YouTube has Feb. 14, 2015 as date; Feb. 15, 2015 in db
 - [ ] FC41 => Nov. 11 2018 in db | Nov. 10 on YT
-- [ ] FC episode on April 11, 2015 split into two parts?
+- [x] FC episode on April 11, 2015 split into two parts?
 - [ ] FC21 on May 30, 2016 in db, but May 29, 2016 on YT
 - [ ] FC22 on June 19, 2016 in db, but June 18 on YT
 - [ ] FC27 on Oct. 9, 2016 in db, but Oct. 8 on YT
@@ -29,6 +29,8 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Hundreds of episodes missing Redban from title and guest list. Yikes!
   - DO NOT DELETE NUMBERS.TXT
 - [x] Fix episode ids with 0 and null
+- [x] Guests arrays for FC episodes incorrect
+- [x] Incomplete descriptions for FC episodes
 
 ## To Do
 
