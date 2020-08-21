@@ -1,3 +1,4 @@
+/* eslint-disable */
 module.exports = [
   {
     "guests": ["Ali Macofsky"],
@@ -460,8 +461,8 @@ module.exports = [
   },
   {
     "guests": ["Tony Hawk"],
-    "title": "# - Tony Hawk",
-    "episode_id": 0,
+    "title": "#1477- Tony Hawk",
+    "episode_id": 1477,
     "isMMA": false,
     "isFC": false,
     "description": "Tony Hawk is a professional skateboarder, actor, stuntman, and the owner of the skateboard company Birdhouse.",
@@ -1027,8 +1028,8 @@ module.exports = [
   },
   {
     "guests": ["Andrew Doyle"],
-    "title": "# - Andrew Doyle",
-    "episode_id": 0,
+    "title": "#1423 - Andrew Doyle",
+    "episode_id": 1423,
     "isMMA": false,
     "isFC": false,
     "description": "Andrew Doyle is a British comedian, playwright, journalist, political satirist and is creator of the fictitious character Titania McGrath. The new book \"Woke: A Guide to Social Justice\" by Titania McGrath is now available: https://amzn.to/36X2GoG",
@@ -2214,12 +2215,12 @@ module.exports = [
     "date": "2019-06-24T04:00:00.000Z"
   },
   {
-    "guests": ["Swapcast01"],
-    "title": "#Swapcast01 - Swapcast01",
+    "guests": ["John Dudley"],
+    "title": "Swapcast - Podcast on a Plane with John Dudley",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Joe and John Dudley sit down on a plane to discuss their recent hunting trip...",
+    "description": "Joe and John Dudley sit down on a plane to discuss their recent hunting trip to Lanai.",
     "date": "2019-06-21T04:00:00.000Z"
   },
   {
@@ -2736,10 +2737,10 @@ module.exports = [
     "date": "2019-03-19T04:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #59 with Kamaru Usman"],
-    "title": "#059 - MMA Show #59 with Kamaru Usman",
+    "guests": ["Kamaru Usman"],
+    "title": "Kamaru Usman",
     "episode_id": 59,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by UFC Welterweight Champion Kamaru Usman.",
     "date": "2019-03-18T04:00:00.000Z"
@@ -3789,10 +3790,10 @@ module.exports = [
     "date": "2018-09-12T04:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #41 with TJ Dillashaw", "Duane Ludwig"],
+    "guests": ["TJ Dillashaw", "Duane Ludwig"],
     "title": "#041 - MMA Show #41 with TJ Dillashaw & Duane Ludwig",
     "episode_id": 41,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe is sits down with UFC Bantamweight Champion TJ Dillashaw & Duane \"Bang\" Ludwig.",
     "date": "2018-09-12T04:00:00.000Z"
@@ -4347,7 +4348,7 @@ module.exports = [
     "date": "2018-05-29T04:00:00.000Z"
   },
   {
-    "guests": ["JRE MMA Show #29"],
+    "guests": ["Cat Zingano"],
     "title": "#029 - JRE MMA Show #29",
     "episode_id": 29,
     "isMMA": true,
@@ -4420,8 +4421,8 @@ module.exports = [
   },
   {
     "guests": ["Tim Kennedy"],
-    "title": "#027 - Tim Kennedy",
-    "episode_id": 27,
+    "title": "#1117 - Tim Kennedy",
+    "episode_id": 1117,
     "isMMA": false,
     "isFC": false,
     "description": "Tim Kennedy is a Ranger, sniper, Special Forces Operator, and recently retired UFC Fighter.",
@@ -4698,7 +4699,7 @@ module.exports = [
     "date": "2018-03-26T04:00:00.000Z"
   },
   {
-    "guests": ["JRE MMA Show #19 with Vinny Shoreman", "Liam Harrison"],
+    "guests": ["Vinny Shoreman", "Liam Harrison"],
     "title": "#019 - JRE MMA Show #19 with Vinny Shoreman & Liam Harrison",
     "episode_id": 19,
     "isMMA": true,
@@ -4707,10 +4708,10 @@ module.exports = [
     "date": "2018-03-22T04:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #18 with Pat Miletich"],
+    "guests": ["Pat Miletich"],
     "title": "#018 - MMA Show #18 with Pat Miletich",
     "episode_id": 18,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with former UFC Welterweight Champion and current commentator Pat Miletich.",
     "date": "2018-03-21T04:00:00.000Z"
@@ -4726,8 +4727,8 @@ module.exports = [
   },
   {
     "guests": ["Owen Benjamin", "Kurt Metzger"],
-    "title": "# - Owen Benjamin & Kurt Metzger",
-    "episode_id": 0,
+    "title": "#1093- Owen Benjamin & Kurt Metzger",
+    "episode_id": 1093,
     "isMMA": false,
     "isFC": false,
     "description": "Owen Benjamin is a stand up comedian and actor. His new special \"How Dare Me?\" is out now & check out his podcast called “Why Didn’t They Laugh?” available on iTunes. Kurt Metzger is a comedian, actor and writer.  He also has a podcast called “Race Wars” he co-hosts with comedian Sherrod Small available for download via iTunes.",
@@ -4761,10 +4762,10 @@ module.exports = [
     "date": "2018-03-13T04:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #17 with Yoel Romero", "Joey Diaz"],
+    "guests": ["Yoel Romero", "Joey Diaz"],
     "title": "#017 - MMA Show #17 with Yoel Romero & Joey Diaz",
     "episode_id": 17,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Yoel Romero to discuss his history as a fighter and wrestler from Cuba, and Joey Diaz joins to assist with translation from Spanish.",
     "date": "2018-03-12T04:00:00.000Z"
@@ -4788,12 +4789,12 @@ module.exports = [
     "date": "2018-03-06T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #16 with Brendan Schaub"],
+    "guests": ["Brendan Schaub"],
     "title": "#016 - MMA Show #16 with Brendan Schaub",
     "episode_id": 16,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
-    "description": "Joe is joined by Brendan Schaub to discuss this past weekend's fights. Also check out his new show \"Below The Belt with Brendan Schaub\" on SHOwtime.",
+    "description": "Joe is joined by Brendan Schaub to discuss this past weekend's fights. Also check out his new show \"Below The Belt with Brendan Schaub\" on Showtime.",
     "date": "2018-03-06T05:00:00.000Z"
   },
   {
@@ -4878,10 +4879,10 @@ module.exports = [
     "date": "2018-02-15T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #15 with Brendan Schaub"],
+    "guests": ["Brendan Schaub"],
     "title": "#015 - MMA Show #15 with Brendan Schaub",
     "episode_id": 15,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing.",
     "date": "2018-02-13T05:00:00.000Z"
@@ -4923,10 +4924,10 @@ module.exports = [
     "date": "2018-02-08T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #14 with Matt Brown"],
+    "guests": ["Matt Brown"],
     "title": "#14 - MMA Show #14 with Matt Brown",
     "episode_id": 14,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with the current UFC Welterweight fighter Matt Brown. http://immortalcombatequipment.co/",
     "date": "2018-02-07T05:00:00.000Z"
@@ -4995,10 +4996,10 @@ module.exports = [
     "date": "2018-01-24T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #13 with Rose Namajunas", "Pat Barry"],
+    "guests": ["Rose Namajunas", "Pat Barry"],
     "title": "#013 - MMA Show #13 with Rose Namajunas & Pat Barry",
     "episode_id": 13,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry.",
     "date": "2018-01-23T05:00:00.000Z"
@@ -5013,10 +5014,10 @@ module.exports = [
     "date": "2018-01-23T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #12 with Ben Askren"],
+    "guests": ["Ben Askren"],
     "title": "#12 - MMA Show #12 with Ben Askren",
     "episode_id": 12,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with the founder the former ONE Welterweight Champion and the former Bellator Welterweight Champion, Ben Askren.",
     "date": "2018-01-22T05:00:00.000Z"
@@ -5049,10 +5050,10 @@ module.exports = [
     "date": "2018-01-15T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #11 with John Danaher"],
+    "guests": ["John Danaher"],
     "title": "#11 - MMA Show #11 with John Danaher",
     "episode_id": 11,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe sits down with Brazilian jiu-jitsu coach John Danaher.",
     "date": "2018-01-15T05:00:00.000Z"
@@ -5067,10 +5068,10 @@ module.exports = [
     "date": "2018-01-14T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #10 with Tyron Woodley"],
+    "guests": ["Tyron Woodley"],
     "title": "#010 - MMA Show #10 with Tyron Woodley",
     "episode_id": 10,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley.",
     "date": "2018-01-11T05:00:00.000Z"
@@ -5112,19 +5113,19 @@ module.exports = [
     "date": "2018-01-04T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #9 with Jeff Novitzky"],
+    "guests": ["Jeff Novitzky"],
     "title": "#009 - MMA Show #9 with Jeff Novitzky",
     "episode_id": 9,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with Jeff Novitzky, who is currently the Vice President of Athlete Health and Performance for UFC.",
     "date": "2018-01-03T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #8 with Jimmy Smith"],
+    "guests": ["Jimmy Smith"],
     "title": "#008 - MMA Show #8 with Jimmy Smith",
     "episode_id": 8,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with Jimmy Smith to discuss recent and upcoming fights.",
     "date": "2018-01-02T05:00:00.000Z"
@@ -5166,19 +5167,19 @@ module.exports = [
     "date": "2017-12-27T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #7 with Brendan Schaub", "Bryan Callen"],
+    "guests": ["Brendan Schaub", "Bryan Callen"],
     "title": "#007 - MMA Show #7 with Brendan Schaub & Bryan Callen",
     "episode_id": 7,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with the hosts of The Fighter & The Kid podcast, Brendan Schaub & Bryan Callen.",
     "date": "2017-12-26T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #6 with Eddie Bravo"],
+    "guests": ["Eddie Bravo"],
     "title": "#006 - MMA Show #6 with Eddie Bravo",
     "episode_id": 6,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with the founder of 10th Planet Jiu-Jitsu, Eddie Bravo.",
     "date": "2017-12-19T05:00:00.000Z"
@@ -5211,10 +5212,10 @@ module.exports = [
     "date": "2017-12-14T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #5 with Stipe Miocic"],
+    "guests": ["Stipe Miocic"],
     "title": "#005 - MMA Show #5 with Stipe Miocic",
     "episode_id": 5,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with UFC Heavyweight Champion Stipe Miocic.",
     "date": "2017-12-13T05:00:00.000Z"
@@ -5256,10 +5257,10 @@ module.exports = [
     "date": "2017-12-06T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #4 with Justin Wren"],
+    "guests": ["Justin Wren"],
     "title": "#004 - MMA Show #4 with Justin Wren",
     "episode_id": 4,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with Justin Wren to discuss recent fights in UFC and Bellator. Donate to Fight For The Forgotten - http://fightfortheforgotten.org/donate",
     "date": "2017-12-06T05:00:00.000Z"
@@ -5283,10 +5284,10 @@ module.exports = [
     "date": "2017-12-04T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #3"],
+    "guests": ["Brendan Schaub"],
     "title": "#003 - MMA Show #3",
     "episode_id": 3,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down with Brendan Schaub to discuss UFC218.",
     "date": "2017-11-29T05:00:00.000Z"
@@ -5328,10 +5329,10 @@ module.exports = [
     "date": "2017-11-27T05:00:00.000Z"
   },
   {
-    "guests": ["MMA Show #2"],
+    "guests": [],
     "title": "#002 - MMA Show #2",
     "episode_id": 2,
-    "isMMA": false,
+    "isMMA": true,
     "isFC": false,
     "description": "Joe Rogan sits down for an update after the Gastelum/Bisping fight with recent news in MMA.",
     "date": "2017-11-25T05:00:00.000Z"
@@ -5346,7 +5347,7 @@ module.exports = [
     "date": "2017-11-20T05:00:00.000Z"
   },
   {
-    "guests": ["JRE MMA Show #1"],
+    "guests": [],
     "title": "#001 - JRE MMA Show #1",
     "episode_id": 1,
     "isMMA": true,
@@ -5787,12 +5788,12 @@ module.exports = [
     "date": "2017-08-16T04:00:00.000Z"
   },
   {
-    "guests": ["Fight Breakdown"],
-    "title": "#Fight Breakdown - Fight Breakdown",
+    "guests": ["Brendan Schaub"],
+    "title": "Fight Breakdown - Mayweather vs. McGregor",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Joe sits down with Brendan Schaub to discuss the upcoming fight between Floyd Mayweather &...",
+    "description": "Joe sits down with Brendan Schaub to discuss the upcoming fight between Floyd Mayweather & Conor McGregor.",
     "date": "2017-08-16T04:00:00.000Z"
   },
   {
@@ -5895,12 +5896,12 @@ module.exports = [
     "date": "2017-07-25T04:00:00.000Z"
   },
   {
-    "guests": ["On A Hike"],
-    "title": "#On A Hike - On A Hike",
+    "guests": ["Ari Shaffir"],
+    "title": "Ari & Joe Go On A Hike",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "OnAHike Ari Shaffir & Joe do a podcast while hiking to celebrate the release of...",
+    "description": "Ari Shaffir & Joe do a podcast while hiking to celebrate the release of Ari's new two-part Netflix special \"Double Negative\" on July 18th.",
     "date": "2017-07-18T04:00:00.000Z"
   },
   {
@@ -6012,12 +6013,12 @@ module.exports = [
     "date": "2017-06-19T04:00:00.000Z"
   },
   {
-    "guests": ["Paradise"],
-    "title": "#Paradise - Paradise",
+    "guests": ["Ben O'Brien", "John Dudley", "Sam Soholt", "Shane Dorian"],
+    "title": "Podcast In Paradise",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Paradise. Joe does a podcast with friends Ben O’Brien, John Dudley, Sam Soholt and Shane Dorian...",
+    "description": "Joe does a podcast with friends Ben O’Brien, John Dudley, Sam Soholt and Shane Dorian while on a bow hunting trip in Hawaii.",
     "date": "2017-06-16T04:00:00.000Z"
   },
   {
@@ -6183,9 +6184,9 @@ module.exports = [
     "date": "2017-05-15T04:00:00.000Z"
   },
   {
-    "guests": ["Podcast On A Plane UFC 211 Recap"],
-    "title": "# - Podcast On A Plane UFC 211 Recap",
-    "episode_id": 0,
+    "guests": ["Tony Hinchcliffe"],
+    "title": "Podcast On A Plane UFC 211 Recap",
+    "episode_id": null,
     "isMMA": false,
     "isFC": false,
     "description": "Joe sits down with Tony Hinchcliffe on a plane to discuss the weekend's events at UFC 211 in Dallas, TX.",
@@ -7047,12 +7048,12 @@ module.exports = [
     "date": "2016-11-09T05:00:00.000Z"
   },
   {
-    "guests": ["End01"],
-    "title": "#End01 - End01",
+    "guests": ["Doug Stanhope", "Bill Burr"],
+    "title": "End of the World (Live from the Comedy Store)",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians...",
+    "description": "Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in.",
     "date": "2016-11-09T05:00:00.000Z"
   },
   {
@@ -7677,7 +7678,7 @@ module.exports = [
     "date": "2016-06-13T04:00:00.000Z"
   },
   {
-    "guests": ["Gino & AJ, from Speedweed"],
+    "guests": ["Gino Gentile", "AJ Gentile"],
     "title": "#807 - Gino & AJ, from Speedweed",
     "episode_id": 807,
     "isMMA": false,
@@ -7821,7 +7822,7 @@ module.exports = [
     "date": "2016-05-04T04:00:00.000Z"
   },
   {
-    "guests": ["Lewis, from Unbox Therapy"],
+    "guests": ["Lewis Hilsenteger"],
     "title": "#792 - Lewis, from Unbox Therapy",
     "episode_id": 792,
     "isMMA": false,
@@ -8325,9 +8326,9 @@ module.exports = [
     "date": "2015-12-22T05:00:00.000Z"
   },
   {
-    "guests": ["UFC Recap – Brendan Schaub", "Eddie Bravo"],
-    "title": "# - UFC Recap – Brendan Schaub & Eddie Bravo",
-    "episode_id": 0,
+    "guests": ["Brendan Schaub", "Eddie Bravo"],
+    "title": "UFC Recap – Brendan Schaub & Eddie Bravo",
+    "episode_id": null,
     "isMMA": false,
     "isFC": false,
     "description": "Joe discusses some of the fights from the UFConFOX fight card from December 19, 2015, and other topics, with Brendan Schaub & Eddie Bravo.",
@@ -8685,16 +8686,16 @@ module.exports = [
     "date": "2015-09-30T04:00:00.000Z"
   },
   {
-    "guests": ["Honey Honey (Part 2)"],
-    "title": "#701b - Honey Honey (Part 2)",
-    "episode_id": null,
+    "guests": ["Honey Honey"],
+    "title": "#701 - Honey Honey (Part 2)",
+    "episode_id": 701,
     "isMMA": false,
     "isFC": false,
     "description": "Honey Honey is a band, featuring members Suzanne Santo and Ben Jaffe, from Los Angeles, CA. They released a new album this summer called \"3\" and are currently touring all over -- http://honeyhoneyband.com/events",
     "date": "2015-09-28T04:00:00.000Z"
   },
   {
-    "guests": ["Honey Honey (Part 1)"],
+    "guests": ["Honey Honey"],
     "title": "#701 - Honey Honey (Part 1)",
     "episode_id": 701,
     "isMMA": false,
@@ -8739,7 +8740,7 @@ module.exports = [
     "date": "2015-09-21T04:00:00.000Z"
   },
   {
-    "guests": ["Christopher Ryan, PhD"],
+    "guests": ["Christopher Ryan"],
     "title": "#697 - Christopher Ryan, PhD",
     "episode_id": 697,
     "isMMA": false,
@@ -8748,7 +8749,7 @@ module.exports = [
     "date": "2015-09-17T04:00:00.000Z"
   },
   {
-    "guests": ["Lewis, from Unbox Therapy"],
+    "guests": ["Lewis Hilsenteger"],
     "title": "#696 - Lewis, from Unbox Therapy",
     "episode_id": 696,
     "isMMA": false,
@@ -8938,8 +8939,8 @@ module.exports = [
   },
   {
     "guests": ["Josh Zepps"],
-    "title": "#77 - Josh Zepps",
-    "episode_id": 77,
+    "title": "#677 - Josh Zepps",
+    "episode_id": 677,
     "isMMA": false,
     "isFC": false,
     "description": "Josh Zepps is the host of HuffPost Live & We The People Live available on iTunes and Stitcher.",
@@ -9144,12 +9145,12 @@ module.exports = [
     "date": "2015-06-08T04:00:00.000Z"
   },
   {
-    "guests": ["CAR2"],
-    "title": "#CAR2 - CAR2",
+    "guests": ["Cameron Hanes"],
+    "title": "Podcast from a Car #2",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "CAR2. Joe and Cameron Hanes recorded a podcast in a car while returning from a...",
+    "description": "Joe and Cameron Hanes recorded a podcast in a car while returning from a recent hunting trip. Cameron Hanes is a bowhunting athlete, \"training intensively each and every day to become the Ultimate Predator.\"",
     "date": "2015-06-07T04:00:00.000Z"
   },
   {
@@ -9387,12 +9388,12 @@ module.exports = [
     "date": "2015-04-11T04:00:00.000Z"
   },
   {
-    "guests": ["Car"],
-    "title": "#Car - Car",
+    "guests": ["Bryan Callen"],
+    "title": "Podcast from a Car",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Joe and Bryan Callen recorded a podcast in a car while driving to a recent...",
+    "description": "Joe and Bryan Callen recorded a podcast in a car while driving to a recent hunting trip. Bryan Callen is an actor and stand-up comedian. Together with Brendan Schaub he hosts \"The Fighter & The Kid\" podcast available on iTunes. https://bryancallen.com",
     "date": "2015-04-10T04:00:00.000Z"
   },
   {
@@ -9405,12 +9406,12 @@ module.exports = [
     "date": "2015-04-03T04:00:00.000Z"
   },
   {
-    "guests": ["Sweden"],
-    "title": "#Sweden - Sweden",
+    "guests": ["Tony Hinchcliffe"],
+    "title": "Podcast in a Swedish Hotel Room",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "Joe and Tony Hinchcliffe recorded a podcast a few weeks ago while in Sweden after...",
+    "description": "Joe and Tony Hinchcliffe recorded a podcast a few weeks ago while in Sweden after doing two shows of comedy. Tony Hinchcliffe is a comedian, writer, and actor. He also hosts his own podcasts called \"Kill Tony\" with Redban, and it's available on iTunes and at https://www.deathsquad.tv/.",
     "date": "2015-04-02T04:00:00.000Z"
   },
   {
@@ -9576,7 +9577,7 @@ module.exports = [
     "date": "2015-02-19T05:00:00.000Z"
   },
   {
-    "guests": ["Christopher Ryan, PhD"],
+    "guests": ["Christopher Ryan"],
     "title": "#614 - Christopher Ryan, PhD",
     "episode_id": 614,
     "isMMA": false,
@@ -9904,7 +9905,7 @@ module.exports = [
     "date": "2014-12-01T05:00:00.000Z"
   },
   {
-    "guests": ["Lewis, from Unbox Therapy"],
+    "guests": ["Lewis Hilsenteger"],
     "title": "#580 - Lewis, from Unbox Therapy",
     "episode_id": 580,
     "isMMA": false,
@@ -10372,7 +10373,7 @@ module.exports = [
     "date": "2014-08-05T04:00:00.000Z"
   },
   {
-    "guests": ["Vince & Emily Horn, from Buddhist Geeks"],
+    "guests": ["Vince Horn", "Emily Horn"],
     "title": "#530 - Vince & Emily Horn, from Buddhist Geeks",
     "episode_id": 530,
     "isMMA": false,
@@ -10390,7 +10391,7 @@ module.exports = [
     "date": "2014-08-02T04:00:00.000Z"
   },
   {
-    "guests": ["Michael Stevens, from VSauce"],
+    "guests": ["Michael Stevens"],
     "title": "#528 - Michael Stevens, from VSauce",
     "episode_id": 528,
     "isMMA": false,
@@ -10462,7 +10463,7 @@ module.exports = [
     "date": "2014-07-16T04:00:00.000Z"
   },
   {
-    "guests": ["Lewis, from Unbox Therapy"],
+    "guests": ["Lewis Hilsenteger"],
     "title": "#521 - Lewis, from Unbox Therapy",
     "episode_id": 521,
     "isMMA": false,
@@ -10507,7 +10508,7 @@ module.exports = [
     "date": "2014-07-01T04:00:00.000Z"
   },
   {
-    "guests": ["Crash, from Float Lab"],
+    "guests": ["Crash Hoefler"],
     "title": "#517 - Crash, from Float Lab",
     "episode_id": 517,
     "isMMA": false,
@@ -10525,7 +10526,7 @@ module.exports = [
     "date": "2014-06-29T04:00:00.000Z"
   },
   {
-    "guests": ["Lewis, from Unbox Therapy"],
+    "guests": ["Lewis Hilsenteger"],
     "title": "#516 - Lewis, from Unbox Therapy",
     "episode_id": 516,
     "isMMA": false,
@@ -10535,20 +10536,20 @@ module.exports = [
   },
   {
     "guests": ["Ari Shaffir"],
-    "title": "#515a - Ari Shaffir",
-    "episode_id": null,
+    "title": "#515 - Ari Shaffir (Part 1)",
+    "episode_id": 515,
     "isMMA": false,
     "isFC": false,
-    "description": "Part 2) Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
+    "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
     "date": "2014-06-27T04:00:00.000Z"
   },
   {
     "guests": ["Ari Shaffir"],
-    "title": "#515 - Ari Shaffir",
+    "title": "#515 - Ari Shaffir (Part 2)",
     "episode_id": 515,
     "isMMA": false,
     "isFC": false,
-    "description": "Part 1) Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
+    "description": "Ari Shaffir is a stand-up comedian and also hosts his own podcasts \"Ari Shaffir's Skeptic Tank\" and \"Punch Drunk Sports\"",
     "date": "2014-06-27T04:00:00.000Z"
   },
   {
@@ -10579,8 +10580,8 @@ module.exports = [
     "date": "2014-06-16T04:00:00.000Z"
   },
   {
-    "guests": ["JRQE6"],
-    "title": "#JRQE6 - JRQE6",
+    "guests": ["Duncan Trussell"],
+    "title": "JRQE#6 - Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
@@ -10993,7 +10994,7 @@ module.exports = [
     "date": "2014-03-17T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell, Christopher Ryan"],
+    "guests": ["Duncan Trussell", "Christopher Ryan"],
     "title": "#468 - Duncan Trussell, Christopher Ryan",
     "episode_id": 468,
     "isMMA": false,
@@ -11029,7 +11030,7 @@ module.exports = [
     "date": "2014-03-05T05:00:00.000Z"
   },
   {
-    "guests": ["Robert Greene, Aubrey Marcus"],
+    "guests": ["Robert Greene", "Aubrey Marcus"],
     "title": "#464 - Robert Greene, Aubrey Marcus",
     "episode_id": 464,
     "isMMA": false,
@@ -11047,7 +11048,7 @@ module.exports = [
     "date": "2014-03-03T05:00:00.000Z"
   },
   {
-    "guests": ["Steven Rinella, Doug Duren, Bryan Callen"],
+    "guests": ["Steven Rinella", "Doug Duren", "Bryan Callen"],
     "title": "#462 - Steven Rinella, Doug Duren, Bryan Callen",
     "episode_id": 462,
     "isMMA": false,
@@ -11200,12 +11201,12 @@ module.exports = [
     "date": "2014-01-27T05:00:00.000Z"
   },
   {
-    "guests": ["JRQE5"],
-    "title": "#JRQE5 - JRQE5",
+    "guests": ["Duncan Trussell"],
+    "title": "JRQE#5 - Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "JRQE5. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
+    "description": "This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired on SyFy.",
     "date": "2014-01-23T05:00:00.000Z"
   },
   {
@@ -11263,7 +11264,7 @@ module.exports = [
     "date": "2014-01-14T05:00:00.000Z"
   },
   {
-    "guests": ["Remi Warren, Dan Doty"],
+    "guests": ["Remi Warren", "Dan Doty"],
     "title": "#439 - Remi Warren, Dan Doty",
     "episode_id": 439,
     "isMMA": false,
@@ -11317,7 +11318,7 @@ module.exports = [
     "date": "2013-12-30T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell, Christopher Ryan"],
+    "guests": ["Duncan Trussell", "Christopher Ryan"],
     "title": "#433 - Duncan Trussell, Christopher Ryan",
     "episode_id": 433,
     "isMMA": false,
@@ -11344,7 +11345,7 @@ module.exports = [
     "date": "2013-12-19T05:00:00.000Z"
   },
   {
-    "guests": ["Shane Smith, Eddie Huang"],
+    "guests": ["Shane Smith", "Eddie Huang"],
     "title": "#430 - Shane Smith, Eddie Huang",
     "episode_id": 430,
     "isMMA": false,
@@ -11434,7 +11435,7 @@ module.exports = [
     "date": "2013-11-27T05:00:00.000Z"
   },
   {
-    "guests": ["Tom Rhodes, Bryan Callen"],
+    "guests": ["Tom Rhodes", "Bryan Callen"],
     "title": "#420 - Tom Rhodes, Bryan Callen",
     "episode_id": 420,
     "isMMA": false,
@@ -11452,7 +11453,7 @@ module.exports = [
     "date": "2013-11-19T05:00:00.000Z"
   },
   {
-    "guests": ["Jeremy Stephens, Eddie Bravo"],
+    "guests": ["Jeremy Stephens", "Eddie Bravo"],
     "title": "#418 - Jeremy Stephens, Eddie Bravo",
     "episode_id": 418,
     "isMMA": false,
@@ -11497,16 +11498,16 @@ module.exports = [
     "date": "2013-11-11T05:00:00.000Z"
   },
   {
-    "guests": ["JRQE4"],
-    "title": "#JRQE4 - JRQE4",
+    "guests": ["Duncan Trussell"],
+    "title": "JRQE#4 - Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "JRQE4. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
+    "description": "This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired on SyFy.",
     "date": "2013-11-09T05:00:00.000Z"
   },
   {
-    "guests": ["Dan Carlin, Daniele Bolelli"],
+    "guests": ["Dan Carlin", "Daniele Bolelli"],
     "title": "#413 - Dan Carlin, Daniele Bolelli",
     "episode_id": 413,
     "isMMA": false,
@@ -11533,12 +11534,12 @@ module.exports = [
     "date": "2013-11-04T05:00:00.000Z"
   },
   {
-    "guests": ["JRQE3"],
-    "title": "#JRQE3 - JRQE3",
+    "guests": ["Duncan Trussell"],
+    "title": "JRQE#3 - Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "JRQE3. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
+    "description": "This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired on SyFy.",
     "date": "2013-10-31T04:00:00.000Z"
   },
   {
@@ -11569,12 +11570,12 @@ module.exports = [
     "date": "2013-10-28T04:00:00.000Z"
   },
   {
-    "guests": ["JRQE2"],
-    "title": "#JRQE2 - JRQE2",
+    "guests": ["Dr. Jeff Meldrum", "Duncan Trussell"],
+    "title": "JRQE#2 - Dr. Jeff Meldrum, Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "JRQE2. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
+    "description": "This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired on SyFy.",
     "date": "2013-10-23T04:00:00.000Z"
   },
   {
@@ -11587,7 +11588,7 @@ module.exports = [
     "date": "2013-10-22T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura, Christina Pazsitzky"],
+    "guests": ["Tom Segura", "Christina Pazsitzky"],
     "title": "#406 - Tom Segura, Christina Pazsitzky",
     "episode_id": 406,
     "isMMA": false,
@@ -11596,16 +11597,16 @@ module.exports = [
     "date": "2013-10-21T04:00:00.000Z"
   },
   {
-    "guests": ["JRQE1"],
-    "title": "#JRQE1 - JRQE1",
+    "guests": ["Duncan Trussell"],
+    "title": "JRQE#1 - Duncan Trussell",
     "episode_id": null,
     "isMMA": false,
     "isFC": false,
-    "description": "JRQE1. This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired...",
+    "description": "This podcast was recorded during the production of “Joe Rogan Questions Everything” which originally aired on SyFy.",
     "date": "2013-10-16T04:00:00.000Z"
   },
   {
-    "guests": ["Steven Pressfield, Aubrey Marcus"],
+    "guests": ["Steven Pressfield", "Aubrey Marcus"],
     "title": "#405 - Steven Pressfield, Aubrey Marcus",
     "episode_id": 405,
     "isMMA": false,
@@ -11650,7 +11651,7 @@ module.exports = [
     "date": "2013-10-08T04:00:00.000Z"
   },
   {
-    "guests": ["Joey “CoCo” Diaz, Duncan Trussell"],
+    "guests": ["Joey “CoCo” Diaz", "Duncan Trussell"],
     "title": "#400 - Joey “CoCo” Diaz, Duncan Trussell",
     "episode_id": 400,
     "isMMA": false,
@@ -11758,7 +11759,7 @@ module.exports = [
     "date": "2013-09-03T04:00:00.000Z"
   },
   {
-    "guests": ["Mick West, Bryan Callen"],
+    "guests": ["Mick West", "Bryan Callen"],
     "title": "#388 - Mick West, Bryan Callen",
     "episode_id": 388,
     "isMMA": false,
@@ -11785,7 +11786,7 @@ module.exports = [
     "date": "2013-08-27T04:00:00.000Z"
   },
   {
-    "guests": ["Duane Ludwig, TJ Dillashaw"],
+    "guests": ["Duane Ludwig", "TJ Dillashaw"],
     "title": "#385 - Duane Ludwig, TJ Dillashaw",
     "episode_id": 385,
     "isMMA": false,
@@ -11839,7 +11840,7 @@ module.exports = [
     "date": "2013-08-02T04:00:00.000Z"
   },
   {
-    "guests": ["Matt Farah, Tod Mesirow"],
+    "guests": ["Matt Farah", "Tod Mesirow"],
     "title": "#379 - Matt Farah, Tod Mesirow",
     "episode_id": 379,
     "isMMA": false,
@@ -11929,7 +11930,7 @@ module.exports = [
     "date": "2013-06-29T04:00:00.000Z"
   },
   {
-    "guests": ["Jason Silva, Duncan Trussell, Ari Shaffir"],
+    "guests": ["Jason Silva", "Duncan Trussell", "Ari Shaffir"],
     "title": "#369 - Jason Silva, Duncan Trussell, Ari Shaffir",
     "episode_id": 369,
     "isMMA": false,
@@ -11965,7 +11966,7 @@ module.exports = [
     "date": "2013-06-11T04:00:00.000Z"
   },
   {
-    "guests": ["Kelly Starrett, Glen Cordoza"],
+    "guests": ["Kelly Starrett", "Glen Cordoza"],
     "title": "#365 - Kelly Starrett, Glen Cordoza",
     "episode_id": 365,
     "isMMA": false,
@@ -12001,7 +12002,7 @@ module.exports = [
     "date": "2013-05-28T04:00:00.000Z"
   },
   {
-    "guests": ["Dave Asprey, Tait Fletcher"],
+    "guests": ["Dave Asprey", "Tait Fletcher"],
     "title": "#361 - Dave Asprey, Tait Fletcher",
     "episode_id": 361,
     "isMMA": false,
@@ -12064,7 +12065,7 @@ module.exports = [
     "date": "2013-05-07T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir, Amy Schumer"],
+    "guests": ["Ari Shaffir", "Amy Schumer"],
     "title": "#354 - Ari Shaffir, Amy Schumer",
     "episode_id": 354,
     "isMMA": false,
@@ -12118,7 +12119,7 @@ module.exports = [
     "date": "2013-04-16T04:00:00.000Z"
   },
   {
-    "guests": ["Steven Rinella, Bryan Callen, Cam Edwards"],
+    "guests": ["Steven Rinella", "Bryan Callen", "Cam Edwards"],
     "title": "#348 - Steven Rinella, Bryan Callen, Cam Edwards",
     "episode_id": 348,
     "isMMA": false,
@@ -12154,7 +12155,7 @@ module.exports = [
     "date": "2013-04-01T04:00:00.000Z"
   },
   {
-    "guests": ["Stanley Krippner, Christopher Ryan"],
+    "guests": ["Stanley Krippner", "Christopher Ryan"],
     "title": "#344 - Stanley Krippner, Christopher Ryan",
     "episode_id": 344,
     "isMMA": false,
@@ -12190,7 +12191,7 @@ module.exports = [
     "date": "2013-03-20T04:00:00.000Z"
   },
   {
-    "guests": ["JD Kelley, aka “Wic”"],
+    "guests": ["JD Kelley", "aka “Wic”"],
     "title": "#340 - JD Kelley, aka “Wic”",
     "episode_id": 340,
     "isMMA": false,
@@ -12361,8 +12362,8 @@ module.exports = [
     "date": "2013-02-05T05:00:00.000Z"
   },
   {
-    "guests": ["Melissa Etheridge"],
-    "title": "#321 - Melissa Etheridge",
+    "guests": ["Melissa Etheridge", "Brian Redban"],
+    "title": "#321 - Melissa Etheridge, Brian Redban",
     "episode_id": 321,
     "isMMA": false,
     "isFC": false,
@@ -12379,8 +12380,8 @@ module.exports = [
     "date": "2013-01-29T05:00:00.000Z"
   },
   {
-    "guests": ["Alex Honnold"],
-    "title": "#319 - Alex Honnold",
+    "guests": ["Alex Honnold", "Brian Redban"],
+    "title": "#319 - Alex Honnold, Brian Redban",
     "episode_id": 319,
     "isMMA": false,
     "isFC": false,
@@ -12388,7 +12389,7 @@ module.exports = [
     "date": "2013-01-28T05:00:00.000Z"
   },
   {
-    "guests": ["Aubrey Marcus, Eddie Brill"],
+    "guests": ["Aubrey Marcus", "Eddie Brill"],
     "title": "#318 - Aubrey Marcus, Eddie Brill",
     "episode_id": 318,
     "isMMA": false,
@@ -12397,7 +12398,7 @@ module.exports = [
     "date": "2013-01-23T05:00:00.000Z"
   },
   {
-    "guests": ["David Choe, Yoshi Obayashi"],
+    "guests": ["David Choe", "Yoshi Obayashi"],
     "title": "#317 - David Choe, Yoshi Obayashi",
     "episode_id": 317,
     "isMMA": false,
@@ -12406,7 +12407,7 @@ module.exports = [
     "date": "2013-01-22T05:00:00.000Z"
   },
   {
-    "guests": ["Enson Inoue, Chuck Lidell"],
+    "guests": ["Enson Inoue", "Chuck Lidell"],
     "title": "#316 - Enson Inoue, Chuck Lidell",
     "episode_id": 316,
     "isMMA": false,
@@ -12442,7 +12443,7 @@ module.exports = [
     "date": "2013-01-15T05:00:00.000Z"
   },
   {
-    "guests": ["Steve Rinella, Bryan Callen"],
+    "guests": ["Steve Rinella", "Bryan Callen"],
     "title": "#312 - Steve Rinella, Bryan Callen",
     "episode_id": 312,
     "isMMA": false,
@@ -12451,8 +12452,8 @@ module.exports = [
     "date": "2013-01-14T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#311 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#311 - Ari Shaffir, Brian Redban",
     "episode_id": 311,
     "isMMA": false,
     "isFC": false,
@@ -12460,8 +12461,8 @@ module.exports = [
     "date": "2013-01-10T05:00:00.000Z"
   },
   {
-    "guests": ["Neil deGrasse Tyson"],
-    "title": "#310 - Neil deGrasse Tyson",
+    "guests": ["Neil deGrasse Tyson", "Brian Redban"],
+    "title": "#310 - Neil deGrasse Tyson, Brian Redban",
     "episode_id": 310,
     "isMMA": false,
     "isFC": false,
@@ -12469,8 +12470,8 @@ module.exports = [
     "date": "2013-01-09T05:00:00.000Z"
   },
   {
-    "guests": ["Adam Hunter"],
-    "title": "#309 - Adam Hunter",
+    "guests": ["Adam Hunter", "Brian Redban"],
+    "title": "#309 - Adam Hunter, Brian Redban",
     "episode_id": 309,
     "isMMA": false,
     "isFC": false,
@@ -12478,8 +12479,8 @@ module.exports = [
     "date": "2013-01-08T05:00:00.000Z"
   },
   {
-    "guests": ["Steve Volk"],
-    "title": "#308 - Steve Volk",
+    "guests": ["Steve Volk", "Brian Redban"],
+    "title": "#308 - Steve Volk, Brian Redban",
     "episode_id": 308,
     "isMMA": false,
     "isFC": false,
@@ -12496,8 +12497,8 @@ module.exports = [
     "date": "2013-01-04T05:00:00.000Z"
   },
   {
-    "guests": ["Christopher Ryan"],
-    "title": "#306 - Christopher Ryan",
+    "guests": ["Christopher Ryan", "Brian Redban"],
+    "title": "#306 - Christopher Ryan, Brian Redban",
     "episode_id": 306,
     "isMMA": false,
     "isFC": false,
@@ -12505,8 +12506,8 @@ module.exports = [
     "date": "2013-01-03T05:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreicher"],
-    "title": "#305 - Bert Kreicher",
+    "guests": ["Bert Kreicher", "Brian Redban"],
+    "title": "#305 - Bert Kreicher, Brian Redban",
     "episode_id": 305,
     "isMMA": false,
     "isFC": false,
@@ -12514,8 +12515,8 @@ module.exports = [
     "date": "2013-01-02T05:00:00.000Z"
   },
   {
-    "guests": ["Andrew Dice Clay"],
-    "title": "#304 - Andrew Dice Clay",
+    "guests": ["Andrew Dice Clay", "Brian Redban"],
+    "title": "#304 - Andrew Dice Clay, Brian Redban",
     "episode_id": 304,
     "isMMA": false,
     "isFC": false,
@@ -12523,8 +12524,8 @@ module.exports = [
     "date": "2012-12-27T05:00:00.000Z"
   },
   {
-    "guests": ["Matt Vengrin"],
-    "title": "#303 - Matt Vengrin",
+    "guests": ["Matt Vengrin", "Brian Redban"],
+    "title": "#303 - Matt Vengrin, Brian Redban",
     "episode_id": 303,
     "isMMA": false,
     "isFC": false,
@@ -12532,8 +12533,8 @@ module.exports = [
     "date": "2012-12-26T05:00:00.000Z"
   },
   {
-    "guests": ["Josh Barnett"],
-    "title": "#302 - Josh Barnett",
+    "guests": ["Josh Barnett", "Brian Redban"],
+    "title": "#302 - Josh Barnett, Brian Redban",
     "episode_id": 302,
     "isMMA": false,
     "isFC": false,
@@ -12541,8 +12542,8 @@ module.exports = [
     "date": "2012-12-24T05:00:00.000Z"
   },
   {
-    "guests": ["Doug Stanhope"],
-    "title": "#301 - Doug Stanhope",
+    "guests": ["Doug Stanhope", "Brian Redban"],
+    "title": "#301 - Doug Stanhope, Brian Redban",
     "episode_id": 301,
     "isMMA": false,
     "isFC": false,
@@ -12550,8 +12551,8 @@ module.exports = [
     "date": "2012-12-22T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#300 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#300 - Joey Diaz, Brian Redban",
     "episode_id": 300,
     "isMMA": false,
     "isFC": false,
@@ -12559,8 +12560,8 @@ module.exports = [
     "date": "2012-12-18T05:00:00.000Z"
   },
   {
-    "guests": ["HoneyHoney"],
-    "title": "#299 - HoneyHoney",
+    "guests": ["Honey Honey", "Brian Redban"],
+    "title": "#299 - Honey Honey, Brian Redban",
     "episode_id": 299,
     "isMMA": false,
     "isFC": false,
@@ -12568,8 +12569,8 @@ module.exports = [
     "date": "2012-12-17T05:00:00.000Z"
   },
   {
-    "guests": ["Dennis McKenna"],
-    "title": "#298 - Dennis McKenna",
+    "guests": ["Dennis McKenna", "Brian Redban"],
+    "title": "#298 - Dennis McKenna, Brian Redban",
     "episode_id": 298,
     "isMMA": false,
     "isFC": false,
@@ -12577,8 +12578,8 @@ module.exports = [
     "date": "2012-12-16T05:00:00.000Z"
   },
   {
-    "guests": ["Dom Irrera"],
-    "title": "#297 - Dom Irrera",
+    "guests": ["Dom Irrera", "Brian Redban"],
+    "title": "#297 - Dom Irrera, Brian Redban",
     "episode_id": 297,
     "isMMA": false,
     "isFC": false,
@@ -12586,8 +12587,13 @@ module.exports = [
     "date": "2012-12-13T05:00:00.000Z"
   },
   {
-    "guests": ["Mix Master Mike, Russell Peters, Mark Rasta"],
-    "title": "#296 - Mix Master Mike, Russell Peters, Mark Rasta",
+    "guests": [
+      "Mix Master Mike",
+      "Russell Peters",
+      "Mark Rasta",
+      "Brian Redban"
+    ],
+    "title": "#296 - Mix Master Mike, Russell Peters, Mark Rasta, Brian Redban",
     "episode_id": 296,
     "isMMA": false,
     "isFC": false,
@@ -12595,8 +12601,8 @@ module.exports = [
     "date": "2012-12-12T05:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura, Christina Pazsitzky"],
-    "title": "#295 - Tom Segura, Christina Pazsitzky",
+    "guests": ["Tom Segura", "Christina Pazsitzky", "Brian Redban"],
+    "title": "#295 - Tom Segura, Christina Pazsitzky, Brian Redban",
     "episode_id": 295,
     "isMMA": false,
     "isFC": false,
@@ -12604,8 +12610,8 @@ module.exports = [
     "date": "2012-12-11T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#294 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#294 - Ari Shaffir, Brian Redban",
     "episode_id": 294,
     "isMMA": false,
     "isFC": false,
@@ -12613,8 +12619,8 @@ module.exports = [
     "date": "2012-12-06T05:00:00.000Z"
   },
   {
-    "guests": ["Cara Santa Maria"],
-    "title": "#293 - Cara Santa Maria",
+    "guests": ["Cara Santa Maria", "Brian Redban"],
+    "title": "#293 - Cara Santa Maria, Brian Redban",
     "episode_id": 293,
     "isMMA": false,
     "isFC": false,
@@ -12622,8 +12628,8 @@ module.exports = [
     "date": "2012-12-05T05:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#292 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#292 - Eddie Bravo, Brian Redban",
     "episode_id": 292,
     "isMMA": false,
     "isFC": false,
@@ -12631,8 +12637,8 @@ module.exports = [
     "date": "2012-11-29T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#291 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#291 - Duncan Trussell, Brian Redban",
     "episode_id": 291,
     "isMMA": false,
     "isFC": false,
@@ -12640,8 +12646,8 @@ module.exports = [
     "date": "2012-11-28T05:00:00.000Z"
   },
   {
-    "guests": ["John Mcafee"],
-    "title": "#290 - John Mcafee",
+    "guests": ["John Mcafee", "Brian Redban"],
+    "title": "#290 - John Mcafee, Brian Redban",
     "episode_id": 290,
     "isMMA": false,
     "isFC": false,
@@ -12649,8 +12655,8 @@ module.exports = [
     "date": "2012-11-27T05:00:00.000Z"
   },
   {
-    "guests": ["Shane Smith"],
-    "title": "#289 - Shane Smith",
+    "guests": ["Shane Smith", "Brian Redban"],
+    "title": "#289 - Shane Smith, Brian Redban",
     "episode_id": 289,
     "isMMA": false,
     "isFC": false,
@@ -12658,8 +12664,8 @@ module.exports = [
     "date": "2012-11-26T05:00:00.000Z"
   },
   {
-    "guests": ["Greg Proops"],
-    "title": "#288 - Greg Proops",
+    "guests": ["Greg Proops", "Brian Redban"],
+    "title": "#288 - Greg Proops, Brian Redban",
     "episode_id": 288,
     "isMMA": false,
     "isFC": false,
@@ -12667,8 +12673,8 @@ module.exports = [
     "date": "2012-11-22T05:00:00.000Z"
   },
   {
-    "guests": ["Les Stroud"],
-    "title": "#287 - Les Stroud",
+    "guests": ["Les Stroud", "Brian Redban"],
+    "title": "#287 - Les Stroud, Brian Redban",
     "episode_id": 287,
     "isMMA": false,
     "isFC": false,
@@ -12676,8 +12682,8 @@ module.exports = [
     "date": "2012-11-20T05:00:00.000Z"
   },
   {
-    "guests": ["Daniele Bolelli"],
-    "title": "#286 - Daniele Bolelli",
+    "guests": ["Daniele Bolelli", "Brian Redban"],
+    "title": "#286 - Daniele Bolelli, Brian Redban",
     "episode_id": 286,
     "isMMA": false,
     "isFC": false,
@@ -12685,8 +12691,8 @@ module.exports = [
     "date": "2012-11-19T05:00:00.000Z"
   },
   {
-    "guests": ["Tim Ferriss"],
-    "title": "#285 - Tim Ferriss",
+    "guests": ["Tim Ferriss", "Brian Redban"],
+    "title": "#285 - Tim Ferriss, Brian Redban",
     "episode_id": 285,
     "isMMA": false,
     "isFC": false,
@@ -12694,8 +12700,8 @@ module.exports = [
     "date": "2012-11-19T05:00:00.000Z"
   },
   {
-    "guests": ["Daniel H. Wilson"],
-    "title": "#284 - Daniel H. Wilson",
+    "guests": ["Daniel H. Wilson", "Brian Redban"],
+    "title": "#284 - Daniel H. Wilson, Brian Redban",
     "episode_id": 284,
     "isMMA": false,
     "isFC": false,
@@ -12703,8 +12709,8 @@ module.exports = [
     "date": "2012-11-14T05:00:00.000Z"
   },
   {
-    "guests": ["Dave Attell"],
-    "title": "#283 - Dave Attell",
+    "guests": ["Dave Attell", "Brian Redban"],
+    "title": "#283 - Dave Attell, Brian Redban",
     "episode_id": 283,
     "isMMA": false,
     "isFC": false,
@@ -12712,8 +12718,8 @@ module.exports = [
     "date": "2012-11-12T05:00:00.000Z"
   },
   {
-    "guests": ["Peter Duesberg, Bryan Callen"],
-    "title": "#282 - Peter Duesberg, Bryan Callen",
+    "guests": ["Peter Duesberg", "Bryan Callen", "Brian Redban"],
+    "title": "#282 - Peter Duesberg, Bryan Callen, Brian Redban",
     "episode_id": 282,
     "isMMA": false,
     "isFC": false,
@@ -12721,8 +12727,8 @@ module.exports = [
     "date": "2012-11-07T05:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#281 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#281 - Bryan Callen, Brian Redban",
     "episode_id": 281,
     "isMMA": false,
     "isFC": false,
@@ -12730,8 +12736,8 @@ module.exports = [
     "date": "2012-11-06T05:00:00.000Z"
   },
   {
-    "guests": ["Philip Coppens"],
-    "title": "#280 - Philip Coppens",
+    "guests": ["Philip Coppens", "Brian Redban"],
+    "title": "#280 - Philip Coppens, Brian Redban",
     "episode_id": 280,
     "isMMA": false,
     "isFC": false,
@@ -12739,8 +12745,8 @@ module.exports = [
     "date": "2012-11-05T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#279 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#279 - Duncan Trussell, Brian Redban",
     "episode_id": 279,
     "isMMA": false,
     "isFC": false,
@@ -12748,8 +12754,8 @@ module.exports = [
     "date": "2012-10-31T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#278 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#278 - Ari Shaffir, Brian Redban",
     "episode_id": 278,
     "isMMA": false,
     "isFC": false,
@@ -12757,8 +12763,8 @@ module.exports = [
     "date": "2012-10-29T04:00:00.000Z"
   },
   {
-    "guests": ["Victor Conte"],
-    "title": "#277 - Victor Conte",
+    "guests": ["Victor Conte", "Brian Redban"],
+    "title": "#277 - Victor Conte, Brian Redban",
     "episode_id": 277,
     "isMMA": false,
     "isFC": false,
@@ -12766,8 +12772,8 @@ module.exports = [
     "date": "2012-10-18T04:00:00.000Z"
   },
   {
-    "guests": ["David Seaman, Abby Martin, Dell Cameron"],
-    "title": "#276 - David Seaman, Abby Martin, Dell Cameron",
+    "guests": ["David Seaman", "Abby Martin", "Dell Cameron", "Brian Redban"],
+    "title": "#276 - David Seaman, Abby Martin, Dell Cameron, Brian Redban",
     "episode_id": 276,
     "isMMA": false,
     "isFC": false,
@@ -12775,8 +12781,8 @@ module.exports = [
     "date": "2012-10-16T04:00:00.000Z"
   },
   {
-    "guests": ["Dave Asprey"],
-    "title": "#275 - Dave Asprey",
+    "guests": ["Dave Asprey", "Brian Redban"],
+    "title": "#275 - Dave Asprey, Brian Redban",
     "episode_id": 275,
     "isMMA": false,
     "isFC": false,
@@ -12784,8 +12790,8 @@ module.exports = [
     "date": "2012-10-15T04:00:00.000Z"
   },
   {
-    "guests": ["Alex Grey"],
-    "title": "#274 - Alex Grey",
+    "guests": ["Alex Grey", "Brian Redban"],
+    "title": "#274 - Alex Grey, Brian Redban",
     "episode_id": 274,
     "isMMA": false,
     "isFC": false,
@@ -12793,8 +12799,8 @@ module.exports = [
     "date": "2012-10-10T04:00:00.000Z"
   },
   {
-    "guests": ["Amber Lyon"],
-    "title": "#273 - Amber Lyon",
+    "guests": ["Amber Lyon", "Brian Redban"],
+    "title": "#273 - Amber Lyon, Brian Redban",
     "episode_id": 273,
     "isMMA": false,
     "isFC": false,
@@ -12802,8 +12808,8 @@ module.exports = [
     "date": "2012-10-04T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell, Joey Diaz, Ian Edwards"],
-    "title": "#272 - Duncan Trussell, Joey Diaz, Ian Edwards",
+    "guests": ["Duncan Trussell", "Joey Diaz", "Ian Edwards", "Brian Redban"],
+    "title": "#272 - Duncan Trussell, Joey Diaz, Ian Edwards, Brian Redban",
     "episode_id": 272,
     "isMMA": false,
     "isFC": false,
@@ -12811,8 +12817,8 @@ module.exports = [
     "date": "2012-10-03T04:00:00.000Z"
   },
   {
-    "guests": ["London Real"],
-    "title": "#271 - London Real",
+    "guests": ["London Real", "Brian Redban"],
+    "title": "#271 - London Real, Brian Redban",
     "episode_id": 271,
     "isMMA": false,
     "isFC": false,
@@ -12820,8 +12826,8 @@ module.exports = [
     "date": "2012-10-02T04:00:00.000Z"
   },
   {
-    "guests": ["Kevin Pereira"],
-    "title": "#270 - Kevin Pereira",
+    "guests": ["Kevin Pereira", "Brian Redban"],
+    "title": "#270 - Kevin Pereira, Brian Redban",
     "episode_id": 270,
     "isMMA": false,
     "isFC": false,
@@ -12829,8 +12835,8 @@ module.exports = [
     "date": "2012-09-26T04:00:00.000Z"
   },
   {
-    "guests": ["Tait Fletcher"],
-    "title": "#269 - Tait Fletcher",
+    "guests": ["Tait Fletcher", "Brian Redban"],
+    "title": "#269 - Tait Fletcher, Brian Redban",
     "episode_id": 269,
     "isMMA": false,
     "isFC": false,
@@ -12838,8 +12844,8 @@ module.exports = [
     "date": "2012-09-25T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#268 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#268 - Joey Diaz, Brian Redban",
     "episode_id": 268,
     "isMMA": false,
     "isFC": false,
@@ -12847,8 +12853,8 @@ module.exports = [
     "date": "2012-09-20T04:00:00.000Z"
   },
   {
-    "guests": ["Mac Danzig"],
-    "title": "#267 - Mac Danzig",
+    "guests": ["Mac Danzig", "Brian Redban"],
+    "title": "#267 - Mac Danzig, Brian Redban",
     "episode_id": 267,
     "isMMA": false,
     "isFC": false,
@@ -12856,8 +12862,8 @@ module.exports = [
     "date": "2012-09-19T04:00:00.000Z"
   },
   {
-    "guests": ["Rich Roll"],
-    "title": "#266 - Rich Roll",
+    "guests": ["Rich Roll", "Brian Redban"],
+    "title": "#266 - Rich Roll, Brian Redban",
     "episode_id": 266,
     "isMMA": false,
     "isFC": false,
@@ -12865,8 +12871,8 @@ module.exports = [
     "date": "2012-09-18T04:00:00.000Z"
   },
   {
-    "guests": ["Sam Tripoli, Shane Smith"],
-    "title": "#265 - Sam Tripoli, Shane Smith",
+    "guests": ["Sam Tripoli", "Shane Smith", "Brian Redban"],
+    "title": "#265 - Sam Tripoli, Shane Smith, Brian Redban",
     "episode_id": 265,
     "isMMA": false,
     "isFC": false,
@@ -12874,8 +12880,8 @@ module.exports = [
     "date": "2012-09-17T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura"],
-    "title": "#264 - Tom Segura",
+    "guests": ["Tom Segura", "Brian Redban"],
+    "title": "#264 - Tom Segura, Brian Redban",
     "episode_id": 264,
     "isMMA": false,
     "isFC": false,
@@ -12883,8 +12889,8 @@ module.exports = [
     "date": "2012-09-12T04:00:00.000Z"
   },
   {
-    "guests": ["Kat Von D, Eddie Bravo"],
-    "title": "#263 - Kat Von D, Eddie Bravo",
+    "guests": ["Kat Von D", "Eddie Bravo", "Brian Redban"],
+    "title": "#263 - Kat Von D, Eddie Bravo, Brian Redban",
     "episode_id": 263,
     "isMMA": false,
     "isFC": false,
@@ -12892,8 +12898,8 @@ module.exports = [
     "date": "2012-09-10T04:00:00.000Z"
   },
   {
-    "guests": ["Rick Ross"],
-    "title": "#262 - Rick Ross",
+    "guests": ["Rick Ross", "Brian Redban"],
+    "title": "#262 - Rick Ross, Brian Redban",
     "episode_id": 262,
     "isMMA": false,
     "isFC": false,
@@ -12910,8 +12916,8 @@ module.exports = [
     "date": "2012-09-06T04:00:00.000Z"
   },
   {
-    "guests": ["Greg Fitzsimmons"],
-    "title": "#260 - Greg Fitzsimmons",
+    "guests": ["Greg Fitzsimmons", "Brian Redban"],
+    "title": "#260 - Greg Fitzsimmons, Brian Redban",
     "episode_id": 260,
     "isMMA": false,
     "isFC": false,
@@ -12919,8 +12925,8 @@ module.exports = [
     "date": "2012-09-04T04:00:00.000Z"
   },
   {
-    "guests": ["Mike Birbiglia"],
-    "title": "#259 - Mike Birbiglia",
+    "guests": ["Mike Birbiglia", "Brian Redban"],
+    "title": "#259 - Mike Birbiglia, Brian Redban",
     "episode_id": 259,
     "isMMA": false,
     "isFC": false,
@@ -12937,8 +12943,13 @@ module.exports = [
     "date": "2012-08-30T04:00:00.000Z"
   },
   {
-    "guests": ["Immortal Technique, Swavey Krokett, DJ GIJOE"],
-    "title": "#257 - Immortal Technique, Swavey Krokett, DJ GIJOE",
+    "guests": [
+      "Immortal Technique",
+      "Swavey Krokett",
+      "DJ GIJOE",
+      "Brian Redban"
+    ],
+    "title": "#257 - Immortal Technique, Swavey Krokett, DJ GIJOE, Brain Redban",
     "episode_id": 257,
     "isMMA": false,
     "isFC": false,
@@ -12946,8 +12957,8 @@ module.exports = [
     "date": "2012-08-28T04:00:00.000Z"
   },
   {
-    "guests": ["David Seaman"],
-    "title": "#256 - David Seaman",
+    "guests": ["David Seaman", "Brian Redban"],
+    "title": "#256 - David Seaman, Brian Redban",
     "episode_id": 256,
     "isMMA": false,
     "isFC": false,
@@ -12955,8 +12966,8 @@ module.exports = [
     "date": "2012-08-27T04:00:00.000Z"
   },
   {
-    "guests": ["EVERLAST"],
-    "title": "#254 - EVERLAST",
+    "guests": ["EVERLAST", "Brian Redban"],
+    "title": "#254 - EVERLAST, Brian Redban",
     "episode_id": 254,
     "isMMA": false,
     "isFC": false,
@@ -12973,8 +12984,13 @@ module.exports = [
     "date": "2012-08-16T04:00:00.000Z"
   },
   {
-    "guests": ["Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan"],
-    "title": "#253 - Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan",
+    "guests": [
+      "Andrew Dice Clay",
+      "Max Silverstein",
+      "Eleanor J. Kerrigan",
+      "Brian Redban"
+    ],
+    "title": "#253 - Andrew Dice Clay, Max Silverstein, Eleanor J. Kerrigan, Brian Redban",
     "episode_id": 253,
     "isMMA": false,
     "isFC": false,
@@ -12982,8 +12998,8 @@ module.exports = [
     "date": "2012-08-15T04:00:00.000Z"
   },
   {
-    "guests": ["Jamie Kilstein"],
-    "title": "#252 - Jamie Kilstein",
+    "guests": ["Jamie Kilstein", "Brian Redban"],
+    "title": "#252 - Jamie Kilstein, Brian Redban",
     "episode_id": 252,
     "isMMA": false,
     "isFC": false,
@@ -13000,8 +13016,8 @@ module.exports = [
     "date": "2012-08-13T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#250 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#250 - Joey Diaz, Brian Redban",
     "episode_id": 250,
     "isMMA": false,
     "isFC": false,
@@ -13009,8 +13025,8 @@ module.exports = [
     "date": "2012-08-08T04:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#249 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#249 - Bert Kreischer, Brian Redban",
     "episode_id": 249,
     "isMMA": false,
     "isFC": false,
@@ -13018,8 +13034,8 @@ module.exports = [
     "date": "2012-08-07T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Rhodes"],
-    "title": "#248 - Tom Rhodes",
+    "guests": ["Tom Rhodes", "Brian Redban"],
+    "title": "#248 - Tom Rhodes, Brian Redban",
     "episode_id": 248,
     "isMMA": false,
     "isFC": false,
@@ -13027,8 +13043,8 @@ module.exports = [
     "date": "2012-08-02T04:00:00.000Z"
   },
   {
-    "guests": ["Tito Ortiz"],
-    "title": "#247 - Tito Ortiz",
+    "guests": ["Tito Ortiz", "Brian Redban"],
+    "title": "#247 - Tito Ortiz, Brian Redban",
     "episode_id": 247,
     "isMMA": false,
     "isFC": false,
@@ -13036,8 +13052,8 @@ module.exports = [
     "date": "2012-07-31T04:00:00.000Z"
   },
   {
-    "guests": ["Maynard J Keenan"],
-    "title": "#246 - Maynard J Keenan",
+    "guests": ["Maynard J Keenan", "Brian Redban"],
+    "title": "#246 - Maynard J Keenan, Brian Redban",
     "episode_id": 246,
     "isMMA": false,
     "isFC": false,
@@ -13045,8 +13061,8 @@ module.exports = [
     "date": "2012-07-27T04:00:00.000Z"
   },
   {
-    "guests": ["Robb Wolf"],
-    "title": "#245 - Robb Wolf",
+    "guests": ["Robb Wolf", "Brian Redban"],
+    "title": "#245 - Robb Wolf, Brian Redban",
     "episode_id": 245,
     "isMMA": false,
     "isFC": false,
@@ -13054,8 +13070,8 @@ module.exports = [
     "date": "2012-07-26T04:00:00.000Z"
   },
   {
-    "guests": ["Immortal Technique"],
-    "title": "#244 - Immortal Technique",
+    "guests": ["Immortal Technique", "Brian Redban"],
+    "title": "#244 - Immortal Technique, Brian Redban",
     "episode_id": 244,
     "isMMA": false,
     "isFC": false,
@@ -13063,8 +13079,8 @@ module.exports = [
     "date": "2012-07-25T04:00:00.000Z"
   },
   {
-    "guests": ["HoneyHoney"],
-    "title": "#243 - HoneyHoney",
+    "guests": ["Honey Honey", "Brian Redban"],
+    "title": "#243 - HoneyHoney, Brian Redban",
     "episode_id": 243,
     "isMMA": false,
     "isFC": false,
@@ -13072,8 +13088,8 @@ module.exports = [
     "date": "2012-07-24T04:00:00.000Z"
   },
   {
-    "guests": ["Justin Halpern"],
-    "title": "#242 - Justin Halpern",
+    "guests": ["Justin Halpern", "Brian Redban"],
+    "title": "#242 - Justin Halpern, Brian Redban",
     "episode_id": 242,
     "isMMA": false,
     "isFC": false,
@@ -13081,8 +13097,8 @@ module.exports = [
     "date": "2012-07-19T04:00:00.000Z"
   },
   {
-    "guests": ["James Bobo Fay"],
-    "title": "#241 - James Bobo Fay",
+    "guests": ["James Bobo Fay", "Brian Redban"],
+    "title": "#241 - James Bobo Fay, Brian Redban",
     "episode_id": 241,
     "isMMA": false,
     "isFC": false,
@@ -13090,8 +13106,8 @@ module.exports = [
     "date": "2012-07-17T04:00:00.000Z"
   },
   {
-    "guests": ["Aubrey Marcus"],
-    "title": "#240 - Aubrey Marcus",
+    "guests": ["Aubrey Marcus", "Brian Redban"],
+    "title": "#240 - Aubrey Marcus, Brian Redban",
     "episode_id": 240,
     "isMMA": false,
     "isFC": false,
@@ -13099,8 +13115,8 @@ module.exports = [
     "date": "2012-07-16T04:00:00.000Z"
   },
   {
-    "guests": ["Adam Kokesh"],
-    "title": "#239 - Adam Kokesh",
+    "guests": ["Adam Kokesh", "Brian Redban"],
+    "title": "#239 - Adam Kokesh, Brian Redban",
     "episode_id": 239,
     "isMMA": false,
     "isFC": false,
@@ -13108,8 +13124,8 @@ module.exports = [
     "date": "2012-07-11T04:00:00.000Z"
   },
   {
-    "guests": ["Kevin Pereira"],
-    "title": "#238 - Kevin Pereira",
+    "guests": ["Kevin Pereira", "Brian Redban"],
+    "title": "#238 - Kevin Pereira, Brian Redban",
     "episode_id": 238,
     "isMMA": false,
     "isFC": false,
@@ -13117,8 +13133,8 @@ module.exports = [
     "date": "2012-07-10T04:00:00.000Z"
   },
   {
-    "guests": ["Tommy Chong"],
-    "title": "#237 - Tommy Chong",
+    "guests": ["Tommy Chong", "Brian Redban"],
+    "title": "#237 - Tommy Chong, Brian Redban",
     "episode_id": 237,
     "isMMA": false,
     "isFC": false,
@@ -13126,8 +13142,8 @@ module.exports = [
     "date": "2012-07-09T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#236 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#236 - Eddie Bravo, Brian Redban",
     "episode_id": 236,
     "isMMA": false,
     "isFC": false,
@@ -13135,8 +13151,8 @@ module.exports = [
     "date": "2012-07-05T04:00:00.000Z"
   },
   {
-    "guests": ["Josh Barnett"],
-    "title": "#235 - Josh Barnett",
+    "guests": ["Josh Barnett", "Brian Redban"],
+    "title": "#235 - Josh Barnett, Brian Redban",
     "episode_id": 235,
     "isMMA": false,
     "isFC": false,
@@ -13144,8 +13160,8 @@ module.exports = [
     "date": "2012-07-04T04:00:00.000Z"
   },
   {
-    "guests": ["Adam Scorgie"],
-    "title": "#234 - Adam Scorgie",
+    "guests": ["Adam Scorgie", "Brian Redban"],
+    "title": "#234 - Adam Scorgie, Brian Redban",
     "episode_id": 234,
     "isMMA": false,
     "isFC": false,
@@ -13153,8 +13169,8 @@ module.exports = [
     "date": "2012-06-30T04:00:00.000Z"
   },
   {
-    "guests": ["Jim Norton"],
-    "title": "#233 - Jim Norton",
+    "guests": ["Jim Norton", "Brian Redban"],
+    "title": "#233 - Jim Norton, Brian Redban",
     "episode_id": 233,
     "isMMA": false,
     "isFC": false,
@@ -13162,8 +13178,8 @@ module.exports = [
     "date": "2012-06-28T04:00:00.000Z"
   },
   {
-    "guests": ["Giorgio Tsoukalos"],
-    "title": "#232 - Giorgio Tsoukalos",
+    "guests": ["Giorgio Tsoukalos", "Brian Redban"],
+    "title": "#232 - Giorgio Tsoukalos, Brian Redban",
     "episode_id": 232,
     "isMMA": false,
     "isFC": false,
@@ -13171,8 +13187,8 @@ module.exports = [
     "date": "2012-06-26T04:00:00.000Z"
   },
   {
-    "guests": ["Dom Irrera"],
-    "title": "#231 - Dom Irrera",
+    "guests": ["Dom Irrera", "Brian Redban"],
+    "title": "#231 - Dom Irrera, Brian Redban",
     "episode_id": 231,
     "isMMA": false,
     "isFC": false,
@@ -13180,8 +13196,8 @@ module.exports = [
     "date": "2012-06-21T04:00:00.000Z"
   },
   {
-    "guests": ["Sam Sheridan"],
-    "title": "#230 - Sam Sheridan",
+    "guests": ["Sam Sheridan", "Brian Redban"],
+    "title": "#230 - Sam Sheridan, Brian Redban",
     "episode_id": 230,
     "isMMA": false,
     "isFC": false,
@@ -13198,8 +13214,8 @@ module.exports = [
     "date": "2012-06-18T04:00:00.000Z"
   },
   {
-    "guests": ["Bill Burr"],
-    "title": "#228 - Bill Burr",
+    "guests": ["Bill Burr", "Brian Redban"],
+    "title": "#228 - Bill Burr, Brian Redban",
     "episode_id": 228,
     "isMMA": false,
     "isFC": false,
@@ -13207,8 +13223,8 @@ module.exports = [
     "date": "2012-06-13T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#227 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#227 - Ari Shaffir, Brian Redban",
     "episode_id": 227,
     "isMMA": false,
     "isFC": false,
@@ -13216,8 +13232,8 @@ module.exports = [
     "date": "2012-06-11T04:00:00.000Z"
   },
   {
-    "guests": ["John Anthony West"],
-    "title": "#226 - John Anthony West",
+    "guests": ["John Anthony West", "Brian Redban"],
+    "title": "#226 - John Anthony West, Brian Redban",
     "episode_id": 226,
     "isMMA": false,
     "isFC": false,
@@ -13225,8 +13241,8 @@ module.exports = [
     "date": "2012-06-09T04:00:00.000Z"
   },
   {
-    "guests": ["Urijah Faber"],
-    "title": "#225 - Urijah Faber",
+    "guests": ["Urijah Faber", "Brian Redban"],
+    "title": "#225 - Urijah Faber, Brian Redban",
     "episode_id": 225,
     "isMMA": false,
     "isFC": false,
@@ -13243,8 +13259,8 @@ module.exports = [
     "date": "2012-06-06T04:00:00.000Z"
   },
   {
-    "guests": ["Bobcat Goldthwait"],
-    "title": "#223 - Bobcat Goldthwait",
+    "guests": ["Bobcat Goldthwait", "Brian Redban"],
+    "title": "#223 - Bobcat Goldthwait, Brian Redban",
     "episode_id": 223,
     "isMMA": false,
     "isFC": false,
@@ -13252,8 +13268,8 @@ module.exports = [
     "date": "2012-05-30T04:00:00.000Z"
   },
   {
-    "guests": ["Mike Dolce, Joey Diaz"],
-    "title": "#222 - Mike Dolce, Joey Diaz",
+    "guests": ["Mike Dolce", "Joey Diaz", "Brian Redban"],
+    "title": "#222 - Mike Dolce, Joey Diaz, Brian Redban",
     "episode_id": 222,
     "isMMA": false,
     "isFC": false,
@@ -13261,8 +13277,8 @@ module.exports = [
     "date": "2012-05-29T04:00:00.000Z"
   },
   {
-    "guests": ["Shane Smith"],
-    "title": "#221 - Shane Smith",
+    "guests": ["Shane Smith", "Brian Redban"],
+    "title": "#221 - Shane Smith, Brian Redban",
     "episode_id": 221,
     "isMMA": false,
     "isFC": false,
@@ -13270,8 +13286,8 @@ module.exports = [
     "date": "2012-05-28T04:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#220 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#220 - Bert Kreischer, Brian Redban",
     "episode_id": 220,
     "isMMA": false,
     "isFC": false,
@@ -13279,8 +13295,8 @@ module.exports = [
     "date": "2012-05-24T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#219 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#219 - Joey Diaz, Brian Redban",
     "episode_id": 219,
     "isMMA": false,
     "isFC": false,
@@ -13288,8 +13304,8 @@ module.exports = [
     "date": "2012-05-23T04:00:00.000Z"
   },
   {
-    "guests": ["Dom Irrera"],
-    "title": "#218 - Dom Irrera",
+    "guests": ["Dom Irrera", "Brian Redban"],
+    "title": "#218 - Dom Irrera, Brian Redban",
     "episode_id": 218,
     "isMMA": false,
     "isFC": false,
@@ -13297,8 +13313,8 @@ module.exports = [
     "date": "2012-05-22T04:00:00.000Z"
   },
   {
-    "guests": ["Michael Ruppert"],
-    "title": "#217 - Michael Ruppert",
+    "guests": ["Michael Ruppert", "Brian Redban"],
+    "title": "#217 - Michael Ruppert, Brian Redban",
     "episode_id": 217,
     "isMMA": false,
     "isFC": false,
@@ -13306,8 +13322,8 @@ module.exports = [
     "date": "2012-05-15T04:00:00.000Z"
   },
   {
-    "guests": ["Chael Sonnen"],
-    "title": "#216 - Chael Sonnen",
+    "guests": ["Chael Sonnen", "Brian Redban"],
+    "title": "#216 - Chael Sonnen, Brian Redban",
     "episode_id": 216,
     "isMMA": false,
     "isFC": false,
@@ -13315,8 +13331,8 @@ module.exports = [
     "date": "2012-05-14T04:00:00.000Z"
   },
   {
-    "guests": ["Andrew Dice Clay, Max Silverstein"],
-    "title": "#215 - Andrew Dice Clay, Max Silverstein",
+    "guests": ["Andrew Dice Clay", "Max Silverstein", "Brian Redban"],
+    "title": "#215 - Andrew Dice Clay, Max Silverstein, Brian Redban",
     "episode_id": 215,
     "isMMA": false,
     "isFC": false,
@@ -13333,8 +13349,8 @@ module.exports = [
     "date": "2012-05-08T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#212 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#212 - Bryan Callen, Brian Redban",
     "episode_id": 212,
     "isMMA": false,
     "isFC": false,
@@ -13342,8 +13358,8 @@ module.exports = [
     "date": "2012-05-01T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#211 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#211 - Ari Shaffir, Brian Redban",
     "episode_id": 211,
     "isMMA": false,
     "isFC": false,
@@ -13351,8 +13367,8 @@ module.exports = [
     "date": "2012-05-01T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#210 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#210 - Joey Diaz, Brian Redban",
     "episode_id": 210,
     "isMMA": false,
     "isFC": false,
@@ -13360,8 +13376,8 @@ module.exports = [
     "date": "2012-04-26T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Ifft"],
-    "title": "#209 - Eddie Ifft",
+    "guests": ["Eddie Ifft", "Brian Redban"],
+    "title": "#209 - Eddie Ifft, Brian Redban",
     "episode_id": 209,
     "isMMA": false,
     "isFC": false,
@@ -13369,8 +13385,8 @@ module.exports = [
     "date": "2012-04-25T04:00:00.000Z"
   },
   {
-    "guests": ["Freeway” Rick Ross"],
-    "title": "#208 - Freeway” Rick Ross",
+    "guests": ["Freeway” Rick Ross", "Brian Redban"],
+    "title": "#208 - Freeway” Rick Ross, Brian Redban",
     "episode_id": 208,
     "isMMA": false,
     "isFC": false,
@@ -13378,8 +13394,8 @@ module.exports = [
     "date": "2012-04-24T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura, Christina Pazsitzky"],
-    "title": "#207 - Tom Segura, Christina Pazsitzky",
+    "guests": ["Tom Segura", "Christina Pazsitzky", "Brian Redban"],
+    "title": "#207 - Tom Segura, Christina Pazsitzky, Brian Redban",
     "episode_id": 207,
     "isMMA": false,
     "isFC": false,
@@ -13387,8 +13403,8 @@ module.exports = [
     "date": "2012-04-18T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#206 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#206 - Eddie Bravo, Brian Redban",
     "episode_id": 206,
     "isMMA": false,
     "isFC": false,
@@ -13396,8 +13412,8 @@ module.exports = [
     "date": "2012-04-17T04:00:00.000Z"
   },
   {
-    "guests": ["Neal Brennan"],
-    "title": "#205 - Neal Brennan",
+    "guests": ["Neal Brennan", "Brian Redban"],
+    "title": "#205 - Neal Brennan, Brian Redban",
     "episode_id": 205,
     "isMMA": false,
     "isFC": false,
@@ -13405,8 +13421,8 @@ module.exports = [
     "date": "2012-04-12T04:00:00.000Z"
   },
   {
-    "guests": ["Amy Schumer"],
-    "title": "#204 - Amy Schumer",
+    "guests": ["Amy Schumer", "Brian Redban"],
+    "title": "#204 - Amy Schumer, Brian Redban",
     "episode_id": 204,
     "isMMA": false,
     "isFC": false,
@@ -13414,8 +13430,8 @@ module.exports = [
     "date": "2012-04-10T04:00:00.000Z"
   },
   {
-    "guests": ["Jim Jefferies"],
-    "title": "#203 - Jim Jefferies",
+    "guests": ["Jim Jefferies", "Brian Redban"],
+    "title": "#203 - Jim Jefferies, Brian Redban",
     "episode_id": 203,
     "isMMA": false,
     "isFC": false,
@@ -13423,8 +13439,8 @@ module.exports = [
     "date": "2012-04-07T04:00:00.000Z"
   },
   {
-    "guests": ["Dom Irrera"],
-    "title": "#202 - Dom Irrera",
+    "guests": ["Dom Irrera", "Brian Redban"],
+    "title": "#202 - Dom Irrera, Brian Redban",
     "episode_id": 202,
     "isMMA": false,
     "isFC": false,
@@ -13432,8 +13448,8 @@ module.exports = [
     "date": "2012-04-05T04:00:00.000Z"
   },
   {
-    "guests": ["EverLast"],
-    "title": "#201 - EverLast",
+    "guests": ["EverLast", "Brian Redban"],
+    "title": "#201 - EverLast, Brian Redban",
     "episode_id": 201,
     "isMMA": false,
     "isFC": false,
@@ -13441,8 +13457,8 @@ module.exports = [
     "date": "2012-04-03T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#200 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#200 - Duncan Trussell, Brian Redban",
     "episode_id": 200,
     "isMMA": false,
     "isFC": false,
@@ -13450,8 +13466,8 @@ module.exports = [
     "date": "2012-03-28T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#199 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#199 - Joey Diaz, Brian Redban",
     "episode_id": 199,
     "isMMA": false,
     "isFC": false,
@@ -13459,8 +13475,8 @@ module.exports = [
     "date": "2012-03-27T04:00:00.000Z"
   },
   {
-    "guests": ["Brody Stevens"],
-    "title": "#198 - Brody Stevens",
+    "guests": ["Brody Stevens", "Brian Redban"],
+    "title": "#198 - Brody Stevens, Brian Redban",
     "episode_id": 198,
     "isMMA": false,
     "isFC": false,
@@ -13468,8 +13484,8 @@ module.exports = [
     "date": "2012-03-21T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#197 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#197 - Ari Shaffir, Brian Redban",
     "episode_id": 197,
     "isMMA": false,
     "isFC": false,
@@ -13477,8 +13493,8 @@ module.exports = [
     "date": "2012-03-19T04:00:00.000Z"
   },
   {
-    "guests": ["Matt Paxton"],
-    "title": "#196 - Matt Paxton",
+    "guests": ["Matt Paxton", "Brian Redban"],
+    "title": "#196 - Matt Paxton, Brian Redban",
     "episode_id": 196,
     "isMMA": false,
     "isFC": false,
@@ -13486,8 +13502,8 @@ module.exports = [
     "date": "2012-03-14T04:00:00.000Z"
   },
   {
-    "guests": ["Aubrey Marcus"],
-    "title": "#195 - Aubrey Marcus",
+    "guests": ["Aubrey Marcus", "Brian Redban"],
+    "title": "#195 - Aubrey Marcus, Brian Redban",
     "episode_id": 195,
     "isMMA": false,
     "isFC": false,
@@ -13495,8 +13511,8 @@ module.exports = [
     "date": "2012-03-13T04:00:00.000Z"
   },
   {
-    "guests": ["Jason Silva"],
-    "title": "#194 - Jason Silva",
+    "guests": ["Jason Silva", "Brian Redban"],
+    "title": "#194 - Jason Silva, Brian Redban",
     "episode_id": 194,
     "isMMA": false,
     "isFC": false,
@@ -13504,8 +13520,8 @@ module.exports = [
     "date": "2012-03-12T04:00:00.000Z"
   },
   {
-    "guests": ["Jim Gaffigan"],
-    "title": "#193 - Jim Gaffigan",
+    "guests": ["Jim Gaffigan", "Brian Redban"],
+    "title": "#193 - Jim Gaffigan, Brian Redban",
     "episode_id": 193,
     "isMMA": false,
     "isFC": false,
@@ -13513,8 +13529,8 @@ module.exports = [
     "date": "2012-03-11T05:00:00.000Z"
   },
   {
-    "guests": ["Sam Harris"],
-    "title": "#192 - Sam Harris",
+    "guests": ["Sam Harris", "Brian Redban"],
+    "title": "#192 - Sam Harris, Brian Redban",
     "episode_id": 192,
     "isMMA": false,
     "isFC": false,
@@ -13531,8 +13547,8 @@ module.exports = [
     "date": "2012-03-06T05:00:00.000Z"
   },
   {
-    "guests": ["Greg Fitzsimmons"],
-    "title": "#190 - Greg Fitzsimmons",
+    "guests": ["Greg Fitzsimmons", "Brian Redban"],
+    "title": "#190 - Greg Fitzsimmons, Brian Redban",
     "episode_id": 190,
     "isMMA": false,
     "isFC": false,
@@ -13540,8 +13556,8 @@ module.exports = [
     "date": "2012-02-29T05:00:00.000Z"
   },
   {
-    "guests": ["B-Real"],
-    "title": "#189 - B-Real",
+    "guests": ["B-Real", "Brian Redban"],
+    "title": "#189 - B-Real, Brian Redban",
     "episode_id": 189,
     "isMMA": false,
     "isFC": false,
@@ -13549,8 +13565,8 @@ module.exports = [
     "date": "2012-02-28T05:00:00.000Z"
   },
   {
-    "guests": ["Amy Schumer"],
-    "title": "#188 - Amy Schumer",
+    "guests": ["Amy Schumer", "Brian Redban"],
+    "title": "#188 - Amy Schumer, Brian Redban",
     "episode_id": 188,
     "isMMA": false,
     "isFC": false,
@@ -13558,8 +13574,8 @@ module.exports = [
     "date": "2012-02-21T05:00:00.000Z"
   },
   {
-    "guests": ["Daniele Bolelli"],
-    "title": "#187 - Daniele Bolelli",
+    "guests": ["Daniele Bolelli", "Brian Redban"],
+    "title": "#187 - Daniele Bolelli, Brian Redban",
     "episode_id": 187,
     "isMMA": false,
     "isFC": false,
@@ -13567,8 +13583,8 @@ module.exports = [
     "date": "2012-02-20T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#186 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#186 - Ari Shaffir, Brian Redban",
     "episode_id": 186,
     "isMMA": false,
     "isFC": false,
@@ -13576,8 +13592,8 @@ module.exports = [
     "date": "2012-02-16T05:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura"],
-    "title": "#185 - Tom Segura",
+    "guests": ["Tom Segura", "Brian Redban"],
+    "title": "#185 - Tom Segura, Brian Redban",
     "episode_id": 185,
     "isMMA": false,
     "isFC": false,
@@ -13585,8 +13601,8 @@ module.exports = [
     "date": "2012-02-14T05:00:00.000Z"
   },
   {
-    "guests": ["DEADMAU5, Russell Peters, Eddie Bravo"],
-    "title": "#184 - DEADMAU5, Russell Peters, Eddie Bravo",
+    "guests": ["DEADMAU5", "Russell Peters", "Eddie Bravo", "Brian Redban"],
+    "title": "#184 - DEADMAU5, Russell Peters, Eddie Bravo, Brian Redban",
     "episode_id": 184,
     "isMMA": false,
     "isFC": false,
@@ -13594,8 +13610,8 @@ module.exports = [
     "date": "2012-02-11T05:00:00.000Z"
   },
   {
-    "guests": ["Jason Silva"],
-    "title": "#183 - Jason Silva",
+    "guests": ["Jason Silva", "Brian Redban"],
+    "title": "#183 - Jason Silva, Brian Redban",
     "episode_id": 183,
     "isMMA": false,
     "isFC": false,
@@ -13603,8 +13619,8 @@ module.exports = [
     "date": "2012-02-09T05:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen, Jimmy Burke"],
-    "title": "#182 - Bryan Callen, Jimmy Burke",
+    "guests": ["Bryan Callen", "Jimmy Burke", "Brian Redban"],
+    "title": "#182 - Bryan Callen, Jimmy Burke, Brian Redban",
     "episode_id": 182,
     "isMMA": false,
     "isFC": false,
@@ -13621,8 +13637,8 @@ module.exports = [
     "date": "2012-02-01T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz, Eddie Bravo, Denny Prokopos"],
-    "title": "#180 - Joey Diaz, Eddie Bravo, Denny Prokopos",
+    "guests": ["Joey Diaz", "Eddie Bravo", "Denny Prokopos", "Brian Redban"],
+    "title": "#180 - Joey Diaz, Eddie Bravo, Denny Prokopos, Brian Redban",
     "episode_id": 180,
     "isMMA": false,
     "isFC": false,
@@ -13630,8 +13646,8 @@ module.exports = [
     "date": "2012-01-31T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#179 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#179 - Duncan Trussell, Brian Redban",
     "episode_id": 179,
     "isMMA": false,
     "isFC": false,
@@ -13639,8 +13655,8 @@ module.exports = [
     "date": "2012-01-25T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#178 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#178 - Joey Diaz, Brian Redban",
     "episode_id": 178,
     "isMMA": false,
     "isFC": false,
@@ -13648,8 +13664,8 @@ module.exports = [
     "date": "2012-01-23T05:00:00.000Z"
   },
   {
-    "guests": ["Hamilton Morris"],
-    "title": "#177 - Hamilton Morris",
+    "guests": ["Hamilton Morris", "Brian Redban"],
+    "title": "#177 - Hamilton Morris, Brian Redban",
     "episode_id": 177,
     "isMMA": false,
     "isFC": false,
@@ -13657,8 +13673,8 @@ module.exports = [
     "date": "2012-01-18T05:00:00.000Z"
   },
   {
-    "guests": ["Steven Rinella"],
-    "title": "#176 - Steven Rinella",
+    "guests": ["Steven Rinella", "Brian Redban"],
+    "title": "#176 - Steven Rinella, Brian Redban",
     "episode_id": 176,
     "isMMA": false,
     "isFC": false,
@@ -13666,8 +13682,8 @@ module.exports = [
     "date": "2012-01-16T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#175 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#175 - Ari Shaffir, Brian Redban",
     "episode_id": 175,
     "isMMA": false,
     "isFC": false,
@@ -13675,8 +13691,8 @@ module.exports = [
     "date": "2012-01-10T05:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo, Dr. Steve Graham"],
-    "title": "#174 - Eddie Bravo, Dr. Steve Graham",
+    "guests": ["Eddie Bravo", "Dr. Steve Graham", "Brian Redban"],
+    "title": "#174 - Eddie Bravo, Dr. Steve Graham, Brian Redban",
     "episode_id": 174,
     "isMMA": false,
     "isFC": false,
@@ -13684,8 +13700,8 @@ module.exports = [
     "date": "2012-01-09T05:00:00.000Z"
   },
   {
-    "guests": ["Peter Joseph"],
-    "title": "#173 - Peter Joseph",
+    "guests": ["Peter Joseph", "Brian Redban"],
+    "title": "#173 - Peter Joseph, Brian Redban",
     "episode_id": 173,
     "isMMA": false,
     "isFC": false,
@@ -13693,8 +13709,8 @@ module.exports = [
     "date": "2012-01-06T05:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#173 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#173 - Bryan Callen, Brian Redban",
     "episode_id": 173,
     "isMMA": false,
     "isFC": false,
@@ -13702,8 +13718,8 @@ module.exports = [
     "date": "2012-01-03T05:00:00.000Z"
   },
   {
-    "guests": ["EverLast"],
-    "title": "#171 - EverLast",
+    "guests": ["EverLast", "Brian Redban"],
+    "title": "#171 - EverLast, Brian Redban",
     "episode_id": 171,
     "isMMA": false,
     "isFC": false,
@@ -13711,8 +13727,8 @@ module.exports = [
     "date": "2011-12-28T05:00:00.000Z"
   },
   {
-    "guests": ["Michael Ruppert"],
-    "title": "#170 - Michael Ruppert",
+    "guests": ["Michael Ruppert", "Brian Redban"],
+    "title": "#170 - Michael Ruppert, Brian Redban",
     "episode_id": 170,
     "isMMA": false,
     "isFC": false,
@@ -13721,7 +13737,11 @@ module.exports = [
   },
   {
     "guests": [
-      "Brian Redban, Doug Benson, Bert Kreischer, Ari Shaffir, Jason Gillearn"
+      "Brian Redban",
+      "Doug Benson",
+      "Bert Kreischer",
+      "Ari Shaffir",
+      "Jason Gillearn"
     ],
     "title": "#169 - Brian Redban, Doug Benson, Bert Kreischer, Ari Shaffir, Jason Gillearn",
     "episode_id": 169,
@@ -13731,8 +13751,8 @@ module.exports = [
     "date": "2011-12-24T05:00:00.000Z"
   },
   {
-    "guests": ["Ronda Rousey, Eddie Bravo"],
-    "title": "#168 - Ronda Rousey, Eddie Bravo",
+    "guests": ["Ronda Rousey", "Eddie Bravo", "Brian Redban"],
+    "title": "#168 - Ronda Rousey, Eddie Bravo, Brian Redban",
     "episode_id": 168,
     "isMMA": false,
     "isFC": false,
@@ -13740,8 +13760,8 @@ module.exports = [
     "date": "2011-12-21T05:00:00.000Z"
   },
   {
-    "guests": ["Aubrey Marcus"],
-    "title": "#167 - Aubrey Marcus",
+    "guests": ["Aubrey Marcus", "Brian Redban"],
+    "title": "#167 - Aubrey Marcus, Brian Redban",
     "episode_id": 167,
     "isMMA": false,
     "isFC": false,
@@ -13749,8 +13769,8 @@ module.exports = [
     "date": "2011-12-20T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#166 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#166 - Duncan Trussell, Brian Redban",
     "episode_id": 166,
     "isMMA": false,
     "isFC": false,
@@ -13758,8 +13778,8 @@ module.exports = [
     "date": "2011-12-14T05:00:00.000Z"
   },
   {
-    "guests": ["Bruce Lipton"],
-    "title": "#165 - Bruce Lipton",
+    "guests": ["Bruce Lipton", "Brian Redban"],
+    "title": "#165 - Bruce Lipton, Brian Redban",
     "episode_id": 165,
     "isMMA": false,
     "isFC": false,
@@ -13767,8 +13787,8 @@ module.exports = [
     "date": "2011-12-13T05:00:00.000Z"
   },
   {
-    "guests": ["Shane Smith"],
-    "title": "#164 - Shane Smith",
+    "guests": ["Shane Smith", "Brian Redban"],
+    "title": "#164 - Shane Smith, Brian Redban",
     "episode_id": 164,
     "isMMA": false,
     "isFC": false,
@@ -13776,8 +13796,8 @@ module.exports = [
     "date": "2011-12-06T05:00:00.000Z"
   },
   {
-    "guests": ["Doug Stanhope, Joey Diaz"],
-    "title": "#163 - Doug Stanhope, Joey Diaz",
+    "guests": ["Doug Stanhope", "Joey Diaz", "Brian Redban"],
+    "title": "#163 - Doug Stanhope, Joey Diaz, Brian Redban",
     "episode_id": 163,
     "isMMA": false,
     "isFC": false,
@@ -13785,8 +13805,8 @@ module.exports = [
     "date": "2011-12-01T05:00:00.000Z"
   },
   {
-    "guests": ["Daniele Bolelli"],
-    "title": "#162 - Daniele Bolelli",
+    "guests": ["Daniele Bolelli", "Brian Redban"],
+    "title": "#162 - Daniele Bolelli, Brian Redban",
     "episode_id": 162,
     "isMMA": false,
     "isFC": false,
@@ -13794,8 +13814,8 @@ module.exports = [
     "date": "2011-11-29T05:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#161 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#161 - Bert Kreischer, Brian Redban",
     "episode_id": 161,
     "isMMA": false,
     "isFC": false,
@@ -13803,8 +13823,8 @@ module.exports = [
     "date": "2011-11-28T05:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#160 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#160 - Eddie Bravo, Brian Redban",
     "episode_id": 160,
     "isMMA": false,
     "isFC": false,
@@ -13812,8 +13832,8 @@ module.exports = [
     "date": "2011-11-24T05:00:00.000Z"
   },
   {
-    "guests": ["Nick Thune"],
-    "title": "#159 - Nick Thune",
+    "guests": ["Nick Thune", "Brian Redban"],
+    "title": "#159 - Nick Thune, Brian Redban",
     "episode_id": 159,
     "isMMA": false,
     "isFC": false,
@@ -13821,8 +13841,8 @@ module.exports = [
     "date": "2011-11-22T05:00:00.000Z"
   },
   {
-    "guests": ["Doug Benson"],
-    "title": "#158 - Doug Benson",
+    "guests": ["Doug Benson", "Brian Redban"],
+    "title": "#158 - Doug Benson, Brian Redban",
     "episode_id": 158,
     "isMMA": false,
     "isFC": false,
@@ -13830,8 +13850,8 @@ module.exports = [
     "date": "2011-11-16T05:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura, Christina Pazsitzky"],
-    "title": "#157 - Tom Segura, Christina Pazsitzky",
+    "guests": ["Tom Segura", "Christina Pazsitzky", "Brian Redban"],
+    "title": "#157 - Tom Segura, Christina Pazsitzky, Brian Redban",
     "episode_id": 157,
     "isMMA": false,
     "isFC": false,
@@ -13839,8 +13859,8 @@ module.exports = [
     "date": "2011-11-15T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#156 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#156 - Duncan Trussell, Brian Redban",
     "episode_id": 156,
     "isMMA": false,
     "isFC": false,
@@ -13848,8 +13868,8 @@ module.exports = [
     "date": "2011-11-10T05:00:00.000Z"
   },
   {
-    "guests": ["Dave Attell"],
-    "title": "#155 - Dave Attell",
+    "guests": ["Dave Attell", "Brian Redban"],
+    "title": "#155 - Dave Attell, Brian Redban",
     "episode_id": 155,
     "isMMA": false,
     "isFC": false,
@@ -13857,8 +13877,8 @@ module.exports = [
     "date": "2011-11-08T05:00:00.000Z"
   },
   {
-    "guests": ["Sam Tripoli"],
-    "title": "#154 - Sam Tripoli",
+    "guests": ["Sam Tripoli", "Brian Redban"],
+    "title": "#154 - Sam Tripoli, Brian Redban",
     "episode_id": 154,
     "isMMA": false,
     "isFC": false,
@@ -13866,8 +13886,8 @@ module.exports = [
     "date": "2011-11-07T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#153 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#153 - Joey Diaz, Brian Redban",
     "episode_id": 153,
     "isMMA": false,
     "isFC": false,
@@ -13884,8 +13904,8 @@ module.exports = [
     "date": "2011-10-27T04:00:00.000Z"
   },
   {
-    "guests": ["Josh McDermitt"],
-    "title": "#151 - Josh McDermitt",
+    "guests": ["Josh McDermitt", "Brian Redban"],
+    "title": "#151 - Josh McDermitt, Brian Redban",
     "episode_id": 151,
     "isMMA": false,
     "isFC": false,
@@ -13893,8 +13913,8 @@ module.exports = [
     "date": "2011-10-25T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#150 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#150 - Bryan Callen, Brian Redban",
     "episode_id": 150,
     "isMMA": false,
     "isFC": false,
@@ -13902,8 +13922,8 @@ module.exports = [
     "date": "2011-10-24T04:00:00.000Z"
   },
   {
-    "guests": ["LIVE FROM THE ICEHOUSE (PART ONE)"],
-    "title": "#149 - LIVE FROM THE ICEHOUSE (PART ONE)",
+    "guests": ["Brian Redban"],
+    "title": "#149 - LIVE FROM THE ICEHOUSE (PART ONE), Brian Redban",
     "episode_id": 149,
     "isMMA": false,
     "isFC": false,
@@ -13911,8 +13931,8 @@ module.exports = [
     "date": "2011-10-22T04:00:00.000Z"
   },
   {
-    "guests": ["Kevin Pereira"],
-    "title": "#148 - Kevin Pereira",
+    "guests": ["Kevin Pereira", "Brian Redban"],
+    "title": "#148 - Kevin Pereira, Brian Redban",
     "episode_id": 148,
     "isMMA": false,
     "isFC": false,
@@ -13920,8 +13940,8 @@ module.exports = [
     "date": "2011-10-19T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#147 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#147 - Duncan Trussell, Brian Redban",
     "episode_id": 147,
     "isMMA": false,
     "isFC": false,
@@ -13929,8 +13949,8 @@ module.exports = [
     "date": "2011-10-17T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#146 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#146 - Ari Shaffir, Brian Redban",
     "episode_id": 146,
     "isMMA": false,
     "isFC": false,
@@ -13938,8 +13958,8 @@ module.exports = [
     "date": "2011-10-13T04:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#145 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#145 - Bert Kreischer, Brian Redban",
     "episode_id": 145,
     "isMMA": false,
     "isFC": false,
@@ -13947,8 +13967,8 @@ module.exports = [
     "date": "2011-10-10T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#144 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#144 - Eddie Bravo, Brian Redban",
     "episode_id": 144,
     "isMMA": false,
     "isFC": false,
@@ -13956,8 +13976,8 @@ module.exports = [
     "date": "2011-10-04T04:00:00.000Z"
   },
   {
-    "guests": ["Mayhem Miller, Ryan Parsons"],
-    "title": "#143 - Mayhem Miller, Ryan Parsons",
+    "guests": ["Mayhem Miller", "Ryan Parsons", "Brian Redban"],
+    "title": "#143 - Mayhem Miller, Ryan Parsons, Brian Redban",
     "episode_id": 143,
     "isMMA": false,
     "isFC": false,
@@ -13965,7 +13985,7 @@ module.exports = [
     "date": "2011-09-28T04:00:00.000Z"
   },
   {
-    "guests": ["Graham Hancock, Duncan Trussell"],
+    "guests": ["Graham Hancock", "Duncan Trussell"],
     "title": "#142 - Graham Hancock, Duncan Trussell",
     "episode_id": 142,
     "isMMA": false,
@@ -13983,8 +14003,8 @@ module.exports = [
     "date": "2011-09-25T04:00:00.000Z"
   },
   {
-    "guests": ["Brendon Walsh"],
-    "title": "#140 - Brendon Walsh",
+    "guests": ["Brendon Walsh", "Brian Redban"],
+    "title": "#140 - Brendon Walsh, Brian Redban",
     "episode_id": 140,
     "isMMA": false,
     "isFC": false,
@@ -13992,8 +14012,8 @@ module.exports = [
     "date": "2011-09-22T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#139 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#139 - Duncan Trussell, Brian Redban",
     "episode_id": 139,
     "isMMA": false,
     "isFC": false,
@@ -14001,8 +14021,8 @@ module.exports = [
     "date": "2011-09-14T04:00:00.000Z"
   },
   {
-    "guests": ["Anthony Bourdain"],
-    "title": "#138 - Anthony Bourdain",
+    "guests": ["Anthony Bourdain", "Brian Redban"],
+    "title": "#138 - Anthony Bourdain, Brian Redban",
     "episode_id": 138,
     "isMMA": false,
     "isFC": false,
@@ -14010,8 +14030,8 @@ module.exports = [
     "date": "2011-09-11T04:00:00.000Z"
   },
   {
-    "guests": ["Tim Ferriss"],
-    "title": "#137 - Tim Ferriss",
+    "guests": ["Tim Ferriss", "Brian Redban"],
+    "title": "#137 - Tim Ferriss, Brian Redban",
     "episode_id": 137,
     "isMMA": false,
     "isFC": false,
@@ -14019,8 +14039,8 @@ module.exports = [
     "date": "2011-09-10T04:00:00.000Z"
   },
   {
-    "guests": ["Daniel Pinchbeck"],
-    "title": "#136 - Daniel Pinchbeck",
+    "guests": ["Daniel Pinchbeck", "Brian Redban"],
+    "title": "#136 - Daniel Pinchbeck, Brian Redban",
     "episode_id": 136,
     "isMMA": false,
     "isFC": false,
@@ -14028,8 +14048,8 @@ module.exports = [
     "date": "2011-09-08T04:00:00.000Z"
   },
   {
-    "guests": ["John Heffron, Joey Diaz"],
-    "title": "#135 - John Heffron, Joey Diaz",
+    "guests": ["John Heffron", "Joey Diaz", "Brian Redban"],
+    "title": "#135 - John Heffron, Joey Diaz, Brian Redban",
     "episode_id": 135,
     "isMMA": false,
     "isFC": false,
@@ -14037,8 +14057,8 @@ module.exports = [
     "date": "2011-09-06T04:00:00.000Z"
   },
   {
-    "guests": ["Kevin Smith"],
-    "title": "#134 - Kevin Smith",
+    "guests": ["Kevin Smith", "Brian Redban"],
+    "title": "#134 - Kevin Smith, Brian Redban",
     "episode_id": 134,
     "isMMA": false,
     "isFC": false,
@@ -14046,8 +14066,8 @@ module.exports = [
     "date": "2011-09-01T04:00:00.000Z"
   },
   {
-    "guests": ["Charlie Murphy, Freeze Love"],
-    "title": "#133 - Charlie Murphy, Freeze Love",
+    "guests": ["Charlie Murphy", "Freeze Love", "Brian Redban"],
+    "title": "#133 - Charlie Murphy, Freeze Love, Brian Redban",
     "episode_id": 133,
     "isMMA": false,
     "isFC": false,
@@ -14055,8 +14075,8 @@ module.exports = [
     "date": "2011-08-24T04:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#132 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#132 - Bert Kreischer, Brian Redban",
     "episode_id": 132,
     "isMMA": false,
     "isFC": false,
@@ -14064,8 +14084,8 @@ module.exports = [
     "date": "2011-08-22T04:00:00.000Z"
   },
   {
-    "guests": ["Neal Brennan"],
-    "title": "#131 - Neal Brennan",
+    "guests": ["Neal Brennan", "Brian Redban"],
+    "title": "#131 - Neal Brennan, Brian Redban",
     "episode_id": 131,
     "isMMA": false,
     "isFC": false,
@@ -14073,8 +14093,8 @@ module.exports = [
     "date": "2011-08-17T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#130 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#130 - Duncan Trussell, Brian Redban",
     "episode_id": 130,
     "isMMA": false,
     "isFC": false,
@@ -14082,8 +14102,8 @@ module.exports = [
     "date": "2011-08-16T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#129 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#129 - Ari Shaffir, Brian Redban",
     "episode_id": 129,
     "isMMA": false,
     "isFC": false,
@@ -14091,8 +14111,17 @@ module.exports = [
     "date": "2011-08-11T04:00:00.000Z"
   },
   {
-    "guests": ["Aubrey Marcus"],
-    "title": "#127 - Aubrey Marcus",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#128 - Joey Diaz, Brian Redban",
+    "episode_id": 128,
+    "isMMA": false,
+    "isFC": false,
+    "description": "No description available.",
+    "date": "2011-08-10T04:00:00.000Z"
+  },
+  {
+    "guests": ["Aubrey Marcus", "Brian Redban"],
+    "title": "#127 - Aubrey Marcus, Brian Redban",
     "episode_id": 127,
     "isMMA": false,
     "isFC": false,
@@ -14100,8 +14129,8 @@ module.exports = [
     "date": "2011-08-03T04:00:00.000Z"
   },
   {
-    "guests": ["Freddy Lockhart"],
-    "title": "#126 - Freddy Lockhart",
+    "guests": ["Freddy Lockhart", "Brian Redban"],
+    "title": "#126 - Freddy Lockhart, Brian Redban",
     "episode_id": 126,
     "isMMA": false,
     "isFC": false,
@@ -14109,8 +14138,8 @@ module.exports = [
     "date": "2011-07-31T04:00:00.000Z"
   },
   {
-    "guests": ["Giorgio Tsoukalos, Eddie Bravo"],
-    "title": "#125 - Giorgio Tsoukalos, Eddie Bravo",
+    "guests": ["Giorgio Tsoukalos", "Eddie Bravo", "Brian Redban"],
+    "title": "#125 - Giorgio Tsoukalos, Eddie Bravo, Brian Redban",
     "episode_id": 125,
     "isMMA": false,
     "isFC": false,
@@ -14127,8 +14156,8 @@ module.exports = [
     "date": "2011-07-24T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura"],
-    "title": "#123 - Tom Segura",
+    "guests": ["Tom Segura", "Brian Redban"],
+    "title": "#123 - Tom Segura, Brian Redban",
     "episode_id": 123,
     "isMMA": false,
     "isFC": false,
@@ -14136,8 +14165,8 @@ module.exports = [
     "date": "2011-07-20T04:00:00.000Z"
   },
   {
-    "guests": ["Jamie Kilstein"],
-    "title": "#122 - Jamie Kilstein",
+    "guests": ["Jamie Kilstein", "Brian Redban"],
+    "title": "#122 - Jamie Kilstein, Brian Redban",
     "episode_id": 122,
     "isMMA": false,
     "isFC": false,
@@ -14145,8 +14174,8 @@ module.exports = [
     "date": "2011-07-19T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#121 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#121 - Bryan Callen, Brian Redban",
     "episode_id": 121,
     "isMMA": false,
     "isFC": false,
@@ -14154,8 +14183,8 @@ module.exports = [
     "date": "2011-07-11T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#120 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#120 - Duncan Trussell, Brian Redban",
     "episode_id": 120,
     "isMMA": false,
     "isFC": false,
@@ -14163,8 +14192,8 @@ module.exports = [
     "date": "2011-07-06T04:00:00.000Z"
   },
   {
-    "guests": ["Jan Irvin"],
-    "title": "#119 - Jan Irvin",
+    "guests": ["Jan Irvin", "Brian Redban"],
+    "title": "#119 - Jan Irvin, Brian Redban",
     "episode_id": 119,
     "isMMA": false,
     "isFC": false,
@@ -14172,8 +14201,8 @@ module.exports = [
     "date": "2011-07-05T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#118 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#118 - Ari Shaffir, Brian Redban",
     "episode_id": 118,
     "isMMA": false,
     "isFC": false,
@@ -14181,8 +14210,8 @@ module.exports = [
     "date": "2011-06-29T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#117 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#117 - Eddie Bravo, Brian Redban",
     "episode_id": 117,
     "isMMA": false,
     "isFC": false,
@@ -14190,8 +14219,8 @@ module.exports = [
     "date": "2011-06-28T04:00:00.000Z"
   },
   {
-    "guests": ["Russell Peters, Junior Simpson"],
-    "title": "#116 - Russell Peters, Junior Simpson",
+    "guests": ["Russell Peters", "Junior Simpson", "Brian Redban"],
+    "title": "#116 - Russell Peters, Junior Simpson, Brian Redban",
     "episode_id": 116,
     "isMMA": false,
     "isFC": false,
@@ -14199,8 +14228,8 @@ module.exports = [
     "date": "2011-06-21T04:00:00.000Z"
   },
   {
-    "guests": ["Maz Jobrani"],
-    "title": "#115 - Maz Jobrani",
+    "guests": ["Maz Jobrani", "Brian Redban"],
+    "title": "#115 - Maz Jobrani, Brian Redban",
     "episode_id": 115,
     "isMMA": false,
     "isFC": false,
@@ -14208,8 +14237,8 @@ module.exports = [
     "date": "2011-06-20T04:00:00.000Z"
   },
   {
-    "guests": ["Neal Brennan"],
-    "title": "#114 - Neal Brennan",
+    "guests": ["Neal Brennan", "Brian Redban"],
+    "title": "#114 - Neal Brennan, Brian Redban",
     "episode_id": 114,
     "isMMA": false,
     "isFC": false,
@@ -14217,8 +14246,8 @@ module.exports = [
     "date": "2011-06-14T04:00:00.000Z"
   },
   {
-    "guests": ["Brian Posehn"],
-    "title": "#113 - Brian Posehn",
+    "guests": ["Brian Posehn", "Brian Redban"],
+    "title": "#113 - Brian Posehn, Brian Redban",
     "episode_id": 113,
     "isMMA": false,
     "isFC": false,
@@ -14226,8 +14255,8 @@ module.exports = [
     "date": "2011-06-13T04:00:00.000Z"
   },
   {
-    "guests": ["Cliffy B, Johnny Cristo"],
-    "title": "#112 - Cliffy B, Johnny Cristo",
+    "guests": ["Cliffy B", "Johnny Cristo", "Brian Redban"],
+    "title": "#112 - Cliffy B, Johnny Cristo, Brian Redban",
     "episode_id": 112,
     "isMMA": false,
     "isFC": false,
@@ -14235,8 +14264,8 @@ module.exports = [
     "date": "2011-06-07T04:00:00.000Z"
   },
   {
-    "guests": ["Al Madrigal"],
-    "title": "#111 - Al Madrigal",
+    "guests": ["Al Madrigal", "Brian Redban"],
+    "title": "#111 - Al Madrigal, Brian Redban",
     "episode_id": 111,
     "isMMA": false,
     "isFC": false,
@@ -14244,8 +14273,8 @@ module.exports = [
     "date": "2011-06-06T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#110 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#110 - Duncan Trussell, Brian Redban",
     "episode_id": 110,
     "isMMA": false,
     "isFC": false,
@@ -14253,8 +14282,8 @@ module.exports = [
     "date": "2011-06-01T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#109 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#109 - Ari Shaffir, Brian Redban",
     "episode_id": 109,
     "isMMA": false,
     "isFC": false,
@@ -14262,8 +14291,17 @@ module.exports = [
     "date": "2011-05-31T04:00:00.000Z"
   },
   {
-    "guests": ["Doug Benson"],
-    "title": "#107 - Doug Benson",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#108 - Joey Diaz, Brian Redban",
+    "episode_id": 108,
+    "isMMA": false,
+    "isFC": false,
+    "description": "No description available.",
+    "date": "2011-05-30T04:00:00.000Z"
+  },
+  {
+    "guests": ["Doug Benson", "Brian Redban"],
+    "title": "#107 - Doug Benson, Brian Redban",
     "episode_id": 107,
     "isMMA": false,
     "isFC": false,
@@ -14271,8 +14309,8 @@ module.exports = [
     "date": "2011-05-12T04:00:00.000Z"
   },
   {
-    "guests": ["Steve Rannazzisi"],
-    "title": "#106 - Steve Rannazzisi",
+    "guests": ["Steve Rannazzisi", "Brian Redban"],
+    "title": "#106 - Steve Rannazzisi, Brian Redban",
     "episode_id": 106,
     "isMMA": false,
     "isFC": false,
@@ -14280,8 +14318,8 @@ module.exports = [
     "date": "2011-05-10T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#105 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#105 - Bryan Callen, Brian Redban",
     "episode_id": 105,
     "isMMA": false,
     "isFC": false,
@@ -14298,8 +14336,8 @@ module.exports = [
     "date": "2011-05-04T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#103 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#103 - Duncan Trussell, Brian Redban",
     "episode_id": 103,
     "isMMA": false,
     "isFC": false,
@@ -14307,8 +14345,8 @@ module.exports = [
     "date": "2011-05-02T04:00:00.000Z"
   },
   {
-    "guests": ["John Heffron"],
-    "title": "#102 - John Heffron",
+    "guests": ["John Heffron", "Brian Redban"],
+    "title": "#102 - John Heffron, Brian Redban",
     "episode_id": 102,
     "isMMA": false,
     "isFC": false,
@@ -14316,8 +14354,8 @@ module.exports = [
     "date": "2011-04-27T04:00:00.000Z"
   },
   {
-    "guests": ["Adam Carolla"],
-    "title": "#101 - Adam Carolla",
+    "guests": ["Adam Carolla", "Brian Redban"],
+    "title": "#101 - Adam Carolla, Brian Redban",
     "episode_id": 101,
     "isMMA": false,
     "isFC": false,
@@ -14334,8 +14372,8 @@ module.exports = [
     "date": "2011-04-19T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura"],
-    "title": "#99 - Tom Segura",
+    "guests": ["Tom Segura", "Brian Redban"],
+    "title": "#99 - Tom Segura, Brian Redban",
     "episode_id": 99,
     "isMMA": false,
     "isFC": false,
@@ -14343,7 +14381,7 @@ module.exports = [
     "date": "2011-04-18T04:00:00.000Z"
   },
   {
-    "guests": ["Daryl Wright, Brian Whitaker"],
+    "guests": ["Daryl Wright", "Brian Whitaker"],
     "title": "#98 - Daryl Wright, Brian Whitaker",
     "episode_id": 98,
     "isMMA": false,
@@ -14352,8 +14390,8 @@ module.exports = [
     "date": "2011-04-13T04:00:00.000Z"
   },
   {
-    "guests": ["Kevin Pereira"],
-    "title": "#96 - Kevin Pereira",
+    "guests": ["Kevin Pereira", "Brian Redban"],
+    "title": "#96 - Kevin Pereira, Brian Redban",
     "episode_id": 96,
     "isMMA": false,
     "isFC": false,
@@ -14361,8 +14399,8 @@ module.exports = [
     "date": "2011-04-08T04:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#95 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#95 - Bert Kreischer, Brian Redban",
     "episode_id": 95,
     "isMMA": false,
     "isFC": false,
@@ -14370,8 +14408,8 @@ module.exports = [
     "date": "2011-04-05T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#94 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#94 - Joey Diaz, Brian Redban",
     "episode_id": 94,
     "isMMA": false,
     "isFC": false,
@@ -14379,8 +14417,8 @@ module.exports = [
     "date": "2011-03-31T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#93 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#93 - Eddie Bravo, Brian Redban",
     "episode_id": 93,
     "isMMA": false,
     "isFC": false,
@@ -14388,8 +14426,8 @@ module.exports = [
     "date": "2011-03-28T04:00:00.000Z"
   },
   {
-    "guests": ["Bill Burr"],
-    "title": "#91 - Bill Burr",
+    "guests": ["Bill Burr", "Brian Redban"],
+    "title": "#91 - Bill Burr, Brian Redban",
     "episode_id": 91,
     "isMMA": false,
     "isFC": false,
@@ -14397,8 +14435,8 @@ module.exports = [
     "date": "2011-03-22T04:00:00.000Z"
   },
   {
-    "guests": ["Jim Norton"],
-    "title": "#92 - Jim Norton",
+    "guests": ["Jim Norton", "Brian Redban"],
+    "title": "#92 - Jim Norton, Brian Redban",
     "episode_id": 92,
     "isMMA": false,
     "isFC": false,
@@ -14406,8 +14444,8 @@ module.exports = [
     "date": "2011-03-22T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#90 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#90 - Joey Diaz, Brian Redban",
     "episode_id": 90,
     "isMMA": false,
     "isFC": false,
@@ -14415,8 +14453,8 @@ module.exports = [
     "date": "2011-03-16T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#89 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#89 - Bryan Callen, Brian Redban",
     "episode_id": 89,
     "isMMA": false,
     "isFC": false,
@@ -14424,8 +14462,8 @@ module.exports = [
     "date": "2011-03-15T04:00:00.000Z"
   },
   {
-    "guests": ["Andy Dick"],
-    "title": "#88 - Andy Dick",
+    "guests": ["Andy Dick", "Brian Redban"],
+    "title": "#88 - Andy Dick, Brian Redban",
     "episode_id": 88,
     "isMMA": false,
     "isFC": false,
@@ -14433,8 +14471,8 @@ module.exports = [
     "date": "2011-03-10T05:00:00.000Z"
   },
   {
-    "guests": ["Dana Dearmond"],
-    "title": "#87 - Dana Dearmond",
+    "guests": ["Dana Dearmond", "Brian Redban"],
+    "title": "#87 - Dana Dearmond, Brian Redban",
     "episode_id": 87,
     "isMMA": false,
     "isFC": false,
@@ -14460,8 +14498,8 @@ module.exports = [
     "date": "2011-03-01T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#84 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#84 - Duncan Trussell, Brian Redban",
     "episode_id": 84,
     "isMMA": false,
     "isFC": false,
@@ -14469,8 +14507,8 @@ module.exports = [
     "date": "2011-02-28T05:00:00.000Z"
   },
   {
-    "guests": ["Bas Rutten"],
-    "title": "#83 - Bas Rutten",
+    "guests": ["Bas Rutten", "Brian Redban"],
+    "title": "#83 - Bas Rutten, Brian Redban",
     "episode_id": 83,
     "isMMA": false,
     "isFC": false,
@@ -14478,8 +14516,8 @@ module.exports = [
     "date": "2011-02-22T05:00:00.000Z"
   },
   {
-    "guests": ["Dave Foley"],
-    "title": "#82 - Dave Foley",
+    "guests": ["Dave Foley", "Brian Redban"],
+    "title": "#82 - Dave Foley, Brian Redban",
     "episode_id": 82,
     "isMMA": false,
     "isFC": false,
@@ -14487,8 +14525,8 @@ module.exports = [
     "date": "2011-02-21T05:00:00.000Z"
   },
   {
-    "guests": ["Pete Johansson"],
-    "title": "#81 - Pete Johansson",
+    "guests": ["Pete Johansson", "Brian Redban"],
+    "title": "#81 - Pete Johansson, Brian Redban",
     "episode_id": 81,
     "isMMA": false,
     "isFC": false,
@@ -14496,8 +14534,8 @@ module.exports = [
     "date": "2011-02-16T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz, Ari Shaffir"],
-    "title": "#80 - Joey Diaz, Ari Shaffir",
+    "guests": ["Joey Diaz", "Ari Shaffir", "Brian Redban"],
+    "title": "#80 - Joey Diaz, Ari Shaffir, Brian Redban",
     "episode_id": 80,
     "isMMA": false,
     "isFC": false,
@@ -14505,8 +14543,8 @@ module.exports = [
     "date": "2011-02-15T05:00:00.000Z"
   },
   {
-    "guests": ["Jon Lajoie"],
-    "title": "#79 - Jon Lajoie",
+    "guests": ["Jon Lajoie", "Brian Redban"],
+    "title": "#79 - Jon Lajoie, Brian Redban",
     "episode_id": 79,
     "isMMA": false,
     "isFC": false,
@@ -14514,8 +14552,8 @@ module.exports = [
     "date": "2011-02-10T05:00:00.000Z"
   },
   {
-    "guests": ["Chris Aubrey Marcus"],
-    "title": "#78 - Chris Aubrey Marcus",
+    "guests": ["Chris Aubrey Marcus", "Brian Redban"],
+    "title": "#78 - Chris Aubrey Marcus, Brian Redban",
     "episode_id": 78,
     "isMMA": false,
     "isFC": false,
@@ -14523,8 +14561,8 @@ module.exports = [
     "date": "2011-02-08T05:00:00.000Z"
   },
   {
-    "guests": ["Eddie Ifft"],
-    "title": "#77 - Eddie Ifft",
+    "guests": ["Eddie Ifft", "Brian Redban"],
+    "title": "#77 - Eddie Ifft, Brian Redban",
     "episode_id": 77,
     "isMMA": false,
     "isFC": false,
@@ -14532,8 +14570,8 @@ module.exports = [
     "date": "2011-02-03T05:00:00.000Z"
   },
   {
-    "guests": ["Bobby Lee"],
-    "title": "#76 - Bobby Lee",
+    "guests": ["Bobby Lee", "Brian Redban"],
+    "title": "#76 - Bobby Lee, Brian Redban",
     "episode_id": 76,
     "isMMA": false,
     "isFC": false,
@@ -14541,8 +14579,8 @@ module.exports = [
     "date": "2011-02-01T05:00:00.000Z"
   },
   {
-    "guests": ["Sam Tripoli"],
-    "title": "#75 - Sam Tripoli",
+    "guests": ["Sam Tripoli", "Brian Redban"],
+    "title": "#75 - Sam Tripoli, Brian Redban",
     "episode_id": 75,
     "isMMA": false,
     "isFC": false,
@@ -14550,8 +14588,8 @@ module.exports = [
     "date": "2011-01-26T05:00:00.000Z"
   },
   {
-    "guests": ["Allison Sciulla"],
-    "title": "#74 - Allison Sciulla",
+    "guests": ["Allison Sciulla", "Brian Redban"],
+    "title": "#74 - Allison Sciulla, Brian Redban",
     "episode_id": 74,
     "isMMA": false,
     "isFC": false,
@@ -14559,8 +14597,8 @@ module.exports = [
     "date": "2011-01-25T05:00:00.000Z"
   },
   {
-    "guests": ["Bert Kreischer"],
-    "title": "#73 - Bert Kreischer",
+    "guests": ["Bert Kreischer", "Brian Redban"],
+    "title": "#73 - Bert Kreischer, Brian Redban",
     "episode_id": 73,
     "isMMA": false,
     "isFC": false,
@@ -14568,8 +14606,8 @@ module.exports = [
     "date": "2011-01-19T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#72 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#72 - Ari Shaffir, Brian Redban",
     "episode_id": 72,
     "isMMA": false,
     "isFC": false,
@@ -14577,8 +14615,8 @@ module.exports = [
     "date": "2011-01-18T05:00:00.000Z"
   },
   {
-    "guests": ["Al Madrigal"],
-    "title": "#71 - Al Madrigal",
+    "guests": ["Al Madrigal", "Brian Redban"],
+    "title": "#71 - Al Madrigal, Brian Redban",
     "episode_id": 71,
     "isMMA": false,
     "isFC": false,
@@ -14586,8 +14624,8 @@ module.exports = [
     "date": "2011-01-13T05:00:00.000Z"
   },
   {
-    "guests": ["Brendon Walsh"],
-    "title": "#70 - Brendon Walsh",
+    "guests": ["Brendon Walsh", "Brian Redban"],
+    "title": "#70 - Brendon Walsh, Brian Redban",
     "episode_id": 70,
     "isMMA": false,
     "isFC": false,
@@ -14595,8 +14633,8 @@ module.exports = [
     "date": "2011-01-11T05:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#69 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#69 - Bryan Callen, Brian Redban",
     "episode_id": 69,
     "isMMA": false,
     "isFC": false,
@@ -14604,8 +14642,8 @@ module.exports = [
     "date": "2011-01-05T05:00:00.000Z"
   },
   {
-    "guests": ["Iliza Schlesinger"],
-    "title": "#68 - Iliza Schlesinger",
+    "guests": ["Iliza Schlesinger", "Brian Redban"],
+    "title": "#68 - Iliza Schlesinger, Brian Redban",
     "episode_id": 68,
     "isMMA": false,
     "isFC": false,
@@ -14613,8 +14651,8 @@ module.exports = [
     "date": "2011-01-04T05:00:00.000Z"
   },
   {
-    "guests": ["Hal Sparks"],
-    "title": "#67 - Hal Sparks",
+    "guests": ["Hal Sparks", "Brian Redban"],
+    "title": "#67 - Hal Sparks, Brian Redban",
     "episode_id": 67,
     "isMMA": false,
     "isFC": false,
@@ -14622,8 +14660,8 @@ module.exports = [
     "date": "2010-12-30T05:00:00.000Z"
   },
   {
-    "guests": ["Nick Swardson"],
-    "title": "#66 - Nick Swardson",
+    "guests": ["Nick Swardson", "Brian Redban"],
+    "title": "#66 - Nick Swardson, Brian Redban",
     "episode_id": 66,
     "isMMA": false,
     "isFC": false,
@@ -14631,8 +14669,8 @@ module.exports = [
     "date": "2010-12-28T05:00:00.000Z"
   },
   {
-    "guests": ["John Heffron"],
-    "title": "#64 - John Heffron",
+    "guests": ["John Heffron", "Brian Redban"],
+    "title": "#64 - John Heffron, Brian Redban",
     "episode_id": 64,
     "isMMA": false,
     "isFC": false,
@@ -14640,8 +14678,8 @@ module.exports = [
     "date": "2010-12-21T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#65 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#65 - Joey Diaz, Brian Redban",
     "episode_id": 65,
     "isMMA": false,
     "isFC": false,
@@ -14649,8 +14687,8 @@ module.exports = [
     "date": "2010-12-21T05:00:00.000Z"
   },
   {
-    "guests": ["Russell Peters"],
-    "title": "#63 - Russell Peters",
+    "guests": ["Russell Peters", "Brian Redban"],
+    "title": "#63 - Russell Peters, Brian Redban",
     "episode_id": 63,
     "isMMA": false,
     "isFC": false,
@@ -14667,8 +14705,8 @@ module.exports = [
     "date": "2010-12-15T05:00:00.000Z"
   },
   {
-    "guests": ["Cliffy B"],
-    "title": "#61 - Cliffy B",
+    "guests": ["Cliffy B", "Brian Redban"],
+    "title": "#61 - Cliffy B, Brian Redban",
     "episode_id": 61,
     "isMMA": false,
     "isFC": false,
@@ -14676,8 +14714,8 @@ module.exports = [
     "date": "2010-12-08T05:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz", "Ari Shaffir"],
-    "title": "#60 - Joey Diaz, Ari Shaffir",
+    "guests": ["Joey Diaz", "Ari Shaffir", "Brian Redban"],
+    "title": "#60 - Joey Diaz, Ari Shaffir, Brian Redban",
     "episode_id": 60,
     "isMMA": false,
     "isFC": false,
@@ -14685,8 +14723,8 @@ module.exports = [
     "date": "2010-12-07T05:00:00.000Z"
   },
   {
-    "guests": ["Ralphie May"],
-    "title": "#59 - Ralphie May",
+    "guests": ["Ralphie May", "Brian Redban"],
+    "title": "#59 - Ralphie May, Brian Redban",
     "episode_id": 59,
     "isMMA": false,
     "isFC": false,
@@ -14694,8 +14732,8 @@ module.exports = [
     "date": "2010-12-01T05:00:00.000Z"
   },
   {
-    "guests": ["Mayhem Miller"],
-    "title": "#58 - Mayhem Miller",
+    "guests": ["Mayhem Miller", "Brian Redban"],
+    "title": "#58 - Mayhem Miller, Brian Redban",
     "episode_id": 58,
     "isMMA": false,
     "isFC": false,
@@ -14703,8 +14741,8 @@ module.exports = [
     "date": "2010-11-29T05:00:00.000Z"
   },
   {
-    "guests": ["Jayson Thibault"],
-    "title": "#57 - Jayson Thibault",
+    "guests": ["Jayson Thibault", "Brian Redban"],
+    "title": "#57 - Jayson Thibault, Brian Redban",
     "episode_id": 57,
     "isMMA": false,
     "isFC": false,
@@ -14712,8 +14750,8 @@ module.exports = [
     "date": "2010-11-26T05:00:00.000Z"
   },
   {
-    "guests": ["Johnny Pemberton"],
-    "title": "#56 - Johnny Pemberton",
+    "guests": ["Johnny Pemberton", "Brian Redban"],
+    "title": "#56 - Johnny Pemberton, Brian Redban",
     "episode_id": 56,
     "isMMA": false,
     "isFC": false,
@@ -14721,8 +14759,8 @@ module.exports = [
     "date": "2010-11-23T05:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#55 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#55 - Duncan Trussell, Brian Redban",
     "episode_id": 55,
     "isMMA": false,
     "isFC": false,
@@ -14730,8 +14768,8 @@ module.exports = [
     "date": "2010-11-16T05:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#54 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#54 - Eddie Bravo, Brian Redban",
     "episode_id": 54,
     "isMMA": false,
     "isFC": false,
@@ -14739,8 +14777,8 @@ module.exports = [
     "date": "2010-11-09T05:00:00.000Z"
   },
   {
-    "guests": ["Freddy Lockhart"],
-    "title": "#53 - Freddy Lockhart",
+    "guests": ["Freddy Lockhart", "Brian Redban"],
+    "title": "#53 - Freddy Lockhart, Brian Redban",
     "episode_id": 53,
     "isMMA": false,
     "isFC": false,
@@ -14748,8 +14786,8 @@ module.exports = [
     "date": "2010-11-02T04:00:00.000Z"
   },
   {
-    "guests": ["Steve Rannazzisi"],
-    "title": "#52 - Steve Rannazzisi",
+    "guests": ["Steve Rannazzisi", "Brian Redban"],
+    "title": "#52 - Steve Rannazzisi, Brian Redban",
     "episode_id": 52,
     "isMMA": false,
     "isFC": false,
@@ -14757,8 +14795,8 @@ module.exports = [
     "date": "2010-10-28T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#51 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#51 - Joey Diaz, Brian Redban",
     "episode_id": 51,
     "isMMA": false,
     "isFC": false,
@@ -14766,8 +14804,8 @@ module.exports = [
     "date": "2010-10-26T04:00:00.000Z"
   },
   {
-    "guests": ["Little Esther"],
-    "title": "#50 - Little Esther",
+    "guests": ["Little Esther", "Brian Redban"],
+    "title": "#50 - Little Esther, Brian Redban",
     "episode_id": 50,
     "isMMA": false,
     "isFC": false,
@@ -14775,8 +14813,8 @@ module.exports = [
     "date": "2010-10-21T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#49 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#49 - Duncan Trussell, Brian Redban",
     "episode_id": 49,
     "isMMA": false,
     "isFC": false,
@@ -14802,8 +14840,8 @@ module.exports = [
     "date": "2010-10-09T04:00:00.000Z"
   },
   {
-    "guests": ["Chris Marcus"],
-    "title": "#46 - Chris Marcus",
+    "guests": ["Chris Aubrey Marcus", "Brian Redban"],
+    "title": "#46 - Chris Aubrey Marcus, Brian Redban",
     "episode_id": 46,
     "isMMA": false,
     "isFC": false,
@@ -14811,8 +14849,8 @@ module.exports = [
     "date": "2010-10-05T04:00:00.000Z"
   },
   {
-    "guests": ["Tom Green"],
-    "title": "#45 - Tom Green",
+    "guests": ["Tom Green", "Brian Redban"],
+    "title": "#45 - Tom Green, Brian Redban",
     "episode_id": 45,
     "isMMA": false,
     "isFC": false,
@@ -14820,8 +14858,8 @@ module.exports = [
     "date": "2010-09-29T04:00:00.000Z"
   },
   {
-    "guests": ["Todd McCormick"],
-    "title": "#44 - Todd McCormick",
+    "guests": ["Todd McCormick", "Brian Redban"],
+    "title": "#44 - Todd McCormick, Brian Redban",
     "episode_id": 44,
     "isMMA": false,
     "isFC": false,
@@ -14829,8 +14867,8 @@ module.exports = [
     "date": "2010-09-28T04:00:00.000Z"
   },
   {
-    "guests": ["Doug Stanhope"],
-    "title": "#43 - Doug Stanhope",
+    "guests": ["Doug Stanhope", "Brian Reichle"],
+    "title": "#43 - Doug Stanhope, Brian Reichle",
     "episode_id": 43,
     "isMMA": false,
     "isFC": false,
@@ -14838,8 +14876,8 @@ module.exports = [
     "date": "2010-09-23T04:00:00.000Z"
   },
   {
-    "guests": ["Duncan Trussell"],
-    "title": "#42 - Duncan Trussell",
+    "guests": ["Duncan Trussell", "Brian Redban"],
+    "title": "#42 - Duncan Trussell, Brian Redban",
     "episode_id": 42,
     "isMMA": false,
     "isFC": false,
@@ -14847,8 +14885,8 @@ module.exports = [
     "date": "2010-09-20T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#41 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#41 - Ari Shaffir, Brian Redban",
     "episode_id": 41,
     "isMMA": false,
     "isFC": false,
@@ -14856,8 +14894,8 @@ module.exports = [
     "date": "2010-09-13T04:00:00.000Z"
   },
   {
-    "guests": ["Tyler Knight"],
-    "title": "#40 - Tyler Knight",
+    "guests": ["Tyler Knight", "Brian Redban"],
+    "title": "#40 - Tyler Knight, Brian Redban",
     "episode_id": 40,
     "isMMA": false,
     "isFC": false,
@@ -14874,8 +14912,8 @@ module.exports = [
     "date": "2010-09-02T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#38 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#38 - Bryan Callen, Brian Redban",
     "episode_id": 38,
     "isMMA": false,
     "isFC": false,
@@ -14883,8 +14921,8 @@ module.exports = [
     "date": "2010-08-31T04:00:00.000Z"
   },
   {
-    "guests": ["Ricky Schroder"],
-    "title": "#37 - Ricky Schroder",
+    "guests": ["Ricky Schroder", "Brian Redban"],
+    "title": "#37 - Ricky Schroder, Brian Redban",
     "episode_id": 37,
     "isMMA": false,
     "isFC": false,
@@ -14892,8 +14930,8 @@ module.exports = [
     "date": "2010-08-24T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#36 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#36 - Eddie Bravo, Brian Redban",
     "episode_id": 36,
     "isMMA": false,
     "isFC": false,
@@ -14901,8 +14939,8 @@ module.exports = [
     "date": "2010-08-21T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz, Eddie Bravo"],
-    "title": "#35 - Joey Diaz, Eddie Bravo",
+    "guests": ["Joey Diaz", "Eddie Bravo", "Brian Redban"],
+    "title": "#35 - Joey Diaz, Eddie Bravo, Brian Redban",
     "episode_id": 35,
     "isMMA": false,
     "isFC": false,
@@ -14910,8 +14948,8 @@ module.exports = [
     "date": "2010-08-11T04:00:00.000Z"
   },
   {
-    "guests": ["Doug Benson"],
-    "title": "#34 - Doug Benson",
+    "guests": ["Doug Benson", "Brian Redban"],
+    "title": "#34 - Doug Benson, Brian Redban",
     "episode_id": 34,
     "isMMA": false,
     "isFC": false,
@@ -14919,8 +14957,8 @@ module.exports = [
     "date": "2010-08-10T04:00:00.000Z"
   },
   {
-    "guests": ["Dane Cook"],
-    "title": "#33 - Dane Cook",
+    "guests": ["Dane Cook", "Brian Redban"],
+    "title": "#33 - Dane Cook, Brian Redban",
     "episode_id": 33,
     "isMMA": false,
     "isFC": false,
@@ -14928,8 +14966,8 @@ module.exports = [
     "date": "2010-08-03T04:00:00.000Z"
   },
   {
-    "guests": ["Bryan Callen"],
-    "title": "#32 - Bryan Callen",
+    "guests": ["Bryan Callen", "Brian Redban"],
+    "title": "#32 - Bryan Callen, Brian Redban",
     "episode_id": 32,
     "isMMA": false,
     "isFC": false,
@@ -14937,8 +14975,8 @@ module.exports = [
     "date": "2010-07-28T04:00:00.000Z"
   },
   {
-    "guests": ["Mayhem Miller"],
-    "title": "#31 - Mayhem Miller",
+    "guests": ["Mayhem Miller", "Brian Redban"],
+    "title": "#31 - Mayhem Miller, Brian Redban",
     "episode_id": 31,
     "isMMA": false,
     "isFC": false,
@@ -14946,8 +14984,8 @@ module.exports = [
     "date": "2010-07-20T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#30 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#30 - Eddie Bravo, Brian Redban",
     "episode_id": 30,
     "isMMA": false,
     "isFC": false,
@@ -14964,8 +15002,8 @@ module.exports = [
     "date": "2010-07-06T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#28 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#28 - Joey Diaz, Brian Redban",
     "episode_id": 28,
     "isMMA": false,
     "isFC": false,
@@ -14973,8 +15011,8 @@ module.exports = [
     "date": "2010-06-29T04:00:00.000Z"
   },
   {
-    "guests": ["Sam Tripoli"],
-    "title": "#27 - Sam Tripoli",
+    "guests": ["Sam Tripoli", "Brian Redban"],
+    "title": "#27 - Sam Tripoli, Brian Redban",
     "episode_id": 27,
     "isMMA": false,
     "isFC": false,
@@ -14991,8 +15029,8 @@ module.exports = [
     "date": "2010-06-16T04:00:00.000Z"
   },
   {
-    "guests": ["Joey Diaz"],
-    "title": "#25 - Joey Diaz",
+    "guests": ["Joey Diaz", "Brian Redban"],
+    "title": "#25 - Joey Diaz, Brian Redban",
     "episode_id": 25,
     "isMMA": false,
     "isFC": false,
@@ -15000,8 +15038,8 @@ module.exports = [
     "date": "2010-06-15T04:00:00.000Z"
   },
   {
-    "guests": ["Eddie Bravo"],
-    "title": "#24 - Eddie Bravo",
+    "guests": ["Eddie Bravo", "Brian Redban"],
+    "title": "#24 - Eddie Bravo, Brian Redban",
     "episode_id": 24,
     "isMMA": false,
     "isFC": false,
@@ -15018,8 +15056,8 @@ module.exports = [
     "date": "2010-06-02T04:00:00.000Z"
   },
   {
-    "guests": ["John Heffron"],
-    "title": "#22 - John Heffron",
+    "guests": ["John Heffron", "Brian Redban"],
+    "title": "#22 - John Heffron, Brian Redban",
     "episode_id": 22,
     "isMMA": false,
     "isFC": false,
@@ -15054,16 +15092,16 @@ module.exports = [
     "date": "2010-05-04T04:00:00.000Z"
   },
   {
-    "guests": ["Redban"],
-    "title": "#18 - Redban",
+    "guests": ["Brian Redban"],
+    "title": "#18 - Brian Redban",
     "episode_id": 18,
     "isMMA": false,
     "isFC": false,
-    "description": "Read More →",
+    "description": "No description available.",
     "date": "2010-04-27T04:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir, Eddie Bravo"],
+    "guests": ["Ari Shaffir", "Eddie Bravo"],
     "title": "#17 - Ari Shaffir, Eddie Bravo",
     "episode_id": 17,
     "isMMA": false,
@@ -15108,7 +15146,7 @@ module.exports = [
     "date": "2010-03-31T04:00:00.000Z"
   },
   {
-    "guests": ["Joe Rogan"],
+    "guests": [],
     "title": "#12 - Joe Rogan",
     "episode_id": 12,
     "isMMA": false,
@@ -15126,7 +15164,7 @@ module.exports = [
     "date": "2010-03-09T05:00:00.000Z"
   },
   {
-    "guests": ["Joe Rogan"],
+    "guests": [],
     "title": "#10 - Joe Rogan",
     "episode_id": 10,
     "isMMA": false,
@@ -15144,8 +15182,8 @@ module.exports = [
     "date": "2010-02-24T05:00:00.000Z"
   },
   {
-    "guests": ["Tom Segura"],
-    "title": "#8 - Tom Segura",
+    "guests": ["Tom Segura", "Brian Redban"],
+    "title": "#8 - Tom Segura, Brian Redban",
     "episode_id": 8,
     "isMMA": false,
     "isFC": false,
@@ -15171,8 +15209,8 @@ module.exports = [
     "date": "2010-01-28T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir, John Heffron"],
-    "title": "#5 - Ari Shaffir, John Heffron",
+    "guests": ["John Heffron", "Ari Shaffir", "Brian Redban"],
+    "title": "#5 - John Heffron, Ari Shaffir, Brian Redban",
     "episode_id": 5,
     "isMMA": false,
     "isFC": false,
@@ -15189,8 +15227,8 @@ module.exports = [
     "date": "2010-01-13T05:00:00.000Z"
   },
   {
-    "guests": ["Ari Shaffir"],
-    "title": "#3 - Ari Shaffir",
+    "guests": ["Ari Shaffir", "Brian Redban"],
+    "title": "#3 - Ari Shaffir, Brian Redban",
     "episode_id": 3,
     "isMMA": false,
     "isFC": false,
