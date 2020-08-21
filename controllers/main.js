@@ -1,8 +1,6 @@
 const express = require('express')
-const moment = require('moment')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
-const nums = require('../numberSort')
 
 const main = express.Router()
 
@@ -14,7 +12,7 @@ main.get('/seed', async (req, res) => {
   })
 })
 
-// Get all the episodes
+// Get all the episodes in reverse chronological order
 main.get('/api/all', (req, res) => {
   Episode.aggregate(
     [{ $project: { _id: 0, __v: 0 } }, { $sort: { date: -1 } }],
@@ -66,13 +64,8 @@ main.get('/api/example', async (req, res) => {
 // All Fight Companion episodes
 main.get('/api/fc', async (req, res) => {
   try {
-    const data = await Episode.find({ isFC: true }).sort({ date: 1 })
+    const data = await Episode.find({ isFC: true }).sort({ date: -1 })
 
-    // let test = 1
-    // for (let i = 0; i < data.length; i++) {
-    //   console.log(moment(new Date(data[i].date)).format('MMMM D, YYYY'))
-    // }
-    console.log(data.length, 'is the lenght')
     res.json(data)
   } catch (error) {
     console.log(error)
@@ -82,7 +75,7 @@ main.get('/api/fc', async (req, res) => {
 // Get all MMA Shows ordered by date
 main.get('/api/mma', async (req, res) => {
   try {
-    const data = await Episode.find({ isMMA: true }).sort({ date: 1 })
+    const data = await Episode.find({ isMMA: true }).sort({ date: -1 })
     console.log(data.length)
     res.json(data)
   } catch (error) {
