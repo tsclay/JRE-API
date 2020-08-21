@@ -1,4 +1,5 @@
-help.txt
+*.txt
+numberSort.js
 
 # Logs
 logs
