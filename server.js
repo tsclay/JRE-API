@@ -3,8 +3,9 @@ const mongoose = require('mongoose')
 
 require('dotenv').config()
 
-const PORT = process.env.PORT || 5000;
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/jre-api'
+const PORT = process.env.PORT || 5000
+const MONGODB_URI =
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/jre-api'
 
 const app = express()
 app.use(express.json())
@@ -12,7 +13,7 @@ app.use(express.json())
 const mainController = require('./controllers/main')
 const scraper = require('./controllers/scrape')
 
-app.use(mainController)
+app.use('/api/v1', mainController)
 app.use(scraper)
 
 mongoose.connect(
@@ -24,7 +25,7 @@ mongoose.connect(
     useNewUrlParser: true
   },
   () => {
-    console.log(`🍃 Connected to MONGODB @ ${MONGODB_URI} 🍃`);
+    console.log(`🍃 Connected to MONGODB @ ${MONGODB_URI} 🍃`)
   }
 )
 

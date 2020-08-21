@@ -13,7 +13,7 @@ main.get('/seed', async (req, res) => {
 })
 
 // Get all the episodes in reverse chronological order
-main.get('/api/all', (req, res) => {
+main.get('/all', (req, res) => {
   Episode.aggregate(
     [{ $project: { _id: 0, __v: 0 } }, { $sort: { date: -1 } }],
     (error, data) => {
@@ -23,7 +23,7 @@ main.get('/api/all', (req, res) => {
 })
 
 // Get one episode and send it to front for example of data and format
-main.get('/api/example', async (req, res) => {
+main.get('/example', async (req, res) => {
   try {
     const e = await Episode.aggregate([
       { $sort: { date: -1 } },
@@ -37,7 +37,7 @@ main.get('/api/example', async (req, res) => {
 })
 
 // Fix the 'null' values on older Fight Companion episodes
-// main.get('/api/fixFC', async (req, res) => {
+// main.get('/fixFC', async (req, res) => {
 //   try {
 //     const data = await Episode.find({
 //       isFC: true,
@@ -62,7 +62,7 @@ main.get('/api/example', async (req, res) => {
 // })
 
 // All Fight Companion episodes
-main.get('/api/fc', async (req, res) => {
+main.get('/fc', async (req, res) => {
   try {
     const data = await Episode.find({ isFC: true }).sort({ date: -1 })
 
@@ -73,7 +73,7 @@ main.get('/api/fc', async (req, res) => {
 })
 
 // Get all MMA Shows ordered by date
-main.get('/api/mma', async (req, res) => {
+main.get('/mma', async (req, res) => {
   try {
     const data = await Episode.find({ isMMA: true }).sort({ date: -1 })
     console.log(data.length)
@@ -83,7 +83,7 @@ main.get('/api/mma', async (req, res) => {
   }
 })
 
-// main.get('/api/mma/select', async (req, res) => {
+// main.get('/mma/select', async (req, res) => {
 //   try {
 //     const data = await Episode.find({
 //       $text: { $search: '"MMA Show"' },
@@ -100,7 +100,7 @@ main.get('/api/mma', async (req, res) => {
 // })
 
 // Edit the non-fight episodes
-// main.get('/api/no-fight-edits', async (req, res) => {
+// main.get('/no-fight-edits', async (req, res) => {
 //   try {
 //     const data = await Episode.find({
 //       isMMA: false,
@@ -137,7 +137,7 @@ main.get('/api/mma', async (req, res) => {
 //   }
 // })
 
-main.get('/api/no-fight', async (req, res) => {
+main.get('/no-fight', async (req, res) => {
   try {
     const data = await Episode.find({
       isMMA: false,
@@ -173,7 +173,7 @@ main.get('/api/no-fight', async (req, res) => {
   }
 })
 
-// main.get('/api/redban', async (req, res) => {
+// main.get('/redban', async (req, res) => {
 //   const data = await Episode.find({
 //     guests: 'Brian Redban',
 //     isMMA: false,
@@ -240,7 +240,7 @@ main.get('/api/no-fight', async (req, res) => {
 //   res.json(data)
 // })
 
-// main.get('/api/redban-edit', async (req, res) => {
+// main.get('/redban-edit', async (req, res) => {
 //   const data = await Episode.find({
 //     episode_id: { $gte: 200, $lte: 299 },
 //     isMMA: false,
@@ -279,7 +279,7 @@ main.get('/api/no-fight', async (req, res) => {
 //   res.json(newData)
 // })
 
-// main.get('/api/make-redban', async (req, res) => {
+// main.get('/make-redban', async (req, res) => {
 //   await Episode.create({
 //     guests: ['Joey Diaz', 'Brian Redban'],
 //     title: '#128 - Joey Diaz, Brian Redban',
@@ -294,7 +294,7 @@ main.get('/api/no-fight', async (req, res) => {
 //   res.json(data)
 // })
 
-main.get('/api/get-recent', async (req, res) => {
+main.get('/get-recent', async (req, res) => {
   try {
     const data = await Episode.aggregate([
       { $sort: { date: -1 } },
