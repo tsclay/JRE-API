@@ -41,3 +41,38 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Get YouTube links
 - [ ] Plug YT links into each doc in db
 - [x] Fix guests arrays and isMMA props for MMA Shows
+
+1485 guests names
+
+1405 guests
+1393 guests
+1389 guests
+1393 guests
+
+1356 guests
+
+1336 guests
+
+1305 guests
+1255 guests
+1246 guests
+
+1101 guests
+916 guests
+902, 896, 895, 894, 893, 890
+827
+797
+772
+682
+643
+586
+568
+489
+340
+
+313, 182
+
+317
+316
+254
+201, 171
