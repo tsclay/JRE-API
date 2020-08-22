@@ -246,7 +246,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
       const raw = $(elem).text()
       const thisTitle = `#${goods[i].episode_id} - ${raw}`
       const theseGuests = raw.match(
-        /(?! )(?:([a-zA-Z\d \.]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z\d\.]+)?(?:, (?=(?:Jr\.|Sr.)))?([a-zA-Z\d\.]))|(["a-zA-Z\d\.]+)/g
+        /(?! )(?:([a-zA-Z\d \.]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z\d\.]+)?(?:(?:, )(?=Jr\.|Sr\.)..)?([a-zA-Z\d\.]))|(["a-zA-Z\d\.]+)/g
       )
       goods[i].guests = theseGuests
       goods[i].title = thisTitle
