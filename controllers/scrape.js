@@ -1,7 +1,9 @@
+/* eslint-disable no-await-in-loop */
 const moment = require('moment')
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const express = require('express')
+const puppeteer = require('puppeteer')
 const Episode = require('../models/Episodes')
 
 const scraper = express.Router()
@@ -198,6 +200,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
     const content = $('.podcast-content')
     const dates = $('div.podcast-date > h3')
     const titles = $('a.ajax-permalink > h3')
+    const displayLinks = []
 
     if (
       !(
@@ -211,6 +214,13 @@ scraper.get('/api/scrape-recent', async (req, res) => {
       )
       throw error
     }
+
+    $('div.podcast-details a.ajax-permalink:first-child').each((i, elem) => {
+      const raw = $(elem).attr('href')
+      displayLinks.push(raw)
+    })
+
+    console.log(displayLinks)
 
     content.each((i, elem) => {
       const raw = $(elem).text()
@@ -255,6 +265,18 @@ scraper.get('/api/scrape-recent', async (req, res) => {
       goods[i].isJRQE = false
     })
 
+    const browser = await puppeteer.launch()
+    const page = await browser.newPage()
+    for (let i = 0; i < displayLinks.length; i++) {
+      await page.goto(displayLinks[i], { waitUntil: 'domcontentloaded' })
+      await page.waitForSelector('a.download-episode')
+      const pageData = await page.$eval('a.download-episode', (a) =>
+        a.getAttribute('href')
+      )
+      goods[i].podcast_url = await pageData
+      // console.log(goods[i])
+    }
+
     for (let i = matchIndex - 1; i >= 0; i--) {
       console.log(goods[i])
       Episode.create(goods[i])
@@ -262,6 +284,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   } catch (error) {
     console.log(error)
   } finally {
+    // res.json(goods)
     setTimeout(() => {
       Episode.aggregate([
         { $sort: { date: -1 } },
@@ -282,3 +305,6 @@ module.exports = scraper
 // extract all guest names from title => /(?! )(?:([a-zA-Z\d ]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z]+)?)|(["a-zA-Z\d]+)/g
 
 // this one is more thorough => /(?! )(?:([a-zA-Z\d \.]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z\d\.]+)?(?:, (?=(?:Jr\.|Sr.)))?([a-zA-Z\d \.]+))|(["a-zA-Z\d\.]+)/g
+
+// video link from website => a.podcast-video-container , get ["data-video-id"]
+// link format => "https://youtube.com" + "/watch?v=${the id here}"
