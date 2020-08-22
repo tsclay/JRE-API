@@ -190,7 +190,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   try {
     const podcasts = await fetch('http://podcasts.joerogan.net/')
     const data = await Episode.aggregate([
-      { $sort: { date: -1 } },
+      { $sort: { date: -1, episode_id: 1 } },
       { $limit: 1 }
     ])
 
@@ -274,7 +274,6 @@ scraper.get('/api/scrape-recent', async (req, res) => {
         a.getAttribute('href')
       )
       goods[i].podcast_url = await pageData
-      // console.log(goods[i])
     }
 
     for (let i = matchIndex - 1; i >= 0; i--) {
@@ -284,7 +283,6 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   } catch (error) {
     console.log(error)
   } finally {
-    // res.json(goods)
     setTimeout(() => {
       Episode.aggregate([
         { $sort: { date: -1 } },
