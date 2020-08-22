@@ -14,6 +14,20 @@ main.get('/seed', async (req, res) => {
 })
 
 // Get all the episodes showing most recent at top
+main.get('/weird', (req, res) => {
+  Episode.aggregate(
+    [
+      { $match: { episode_id: null } },
+      { $project: { _id: 0, __v: 0 } },
+      { $sort: { date: 1 } }
+    ],
+    (error, data) => {
+      return error ? res.json(error) : res.json(data)
+    }
+  )
+})
+
+// Get all the episodes showing most recent at top
 main.get('/all', (req, res) => {
   Episode.aggregate(
     [{ $project: { _id: 0, __v: 0 } }, { $sort: { date: -1, episode_id: -1 } }],
