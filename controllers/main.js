@@ -2,7 +2,6 @@ const express = require('express')
 const moment = require('moment')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
-const first = require('../youtube.First')
 
 const main = express.Router()
 
@@ -14,69 +13,14 @@ main.get('/seed', async (req, res) => {
   })
 })
 
-// Get all the episodes in reverse chronological order
+// Get all the episodes showing most recent at top
 main.get('/all', (req, res) => {
   Episode.aggregate(
-    [
-      {
-        $match: {
-          isFC: false,
-          isMMA: false,
-          isJRQE: false,
-          episode_id: { $lte: 299 }
-        }
-      },
-      { $project: { _id: 0, __v: 0 } },
-      { $sort: { date: 1 } }
-    ],
+    [{ $project: { _id: 0, __v: 0 } }, { $sort: { date: -1, episode_id: -1 } }],
     (error, data) => {
-      // data.forEach((d) => {
-      //   console.log(d.episode_id)
-      // })
-
       return error ? res.json(error) : res.json(data)
     }
   )
-})
-
-main.get('/all-300-499', async (req, res) => {
-  try {
-    const data = await Episode.aggregate([
-      {
-        $match: {
-          isFC: false,
-          isMMA: false,
-          isJRQE: false,
-          episode_id: { $gte: 300, $lte: 499 }
-        }
-      },
-      { $project: { __v: 0 } },
-      { $sort: { date: 1 } }
-    ])
-
-    console.log(data.length, first.length)
-
-    // for (let i = 0; i < data.length; i++) {
-    //   const videoUrls = []
-    //   for (let j = 0; j < first.length; j++) {
-    //     if (data[i].episode_id === first[j].episode_id) {
-    //       videoUrls.push(first[j].links)
-    //       data[i].video_urls = videoUrls
-    //       // Episode.updateOne(
-    //       //   { _id: data[i]._id },
-    //       //   { video_urls: videoUrls },
-    //       //   (err, raw) => {
-    //       //     console.log('added videos!')
-    //       //   }
-    //       // )
-    //     }
-    //   }
-    // }
-
-    res.json(data)
-  } catch (error) {
-    console.log(error)
-  }
 })
 
 // Get one episode and send it to front for example of data and format
