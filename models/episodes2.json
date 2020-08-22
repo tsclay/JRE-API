@@ -3239,7 +3239,8 @@
     "isFC": false,
     "description": "Joe and John Dudley sit down on a plane to discuss their recent hunting trip to Lanai.",
     "date": "2019-06-21T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": ["https://www.youtube.com/watch?v=4NdU1F3b84Y"]
   },
   {
     "guests": ["Bob Lazar", "Jeremy Corbell"],
@@ -8387,7 +8388,8 @@
     "isFC": false,
     "description": "Joe sits down with Brendan Schaub to discuss the upcoming fight between Floyd Mayweather & Conor McGregor.",
     "date": "2017-08-16T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": ["https://www.youtube.com/watch?v=v1xePSUC3I4"]
   },
   {
     "guests": ["Owen Benjamin"],
@@ -8540,7 +8542,10 @@
     "isFC": false,
     "description": "Ari Shaffir & Joe do a podcast while hiking to celebrate the release of Ari's new two-part Netflix special \"Double Negative\" on July 18th.",
     "date": "2017-07-18T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [
+      "https://youtube.com/watch?v=2kL9I7sRwF8&list=PLk1Sqn_f33KuU_aJDvMPPAy_SoxXTt_ub&index=308&t=0s"
+    ]
   },
   {
     "guests": ["Ben O’Brien"],
@@ -8706,7 +8711,10 @@
     "isFC": false,
     "description": "Joe does a podcast with friends Ben O’Brien, John Dudley, Sam Soholt and Shane Dorian while on a bow hunting trip in Hawaii.",
     "date": "2017-06-16T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [
+      "https://youtube.com/watch?v=JAqAr9ufmM0&list=PLk1Sqn_f33KuU_aJDvMPPAy_SoxXTt_ub&index=282&t=0s"
+    ]
   },
   {
     "guests": ["Sebastian Junger"],
@@ -8950,7 +8958,10 @@
     "isFC": false,
     "description": "Joe sits down with Tony Hinchcliffe on a plane to discuss the weekend's events at UFC 211 in Dallas, TX.",
     "date": "2017-05-15T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [
+      "https://youtube.com/watch?v=wGJGa53ViBE&list=PLk1Sqn_f33KuU_aJDvMPPAy_SoxXTt_ub&index=266&t=0s"
+    ]
   },
   {
     "guests": ["Mick West"],
@@ -10189,7 +10200,10 @@
     "isFC": false,
     "description": "Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in.",
     "date": "2016-11-09T05:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [
+      "https://youtube.com/watch?v=p3kdmOQlqfQ&list=PLk1Sqn_f33KuU_aJDvMPPAy_SoxXTt_ub&index=174&t=0s"
+    ]
   },
   {
     "guests": ["Dave Rubin"],
@@ -12029,7 +12043,8 @@
     "isFC": false,
     "description": "Joe discusses some of the fights from the UFConFOX fight card from December 19, 2015, and other topics, with Brendan Schaub & Eddie Bravo.",
     "date": "2015-12-22T05:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": ["https://www.youtube.com/watch?v=i-CuQnbM3MM"]
   },
   {
     "guests": ["Molly Crabapple"],
@@ -13215,7 +13230,8 @@
     "isFC": false,
     "description": "Joe and Cameron Hanes recorded a podcast in a car while returning from a recent hunting trip. Cameron Hanes is a bowhunting athlete, \"training intensively each and every day to become the Ultimate Predator.\"",
     "date": "2015-06-07T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [""]
   },
   {
     "guests": ["Bryan Callen"],
@@ -13589,7 +13605,8 @@
     "isFC": false,
     "description": "Joe and Bryan Callen recorded a podcast in a car while driving to a recent hunting trip. Bryan Callen is an actor and stand-up comedian. Together with Brendan Schaub he hosts \"The Fighter & The Kid\" podcast available on iTunes. https://bryancallen.com",
     "date": "2015-04-10T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [""]
   },
   {
     "guests": ["Les Stroud"],
@@ -13612,7 +13629,8 @@
     "isFC": false,
     "description": "Joe and Tony Hinchcliffe recorded a podcast a few weeks ago while in Sweden after doing two shows of comedy. Tony Hinchcliffe is a comedian, writer, and actor. He also hosts his own podcasts called \"Kill Tony\" with Redban, and it's available on iTunes and at https://www.deathsquad.tv/.",
     "date": "2015-04-02T04:00:00.000Z",
-    "isJRQE": false
+    "isJRQE": false,
+    "video_urls": [""]
   },
   {
     "guests": ["Josh Barnett"],
