@@ -33,11 +33,10 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [x] Incomplete descriptions for FC episodes
 - [x] Broken guests arrays
 
-## To Do
+## Data-Mine To Do
 
 - [x] Set all FC episodes' titles to format `Fight Companion - ${date}`
 - [x] Begin front-end for API info/tutorial
-- [ ] Make system that generates and logs API Keys and their users
 - [x] Design logic that auto-scrapes the most recent episodes and plug them into db
 - [x] Get YouTube links
 - [x] Plug YT links into each doc in db
@@ -46,4 +45,21 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
   - [x] Plug general links
   - [x] episode_id: null folks
 - [x] Fix guests arrays and isMMA props for MMA Shows
-- [ ] Fetch YT links for new additions and automate
+- [ ] Automate fetching of YT links after scraping recent episodes
+- [ ] Automate server to scrape at certain point of day
+
+## API To Do
+
+- [ ] Make system that generates and logs API Keys and their users
+- [ ] Secure endpoints with limiters and caching
+- [ ] Edit the urls to allow for params and queries
+- [ ] Create DB for API_KEYS and their users
+- [ ] Create middleware that checks for valid API_KEY
+
+## Client To Do
+
+- [ ] Set up routes => React Router?
+- [ ] Styling!
+- [ ] Write up README and Tutorial for interfacing with API
+- [ ] Compose API key request form
+- [ ] Compose Contact form
