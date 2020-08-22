@@ -40,8 +40,10 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 - [ ] Make system that generates and logs API Keys and their users
 - [x] Design logic that auto-scrapes the most recent episodes and plug them into db
 - [x] Get YouTube links
-- [ ] Plug YT links into each doc in db
+- [x] Plug YT links into each doc in db
   - [x] Plug FC links
   - [x] Plug MMA links
-  - [ ] Plug general links
+  - [x] Plug general links
+  - [x] episode_id: null folks
 - [x] Fix guests arrays and isMMA props for MMA Shows
+- [ ] Fetch YT links for new additions and automate
