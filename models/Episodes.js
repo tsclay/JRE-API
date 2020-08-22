@@ -11,7 +11,8 @@ const episodeSchema = new Schema({
   isJRQE: Boolean,
   description: String,
   date: Date,
-  video_urls: [String] || null
+  video_urls: [String] || null,
+  podcast_url: String || null
 })
 
 const Episode = mongoose.model('Episode', episodeSchema)
