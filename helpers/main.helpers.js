@@ -415,3 +415,47 @@ main.get('/all-1-299', async (req, res) => {
     console.log(error)
   }
 })
+
+main.get('/all-final', async (req, res) => {
+  try {
+    const data = await Episode.aggregate([
+      {
+        $match: {
+          isFC: false,
+          isMMA: false,
+          isJRQE: false,
+          episode_id: { $gte: 1500, $lte: 1527 }
+        }
+      },
+      { $project: { __v: 0 } },
+      { $sort: { date: 1, episode_id: 1 } }
+    ])
+
+    // console.log(data.length, final.length)
+    // data.forEach((d, i) => {
+    //   if (d.episode_id === final[i].episode_id)
+    //     console.log(d.episode_id, final[i].episode_id)
+    // })
+
+    // for (let i = 0; i < data.length; i++) {
+    //   const videoUrls = []
+    //   for (let j = 0; j < final.length; j++) {
+    //     if (data[i].episode_id === final[j].episode_id) {
+    //       videoUrls.push(final[j].links)
+    //       data[i].video_urls = videoUrls
+    //       // Episode.updateOne(
+    //       //   { _id: data[i]._id },
+    //       //   { video_urls: videoUrls },
+    //       //   (err, raw) => {
+    //       //     console.log('added videos!')
+    //       //   }
+    //       // )
+    //     }
+    //   }
+    // }
+
+    res.json(data)
+  } catch (error) {
+    console.log(error)
+  }
+})
