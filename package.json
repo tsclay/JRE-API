@@ -7,15 +7,15 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.28",
     "nodemon": "^2.0.4",
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.2.1",
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "moment": "^2.27.0"
   },
   "main": "server.js",
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.3",
     "eslint": "^7.7.0",
     "eslint-config-airbnb": "^18.2.0",
-    "eslint-plugin-import": "^2.22.0",
-    "moment": "^2.27.0",
-    "node-fetch": "^2.6.0"
+    "eslint-plugin-import": "^2.22.0"
   }
 }
