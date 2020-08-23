@@ -185,7 +185,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   const descriptionRegEx = /(?<= )(.*)/g
   const dateRegEx = /\./g
   const goods = []
-  let matchIndex = 0
+  const matchIndex = 0
 
   try {
     const podcasts = await fetch('http://podcasts.joerogan.net/')
@@ -233,17 +233,17 @@ scraper.get('/api/scrape-recent', async (req, res) => {
         description: thisDescription || 'placeholder'
       }
 
-      if (obj.episode_id === data[0].episode_id) {
-        matchIndex = i
-      }
+      // if (obj.episode_id === data[0].episode_id) {
+      //   matchIndex = i
+      // }
 
       goods.push(obj)
     })
 
-    if (matchIndex === 0) {
-      const error = new Error('Already updated')
-      throw error
-    }
+    // if (matchIndex === 0) {
+    //   const error = new Error('Already updated')
+    //   throw error
+    // }
 
     dates.each((i, elem) => {
       const raw = $(elem).text()
@@ -273,16 +273,49 @@ scraper.get('/api/scrape-recent', async (req, res) => {
       const pageData = await page.$eval('a.download-episode', (a) =>
         a.getAttribute('href')
       )
-      goods[i].podcast_url = await pageData
+      goods[i].podcast_url = await pageData.replace('http', 'https')
     }
 
-    for (let i = matchIndex - 1; i >= 0; i--) {
-      console.log(goods[i])
-      Episode.create(goods[i])
+    await page.goto('https://www.jrepodcast.com/', {
+      waitUntil: 'domcontentloaded'
+    })
+    await page.waitForSelector('#site-footer-credit')
+    const pageData = await page.content()
+
+    const $youTube = await cheerio.load(pageData)
+
+    const links = []
+    $youTube('a[itemprop=url]').each((i, elem) => {
+      const oneLink = $(elem).attr('href')
+      links.push(oneLink)
+    })
+
+    for (let i = 0; i < displayLinks.length; i++) {
+      await page.goto(links[i], { waitUntil: 'domcontentloaded' })
+      await page.waitForSelector('#site-footer-credit')
+
+      const thisLink = await page.$eval('.ccb_single_video_player', (y) => {
+        return y.dataset.video_id
+      })
+      await console.log(thisLink)
+      goods[i].video_urls = await [`https://youtube.com/watch?v=${thisLink}`]
     }
+
+    // for (let i = matchIndex - 1; i >= 0; i--) {
+    //   console.log(goods[i])
+    //   Episode.create(goods[i])
+    // }
+
+    // for (let i = goods.length - 1; i >= 0; i--) {
+    //   // console.log(goods[i])
+    //   Episode.create(goods[i])
+    // }
+
+    await browser.close()
   } catch (error) {
     console.log(error)
   } finally {
+    // res.json(goods)
     setTimeout(() => {
       Episode.aggregate([
         { $sort: { date: -1 } },
