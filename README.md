@@ -45,8 +45,9 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
   - [x] Plug general links
   - [x] episode_id: null folks
 - [x] Fix guests arrays and isMMA props for MMA Shows
-- [ ] Automate fetching of YT links after scraping recent episodes
+- [x] Automate fetching of YT links after scraping recent episodes
 - [ ] Automate server to scrape at certain point of day
+- [ ] Grab all the rest of the JRE podcast urls
 
 ## API To Do
 
