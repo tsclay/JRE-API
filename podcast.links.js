@@ -602,7 +602,7 @@ module.exports = [
     "isMMA": false,
     "isFC": false,
     "isJRQE": false,
-    "podcast_url": ""
+    "podcast_url": "https://traffic.libsyn.com/joeroganexp/p1477.mp3"
   },
   {
     "episode_id": 1478,
