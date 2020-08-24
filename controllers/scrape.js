@@ -1,3 +1,4 @@
+/* eslint-disable no-loop-func */
 /* eslint-disable no-await-in-loop */
 const moment = require('moment')
 const fetch = require('node-fetch')
@@ -185,7 +186,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   const descriptionRegEx = /(?<= )(.*)/g
   const dateRegEx = /\./g
   const goods = []
-  const matchIndex = 0
+  let matchIndex = 0
 
   try {
     // Scrape the first page of podcasts and grab the most recent podcast from database
@@ -334,7 +335,6 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   } catch (error) {
     console.log(error)
   } finally {
-    // res.json(goods)
     // Fresh db call for all docs after all scraping is done
     setTimeout(() => {
       Episode.aggregate([
@@ -342,6 +342,148 @@ scraper.get('/api/scrape-recent', async (req, res) => {
         { $limit: 10 }
       ]).then((data) => res.send(data))
     }, 500)
+  }
+})
+
+scraper.get('/api/scrape-links', async (req, res) => {
+  const epNumRegEx = /#\d+/
+  const descriptionRegEx = /(?<=\s)(.*)/g
+  const dateRegEx = /\./g
+  const goods = []
+  const displayLinks = []
+
+  try {
+    let podcasts = await fetch('http://podcasts.joerogan.net/')
+    let body = await podcasts.text()
+
+    const $first = cheerio.load(body)
+
+    const pagination = $first('a.page-numbers', 'ul.page-numbers')
+    const pageTotal = parseInt(pagination.eq(pagination.length - 2).text())
+
+    let pageFactor = 0
+
+    for (let i = 15; i <= 15; i++) {
+      if (i === 1) {
+        podcasts = await fetch('http://podcasts.joerogan.net/')
+      } else {
+        podcasts = await fetch(
+          `http://podcasts.joerogan.net/podcasts/page/${i}?load`
+        )
+      }
+
+      body = await podcasts.text()
+
+      // console.log('this is the body', body)
+
+      const $ = cheerio.load(body)
+
+      const content = $('.podcast-content')
+      const dates = $('div.podcast-date > h3')
+      const titles = $('a.ajax-permalink > h3')
+
+      // Grab the show page URLs for each episode and store for later use
+      $('div.podcast-details a.ajax-permalink:first-child').each((j, elem) => {
+        const raw = $(elem).attr('href')
+        displayLinks[j] = raw
+      })
+
+      content.each((j, elem) => {
+        const raw = $(elem).text()
+        // console.log(raw)
+        let thisDescription
+        if (raw.match(descriptionRegEx) !== null) {
+          thisDescription = raw.match(descriptionRegEx)[0]
+        } else {
+          thisDescription = 'No description available.'
+        }
+
+        // console.log(thisDescription)
+
+        let thisEpNum
+        if (raw.match(epNumRegEx) !== null) {
+          thisEpNum = raw.match(epNumRegEx)[0]
+        } else if (raw.includes('Fight Companion')) {
+          thisEpNum = `#${goods[j - 2 + pageFactor].episode_id - 1}`
+        } else {
+          thisEpNum = `#${goods[j - 1 + pageFactor].episode_id - 1}`
+        }
+
+        // Create object that has those values as props
+        const obj = {
+          episode_id: Number(thisEpNum.slice(1)),
+          description: thisDescription
+        }
+
+        // Push obj into placeholder
+        goods[j + pageFactor] = obj
+      })
+
+      // Same process, but with dates
+      dates.each((j, elem) => {
+        const raw = $(elem).text()
+        const thisDate = raw.replace(dateRegEx, '/')
+
+        goods[j + pageFactor].date = new Date(thisDate)
+      })
+
+      // Parse titles and guests, split guests into string array then set props onto each obj in the placeholder "goods"
+      titles.each((j, elem) => {
+        const raw = $(elem).text()
+        const thisTitle = `#${goods[j + pageFactor].episode_id} - ${raw}`
+        let theseGuests = []
+        // const string =
+        //   'is joined by Joey Diaz & Tony Hinchcliffe to watch the fights on July 11, 2020.             '
+        if (raw.includes('Fight Companion')) {
+          // goods[j + pageFactor].description = goods[
+          //   j + pageFactor
+          // ].description.replace(' ', ' ')
+          theseGuests = goods[j + pageFactor].description.match(
+            /(?<=by\s|& |, )(?:([a-z]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}(?!to)[a-z]+)?(?:(?:, )(?=Jr\.|Sr\.)..)?)/gi
+          )
+        } else if (raw.includes('MMA Show')) {
+          theseGuests = raw.match(
+            /(?<=with\s|,\s|&\s)(?:([a-zA-Z\d \.]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z\d\.]+)?(?:(?:, )(?=Jr\.|Sr\.)..)?([a-zA-Z\d\.]))/gi
+          )
+          // console.log(theseGuests)
+        } else {
+          theseGuests = raw.match(
+            /(?! )(?:([a-zA-Z\d \.]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}[a-zA-Z\d\.]+)?(?:(?:, )(?=Jr\.|Sr\.)..)?([a-zA-Z\d\.]))|(["a-zA-Z\d\.]+)/g
+          )
+        }
+        goods[j + pageFactor].guests = theseGuests
+        goods[j + pageFactor].title = thisTitle
+        goods[j + pageFactor].isMMA = raw.includes('JRE MMA Show') || false
+        goods[j + pageFactor].isFC = raw.includes('Fight Companion') || false
+        goods[j + pageFactor].isJRQE = raw.includes('JRQE') || false
+      })
+
+      // Puppeteer code here
+
+      const browser = await puppeteer.launch()
+      const page = await browser.newPage()
+      for (let k = 0; k < displayLinks.length; k++) {
+        await page.goto(displayLinks[k], { waitUntil: 'domcontentloaded' })
+        await page.waitForSelector('a.download-episode')
+        const pageData = await page.$eval('a.download-episode', (a) =>
+          a.getAttribute('href')
+        )
+        goods[k + pageFactor].podcast_url = await pageData.replace(
+          'http',
+          'https'
+        )
+        console.log('puppet', goods[k + pageFactor].title)
+      }
+
+      // Close puppeteer browser instance
+      await browser.close()
+
+      pageFactor += 10
+    }
+  } catch (error) {
+    console.log(error)
+  } finally {
+    res.json(goods)
   }
 })
 
@@ -359,3 +501,5 @@ module.exports = scraper
 
 // video link from website => a.podcast-video-container , get ["data-video-id"]
 // link format => "https://youtube.com" + "/watch?v=${the id here}"
+
+// /(?<=by\S|& |, )(?:([a-z]+)(?: ?)(?:"{0,}'? {0,})([a-zA-Z]+)(?:"{0,}'{0,} {0,}(?!to)[a-z]+)?(?:(?:, )(?=Jr\.|Sr\.)..)?)/gi
