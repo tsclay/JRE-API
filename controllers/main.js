@@ -306,33 +306,3 @@ main.get('/example', async (req, res) => {
 // })
 
 module.exports = main
-
-/*
-Missing podcast links in db: 
-
-episode_id: 1477 | title: #1477- Tony Hawk
-episode_id: 1440 | title: #1440 - Fortune Feimster
-episode_id: 1423 | title: #1423 - Andrew Doyle
-episode_id: 1244 | title: #1244 - Colin O’Brady
-episode_id: 1184 | title: #1184 - Roseanne Barr
-episode_id: 1159 | title: #1159 - Neil deGrasse Tyson
-episode_id: 1036 | title: #1036 - Ari Shaffir, Bert Kreischer & Tom Segura
-episode_id: 756 | title: #756 - Kyle Kingsbury
-episode_id: 701 | title: #701 - Honey Honey (Part 1)
-episode_id: 637 | title: #637 - Remi Warren
-episode_id: 517 | title: #517 - Crash, from Float Lab (Part 2)
-episode_id: 515 | title: #515 - Ari Shaffir (Part 2)
-episode_id: 173 | title: #173 - Bryan Callen, Brian Redban
-episode_id: 128 | title: #128 - Joey Diaz, Brian Redban
-episode_id: 108 | title: #108 - Joey Diaz, Brian Redban
-
-isFC: true | episode_id: 40 | title: Fight Recap w/ Brendan Schaub
-isFC: true | episode_id: 36 | title: Mayweather vs. McGregor Recap with Brendan Schaub
-isFC: true | episode_id: 706 | title: #706 - Brendan Schaub & Fight Companion ? (Part 2)
-isFC: true | episode_id: 14 | title: Fight Companion - July 11, 2015
-isFC: true | episode_id: 12 | title: Fight Companion - May 16, 2015 (Part 2)
-isFC: true | episode_id: 11 | title: Fight Companion - April 11, 2015 (Part 2)
-isFC: true | episode_id: 3 | title: Fight Companion - June 28, 2014 (Part 2)
-
-
-*/
