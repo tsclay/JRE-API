@@ -183,7 +183,7 @@ const scraper = express.Router()
 // Scrape the most recent podcast data, format it, and add it to database
 scraper.get('/api/scrape-recent', async (req, res) => {
   const epNumRegEx = /#\d+/
-  const descriptionRegEx = /(?<= )(.*)/g
+  const descriptionRegEx = /(?<=\s)(.*(?!$))/g
   const dateRegEx = /\./g
   const goods = []
   let matchIndex = 0
@@ -321,7 +321,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
     // Add the more recent episode objs to database
     for (let i = matchIndex - 1; i >= 0; i--) {
       console.log(goods[i])
-      // Episode.create(goods[i])
+      Episode.create(goods[i])
     }
 
     // For debugging
@@ -335,6 +335,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
   } catch (error) {
     console.log(error)
   } finally {
+    // res.json(goods)
     // Fresh db call for all docs after all scraping is done
     setTimeout(() => {
       Episode.aggregate([
@@ -347,7 +348,7 @@ scraper.get('/api/scrape-recent', async (req, res) => {
 
 scraper.get('/api/scrape-links', async (req, res) => {
   const epNumRegEx = /#\d+/
-  const descriptionRegEx = /(?<=\s)(.*)/g
+  const descriptionRegEx = /(?<=\s)(.*(?!$))/s
   const dateRegEx = /\./g
   const goods = []
   const displayLinks = []
