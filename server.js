@@ -16,6 +16,11 @@ const scraper = require('./controllers/scrape')
 app.use('/api/v1', mainController)
 app.use(scraper)
 
+// error handler
+app.use(function (err, req, res, next) {
+  res.status(400).json({ Error: err.message })
+})
+
 mongoose.connect(
   MONGODB_URI,
   {
