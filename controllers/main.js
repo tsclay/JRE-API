@@ -2,8 +2,11 @@ const express = require('express')
 const { Pool } = require('pg')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
+const verifyKey = require('../middleware/verifyKey')
 
 require('dotenv').config()
+
+//===========================================================
 
 const main = express.Router()
 
@@ -30,6 +33,11 @@ pool.connect((err, client, done) => {
   })
 })
 
+main.use('/:apiKey', verifyKey({ pool }))
+main.use('/all/:apiKey', verifyKey({ pool }))
+
+//===========================================================
+
 // Optional seed route for DB
 main.get('/seed', async (req, res) => {
   await Episode.deleteMany({})
@@ -38,43 +46,8 @@ main.get('/seed', async (req, res) => {
   })
 })
 
-// Get all the episodes that are outside the norm for JRE, such as Podcast in Paradise, Podcast from a Car, etc.
-main.get('/weird', (req, res) => {
-  const formatted = []
-  Episode.aggregate(
-    [
-      { $match: { episode_id: null } },
-      { $project: { _id: 0, __v: 0 } },
-      { $sort: { date: 1 } }
-    ],
-    (error, data) => {
-      data.forEach((d, i) => {
-        formatted[i] = JSON.parse(
-          JSON.stringify(
-            d,
-            [
-              'episode_id',
-              'title',
-              'guests',
-              'description',
-              'date',
-              'isFC',
-              'isMMA',
-              'isJRQE',
-              'video_urls',
-              'podcast_url'
-            ],
-            2
-          )
-        )
-      })
-      return error ? res.json(error) : res.json(formatted)
-    }
-  )
-})
-
 // Get all the episodes showing most recent at top
-main.get('/all', (req, res) => {
+main.get('/:apiKey/all', (req, res) => {
   const formatted = []
   Episode.aggregate(
     [
@@ -148,76 +121,6 @@ main.get('/most-recent', async (req, res) => {
   }
 })
 
-// // All Fight Companion episodes
-// main.get('/fc', async (req, res) => {
-//   try {
-//     const formatted = []
-//     const data = await Episode.find({
-//       isFC: true
-//     }).sort({ date: 1 })
-
-//     data.forEach((d, i) => {
-//       formatted[i] = JSON.parse(
-//         JSON.stringify(
-//           d,
-//           [
-//             'episode_id',
-//             'title',
-//             'guests',
-//             'description',
-//             'date',
-//             'isFC',
-//             'isMMA',
-//             'isJRQE',
-//             'video_urls',
-//             'podcast_url'
-//           ],
-//           2
-//         )
-//       )
-//     })
-
-//     res.json(formatted)
-//   } catch (error) {
-//     console.log(error)
-//   }
-// })
-
-// // Get all MMA Shows ordered by date
-// main.get('/mma', async (req, res) => {
-//   try {
-//     const formatted = []
-//     const data = await Episode.find({ isMMA: true }).sort({ date: -1 })
-
-//     data.forEach((d, i) => {
-//       formatted[i] = JSON.parse(
-//         JSON.stringify(
-//           d,
-//           [
-//             'episode_id',
-//             'title',
-//             'guests',
-//             'description',
-//             'date',
-//             'isFC',
-//             'isMMA',
-//             'isJRQE',
-//             'video_urls',
-//             'podcast_url'
-//           ],
-//           2
-//         )
-//       )
-//     })
-
-//     res.json(formatted)
-
-//     res.json(data)
-//   } catch (error) {
-//     console.log(error)
-//   }
-// })
-
 main.get('/example', async (req, res) => {
   res.redirect('/api/v1/most-recent')
 })
@@ -228,18 +131,9 @@ main.get('/:apiKey', async (req, res) => {
   const { apiKey } = req.params
   const matchParam = { $match: {} }
   const sortParam = { $sort: { date: -1 } }
-  const limitParam = { $limit: Number(limit) || 10 }
-  const projectParam = { $project: { _id: 0, __v: 0 } }
+  const limitParam = { $limit: limit <= 100 ? Number(limit) : 10 }
 
   try {
-    const pgRes = await pool.query('SELECT * FROM keys WHERE api_key = $1', [
-      apiKey
-    ])
-    if (pgRes.rows[0] === undefined) {
-      const error = new Error('Invalid API Key. Access to resource denied.')
-      throw error
-    }
-
     switch (date) {
       case 'asc':
         sortParam.$sort.date = 1
@@ -270,10 +164,18 @@ main.get('/:apiKey', async (req, res) => {
     if (isFC !== undefined) matchParam.$match.isFC = filters[1]
     if (isJRQE !== undefined) matchParam.$match.isJRQE = filters[2]
 
-    if (episodeID !== undefined)
+    if (episodeID !== undefined) {
       matchParam.$match.episode_id = Number(episodeID) || null
+    }
+    // } else if (episodeID === null) {
+    //   matchParam.$match.episode_id = null
+    // }
 
-    const aggregateQuery = [sortParam, limitParam, projectParam]
+    const aggregateQuery = [
+      sortParam,
+      limitParam,
+      { $project: { _id: 0, __v: 0 } }
+    ]
 
     if (Object.keys(matchParam.$match).length !== 0) {
       aggregateQuery.unshift(matchParam)
@@ -282,32 +184,39 @@ main.get('/:apiKey', async (req, res) => {
     const formatted = []
     const data = await Episode.aggregate(aggregateQuery)
 
-    data.forEach((d, i) => {
-      formatted[i] = JSON.parse(
-        JSON.stringify(
-          d,
-          [
-            'episode_id',
-            'title',
-            'guests',
-            'description',
-            'date',
-            'isFC',
-            'isMMA',
-            'isJRQE',
-            'video_urls',
-            'podcast_url'
-          ],
-          2
+    if (data.length !== 0) {
+      data.forEach((d, i) => {
+        formatted[i] = JSON.parse(
+          JSON.stringify(
+            d,
+            [
+              'episode_id',
+              'title',
+              'guests',
+              'description',
+              'date',
+              'isFC',
+              'isMMA',
+              'isJRQE',
+              'video_urls',
+              'podcast_url'
+            ],
+            2
+          )
         )
-      )
-    })
+      })
 
-    res.json(formatted)
-
-    // res.json(data)
+      res.json(formatted)
+    } else {
+      res.json([
+        {
+          'No Data Found':
+            "No data was found for this query. This usually happens when any of isFC, isMMA, and isJRQE is set to 'true' at the same time. Set only one of those to 'true' in your query and try again."
+        }
+      ])
+    }
   } catch (error) {
-    res.json({ Error: error.message })
+    res.json([{ Error: error.message }])
   }
 })
 
