@@ -52,14 +52,13 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
 ## API To Do
 
 - [ ] Make system that generates and logs API Keys and their users
-- [ ] Secure endpoints with limiters and caching
-- [ ] Edit the urls to allow for params and queries
-- [ ] Create DB for API_KEYS and their users
-- [ ] Create middleware that checks for valid API_KEY
+- [ ] Secure the 'all' endpoint with limiters and caching
+- [x] Edit the urls to allow for params and queries
+- [x] Create DB for API_KEYS and their users
+- [x] Create middleware that checks for valid API_KEY
 
 ## Client To Do
 
-- [ ] Set up routes => React Router?
 - [ ] Styling!
 - [ ] Write up README and Tutorial for interfacing with API
 - [ ] Compose API key request form
