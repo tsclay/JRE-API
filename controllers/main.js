@@ -48,6 +48,15 @@ main.get('/seed', async (req, res) => {
 
 // Get all the episodes showing most recent at top
 main.get('/:apiKey/all', (req, res) => {
+  if (req.params.apiKey === 'DEMO_USER') {
+    res.json([
+      {
+        Error:
+          'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
+      }
+    ])
+    return
+  }
   const formatted = []
   Episode.aggregate(
     [
