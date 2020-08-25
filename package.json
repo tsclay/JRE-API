@@ -3,14 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "moment": "^2.27.0",
     "mongoose": "^5.9.28",
-    "nodemon": "^2.0.4",
-    "puppeteer": "^5.2.1",
-    "cheerio": "^1.0.0-rc.3",
     "node-fetch": "^2.6.0",
-    "moment": "^2.27.0"
+    "nodemon": "^2.0.4",
+    "pg": "^8.3.2",
+    "puppeteer": "^5.2.1"
   },
   "main": "server.js",
   "devDependencies": {
