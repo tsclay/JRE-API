@@ -1,5 +1,6 @@
 const express = require('express')
 const { Pool } = require('pg')
+const nodemailer = require('nodemailer')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
 const verifyKey = require('../middleware/verifyKey')
@@ -33,10 +34,15 @@ pool.connect((err, client, done) => {
   })
 })
 
-main.use('/:apiKey', verifyKey({ pool }))
-main.use('/all/:apiKey', verifyKey({ pool }))
+// main.use('/:apiKey', verifyKey({ pool }))
+// main.use('/all/:apiKey', verifyKey({ pool }))
 
 //===========================================================
+
+main.post('/requestKey', (req, res) => {
+  console.log(req.body)
+  res.json(req.body)
+})
 
 // Optional seed route for DB
 main.get('/seed', async (req, res) => {
@@ -47,7 +53,7 @@ main.get('/seed', async (req, res) => {
 })
 
 // Get all the episodes showing most recent at top
-main.get('/:apiKey/all', (req, res) => {
+main.get('jre/all/:apiKey', verifyKey({ pool }), (req, res) => {
   if (req.params.apiKey === 'DEMO_USER') {
     res.json([
       {
@@ -135,9 +141,8 @@ main.get('/example', async (req, res) => {
 })
 
 // For general API access
-main.get('/:apiKey', async (req, res) => {
+main.get('jre/:apiKey', verifyKey({ pool }), async (req, res) => {
   const { isMMA, isFC, isJRQE, episodeID, date, limit } = req.query
-  const { apiKey } = req.params
   const matchParam = { $match: {} }
   const sortParam = { $sort: { date: -1 } }
   const limitParam = { $limit: limit <= 100 ? Number(limit) : 10 }
