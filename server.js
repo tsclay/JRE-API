@@ -9,6 +9,7 @@ const MONGODB_URI =
 
 const app = express()
 app.use(express.json())
+// app.use(express.urlencoded({ extended: true }))
 
 const mainController = require('./controllers/main')
 const scraper = require('./controllers/scrape')
