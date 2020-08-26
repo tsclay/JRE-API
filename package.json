@@ -9,12 +9,14 @@
     "moment": "^2.27.0",
     "mongoose": "^5.9.28",
     "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.11",
     "nodemon": "^2.0.4",
     "pg": "^8.3.2",
     "puppeteer": "^5.2.1"
   },
   "main": "server.js",
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.7.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0"
