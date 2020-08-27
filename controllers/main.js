@@ -5,13 +5,9 @@ const { v5: uuidv5 } = require('uuid')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
 const verifyKey = require('../middleware/verifyKey')
+const { limiter, speedLimiter } = require('../middleware/limiters')
 
 require('dotenv').config()
-
-// const access = process.env.ACCESS_TOKEN
-// const refresh = process.env.REFRESH_TOKEN
-// const clientId = process.env.CLIENT_ID
-// const clientSecret = process.env.CLIENT_SECRET
 
 //===========================================================
 
@@ -28,6 +24,9 @@ const {
   CLIENT_ID,
   CLIENT_SECRET
 } = process.env
+
+let cachedData
+let cacheTime
 
 const pool = new Pool({
   connectionString: POSTGRESQL_URL,
@@ -132,53 +131,69 @@ main.get('/seed', async (req, res) => {
 })
 
 // Get all the episodes showing most recent at top
-main.get('/jre/all/:apiKey', verifyKey({ pool }), (req, res) => {
-  if (req.params.apiKey === 'DEMO_USER') {
-    res.json([
-      {
-        Error:
-          'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
-      }
-    ])
-    return
-  }
-  const formatted = []
-  Episode.aggregate(
-    [
-      { $sort: { date: -1, episode_id: -1 } },
-      {
-        $project: {
-          _id: 0,
-          __v: 0
+main.get(
+  '/jre/all/:apiKey',
+  limiter,
+  speedLimiter,
+  verifyKey({ pool }),
+  (req, res) => {
+    if (req.params.apiKey === 'DEMO_USER') {
+      res.json([
+        {
+          Error:
+            'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
         }
-      }
-    ],
-    (error, data) => {
-      data.forEach((d, i) => {
-        formatted[i] = JSON.parse(
-          JSON.stringify(
-            d,
-            [
-              'episode_id',
-              'title',
-              'guests',
-              'description',
-              'date',
-              'isFC',
-              'isMMA',
-              'isJRQE',
-              'video_urls',
-              'podcast_url'
-            ],
-            2
-          )
-        )
-      })
-
-      return error ? res.json(error) : res.json(formatted)
+      ])
+      return
     }
-  )
-})
+
+    if (cacheTime && cacheTime > Date.now() - 3600 * 1000) {
+      res.json(cachedData)
+      return
+    }
+
+    const formatted = []
+    Episode.aggregate(
+      [
+        { $sort: { date: -1, episode_id: -1 } },
+        {
+          $project: {
+            _id: 0,
+            __v: 0
+          }
+        }
+      ],
+      (error, data) => {
+        data.forEach((d, i) => {
+          formatted[i] = JSON.parse(
+            JSON.stringify(
+              d,
+              [
+                'episode_id',
+                'title',
+                'guests',
+                'description',
+                'date',
+                'isFC',
+                'isMMA',
+                'isJRQE',
+                'video_urls',
+                'podcast_url'
+              ],
+              2
+            )
+          )
+        })
+
+        cachedData = formatted
+        cacheTime = Date.now()
+        cachedData.unshift({ cacheTime })
+
+        return error ? res.json(error) : res.json(formatted)
+      }
+    )
+  }
+)
 
 // Get the most recently added episode
 main.get('/most-recent', async (req, res) => {
