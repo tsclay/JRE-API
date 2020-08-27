@@ -1,7 +1,8 @@
 const express = require('express')
-const { Pool } = require('pg')
+// const { Pool } = require('pg')
 const nodemailer = require('nodemailer')
 const { v5: uuidv5 } = require('uuid')
+const PgDb = require('../models/PgDb')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
 const verifyKey = require('../middleware/verifyKey')
@@ -28,97 +29,94 @@ let cachedData
 let cacheTime
 let cachedDateQuery
 
-const pool = new Pool({
-  connectionString: POSTGRESQL_URL,
-  max: 30,
-  connectionTimeoutMillis: 0,
-  idleTimeoutMillis: 0
-})
+const Keys = new PgDb(POSTGRESQL_URL, 30, 0, 0)
 
-pool.connect((err, client, done) => {
-  if (err) throw err
-  client.query('SELECT current_database()', (err, res) => {
-    done()
-    if (err) {
-      console.log(err.stack)
-    } else {
-      console.log(`🐘 PostgreSQL connected @ ${POSTGRESQL_URL} 🐘`)
-    }
-  })
-})
+Keys.isConnected()
 
 //===========================================================
 // Requesting an API Key
 //===========================================================
-main.post('/requestKey', async (req, res) => {
-  const { name, email } = req.body
-  // req.body must have name, email
-
-  try {
-    // Create instance of our mailer bot
-    const mailer = await nodemailer.createTransport({
-      pool: true,
-      service: 'Gmail',
-      auth: {
-        type: 'OAuth2',
-        user: 'keymaster.jre.api@gmail.com',
-        clientId: CLIENT_ID,
-        clientSecret: CLIENT_SECRET,
-        accessToken: ACCESS_TOKEN,
-        refreshToken: REFRESH_TOKEN
-      }
-    })
-
-    // verify connection configuration
-    mailer.verify((error, success) => {
-      if (error) {
-        const mailError = new Error('Unknown error with mailing system.')
-        throw mailError
-      } else {
-        console.log('📝 Server is ready to send messages 📝')
-      }
-    })
-
-    // Generate API key and try to insert into database
-    // If email is already logged, let user know that email is already used
-    const key = await uuidv5(email, NAMESPACE)
-
-    const insertEmail = await pool.query(
-      `INSERT INTO keys (name, email, api_key) VALUES ('${name}', '${email}', '${key}') RETURNING api_key`
-    )
-
-    // Construct message and necessary email headers
-    const message = {
-      from: 'Keymaster <keymaster.jre.api@gmail.com>', // listed in rfc822 message header
-      to: email, // listed in rfc822 message header
-      envelope: {
-        from: 'keymaster.jre.api@gmail.com', // used as MAIL FROM: address for SMTP
-        to: `${name} <${email}>` // used as RCPT TO: address for SMTP
-      },
-      subject: 'API Key for JRE-API',
-      text: `Hi ${name},\n\nHere is your API KEY\n\n${key}\n\nKeep it secret, keep it safe.`,
-      html: `<p>Hi ${name},</p><p>Here is your API KEY</p><p>${key}</p><p>Keep it secret, keep it safe.</p>`
+main.post(
+  '/requestKey',
+  (req, res, next) => {
+    if (req.body.name === undefined || req.body.email === undefined) {
+      const error = new Error('Missing name and/or email.')
+      next(error)
     }
+    next()
+  },
+  async (req, res) => {
+    const { name, email } = req.body
 
-    await mailer.sendMail(message)
+    try {
+      // Create instance of our mailer bot
+      const mailer = await nodemailer.createTransport({
+        pool: true,
+        service: 'Gmail',
+        auth: {
+          type: 'OAuth2',
+          user: 'keymaster.jre.api@gmail.com',
+          clientId: CLIENT_ID,
+          clientSecret: CLIENT_SECRET,
+          accessToken: ACCESS_TOKEN,
+          refreshToken: REFRESH_TOKEN
+        }
+      })
 
-    res.status(200).json({ message: '📩 API Key Sent! 📩' })
-  } catch (error) {
-    if (error.detail) {
-      res.status(400).json({
-        DuplicateEmailError:
-          'This email has already been registered. If this is a mistake, please contact @ keymaster.jre.api@gmail.com.'
+      // verify connection configuration
+      mailer.verify((error, success) => {
+        if (error) {
+          const mailError = new Error('Unknown error with mailing system.')
+          throw mailError
+        } else {
+          console.log('📝 Server is ready to send messages 📝')
+        }
       })
-    } else if (error.code === 'EAUTH') {
-      res.status(500).json({
-        MailError:
-          'Request could not be sent. Please email keymaster.jre.api@gmail.com directly for an API Key. Sorry for the inconvenience!'
-      })
-    } else {
-      res.status(500).json({ Error: error.message })
+
+      // Generate API key and try to insert into database
+      // If email is already logged, let user know that email is already used
+      const key = await uuidv5(email, NAMESPACE)
+
+      await Keys.insertOne(
+        'keys',
+        ['name', 'email', 'api_key'],
+        [`'${name}'`, `'${email}'`, `'${key}'`],
+        'api_key'
+      )
+
+      // Construct message and necessary email headers
+      const message = {
+        from: 'Keymaster <keymaster.jre.api@gmail.com>', // listed in rfc822 message header
+        to: email, // listed in rfc822 message header
+        envelope: {
+          from: 'keymaster.jre.api@gmail.com', // used as MAIL FROM: address for SMTP
+          to: `${name} <${email}>` // used as RCPT TO: address for SMTP
+        },
+        subject: 'API Key for JRE-API',
+        text: `Hi ${name},\n\nHere is your API KEY\n\n${key}\n\nKeep it secret, keep it safe.`,
+        html: `<p>Hi ${name},</p><p>Here is your API KEY</p><p>${key}</p><p>Keep it secret, keep it safe.</p>`
+      }
+
+      await mailer.sendMail(message)
+
+      res.status(200).json({ message: '📩 API Key Sent! 📩' })
+    } catch (error) {
+      if (error.detail) {
+        res.status(400).json({
+          DuplicateEmailError:
+            'This email has already been registered. If this is a mistake, please contact @ keymaster.jre.api@gmail.com.'
+        })
+      } else if (error.code === 'EAUTH') {
+        res.status(500).json({
+          MailError:
+            'Request could not be sent. Please email keymaster.jre.api@gmail.com directly for an API Key. Sorry for the inconvenience!'
+        })
+      } else {
+        res.status(500).json({ Error: error.message })
+      }
     }
   }
-})
+)
 
 //===========================================================
 // Seed route for testing in case of Drops
@@ -134,7 +132,7 @@ main.get('/seed', async (req, res) => {
 // GET all the episodes, being able to filter only by date
 //===========================================================
 // If the user alternates the date filtering, they'll receive the requested data, but rate limit and response time increase applies
-main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
+main.get('/jre/all', limiter, speedLimiter, verifyKey({ Keys }), (req, res) => {
   if (req.get('X-API-KEY') === 'DEMO_USER') {
     res.json([
       {
@@ -218,6 +216,9 @@ main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
 //===========================================================
 main.get('/jre/most-recent', async (req, res) => {
   try {
+    // const apiKey = req.get('X-API-KEY')
+    // const result = await Keys.selectOne('keys', 'api_key', apiKey)
+    // console.log(result)
     const formatted = []
     const mostRecent = await Episode.aggregate([
       { $sort: { date: -1 } },
@@ -257,7 +258,7 @@ main.get('/example', async (req, res) => {
 //===========================================================
 // GET specific episodes with filters as URL queries
 //===========================================================
-main.get('/jre', verifyKey({ pool }), async (req, res) => {
+main.get('/jre', verifyKey({ Keys }), async (req, res) => {
   const { isMMA, isFC, isJRQE, episodeID, date, limit } = req.query
   const matchParam = { $match: {} }
   const sortParam = { $sort: { date: -1 } }
