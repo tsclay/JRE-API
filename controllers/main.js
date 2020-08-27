@@ -10,14 +10,13 @@ const { limiter, speedLimiter } = require('../middleware/limiters')
 require('dotenv').config()
 
 //===========================================================
+// ROUTER, POSTGRES, & ENVIRONMENT
+//===========================================================
 
 const main = express.Router()
 
-const POSTGRESQL_URL =
-  process.env.POSTGRESQL_URL ||
-  'postgresql://jamie:higherPrimate@localhost:5432/jre_keys'
-
 const {
+  POSTGRESQL_URL,
   NAMESPACE,
   ACCESS_TOKEN,
   REFRESH_TOKEN,
@@ -27,6 +26,7 @@ const {
 
 let cachedData
 let cacheTime
+let cachedDateQuery
 
 const pool = new Pool({
   connectionString: POSTGRESQL_URL,
@@ -47,11 +47,9 @@ pool.connect((err, client, done) => {
   })
 })
 
-// main.use('/:apiKey', verifyKey({ pool }))
-// main.use('/all/:apiKey', verifyKey({ pool }))
-
 //===========================================================
-
+// Requesting an API Key
+//===========================================================
 main.post('/requestKey', async (req, res) => {
   const { name, email } = req.body
   // req.body must have name, email
@@ -122,7 +120,9 @@ main.post('/requestKey', async (req, res) => {
   }
 })
 
-// Optional seed route for DB
+//===========================================================
+// Seed route for testing in case of Drops
+//===========================================================
 main.get('/seed', async (req, res) => {
   await Episode.deleteMany({})
   await Episode.insertMany(seed, (error, addedSeed) => {
@@ -130,9 +130,12 @@ main.get('/seed', async (req, res) => {
   })
 })
 
-// Get all the episodes showing most recent at top
+//===========================================================
+// GET all the episodes, being able to filter only by date
+//===========================================================
+// If the user alternates the date filtering, they'll receive the requested data, but rate limit and response time increase applies
 main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
-  if (req.params.apiKey === 'DEMO_USER') {
+  if (req.get('X-API-KEY') === 'DEMO_USER') {
     res.json([
       {
         Error:
@@ -142,15 +145,36 @@ main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
     return
   }
 
-  if (cacheTime && cacheTime > Date.now() - 3600 * 1000) {
+  const { date } = req.query
+
+  if (
+    cachedDateQuery === date &&
+    cachedDateQuery !== undefined &&
+    cacheTime &&
+    cacheTime > Date.now() - 3600 * 1000
+  ) {
     res.json(cachedData)
     return
+  }
+
+  cachedDateQuery = date
+  let dateFilter
+
+  switch (date) {
+    case 'asc':
+      dateFilter = 1
+      break
+    case 'desc':
+      dateFilter = -1
+      break
+    default:
+      dateFilter = -1
   }
 
   const formatted = []
   Episode.aggregate(
     [
-      { $sort: { date: -1, episode_id: -1 } },
+      { $sort: { date: dateFilter, episode_id: -1 } },
       {
         $project: {
           _id: 0,
@@ -189,8 +213,10 @@ main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
   )
 })
 
-// Get the most recently added episode
-main.get('/most-recent', async (req, res) => {
+//===========================================================
+// GET the most recent episode
+//===========================================================
+main.get('/jre/most-recent', async (req, res) => {
   try {
     const formatted = []
     const mostRecent = await Episode.aggregate([
@@ -228,7 +254,9 @@ main.get('/example', async (req, res) => {
   res.redirect('/api/v1/most-recent')
 })
 
-// For general API access
+//===========================================================
+// GET specific episodes with filters as URL queries
+//===========================================================
 main.get('/jre', verifyKey({ pool }), async (req, res) => {
   const { isMMA, isFC, isJRQE, episodeID, date, limit } = req.query
   const matchParam = { $match: {} }
