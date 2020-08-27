@@ -6,13 +6,11 @@ require('dotenv').config()
 
 const { PORT, MONGODB_URI, SECRET } = process.env
 
-const app = express()
-app.use(express.json())
-// app.use(express.urlencoded({ extended: true }))
-
 const mainController = require('./controllers/main')
 const scraper = require('./controllers/scrape')
 
+const app = express()
+app.use(express.json())
 app.use('/api/v1', mainController)
 app.use(scraper)
 
