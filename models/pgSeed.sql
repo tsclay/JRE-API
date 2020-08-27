@@ -13,6 +13,5 @@ CREATE TABLE keys
 ALTER TABLE keys OWNER TO jamie;
 
 INSERT INTO keys (name, email, api_key) VALUES
-('Tim Clay', 'timclay@me.com', '14kewoi541acnsd'),
 ('John Doe', 'johndoe@me.com', '109djqpoeir'),
 ('Jane Smith', 'janesmith@me.com', 'mnzbclapor91824');
