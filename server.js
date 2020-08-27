@@ -4,7 +4,7 @@ const { exec } = require('child_process')
 
 require('dotenv').config()
 
-const { PORT, MONGODB_URI, SECRET } = process.env
+const { PORT, MONGODB_URI, SECRET, SCRAPER_URL } = process.env
 
 const mainController = require('./controllers/main')
 const scraper = require('./controllers/scrape')
@@ -22,7 +22,7 @@ app.use(function (err, req, res, next) {
 // Server will try to scrape most recent episode if exists every 8 hours
 setInterval(() => {
   exec(
-    `curl -X GET -H "X-AUTH: ${SECRET}" http://localhost:5000/api/scrape-recent`,
+    `curl -X GET -H "X-AUTH: ${SECRET}" ${SCRAPER_URL}`,
     (error, stdout, stderr) => {
       if (error) {
         console.log(`error: ${error.message}`)
@@ -36,6 +36,8 @@ setInterval(() => {
     }
   )
 }, 60 * 1000 * 60 * 8)
+
+//
 
 mongoose.connect(
   MONGODB_URI,
