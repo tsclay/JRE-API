@@ -9,7 +9,7 @@ ALTER DATABASE jre_keys OWNER TO jamie;
 \c jre_keys;
 
 CREATE TABLE keys
-(id SERIAL, name VARCHAR(255), email TEXT, api_key VARCHAR(20));
+(id SERIAL, name VARCHAR(255), email TEXT PRIMARY KEY, api_key VARCHAR(100));
 ALTER TABLE keys OWNER TO jamie;
 
 INSERT INTO keys (name, email, api_key) VALUES
