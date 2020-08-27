@@ -1,5 +1,6 @@
 *.txt
 numberSort.js
+youtube.*.js
 
 # Logs
 logs
