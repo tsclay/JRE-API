@@ -12,7 +12,8 @@
     "nodemailer": "^6.4.11",
     "nodemon": "^2.0.4",
     "pg": "^8.3.2",
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.2.1",
+    "uuid": "^8.3.0"
   },
   "main": "server.js",
   "devDependencies": {
