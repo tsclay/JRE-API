@@ -131,69 +131,63 @@ main.get('/seed', async (req, res) => {
 })
 
 // Get all the episodes showing most recent at top
-main.get(
-  '/jre/all/:apiKey',
-  limiter,
-  speedLimiter,
-  verifyKey({ pool }),
-  (req, res) => {
-    if (req.params.apiKey === 'DEMO_USER') {
-      res.json([
-        {
-          Error:
-            'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
-        }
-      ])
-      return
-    }
-
-    if (cacheTime && cacheTime > Date.now() - 3600 * 1000) {
-      res.json(cachedData)
-      return
-    }
-
-    const formatted = []
-    Episode.aggregate(
-      [
-        { $sort: { date: -1, episode_id: -1 } },
-        {
-          $project: {
-            _id: 0,
-            __v: 0
-          }
-        }
-      ],
-      (error, data) => {
-        data.forEach((d, i) => {
-          formatted[i] = JSON.parse(
-            JSON.stringify(
-              d,
-              [
-                'episode_id',
-                'title',
-                'guests',
-                'description',
-                'date',
-                'isFC',
-                'isMMA',
-                'isJRQE',
-                'video_urls',
-                'podcast_url'
-              ],
-              2
-            )
-          )
-        })
-
-        cachedData = formatted
-        cacheTime = Date.now()
-        cachedData.unshift({ cacheTime })
-
-        return error ? res.json(error) : res.json(formatted)
+main.get('/jre/all', limiter, speedLimiter, verifyKey({ pool }), (req, res) => {
+  if (req.params.apiKey === 'DEMO_USER') {
+    res.json([
+      {
+        Error:
+          'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
       }
-    )
+    ])
+    return
   }
-)
+
+  if (cacheTime && cacheTime > Date.now() - 3600 * 1000) {
+    res.json(cachedData)
+    return
+  }
+
+  const formatted = []
+  Episode.aggregate(
+    [
+      { $sort: { date: -1, episode_id: -1 } },
+      {
+        $project: {
+          _id: 0,
+          __v: 0
+        }
+      }
+    ],
+    (error, data) => {
+      data.forEach((d, i) => {
+        formatted[i] = JSON.parse(
+          JSON.stringify(
+            d,
+            [
+              'episode_id',
+              'title',
+              'guests',
+              'description',
+              'date',
+              'isFC',
+              'isMMA',
+              'isJRQE',
+              'video_urls',
+              'podcast_url'
+            ],
+            2
+          )
+        )
+      })
+
+      cachedData = formatted
+      cacheTime = Date.now()
+      cachedData.unshift({ cacheTime })
+
+      return error ? res.json(error) : res.json(formatted)
+    }
+  )
+})
 
 // Get the most recently added episode
 main.get('/most-recent', async (req, res) => {
@@ -235,7 +229,7 @@ main.get('/example', async (req, res) => {
 })
 
 // For general API access
-main.get('/jre/:apiKey', verifyKey({ pool }), async (req, res) => {
+main.get('/jre', verifyKey({ pool }), async (req, res) => {
   const { isMMA, isFC, isJRQE, episodeID, date, limit } = req.query
   const matchParam = { $match: {} }
   const sortParam = { $sort: { date: -1 } }
