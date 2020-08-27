@@ -46,14 +46,14 @@ An API for accessing data on all 1600+ episodes of the most popular podcast in t
   - [x] episode_id: null folks
 - [x] Fix guests arrays and isMMA props for MMA Shows
 - [x] Automate fetching of YT links after scraping recent episodes
-- [ ] Automate server to scrape at certain point of day
+- [x] Automate server to scrape at certain point of day
 - [x] Grab all the rest of the JRE podcast urls
 
 ## API To Do
 
 - [x] Make system that generates and logs API Keys and their users
 - [x] Set up mailing service to let users know what their API key is
-- [ ] Secure the 'all' endpoint with limiters and caching
+- [x] Secure the 'all' endpoint with limiters and caching
 - [x] Edit the urls to allow for params and queries
 - [x] Create DB for API_KEYS and their users
 - [x] Create middleware that checks for valid API_KEY
