@@ -43,24 +43,20 @@ class PgDb {
     })
   }
 
-  selectOne = (relation, quantifier, param) => {
-    this.pool.query(
+  selectOne = async (relation, quantifier, param) => {
+    const result = await this.pool.query(
       `SELECT * FROM ${relation} WHERE ${quantifier} = $1`,
-      [param],
-      (err, result) => {
-        console.log('selectOne = ', result.rows)
-        if (result.rows[0] === undefined) {
-          const error = new Error('Invalid query.')
-          return error
-        }
-        return result.rows[0]
-      }
+      [param]
     )
+    if (result.rows.length === 0) {
+      return null
+    }
+    return result.rows[0]
   }
 
-  insertOne = (relation, columns, values) => {
+  insertOne = (relation, columns, values, returnCol = '*') => {
     this.pool.query(
-      `INSERT INTO ${relation} (${columns.join()}) VALUES (${values.join()}) ${values}`,
+      `INSERT INTO ${relation} (${columns.join()}) VALUES (${values.join()}) RETURNING ${returnCol}`,
       (err, result) => {
         if (err) {
           console.log(err)
