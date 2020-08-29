@@ -262,7 +262,7 @@ main.get('/jre', verifyKey({ Keys }), async (req, res) => {
   const { isMMA, isFC, isJRQE, episodeID, date, limit } = req.query
   const matchParam = { $match: {} }
   const sortParam = { $sort: { date: -1 } }
-  const limitParam = { $limit: limit <= 100 ? Number(limit) : 10 }
+  const limitParam = { $limit: limit <= 100 ? Number(limit) : 100 }
 
   try {
     switch (date) {
