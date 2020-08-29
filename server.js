@@ -16,7 +16,7 @@ app.use(scraper)
 
 // error handler
 app.use(function (err, req, res, next) {
-  res.status(400).json({ Error: err.message })
+  res.status(400).json([{ Error: err.message }])
 })
 
 // Server will try to scrape most recent episode if exists every 8 hours
