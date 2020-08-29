@@ -251,7 +251,7 @@ main.get('/jre/most-recent', async (req, res) => {
   }
 })
 
-main.get('/example', async (req, res) => {
+main.get('/jre/example', async (req, res) => {
   res.redirect('/api/v1/jre/most-recent')
 })
 
