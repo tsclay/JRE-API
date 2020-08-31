@@ -12,11 +12,7 @@ const scraper = require('./controllers/scrape')
 
 const app = express()
 app.use(express.json())
-app.use(
-  cors({
-    origin: 'https://jre-api.vercel.app'
-  })
-)
+app.use(cors())
 app.use('/api/v1', mainController)
 app.use(scraper)
 
