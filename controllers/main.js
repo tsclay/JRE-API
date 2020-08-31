@@ -46,7 +46,6 @@ Keys.isConnected()
 //===========================================================
 main.post(
   '/requestKey',
-  cors(corsOptions),
   (req, res, next) => {
     if (req.body.name === undefined || req.body.email === undefined) {
       const error = new Error('Missing name and/or email.')
