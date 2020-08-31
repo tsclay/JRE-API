@@ -1,6 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const { exec } = require('child_process')
+const cors = require('cors')
 
 require('dotenv').config()
 
@@ -11,6 +12,7 @@ const scraper = require('./controllers/scrape')
 
 const app = express()
 app.use(express.json())
+app.use(cors())
 app.use('/api/v1', mainController)
 app.use(scraper)
 

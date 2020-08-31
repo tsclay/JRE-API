@@ -2,6 +2,7 @@ const express = require('express')
 // const { Pool } = require('pg')
 const nodemailer = require('nodemailer')
 const { v5: uuidv5 } = require('uuid')
+const cors = require('cors')
 const PgDb = require('../models/PgDb')
 const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
@@ -15,6 +16,8 @@ require('dotenv').config()
 //===========================================================
 
 const main = express.Router()
+
+main.use(cors())
 
 const {
   POSTGRESQL_URL,
@@ -33,11 +36,17 @@ const Keys = new PgDb(POSTGRESQL_URL, 30, 0, 0)
 
 Keys.isConnected()
 
+const corsOptions = {
+  origin: 'http://localhost:3000',
+  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+}
+
 //===========================================================
 // Requesting an API Key
 //===========================================================
 main.post(
   '/requestKey',
+  cors(corsOptions),
   (req, res, next) => {
     if (req.body.name === undefined || req.body.email === undefined) {
       const error = new Error('Missing name and/or email.')
@@ -47,6 +56,7 @@ main.post(
   },
   async (req, res) => {
     const { name, email } = req.body
+    console.log(name, email)
 
     try {
       // Create instance of our mailer bot
