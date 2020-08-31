@@ -1,6 +1,8 @@
 *.txt
 numberSort.js
 youtube.*.js
+episodes.json
+seed.js
 
 # Logs
 logs
