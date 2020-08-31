@@ -39,6 +39,24 @@ setInterval(() => {
   )
 }, 60 * 1000 * 60 * 8)
 
+// Have server ping itself every hour to stay on when on Heroku
+setInterval(() => {
+  exec(
+    'curl -X GET https://jre-api.herokuapp.com/api/v1/most-recent',
+    (error, stdout, stderr) => {
+      if (error) {
+        console.log(`error: ${error.message}`)
+        return
+      }
+      if (stderr) {
+        console.log(`stderr: ${stderr}`)
+        return
+      }
+      console.log(`stdout: ${stdout}`)
+    }
+  )
+}, 58 * 1000 * 60)
+
 //
 
 mongoose.connect(
