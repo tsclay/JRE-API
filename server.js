@@ -14,7 +14,7 @@ const app = express()
 app.use(express.json())
 app.use(
   cors({
-    origin: 'https://jre-api.vercel.app/'
+    origin: 'https://jre-api.vercel.app'
   })
 )
 app.use('/api/v1', mainController)
