@@ -94,9 +94,9 @@ main.post(
         'api_key'
       )
 
-      if (inputAttempt.detail) {
-        throw new Error(`${inputAttempt}`)
-      }
+      // if (inputAttempt.detail) {
+      //   throw new Error(`${inputAttempt}`)
+      // }
 
       // Construct message and necessary email headers
       const message = {
