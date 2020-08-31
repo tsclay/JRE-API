@@ -87,18 +87,12 @@ main.post(
       // If email is already logged, let user know that email is already used
       const key = await uuidv5(email, NAMESPACE)
 
-      const inputAttempt = await Keys.insertOne(
+      await Keys.insertOne(
         'keys',
         ['name', 'email', 'api_key'],
         [`'${name}'`, `'${email}'`, `'${key}'`],
         'api_key'
       )
-
-      console.log('here is inputAttempt', inputAttempt)
-
-      // if (inputAttempt.detail) {
-      //   throw new Error(`${inputAttempt}`)
-      // }
 
       // Construct message and necessary email headers
       const message = {
