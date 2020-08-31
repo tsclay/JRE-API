@@ -4,7 +4,7 @@ const nodemailer = require('nodemailer')
 const { v5: uuidv5 } = require('uuid')
 const cors = require('cors')
 const PgDb = require('../models/PgDb')
-const seed = require('../models/seed')
+// const seed = require('../models/seed')
 const Episode = require('../models/Episodes')
 const verifyKey = require('../middleware/verifyKey')
 const { limiter, speedLimiter } = require('../middleware/limiters')
@@ -131,12 +131,12 @@ main.post(
 //===========================================================
 // Seed route for testing in case of Drops
 //===========================================================
-main.get('/seed', async (req, res) => {
-  await Episode.deleteMany({})
-  await Episode.insertMany(seed, (error, addedSeed) => {
-    return error ? res.send(error) : res.send(addedSeed)
-  })
-})
+// main.get('/seed', async (req, res) => {
+//   await Episode.deleteMany({})
+//   await Episode.insertMany(seed, (error, addedSeed) => {
+//     return error ? res.send(error) : res.send(addedSeed)
+//   })
+// })
 
 //===========================================================
 // GET all the episodes, being able to filter only by date
