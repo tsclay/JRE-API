@@ -1,5 +1,7 @@
 # JRE API
 
+## About
+
 An API for getting data on every episode of the Joe Rogan Experience
 
 Data includes:
@@ -37,4 +39,8 @@ Here's an example. Notice the ```isMMA``` property.
 
 Data is returned as an array of objects.
 
-Visit the [helper site]() to learn how to interact with the API.
+## Relevant Links
+
+Visit the [helper site](https://jre-api.vercel.app/) to learn how to interact with the API.
+
+See the helper site source code [here](https://github.com/tsclay/jre-ui).
