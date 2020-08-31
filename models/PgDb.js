@@ -60,7 +60,7 @@ class PgDb {
       (err, result) => {
         if (err) {
           console.log(err)
-          return err
+          throw err
         }
         return result
       }
