@@ -169,6 +169,7 @@ scraper.get(
       await browser.close()
     } catch (error) {
       console.log(error)
+      if (browser) browser.close()
     } finally {
       // res.json(goods)
       // Fresh db call for all docs after all scraping is done
