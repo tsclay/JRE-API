@@ -94,6 +94,8 @@ main.post(
         'api_key'
       )
 
+      console.log('here is inputAttempt', inputAttempt)
+
       // if (inputAttempt.detail) {
       //   throw new Error(`${inputAttempt}`)
       // }
