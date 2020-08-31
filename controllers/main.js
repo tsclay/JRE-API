@@ -94,6 +94,10 @@ main.post(
         'api_key'
       )
 
+      if (inputAttempt.detail) {
+        throw new Error()
+      }
+
       // Construct message and necessary email headers
       const message = {
         from: 'Keymaster <keymaster.jre.api@gmail.com>', // listed in rfc822 message header
