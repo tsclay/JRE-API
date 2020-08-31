@@ -54,17 +54,11 @@ class PgDb {
     return result.rows[0]
   }
 
-  insertOne = (relation, columns, values, returnCol = '*') => {
-    this.pool.query(
-      `INSERT INTO ${relation} (${columns.join()}) VALUES (${values.join()}) RETURNING ${returnCol}`,
-      (err, result) => {
-        if (err) {
-          console.log('=============================', 'HERE IS THE ERROR', err)
-          return err
-        }
-        return result
-      }
+  insertOne = async (relation, columns, values, returnCol = '*') => {
+    const result = await this.pool.query(
+      `INSERT INTO ${relation} (${columns.join()}) VALUES (${values.join()}) RETURNING ${returnCol}`
     )
+    return result
   }
 
   insertMany = (relation, columns, values) => {
