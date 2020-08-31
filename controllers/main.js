@@ -95,7 +95,7 @@ main.post(
       )
 
       if (inputAttempt.detail) {
-        throw new Error()
+        throw new Error(`${inputAttempt}`)
       }
 
       // Construct message and necessary email headers
