@@ -143,11 +143,11 @@ main.post(
 //===========================================================
 // If the user alternates the date filtering, they'll receive the requested data, but rate limit and response time increase applies
 main.get('/jre/all', limiter, speedLimiter, verifyKey({ Keys }), (req, res) => {
-  if (req.get('X-API-KEY') === 'DEMO_USER') {
+  if (req.get('X-API-KEY') === 'DemoUser') {
     res.json([
       {
         Error:
-          'DEMO_USER key is not valid for this route. Get an API Key to access this route.'
+          'DemoUser key is not valid for this route. Get an API Key to access this route.'
       }
     ])
     return
@@ -214,7 +214,6 @@ main.get('/jre/all', limiter, speedLimiter, verifyKey({ Keys }), (req, res) => {
 
       cachedData = formatted
       cacheTime = Date.now()
-      cachedData.unshift({ cacheTime })
 
       return error ? res.json(error) : res.json(formatted)
     }
