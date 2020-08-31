@@ -59,8 +59,8 @@ class PgDb {
       `INSERT INTO ${relation} (${columns.join()}) VALUES (${values.join()}) RETURNING ${returnCol}`,
       (err, result) => {
         if (err) {
-          console.log(err)
-          throw err
+          console.log('=============================', 'HERE IS THE ERROR', err)
+          return err
         }
         return result
       }
