@@ -36,10 +36,10 @@ const Keys = new PgDb(POSTGRESQL_URL, 30, 0, 0)
 
 Keys.isConnected()
 
-const corsOptions = {
-  origin: 'https://jre-api.vercel.app/',
-  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-}
+// const corsOptions = {
+//   origin: 'https://jre-api.vercel.app/',
+//   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+// }
 
 //===========================================================
 // Requesting an API Key
