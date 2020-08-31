@@ -113,12 +113,12 @@ main.post(
     } catch (error) {
       if (error.detail) {
         res.status(400).json({
-          DuplicateEmailError:
+          message:
             'This email has already been registered. If this is a mistake, please contact @ keymaster.jre.api@gmail.com.'
         })
       } else if (error.code === 'EAUTH') {
         res.status(500).json({
-          MailError:
+          message:
             'Request could not be sent. Please email keymaster.jre.api@gmail.com directly for an API Key. Sorry for the inconvenience!'
         })
       } else {
