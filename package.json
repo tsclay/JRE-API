@@ -1,7 +1,10 @@
 {
   "name": "jre-api",
   "version": "0.1.0",
-  "private": true,
+  "engines": {
+    "node": "14.1.x"
+  },
+  "private": false,
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
