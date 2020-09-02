@@ -115,7 +115,7 @@ scraper.get(
 
       // Automate a headless browser to go fetch the pages for each podcast link
       // Then grab each podcast url and add "https" version to respective objs
-      const browser = await puppeteer.launch()
+      const browser = await puppeteer.launch({ args: ['--no-sandbox'] })
       const page = await browser.newPage()
       for (let i = 0; i < displayLinks.length; i++) {
         await page.goto(displayLinks[i], { waitUntil: 'domcontentloaded' })
